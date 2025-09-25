@@ -1,0 +1,1659 @@
+--- Page 1 ---
+1 Fundamentals of Biosensors
+Pooja Rani Kuri*, Priyanki Das* and Pranab Goswami
+Indian Institute of Technology Guwahati, Assam, India (* equal contribution)
+CONTENTS
+1.1 Introduction to Biosensors ...................................................................................................................................................2
+1.1.1 History of Biosensors ..............................................................................................................................................2
+1.2 General Configuration of a Biosensor .................................................................................................................................3
+1.3 Characteristics/Salient Features of a Biosensor ..................................................................................................................3
+1.3.1 Selectivity ................................................................................................................................................................3
+1.3.2 Sensitivity ................................................................................................................................................................3
+1.3.3 Reproducibility ........................................................................................................................................................4
+1.3.4 Stability ....................................................................................................................................................................4
+1.3.5 Response Time .........................................................................................................................................................4
+1.3.6 Recovery Time .........................................................................................................................................................4
+1.3.7 Linearity and Dynamic Range ................................................................................................................................4
+1.3.8 Effect of Physical Parameters ..................................................................................................................................4
+1.3.9 Additional Factors....................................................................................................................................................4
+1.4 Classification of Biosensors .................................................................................................................................................5
+1.4.1 Classification of Biosensors Based on the Biorecognition Principle .......................................................................5
+1.4.2 Classification of Biosensors Based on the Biorecognition Element ........................................................................5
+1.4.2.1 Enzyme-Based Biosensors ........................................................................................................................5
+1.4.2.2 Immunosensors .........................................................................................................................................6
+1.4.2.3 Nucleic Acid/DNA Biosensors .................................................................................................................6
+1.4.2.4 Cell-Based Biosensors ..............................................................................................................................7
+1.4.2.5 Biomimetic-Based Biosensors ..................................................................................................................7
+1.4.3 Classification of Biosensors Based on the Transducer Elements ............................................................................7
+1.4.3.1 Electrochemical Biosensors ......................................................................................................................7
+1.4.3.2 Optical Biosensors ..................................................................................................................................12
+1.4.3.3 Calorimetric Biosensors ..........................................................................................................................16
+1.4.3.4 Piezoelectric Biosensors .........................................................................................................................17
+1.5 Bioreceptor Immobilization Strategies ..............................................................................................................................18
+1.5.1 Adsorption .............................................................................................................................................................18
+1.5.2 Covalent Binding ...................................................................................................................................................19
+1.5.3 Entrapment .............................................................................................................................................................20
+1.5.4 Crosslinking ...........................................................................................................................................................20
+1.5.5 Affinity ..................................................................................................................................................................20
+1.6 Application of Biosensors ..................................................................................................................................................21
+1.6.1 Application in the Food Industry ...........................................................................................................................21
+1.6.2 Application in the Fermentation Industry .............................................................................................................21
+1.6.3 Biomedical Applications ........................................................................................................................................21
+1.6.4 Environmental Applications ..................................................................................................................................21
+1.6.5 Applications in Biodefense ....................................................................................................................................22
+1.7 Recent Advances in Biosensor Technology .......................................................................................................................22
+1.7.1 Wearable Biosensors ..............................................................................................................................................22
+1.7.2 Implantable Biosensors ..........................................................................................................................................23
+1.7.3 Engineered Enzymes for Biosensor Development.................................................................................................24
+1.8 Market Potential for Biosensors.........................................................................................................................................24
+References ...................................................................................................................................................................................25
+1
+
+--- Page 2 ---
+2 Advanced Materials and Techniques for Biosensors and Bioanalytical Applications
+1.1 INTRODUCTION TO BIOSENSORS of a biological recognition element, specific to the analyte
+of interest, in close association with a transduction element,
+Today, the importance of monitoring various samples for
+which converts the biochemical signal into a quantitative or
+quality assurance or assessing risk factors or, more seriously,
+semi-quantitative electrical or other suitable signal.
+for disease diagnosis cannot be overemphasized. Several
+analytical techniques, both simple and sophisticated, have
+1.1.1 History of Biosensors
+made it possible to achieve the same and thereby raise the
+standards of living of human beings. However, most analyti- The origin of biosensor technology is linked to the develop-
+cal techniques demand skilled labor and sophisticated instru- ment of pH and oxygen electrodes. In this path, M. Cremer
+mentation and are tedious, time-consuming, and expensive. demonstrated the proportional relationship between an acid
+Consequently, there is an aspiration for portable, reliable, concentration and the rising electric potential of a glass mem-
+fast, and relatively inexpensive detection techniques. With the brane. This led to the concept of pH (hydrogen ion concentra-
+advent of biosensor technology, such aspirations have begun tion) in 1909 by Søren Peder Lauritz Sørensen. Soon enough,
+to come to fruition. A biosensor combines the exquisite selec- an electrode for pH measurements was realized by W.S.
+tivity of a biological component with the processing power Hughes in 1922. Another significant development was that of
+of a transducer. The biosensor is an interdisciplinary field. Griffin and Nelson, who first demonstrated the immobiliza-
+It demands an exciting amalgamation of knowledge from tion of an enzyme, invertase, on aluminium oxide and charcoal
+several fields viz. the principles of basic sciences (physics, between 1902 and 1922. Thereafter, Leland C. Clark Jr. devel-
+chemistry, biology) with the fundamentals of micro/nano- oped a simple and small amperometric electrode for detection
+technology, electronics, computer sciences, and design. The of oxygen and published his definitive paper on the subject in
+biosensor as an analytical tool has revolutionized the conven- 1956[2]. This followed the development of an amperometric
+tional analyses paradigm and justly finds its applications in enzyme electrode by Clark and Lyons for the detection of glu-
+the field of clinical diagnostics and biomedical applications, cose. The concept was illustrated by an experiment in which
+environmental applications, food and processing industries, glucose oxidase was entrapped at a Clark oxygen electrode
+and much more [1]. using a dialysis membrane. The decrease in measured oxygen
+As a first step towards understanding a biosensor, it is concentration was proportional to glucose concentration. Clark
+important to take into account the main difference between a and Lyons coined the term “enzyme electrode” in their pub-
+chemical sensor and a biosensor. According to International lished article [3], and later Updike and Hicks [4] expanded the
+Union of Pure and Applied Chemistry (IUPAC), a chemical experimental detail necessary to build functional enzyme elec-
+sensor is a device that transforms chemical information, rang- trodes for glucose. This event was followed by the discovery
+ing from the concentration of a specific sample component to of the first potentiometric biosensor for urea detection in 1969
+total composition analysis, into an analytically useful signal. by Guilbault and Montalvo Jr. Finally, in 1975, with the intro-
+As per IUPAC recommendations from 1999, a biosensor is an duction of a commercial glucose biosensor by Yellow Springs
+independently integrated receptor-transducer device, capable Instruments (YSI), which employed Clark’s technology, the
+of providing selective, quantitative or semi-quantitative ana- biosensor technology marked its first appearance in the market.
+lytical information using a biological recognition element. As Table 1.1 showcases the important milestones in the devel-
+a matter of realization, the basic difference between a biosen- opment of biosensors during the period 1970–1992. Since
+sor and a chemosensor is that a biosensor employs a biologi- then, the amalgamation of several fields has led to the emer-
+cal component as a recognition system specific to the analyte gence of more developed and sophisticated biosensors. The
+of interest and converts the biological signal into a measur- era of the biosensor is an interdisciplinary one. The utility of
+able signal. In contrast, a chemosensor converts a chemical these sensors is well pronounced in the fields of clinical diag-
+or physical property of a specific analyte into a measurable nosis, agriculture, biotechnology, environmental monitoring,
+signal. In general, a biosensor is an analytical tool consisting military applications, and others.
+TABLE 1.1
+Important Milestones in the Development of Biosensors During the Period
+1970–1992 (Adapted from [5])
+1970 Discovery of ion-sensitive field-effect transistor (ISFET) by Bergveld
+1975 Fiber-optic biosensor for carbon dioxide and oxygen detection by Lubbers and Opitz
+1975 First commercial biosensor for glucose detection by YSI
+1975 First microbe-based immunosensor by Suzuki et al.
+1982 Fiber-optic biosensor for glucose detection by Schultz
+1983 Surface plasmon resonance (SPR) immunosensor by Liedberg et al.
+1984 First mediated amperometric biosensor: ferrocene used with glucose oxidase for glucose detection
+1990 SPR-based biosensor by Pharmacia Biacore
+1992 Handheld blood biosensor by i-STAT
+
+--- Page 3 ---
+Fundamentals of Biosensors 3
+1.2 GENERAL CONFIGURATION 1.3 CHARACTERISTICS/SALIENT
+OF A BIOSENSOR FEATURES OF A BIOSENSOR
+As per the conventional configurations, the biosensor con- 1.3.1 selectivity
+sists of five components, namely, the biocatalysts/biorecog-
+Selectivity of a biosensor system refers to the extent to which
+nition element, transducer, amplifier, processor, and display
+a bioreceptor can discriminate a particular analyte of inter-
+(Figure 1.1). The biocatalyst is a biological component, also
+est under given conditions in mixtures – simple or complex –
+called a biorecognition element or bioreceptor. This bio-
+without interference from other components in the mixture.
+recognition element usually interacts specifically with the
+Specificity, on the other hand, refers to the ultimate selectiv-
+target analyte of interest present in the samples. Typically,
+ity, i.e. 100% selectivity and 0% interference. This means
+the bioreceptor is incorporated into the system by immo-
+that the bioreceptor is specific to a particular analyte of inter-
+bilization. Examples of biorecognition elements include
+est, recognizing no other. However, in cases where this ideal
+enzyme, antibody, organelle, bacterial cell or other cells,
+performance cannot be realized due to similarity between
+whole slices of mammalian or plant tissues, and nucleic
+the analyte of interest and other components in the sample
+acids. Because the biological component is involved in
+mixture or the lack of tools for specific sensing of the target,
+identifying the target analyte in the sample, it is primarily
+a selective sensing approach comes in handy. For example,
+responsible for conferring the specificity to the developed
+although sugar-binding proteins – lectins – can be used to
+biosensors.
+detect specifically carbohydrate-containing biomolecules, the
+The next important component is the transducer, which
+individual lectins are not specific to individual glycosylated
+converts the biorecognition signal into a measurable elec-
+biomolecules viz. glycoproteins and glycolipids [5].
+trical signal. The transducer is generally placed in intimate
+contact with the recognition layer. It measures the physico-
+chemical changes produced in the biorecognition layer by 1.3.2 sensitivity
+the presence of the analyte in the sample, generating a signal
+Sensitivity refers to the minimum amount of analyte that can
+that is either proportional or inversely proportional to the
+be detected by the system. In biosensors, the detection lim-
+analyte concentration. The typical transducers used in the
+its are commonly discerned by following two approaches:
+system could be electrochemical, piezoelectric, calorimet-
+limit of detection (LOD) and limit of quantification (LOQ).
+ric, or optical.
+Determination of LOD requires knowledge of limit of blank
+The function of the amplifier is to amplify the low electri-
+(LOB). LOB is the highest apparent analyte concentration
+cal signal output from the transducer. Additionally, this unit
+expected to be found when replicates of a sample contain-
+removes the background noises generated within the elec-
+ing no analyte (blank) are tested. Although the blank samples
+tronic components of the transducer by subtracting the “refer-
+are devoid of analyte, it can produce an analytical signal that
+ence” baseline signals.
+might otherwise be consistent with a low concentration of
+The main function of a processor is to receive the input
+analyte. LOB is estimated by measuring replicates of a blank
+signal and provide the appropriate output signal. The signal
+sample and calculating the mean result and the standard devi-
+produced at this level is usually converted to a digital form
+ation (SD).
+after being processed through a microprocessor stage, where
+the data is processed, converted to concentration units, and
+output to a display device or data store [5].
+LOB=mean
+blank
++1.645 (SD
+blank
+) (1.1)
+FIGURE 1.1 General configuration of a biosensor.
+
+--- Page 4 ---
+4 Advanced Materials and Techniques for Biosensors and Bioanalytical Applications
+LOD is the lowest analyte concentration likely to be reli- 1.3.5 response time
+ably distinguished from the LOB and at which detection is
+This refers to the total time taken by the biosensor to pro-
+feasible. It is therefore greater than LOB. LOD is determined
+duce the output signal, qualitative or quantitative, that can be
+by utilizing both the measured LOB and test replicates of a
+recorded and subjected to interpretation. Chemical sensors
+sample known to contain a low concentration of analyte. The
+usually have a very short response time as compared to their
+mean and SD of the low concentration sample is then calcu-
+counterpart biosensors. However, a few biosensors based on
+lated and used to calculate LOD.
+the enzyme catalase for peroxides have exhibited response
+time of few seconds [5].
+LOD=LOB+1.645 (SD ) (1.2)
+low concentration sample
+1.3.6 recovery time
+LOQ is the lowest concentration at which the analyte can not It refers to the interval time required by the biosensor between
+only be reliably detected but at which some predefined goals two subsequent sample analyses. It is desirable to have as low
+for bias and imprecision are met. The LOQ may be equal to a recovery time as possible. Usually a recovery time of within
+or greater than LOD [6]. few minutes is desirable [5].
+Additionally, for a linear calibration curve (y = a + bx), it
+can be assumed that the response (y) is linearly related to the
+1.3.7 linearity and dynamic range
+concentration (x) of the analyte in a limited range. This model
+is used to discern the sensitivity b, LOD, and LOQ from the Linearity reflects the accuracy of the measured response for a
+following relations: set of measurements with different analyte concentrations to a
+straight line, mathematically represented as y = a + bx, where
+SD a is the concentration of the target analyte, y is the output
+LOD=3× a (1.3) signal, and b is the sensitivity of the biosensor. In this context,
+b
+the term “linear range” is used to describe the range of ana-
+lyte concentration for which the biosensor produces a linear
+response. However, another term, “dynamic range” of the sen-
+SD
+LOQ=10× a (1.4) sor, is used to describe the maximum and minimum values
+b of the analyte concentration that can be measured. Dynamic
+range can be linear or nonlinear [5].
+where SD is the standard deviation of the response and b is
+a
+the slope of the calibration curve. The SD a can be estimated 1.3.8 effect of pHysical parameters
+by the standard deviation of y-intercepts, of the regression
+A biosensor should be independent of physical parameters
+lines.
+such as temperature, pH, ionic strength, etc., so as to assure
+that the performance of the biosensing system is not signifi-
+1.3.3 reproduciBility cantly compromised. This attribute can pave the way for sam-
+ple analyses with minimal pre-treatment [5].
+It refers to the property of a system to generate identi-
+cal responses under identical set-up conditions viz. sample
+nature, pH, temperature, etc. Reproducibility of a biosensor
+1.3.9 additional factors
+largely defines the reliability of the biosensor [5].
+A biosensor should possess the following beneficial features
+for successful commercial applications. (a) If the cofactors
+1.3.4 staBility
+or coenzymes involved in the biorecognition reaction are not
+Stability refers to the property of a system to be indepen- avidly associated with the biocatalysts, then these should be
+dent of ambient interferences in the form of environmental preferably co-immobilized with the biocatalysts to reduce the
+conditions like humidity, temperature, pH, or other interfer- operational steps involved in the practical use of the biosen-
+ences from the sample matrix. These interferences can cause sor. (b) For in vivo applications, the biosensor probe should
+a shift of the output signal to a value that is not accurate be tiny, having no toxic or antigenic effects. (c) The biosen-
+or precise. The biorecognition element used in a biosensing sor or its sensing part should be sterilizable without destroy-
+system plays a major contributor to stability. For example, ing its function for monitoring an analyte in the fermentation
+the most popularly used biorecognition element – enzymes – setup. (d) The complete biosensor should be inexpensive,
+are prone to denaturation when subjected to mild changes small, portable, and capable of being used by semi-skilled
+in ambient conditions. This may demand specific storage operators. (e) Finally, there should be a market for the devel-
+conditions for the biosensing system. Stability as a perfor- oped biosensor. It should also fulfil the legislative and other
+mance factor defines the shelf life of the biosensor system in statutory requirements for the country. Further, the biosensor
+question [5]. product should meet the overall satisfaction of the customers
+
+--- Page 5 ---
+Fundamentals of Biosensors 5
+to encourage them to abandon traditional laboratory testing. ammonia or oxygen, change in proton concentration,
+Moreover, the World Health Organization (WHO) has sug- changes in light emission, etc. Enzyme biosensors
+gested the ASSURED (Affordable, Sensitive, Specific, User- are widely used biosensors that have been devel-
+friendly, Rapid and Robust, Equipment-free, Deliverable to oped due to their substrate specificity and catalytic
+end users) criteria, particularly for the point-of-care (PoC) properties.
+devices for disease diagnosis in underdeveloped and devel- • Affinity biosensor: This refers to the usage of anti-
+oping countries. Therefore, any biosensor that complies well bodies or nucleic acids (e.g. aptamers) as biorecep-
+with the ASSURED criteria may have better market potential. tors that specifically bind to the target analyte. An
+affinity biosensor works on the principle of receptor-
+ligand interactions with a high differential selectivity
+1.4 CLASSIFICATION OF BIOSENSORS
+in a nondestructive fashion. Clearly, the structure of
+Biosensors can be classified based on either of the two impor- the analyte remains chemically unaltered during the
+tant elements i.e. based on the bioreceptor or based on the detection process using this type of sensor.
+transducer used in the biosensor. Additionally, biosensors can
+be classified based on the biological mechanism or biorecog-
+1.4.2 classification of Biosensors Based
+nition principle they exploit for sensing – catalytic biosensor
+or affinity biosensor. However, the classification of biosensor on tHe Biorecognition element
+based on the type of transducers is most widely reported in The biorecognition element/bioreceptor/bioelement is largely
+the current literature. Nonetheless, all three modes of clas- responsible for conferring selectivity/specificity on the bio-
+sification (Figure 1.2) are briefly described in the following sensor, and is therefore a distinguishing feature of biosensor
+sections. technology. Based on the biorecognition element, a biosensor
+can be classified into different types such as enzyme-based
+biosensor, immunosensor, nucleic acid biosensor, cell/tissue-
+1.4.1 classification of Biosensors Based
+based or microbial biosensor, and biomimetic. The enzymes,
+on tHe Biorecognition principle
+antibody, nucleic acids, whole cells, biomembrane, and even
+Based on the biorecognition principle, biosensors can be clas- organelles can be used either in isolation or in combination to
+sified into catalytic biosensors and affinity biosensors. act as the bioreceptor that brings about biochemical recogni-
+tion of the target analyte.
+• Catalytic biosensor: This refers to the usage of
+enzymes or may be even living cells as biocatalysts 1.4.2.1 Enzyme-Based Biosensors
+with a transducer to produce a signal proportional An enzyme-based biosensor utilizes enzyme(s) as the bio-
+to the target analyte concentration. This signal is recognition element. An enzyme is a biocatalyst that increases
+brought about by the reaction catalyzed by the par- the rate of chemical reaction without itself being changed in
+ticular enzyme/cell, which may be heat change (exo- the overall process. Virtually, all cellular reactions/processes
+thermic or endothermic), release/uptake of gases viz. are mediated by enzymes. Most enzymes are proteins, with
+FIGURE 1.2 Classification of biosensors.
+
+--- Page 6 ---
+6 Advanced Materials and Techniques for Biosensors and Bioanalytical Applications
+the exception of a small group of nucleic acid-based enzymes, its target antigen confers the property – specificity – which
+such as ribozymes. The catalytic activity of the enzyme becomes the basis of utilizing antibodies as bioreceptors. By
+depends on the integrity of its native protein conformation. employing antigen-antibody interactions as a biorecognition
+This means that denaturation of the enzyme – dissociation mechanism, specificity and extremely low detection limits
+into its constituent subunits or amino acids – renders the can be attained. Antibodies used in immunosensors can be
+enzyme nonfunctional. either monoclonal or polyclonal. Monoclonal antibodies are
+Enzymes that are composed entirely of amino acid residues produced from one type of immune cell and bind to the same
+are called simple enzymes, while the enzymes that require epitope of their specific target antigen, making them specific.
+a nonproteinaceous component attached to them in order to Polyclonal antibodies can recognize different epitopes on their
+become functional are called conjugated enzymes, and this target antigens, making them highly sensitive but less selec-
+nonproteinaceous component is called a cofactor. In the case tive due to possible cross-reactivity. Immunosensors occupy a
+of conjugated enzymes, the protein component is called the significant role in clinical diagnostics and health care, where
+apoenzyme, which when combines with the cofactor to form high sensitivity, specificity, and rapid detection are particu-
+a fully functional enzyme, which is called the holoenzyme. larly desired. The immunosensors also find applications in
+Cofactors may include metal ions, or complex organic groups, food quality and environmental monitoring. Of note, immu-
+in which case they are called coenzymes. Cofactors that are nosensors developed for bacteria and pathogen detection have
+tightly associated with the apoenzyme are called prosthetic captured attention due to their application in POC [1].
+groups.
+Enzyme-based biosensors were the earliest developed bio- 1.4.2.3 Nucleic Acid/DNA Biosensors
+sensors, introduced by Clark and Lyons in 1962 for ampero- Nucleic acid sensor utilizes nucleic acids as the bioreceptor,
+metric detection of glucose. Example of the most exploited immobilized on the transducer surface. Nucleic acids are bio-
+enzyme bioreceptors include glucose oxidase (GOD) and polymers (oligonucleotides) consisting of nucleotides as the
+horseradish peroxidase (HRP). Currently, enzymes are widely monomeric unit. Each nucleotide comprises three compo-
+used as bioreceptors because of their substrate specificity and nents: a 5-C sugar, a phosphate group, and a nitrogenous base.
+usual high turnover rates. Ribonucleic acid (RNA) contains ribose sugar, whereas deoxy-
+The enzyme is usually immobilized or intimately asso- ribonucleic acid (DNA) contains deoxyribose sugar. Nucleic
+ciated with the transducer surface for signal detection. The acids typically function as information molecules inside the
+catalytic activity of the enzyme accounts for the fast activ- cell, viz. acting as genetic material and encoding proteins.
+ity and possible signal amplification of the biosensor, thereby Single-stranded nucleic acids can form double-stranded struc-
+contributing sensitivity to the biosensor. This specific cata- tures by forming hydrogen bonds between the appropriate
+lytic reaction of the enzyme makes enzyme-based biosensors nitrogenous bases of nucleic acid strands. Typically, adenine
+able to detect much lower limits of target analyte than with pairs with thymine (DNA) or uracil (RNA) by forming two
+normal binding techniques. hydrogen bonds, and guanine pairs with cytosine by form-
+An enzyme as a bioreceptor can be utilized to detect the ing three hydrogen bonds. Base paring is sequence specific,
+analyte of interest mostly by one of the following mecha- employing the complementarity between the two sequences
+nisms: (a) detection of an analyte that gets converted by the to form the double-stranded structure.
+enzyme into a detectable product, (b) detection of an analyte For developing biosensors, nucleic acids are immobilized
+that acts as an enzyme inhibitor or activator, and (c) detection in the recognition layer using linkers such as thiol or biotin,
+of an analyte that brings about modification of enzyme prop- while the transducer used confers sensitivity. A genosensor
+erties upon interaction. consists of an immobilized modified oligonucleotide of known
+An enzyme catalyzed reaction, and therefore the perfor- sequence (probe) that can detect the complementary nucleic
+mance of the enzyme-based biosensor, is influenced by sev- acid sequence (target) through hybridization. The transducer
+eral factors such as the concentration of the substrate, pH, converts the hybridization signal into a usable detectable sig-
+temperature, and presence of inhibitors or activators [1]. nal: optical, electrochemical, or even piezo electrical. DNA
+can be used as a bioreceptor because base-pairing interac-
+1.4.2.2 Immunosensors tions between complementary sequences are specific and
+An immunosensor typically utilizes an antibody as a biore- robust, making nucleic acid hybridization the principal basis
+ceptor. Antibodies are antigen-binding glycoproteins, synthe- of nucleic acid biosensors. The important property of DNA
+sized by the body in different amino acid sequences, which as a bioreceptor lies in its ability of thermal denaturation fol-
+confers a binding site for different antigen. They are collec- lowed by renaturation under suitable conditions, making the
+tively called immunoglobulins. An antibody is a Y-shaped sensor easily reusable.
+immunoglobulin, constituting two heavy chains and two DNA biosensors have been envisioned to play an important
+light chains. Both the chains have a variable region at their role in clinical diagnostics, gene analysis, forensic studies,
+N-terminal end and a constant region at their C-terminal end. etc. A few examples include diagnostic tests for mutations,
+The variable region contains the specific amino acid sequence monitoring gene expression, screening for targets associated
+information for binding with the corresponding antigen/target with a disease, assessment of medical treatment, environmen-
+with high affinity. This high affinity of the antibody only for tal investigations, and detecting biological warfare agents [1].
+
+--- Page 7 ---
+Fundamentals of Biosensors 7
+1.4.2.4 Cell-Based Biosensors Biosensors that utilize an aptamer as a biorecognition ele-
+Cell-based biosensors utilize living cells as the bioelement, ment are referred to as aptasensors. Nucleic acid aptamers are
+immobilized onto the transducer surface. The ability of the artificial nucleic acid ligands reported for the first time in the
+living cells to respond to the intracellular and extracellular early 1990s. These are short, single-stranded oligonucleotides
+microenvironment and their corresponding response in terms that fold into a well-defined, three-dimensional structure
+of certain measurable parameters are exploited in the cell- and are capable of binding various molecules (targets) with
+based biosensors. Microbial cells are particularly explored for high affinity and specificity. Aptamers are potential alterna-
+use in biosensing for detection of specific molecules in the tives to antibodies, as they retain the desirable properties of
+sample matrix or the overall state of the environment. The antibodies as a bioreceptor, while overcoming the limitations
+enzymes and other proteins present in the microbial cells can of thermal stability, have a low cost, and have a wide range
+produce a response to the analytes selectively. The analyte of of applications [1]. A detailed description of aptamers is dis-
+interest enters the living cell and undergoes some conversion, cussed in Chapter 4 of this book.
+into a detectable product, or creates indirect changes in pH,
+ionic concentration, oxygen level in the biosensing layer, and
+measurement of other parameters, which could indicate the 1.4.3 classification of Biosensors Based
+presence of the analyte in the sample matrix. Since the cell-
+on tHe transducer elements
+based biosensors are more tolerant to inhibition by certain
+solutes and variation of pH and temperature values within a This mode of classifying biosensors is by far the most widely
+range, they can be more favored as compared to their isolated acceptable form. This section discusses various classes of
+enzyme counterpart. This means that a longer shelf life can be biosensors based on the type of transduction principles being
+expected. In addition, proteins and enzymes need not be iso- used for their development.
+lated or purified in the case of cell-based biosensors, thereby
+1.4.3.1 Electrochemical Biosensors
+reducing the cost of the biosensor.
+The environmental conditions in which the microorgan- According to IUPAC, an electrochemical biosensor is a self-
+isms are immobilized on the transducer surface such that the contained integrated device, which is capable of providing
+microbes can stay alive for a longer time determine the limit specific quantitative or semi-quantitative analytical infor-
+of detection of such a biosensor. The main challenges faced mation using a biological recognition element (biochemical
+include maintaining stability of the immobilized cells, which receptor), which is retained in direct spatial contact with an
+is a function of the narrow range of pH and temperature at electrochemical transduction element [7]. Electrochemical
+which the cells remain tolerant and functional, biocompatibil- enzyme biosensors contain a redox enzyme that selectively
+ity of the immobilization matrix, and other factors. The cell- reacts with the target analyte and produces an electrical sig-
+based biosensors suffer from poor selectivity as compared to nal that is related to the concentration of the analyte being
+the isolated bioreceptors (enzymes, antibodies, and others) studied. Electrochemical biosensors combine the sensitivity
+due to the multireceptor behavior of the whole cells. Cell- of electrochemical transducers with the specificity of bio-
+based biosensors find applications in environmental monitor- logical recognition processes [8]. The reaction being studied
+ing, disease diagnosis, drug detection, etc. [1]. electrochemically typically generates a measurable charge
+accumulation or potential (potentiometry), alters the conduc-
+tive properties of the medium between electrodes (conduc-
+1.4.2.5 Biomimetic-Based Biosensors tometry), or produces a measurable current (amperometry).
+Natural receptor elements such as enzymes, antibodies, Therefore, electrochemical biosensors are classified as poten-
+nucleic acids, cells, tissues, etc., have been widely explored, tiometric, conductometric, and amperometric biosensors.
+characterized, and optimized to develop biosensors. Although
+they are robust when judged on some parameters, their scope 1.4.3.1.1 Potentiometric Biosensors
+for biosensing applications is restricted by limited stabil- Potentiometric measurements entail the determination of the
+ity under harsh conditions, high production costs, or limited potential difference between either an indicator and a refer-
+availability. Under such circumstances, exploration of biomi- ence electrode or two reference electrodes separated by a
+metic receptors that overcome the limitations of natural biore- permselective membrane, in the absence of significant current
+ceptors while retaining their inherent properties of selectivity between them. The transducer may be an ion-selective elec-
+is of interest. Biomimetic sensors utilize a biomimetic mol- trode (ISE), which is an electrochemical sensor based on thin
+ecule as a biorecognition element. A biomimetic receptor is films or selective membranes as recognition elements [9]. The
+a synthetic molecule that mimics the natural receptors. Few most common potentiometric devices are pH electrodes; sev-
+examples of synthetic receptors include genetically engi- eral other ions (Na+, K+, Ca2+, NH +, F−, I−, CN−) or gas (CO ,
+4 2
+neered proteins and cells, molecularly imprinted polymers NH ) selective electrodes are also available. The potential
+3
+(MIP), synthetic peptides, oligonucleotides viz. locked nucleic differences between these indicators and reference electrodes
+acids (LNAs) and peptide nucleic acids (PNAs), and aptamers. are proportional to the logarithm of the ion activity or gas
+Aptamers are of particular interest as they are one of the most fugacity (or concentration), as described by Nernst-Donnan.
+widely explored biomimetic receptor so far. The response of a potentiometric biocatalytic sensor is either
+
+--- Page 8 ---
+8 Advanced Materials and Techniques for Biosensors and Bioanalytical Applications
+FIGURE 1.3 Schematic of potentiometric biosensor.
+steady-state or transient. One significant feature of the ISE-
+ A
+based biosensors, such as pH electrodes, is the large depen- S= χ×  (1.6)
+ L
+dence of their response on the buffer capacity of the sample
+and on their ionic strength [9]. The schematic representation
+of a potentiometric biosensor is shown in Figure 1.3. In these where χ is specific conductivity. This shows that a conducto-
+measurements, concentration and potential are related by the metric measurement includes determining the conductivity of
+Nernst equation, as given in Equation 1.5. a solution between two parallel electrodes; it is a sum of all
+the ions within the solution.
+Conductometric biosensors utilize a change in solution
+RT
+E cell =E c 0 ell − lnQ (1.5) conductivity as the transduction mechanism for sensing.
+nF
+These biosensors are based on the fact that almost all bio-
+catalytic reactions involve either consumption or production
+where E is the observed cell potential at zero current that of charged species and therefore lead to an overall change in
+cell
+is called the electromotive force (EMF), E0 is a standard the ionic composition of the tested sample. The conductomet-
+cell
+potential contribution to the cell, R and T represent universal ric transducer is a small two-electrode device fabricated to
+gas constant and absolute temperature (in degrees Kelvin), measure the conductivity of the thin electrolyte layer close
+respectively, n is the number of charges, F is the Faraday con- to the electrode surface. The interdigitated structure of con-
+stant, and Q is the ratio of ion concentration at the anode to ductometric electrodes has received increasing interest in sen-
+ion concentration at the cathode [10]. sor and biosensor research. Conductometric biosensors have
+There are many examples of potentiometric biosensors, advantages over other types of transducers – for example,
+such as the one developed for the detection of different they can be produced through low-cost thin-film standard
+pesticides [11]. Over the last decade, the ion selective field technology, there is no need for a reference electrode, they
+effect transistor (ISFET)-based potentiometric devices have
+received intensive interest due to their several advantages
+over the conventional potentiometric biosensors. A detailed
+account of the ISFET-based sensors has been illustrated in
+Chapter 14 of this book.
+1.4.3.1.2 Conductometric Biosensors
+Conductometry is the measure of the ability of ions in solu-
+tion to carry current between two inert electrodes under an
+applied electric field. The ions are formed by the dissocia-
+tion of the electrolyte. On the application of a potential dif-
+ference between the two electrodes, a chaotic ion movement
+occurs, where anions move toward anodes, while cations
+move toward cathodes in the electrolytic cells (Figure 1.4).
+The conductivity (S) of the electrolyte solution depends
+on the ion concentration and mobility. The resistance of
+electrolyte solution is in direct proportion to the distance
+L between the immersed electrodes and reciprocal to their
+area A; therefore, conductivity (S) can be calculated using FIGURE 1.4 Ion migration in solution under an applied potential
+the following equation: difference between two electrodes [12].
+
+--- Page 9 ---
+Fundamentals of Biosensors 9
+are insensitive to light, and differential mode measurements should be more positive for oxidative biocatalysts and more
+permit cancellation of a great number of interferences. The negative for reductive biocatalysts than the redox potential of
+liquids analyzed are generally considered to have significant the enzyme-active site. The ETMs should possess some critical
+background conductivity, which is easily modified by differ- characteristics, such as react rapidly with the reduced state of
+ent factors; that is why the selectivity of this method is sup- the enzyme, exhibit reversible heterogeneous kinetics, the over-
+posed to be low. Interested readers may consult some of the potential for the regeneration of the oxidized mediator should
+prominent literature to understand the detailed theory and be low and pH independent, stable in oxidized and in reduced
+application of this type of electrochemical biosensor [12, 13]. forms, and the reduced form should not react with oxygen.
+Ferrocene and its few derivatives are widely used as
+1.4.3.1.3 Amperometric Biosensors ETMs. Tetrathiafulvalene (TTF), tetracyanoquinodimethane
+The amperometric transducer-based biosensors work by the (TCNQ), ferricyanide, N,N,N′,N′ tetramethyl-4-phenylene
+production of a current when a potential is applied on the diamine (TMPD), and benzoquinone are also reported as
+working electrode in an electrochemical setup in response to ETMs in some assays. Organic dyes such as alizarin yellow,
+the analyte of interest [14]. Here we are describing ampero- azure A and C, methylene blue, methyl violet, phenazines,
+metric biosensors citing the widely used biorecognition ele- prussian blue, thionin, and toluidine blue are known for their
+ment enzymes. Normally, the enzymes are immobilized over electron transfer-mediating properties. Many ETMs, how-
+the electrodes as a selective layer to transduce a biochemi- ever, suffer from a number of problems such as poor stability
+cal signal into an electrical one under the influence of an and pH dependence of their redox potentials (organic dyes).
+appropriate applied potential [15, 16]. If the response arises Conversely, many of the inorganic mediators are not easy to
+from the electro-activity, mainly of a co-substrate (oxygen in tune their redox potentials and solubility by the use of substit-
+most of the cases), product, or co-product (H O in most of uents. Mediators are generally added directly to the measur-
+2 2
+the cases with flavin adenine dinucleotide (FAD)-based redox ing solution or immobilized on the electrode surface. The first
+enzymes) of the enzyme-catalyzed reaction the category of method is easier, though it is not suitable from the technologi-
+the biosensor is termed first generation. A Clark oxygen elec- cal perspective [10, 17].
+trode-based glucose biosensor is the first example of this type The second-generation biosensors, however, suffer from
+[3]. The requirement of a high operation potential for the mea- drawbacks, such as poor stability and reproducibility. The
+surement of H O and limited solubility of oxygen in aqueous diffusion barrier between the enzyme-electrode interface
+2 2
+samples causing fluctuations in the oxygen tension are some and the leaching susceptibility of the free mediator from the
+major drawbacks of first-generation biosensors. interface to the sample solution are ascribed as the reasons for
+Pairing of electrons between the redox active centers of the poor performance of the second-generation bioelectrode-
+the enzyme and the electrode through some specialized small based biosensors.
+electroactive molecules to generate the response represents In an effort to overcome the drawbacks of first-generation
+the second-generation biosensors. These specialized mole- and second-generation biosensing principles, the concept of
+cules are termed “electron transfer mediators” (ETMs), which third-generation biosensors emerged. The principle of third-
+shuttle electrons between the redox center of the enzyme and generation biosensors involves direct electron transfer (DET)
+the electrode. This approach leads to a considerable reduction between the redox center of the enzyme and the electrode
+of electrochemical interferences due to the involvement of the without using any ETMs to generate the response. High selec-
+low redox potential of the enzyme in generating the electri- tivity and sensitivity are the main advantages of these bio-
+cal signal. Many second-generation amperometric biosensors sensors, as they can operate in a potential window closer to
+have been developed. One prominent example is the ferro- the redox potential of the enzyme [18]. There are, however,
+cene-mediated enzyme electrode for the determination of limited redox proteins with a redox center in the periphery of
+glucose using GOD with FAD in the redox center, which acts the protein matrix, such as cytochrome c, a peroxidase that
+as a biorecognition molecule as reviewed in [10].The reaction supports the DET principle. Different strategies have been
+involves the following steps, where M/M* are the oxidized explored to introduce DET-based enzyme electrodes that
+and reduced forms of the mediator. include nanofabrication of electrodes, immobilization of con-
+ductive polymer coupled redox proteins, cofactors tethered by
+the reconstitution process, etc. [14].
+Glucose+GOD/FAD→Gluconolactone+GOD/FADH
+2 The development of first- to third-generation amperomet-
+ric biosensors reflects a simplification and improvement of
+GOD/FADH +2M→GOD/FAD+2M*+2H+ the signal transduction pathway. The electrical signal trans-
+2
+duction pathways for the three generations of biosensors are
+depicted in Figure 1.5, citing the examples with an FAD-
+2M* →2M+2e−(transferredtoelectrode)
+based redox enzyme.
+The feasibility of electron exchange between the redox pro-
+The mediator is chosen in such a way that it possess a lower teins and the electrodes can be explained by the electron trans-
+redox potential than the other electrochemically active interfer- fer (ET) theory of Marcus [19]. The ET rate constant (K )
+ET
+ents present in the sample. The redox potential of the mediator between a donor and acceptor pair is given by Equation 1.7,
+
+--- Page 10 ---
+10 Advanced Materials and Techniques for Biosensors and Bioanalytical Applications
+FIGURE 1.5 Three generations of amperometric bioelectrodes: A: first-generation, B: second-generation, and C: third-generation enzyme
+electrodes.
+where d and d° are the distance separating the electron and surface-controlled or diffusion-controlled process, electron
+donor and the van der Waals distance, respectively; β is the transfer coefficient (α), reversible or quasi-reversible process,
+electron-coupling constant; and ΔG° and λ are the Gibbs free surface coverage area (Γ), ET rate constant (k), and number
+s
+energy change and the reorganization energy accompanying of electrons transferred in the reaction (n). The value of α
+the ET process, respectively. can be estimated by measuring the anodic (E ) and cathodic
+pa
+(E
+pc
+) peak potentials at various CV scan rates (ϑ) using
+ (∆G0 +λ)2 Equations 1.8 and 1.9 [22]:
+K ET ∝exp  −β (d−d0)  .exp  − 4RTλ   (1.7)
+2.3RT
+E =E0′ + (1.8)
+pa (1−α)nFlogϑ
+Thus, the electron exchange between two redox sites depends
+largely on three factors: the reorganization energy qualita-
+2.3RT
+tively representing the conformational rigidity of the redox E pc =E0′ − (1.9)
+compound in its oxidized and reduced form, the potential αnFlogϑ
+difference between the involved redox entities (since ΔGo =
+∼ −nFη, where, over potential η = E – Eo, the applied and where E0′ is the formal potential, ϑ is the scan rate, and R is
+standard potential, respectively), and separation between the the thermodynamic constant (R = 8.314 JK−1 mol−1), F is the
+redox sites. Faraday constant (F = 96,500 C mol−1), T is the temperature
+The concept of protein film voltammetry (PFV) is ben- in Kelvin, and n and α are the charge transfer number and the
+eficial for studying the principle of DET. In PFV a stable charge transfer coefficient, respectively, when 0.5 < α < 1, in
+mono-/submonolayer film of redox protein on an electrode general n = 1.
+surface is prepared and studied by a variety of electrochemi- The surface coverage, Γ of the bioelectrode, can be calcu-
+cal techniques. lated using the following equation:
+The thin film protects the chemistry of the active site of the
+redox proteins and facilitates fast electron transfer due to the Q
+proximal distance with the electrode [20, 21]. PFV has several Γ= FA (1.10)
+n
+advantages over conventional voltammetry, such as high sen-
+sitivity, sharp redox status of the entire sample, requirement
+where A is the area of the electrode and Q is the charge
+of a tiny amount of sample, stoichiometry, and fast reactions.
+obtained by integrating the peak current area.
+Some common techniques used for characterizing ampero-
+k can be estimated using the following equations:
+metric biosensors are briefly discussed in the following sections. s
+1.4.3.1.3.1 Cyclic Voltammetry (CV) CV is a powerful logk =αlog(1−α)+(1−α)logα− logRT −α(1−α) nF∆E p
+s
+tool for the determination of formal redox potentials, detec- nFϑ 2.3RT
+tion of chemical reactions that precede or follow the electro-
+(1.11)
+chemical reaction, and evaluation of ET kinetics. It scans a
+potential window in the forward and reverse directions and
+(When ΔE > 200 mV)
+measures the resulting current. The rate of change of poten- p
+tial with time is referred to as the scan rate (ϑ). The data from αnFϑ
+the anodic (I ) and cathodic (I ) peak currents versus scan k s = (1.12)
+pa pc RT
+rate plots of the immobilized enzymes is extracted to under-
+stand the redox processes on the electrode surface, such as When ΔE < 200 mV)
+p
+
+--- Page 11 ---
+Fundamentals of Biosensors 11
+The magnitude of k indicates the efficacy of the DET electroactive species (typically, any redox peaks separated
+s
+between the immobilized enzymes and electronic unit. The by >50 mV can be resolved). In DPV fixed-magnitude pulses
+increasing height of the redox peak in CV with increasing superimposed on a linear potential ramp are applied to the
+concentration of substrate implies the involvement of the DET working electrode at a time just before the end of the drop.
+principle in sensing the substrate of interest by the constructed Again, SWV is a specialized form of DPV, which is a large-
+enzyme electrode [23, 24]. amplitude differential technique in which a waveform com-
+Again, for electrochemically reversible ET processes which posed of a symmetrical square wave, superimposed on a base
+involve freely diffusing redox species, the Randles−Sevcik staircase potential, is applied to the working electrode. Readers
+equation (Equation 1.13) explains how the peak current i (A) may consult some works on DPV [26, 27] and SWV [28–30] to
+p
+increases linearly with the square root of the scan rate ϑ understand the application of these techniques for biosensors.
+(V s−1), where n is the number of electrons transferred in the
+redox process, A (cm2) is the electrode surface area (generally
+1.4.3.1.3.4 Electrochemical Impedance Spectroscopy
+represented as the geometric surface area), C0 (mol cm−3) is
+(EIS) EIS helps to understand the charge transfer behaviors
+the bulk concentration of the analyte, and D (cm2 s−1) is the
+0 of the thin-film layers on the electrode surface and to dis-
+diffusion coefficient of the oxidized analyte [25].
+cern the performance of enzyme electrodes. It is commonly
+employed for analysis of enzymatic electrodes by overlaying
+i p =0.446nFAC0   nF R ϑ T D 0   1/2 (1.13) a el e ra c n tr g o e d o e f t a h l a t t e r i n s a u ti n n d g e c r u d r i r r e e n c t t (A cu C r ) r e p n e t r t ( u D r C ba ) t i b o i n a s s . i g A n a N ls y t q o u a is n t
+plot (a plot of the imaginary part of the impedance versus
+the real part of the impedance for different frequencies) is
+1.4.3.1.3.2 Chronoamperometry The response curve for
+widely employed, which provides the variations of the fre-
+biosensors can be determined through a chronoamperometry
+quency response to deduce limiting mechanisms connected
+experiment. Chronoamperometry is a time-dependent tech-
+with charge transfer [31]. The following example may help
+nique where a square-wave potential is applied to the work-
+to understand the biosensing application of EIS. A DNA
+ing electrode. The current of the electrode, measured as a
+aptasensor for sensitive detection of a malaria biomarker,
+function of time, fluctuates according to the diffusion of an
+Plasmodium falciparum lactate dehydrogenase (PfLDH)
+analyte from the bulk solution toward the sensor surface.
+using the impedimetric technique was developed. For this a
+Chronoamperometry can therefore be used to measure current-
+specific aptamer, P38, was immobilized over graphene oxide
+time dependence for the diffusion-controlled process occur-
+(GO) on a glassy carbon electrode (GCE). With the help of an
+ring at an electrode. This differs with analyte concentration.
+external redox probe ([Fe(CN) ]−3), the presence of PfLDH in
+The resulting current occurring at the electrode is monitored 6
+a human serum sample was impedimetrically sensed down to
+as a function of time after applying the peak potential. The
+a femtomolar level.
+analysis of chronoamperometry data is based on the Cottrell
+Here, in this paper, EIS experiments were performed in
+equation (Equation 1.14), which defines the current-time
+a background of 2.5 mM [Fe(CN) ]−3. The obtained spectra
+dependence for linear diffusion control. The Cottrell equation 6
+were represented in the form of Nyquist plots (Figure 1.6A);
+describes the observed current (planar electrode) at any time
+the arc radius of the semicircle part represents the magni-
+following a large forward potential step in a reversible redox
+tude of the charge transfer resistance (R ). The increase in
+reaction (or to large overpotential) as a function of t−1/2. ct
+R (more the radius of the semicircle more is the R value
+ct ct
+in the Nyquist plot) with increasing PfLDH concentration
+i=
+nFAC
+0
+√D
+0 (1.14) infers (Figure 1.6A) that PfLDH was successfully captured
+√(πt) on the aptamer electrode surface. This is because the neg-
+atively charged DNA phosphate backbone of the aptam-
+where n = stoichiometric number of electrons involved in the ers prevented the communication of [Fe(CN) ]−3 ions with
+6
+reaction, F = Faraday’s constant (96,485 C/equivalent), A = the electrode, which resulted in a prominent increase in
+electrode area (cm2), C = concentration of electroactive spe- the R . The acquired Nyquist plots have been fitted to the
+0 ct
+cies (mol/cm3), and D = diffusion constant for electroactive Randles−Ershler-type equivalent circuit (Figure 1.6A inset),
+0
+species (cm2/s) where R is the solution resistance, Z is the Warburg imped-
+s w
+ance, and CPE is the constant phase element. So R can be
+ct
+calculated from this Randles−Ershler-equivalent circuit. The
+1.4.3.1.3.3 Differential Pulse Voltammetry (DPV) and
+response data were generated by plotting the fitting results
+Square Wave Voltammetry (SWV) DPV and SWV provide
+(Figure 1.6B), i.e. concentration of PfLDH with respect to
+a unique alternative to sweeping voltammetry methods such
+R , from which the concentration of PfLDH was detected up
+as CV. The main advantage of these pulsed techniques is the ct
+to as low as 0.5 fM [32].
+higher sensitivity that they offer in terms of both potential
+and current. This enables the detection of electroactive spe-
+cies at very low concentrations (as low as 10−7 M) and facili- 1.4.3.1.4 Biofuel Cells (BFCs)-Based Biosensors BFCs
+tates the resolution of overlapping redox features of multiple are galvanic cells, can be used to measure potential, current or
+
+--- Page 12 ---
+12 Advanced Materials and Techniques for Biosensors and Bioanalytical Applications
+FIGURE 1.6 (A) Nyquist plots on the response of P38-GO-GCE toward increasing PfLDH concentration from 0.1 fM, to 10 fM.
+(B) Response curve of R versus increasing PfLDH concentration [32], Copyright (2016), with permission from Elsevier.
+ct
+both these signals simultaneously. The bio-catalysts used in 1.4.3.2 Optical Biosensors
+the BFC converts chemical energy into these electrical energy The research and technological developments of optical bio-
+forms. The basic differences between these cells and chemical sensors have accomplished an exponential growth over the
+fuel cells are the types of catalysts, fuels, and physical condi- last decade. This is because there is a wide range of opti-
+tions used for their operations. BFCs mostly use enzymes and cal behaviors, such as fluorescence including various lumi-
+microorganisms as electrode catalysts. The fuels for BFC are nescence approaches, ultraviolet (UV)-visible absorption
+mostly renewable in nature, such as glucose and other car- and reflections, internal reflection, and scattering spectros-
+bohydrates, such as alcohols. However, nonrenewable fuels copy that can be explored to develop the biosensor signals.
+such as hydrocarbons can also be used if the biocatalysts can Moreover, some of the optical behaviors (e.g. fluorescence)
+electrochemically oxidize these compounds or metabolically offer extremely high sensitivity to the biosensor. Additionally,
+convert these substances to produce current in the cell. As a the color-based detection could be achieved in a simple, low-
+whole, BFCs can encompass a wide range of compounds as cost, portable format that greatly boosts their PoC and point
+a fuel substrate. These BFCs function under mild conditions, of need (PoN) applications relevant to health care, environ-
+around physiological pH and room temperature, without using mental monitoring, and food and agricultural industries,
+any hazardous or toxic chemicals or materials. Considering among others [36].
+these facts, BFCs are acclaimed as green energy technology. One of the earliest examples of an optical biosensor is a
+The general configuration, principle of operation, and appli- test strip for the detection of glucose in urine [37]. The strip
+cation potential of BFCs are illustrated in Chapters 10 and 13. was made of a cellulose pad that consisted of co-immobilized
+The scope of scaling down the size of BFCs to a chip-based glucose oxidase and peroxidase. The H O produced from the
+2 2
+platform supported by their self-powered attributes, along enzymatic oxidation of glucose reacts with o-tolidine in the
+with their highly selective responses (potential or current) vicinity of peroxidase to form a dye. The color intensity of
+against a vast array of substrates under physiological operating the dye was proportional to the glucose concentration as envi-
+conditions is the primary stimulus of exploring this energy- sioned by the naked eye. It represented a semi-quantitative
+transducing technology for biosensing applications. There measurement technique for glucose. There has been a paral-
+are two approaches for generating biosensing signal in BFCs: lel growth of technological innovation to process the color
+(a) Turn-on sensors. Here the target analyte, which may be a intensity of the detection strip to a concentration unit of the
+fuel or other substance, activates/initiates the bioelectrocata- target analyte with the help of suitable apps in the interface
+lytic reactions and generates or increases the electrical output. of modern smart phones. One such example is the quantita-
+(b) Turn-off sensors. Here the target analyte, which may be tive detection of urea in saliva [38]. A further illustration of
+an inhibitor or other substance, de-activates/reduces the bio- smart phone-based detection devices has been discussed in a
+electrocatalytic reactions and correspondingly decreases the separate chapter of this book. We would like to highlight here
+electrical output signal current [33]. The application of micro- working principles of few prominent optical biosensors.
+bial BFCs as a sensor for biochemical oxygen demand (BOD),
+microorganism load, toxicants, etc., is widely known [34, 35]. 1.4.3.2.1 Absorbance/Reflectance-Based
+Over the last decade, the research on the application of enzy- Optical Biosensors
+matic BFC-based wearable sensors in the fields of health care The optical detection principle of absorbance transducers is
+and sports have made significant progress. fundamentally based on the Beer-Lambert law:
+
+--- Page 13 ---
+Fundamentals of Biosensors 13
+I structures. The LSPR, on the other hand, is highly sensitive to
+log 0 = A=εCl (1.15) size, size distribution, and shape of the metal nanostructures,
+I
+as well as the environment that surrounds them. The LSPR is
+the fundamental principle behind many color-based biosensor
+where I is the intensity of incident light, I is the intensity of
+o applications and different lab-on-a-chip sensors.
+transmitted light, A is absorbance, ε is the molar absorbance
+The velocity of the surface plasmons (and hence the light
+of the analyte at a specific wavelength, C is the concentration of
+energy for resonance) changes with the change in the refrac-
+analyte, and l is the path length of light through solution. The
+tive index near the metal surface. The refractive index in
+common absorbance transducers utilize a single fiber or fiber
+turn is greatly dependent on the chemical environment of
+bundle that brings light to the analyte-sensitive reagent phase,
+the metal-dielectric medium. In this affinity biosensor, bio-
+and the transmitted or reflected light is returned to a mea-
+recognition elements specific to analyte molecules (in liquid
+surement instrument or detected through fiber(s), as shown in
+samples) are immobilized on the surface of the metal. The
+Figure 1.7A. The optical path length, absorption cross-section
+binding of the analyte to the biorecognition layer over the sen-
+of the transducing molecule, and the illumination wavelength
+sor surface gives rise to a refractive index change close to the
+determine the extent of the absorption. Changes in the chemi-
+sensor surface, which can be measured by the optical reader.
+cal environment can modify the absorption of the biorecogni-
+The refractive index change (Δn) caused by the binding
+tion element, and this modification is monitored as a change b
+of specific analyte molecules at the sensor surface can be
+in transmitted intensity within the biosensor.
+expressed as (often referred to as the de Feijter formula):
+In case of a nontransparent sample, it becomes difficult to
+measure transmitted light acceptably, and in these cases the
+dn dn ∆Γ
+intensity of the reflected light may be used as a measure of the ∆n b =   dc  ∆c b =   dc  h (1.16)
+color of the recognition element, analyte, or product, as shown vol vol
+in Figure 1.7B [39].
+where (dn/dc) is the refractive index increment, Δc is the
+vol b
+wt/vol concentration of bound molecules within the sensitive
+1.4.3.2.2 Surface Plasmon Resonance (SPR) Biosensors
+layer with the thickness h, and ΔΓ is the corresponding sur-
+The name itself implies that SPR is a surface phenomenon that
+face concentration (mass per surface area). The (dn/dc) is a
+vol
+occurs on the surface of highly conducting metals, typically
+well-characterized property for most of the biochemical spe-
+gold, which support to generate plasmons. Plasmons are collec-
+cies and ranges typically from 0.1 to 0.3 cm3g−1. A change in
+tive charge density oscillations of electron in a metal. Surface
+the effective refractive index of the surface plasmon due to the
+plasmons (or surface plasmon polaritons) are surface electro-
+capture of analyte can be expressed as
+magnetic waves that propagate parallel along a metal-dielectric
+interface (e.g. metal-air). The excitation of surface plasmons by ∆n =K∆Γ (1.17)
+ef
+light is denoted as an SPR for planar surfaces or localized sur-
+face plasmon resonance (LSPR) for nanometer-sized metallic where K is a constant.
+FIGURE 1.7 Absorbance-based optical transducer with (A) absorption configuration and (B) reflectance configuration [39].
+
+--- Page 14 ---
+14 Advanced Materials and Techniques for Biosensors and Bioanalytical Applications
+FIGURE 1.8 Schematic representation of SPR phenomenon for the measurement of analyte binding to immobilized ligand. (A) The ligand
+is immobilized on the sensor chip, which is composed of a gold thin layer on a glass slide. (B) Reflected light intensity shifts upon a critical
+angle change from “a” to “b,” resulting from a binding interaction event. (C) Light intensity shifts are transformed into sensorgrams, a plot
+of response units (RU) versus time [40]. Copyright (2015), with permission from Elsevier.
+The optical reader of the SPR sensor measures changes in a in the market. SPR biosensors allow label-free, direct, highly
+characteristic of a plasmon-coupled light wave resulting from sensitive, and real-time detection of chemical and biological
+changes in the effective refractive index. Different coupling analytes. It is a useful technique for measuring the affinity,
+mechanisms have been developed for coupling a light wave to stoichiometry, and kinetics of an interaction [41, 42].
+a surface plasmon, among which the attenuated total reflec-
+tion in prism couplers and diffraction on diffraction grating
+1.4.3.2.3 Fluorescent-Based Optical Biosensors
+couplers are common.
+The research on fluorescence-based biosensors and allied
+Most of the SPR sensors are designed by using the
+analytical techniques is increasing exponentially over the
+Kretschmann configuration of the attenuated total internal
+last two decades due to the emergence of various novel and
+reflection method. Here, a light wave (usually plane polar-
+efficient fluorescence probes. The major types of fluorescent
+ized) passed through a high refractive index prism is reflected
+probes explored for biosensor applications include organic,
+at the prism base covered with a thin gold film (Figure 1.8).
+nucleic, and cell fusion dyes, fluorescent proteins, and small
+The light evanescently passes through the thin film and
+fluorescent nanoparticles such as quantum dot, metal nano-
+excited the plasmon at the outer boundary of the film if the
+crystals, and carbon dots. These fluorescence probes absorb
+incident light wave and plasmon are closely phase-matched.
+(excited with) electromagnetic radiation at their specific wave-
+The phase-matching condition can be written as:
+lengths and they emit fluorescence. The wavelength of the
+emitted fluorescent light is usually longer than the excitation
+n sinθ=n (1.18)
+p ef wavelength. This difference between the absorbance and the
+emission peak wavelength is termed the Stokes shift after the
+where n is the refractive index of the coupling prism and θ is name of Sir George Stokes [43, 44]. The time interval between
+p
+the angle of incidence on the metal film (in the prism). absorption and emission in fluorescence is very short, usually
+The SPR biosensor’s response can be generated by using on the order of 10−9 to 10−8 s. The Jablonski diagram, named
+either (a) wavelength modulation, where the angle of inci- after the physicist Aleksander Jablonski, commonly depicts
+dence is fixed and the coupling wavelength serves as a sensor the illustration of a single fluorescence event.
+output, or (b) angular modulation, where the coupling wave- Fluorescence biosensor development normally involves
+length is fixed and the coupling angle of incidence serves as coupling the target recognition with a change in fluores-
+a sensor output, or (c) intensity modulation, where both the cence of the reporter/probe. Based on the nature of the sens-
+angle of incidence and the wavelength of incident light are ing element, different designs of the fluorescent biosensors
+fixed at nearly resonant values and the light intensity serves can be introduced. In single fluorophore-based architecture,
+as a sensor output. the reporter/probe that is sensitive to the microenvironment
+Since the development of the first commercial SPR sen- is attached to the recognition element and then probes the
+sors in 1990, many commercial products are now available presence of the target analyte in the sample by monitoring
+
+--- Page 15 ---
+Fundamentals of Biosensors 15
+the change in fluorescence. As the target molecule binds, FLIM is used for imaging biological tissues and reactions
+the conformation of the recognition element changes, which taking place in living cells. This method gives information
+further changes the microenvironment of the fluorophore. on changes in the local environment of the fluorophore or
+This change in fluorescence intensity may occur due to vari- changes in its energy in response to the interactions with the
+ous mechanisms, such as dynamic quenching caused by the local environment [45].
+change in accessibility of the solvent, change in polarity Fluorescent nanoparticles are increasingly used to develop
+caused by the surrounding environment, or a change in fluoro- various detection methods. As an example, a sol-gel encap-
+phore-protein interactions. However, there can be a change in sulated CdS quantum dots (QDs)-uricase/horseradish peroxi-
+fluorescence intensity when the fluorophore directly interacts dase (HRP) enzymes hybrid system has been used to detect
+with the bound target molecule and hence can be a basis for uric acid. The hybrid system oxidizes uric acid to allantoin,
+designing a biosensor. CO , and H O . The produced H O has the ability to quench
+2 2 2 2 2
+A two fluorophore-based design format was also widely the QDs fluorescence intensity, which is proportional to the
+used to develop a biosensor following the principle of FRET uric acid concentration [46].
+(Förster resonance energy transfer). FRET takes place by the The information described here is certainly not a com-
+direct excitation of an acceptor fluorophore by the energy prehensive coverage on the vast subject of fluorescence-
+donated by a donor fluorophore, which is excited by electro- based detections, but should provide the reader with at least
+magnetic radiation in the appropriate wavelength. Transfer of a general appreciation of the breadth of prominent options
+energy takes place when the donor and acceptor are in close available.
+proximity (<10 nm distance) and the dipoles of both mole-
+cules are oriented appropriately [43, 44]. In these biosensors, 1.4.3.2.4 Luminescence Biosensors
+fluorophore pairs are normally fused with the recognition Luminescence is defined as the radiation emitted by an atom
+element. A change in FRET is observed whenever there is a or a molecule when these species return to the ground state
+ligand-induced change in conformation that can alter the dis- from the exited state. On the basis of the source of excita-
+tance or relative orientation of the fluorophores of the FRET tion, the luminescence phenomenon is mainly classified as
+pair. In many cases, the fluorophore is coupled with a suitable photoluminescence (fluorescence and phosphorescence) when
+quencher, which dissipates the absorbed energy in the form of the excitation source is energy from absorbed light, chemi-
+heat. The quenchers can absorb energy over a wide range of luminescence (energy from chemical reactions), and biolu-
+wavelengths and can also dissipate this absorbed energy in the minescence (energy from biologically catalyzed reactions)
+form of heat, and they remain dark. Due to these properties, [47]. When a molecule absorbs a photon in the visible region,
+quenchers can be very useful molecules for energy acceptors exciting one of its electrons to a higher electronic excited state
+in FRET pairs. and then radiates a photon as the electron returns to a lower
+The FRET sensor provides a signal based on the ratio of the energy state, this process is called photoluminescence. If the
+acceptor to donor emission that enables the quantitative mea- molecule experiences internal energy redistribution after the
+surements of the target analyte even in a complex environment. initial photon absorption, the radiated photon may be a lon-
+One of the major constraints for developing the FRET-based ger wavelength than the absorbed photon. Fluorescence and
+sensor is to identify a suitable partner for the fluorophores to phosphorescence are special forms of photoluminescence.
+generate a noise-free effective signal. It may be mentioned that Chemiluminescence occurs on the emission of light by the
+the relationship between the donor acceptor proximity is criti- release of energy from a chemical reaction. Bioluminescence
+cal for the FRET phenomenon. FRET-based mechanisms have is a type of chemiluminescence occurring in some living
+been employed in the genetically encoded biosensors such as forms and involves a protein (enzyme). It is the result of cer-
+for cyclic adenosine monophosphate (cAMP) and cyclic gua- tain oxidation processes (usually enzymatic) in biological sys-
+nosine monophosphate (cGMP), sugars, phosphate, Ca2+, and tems like fireflies, jellyfish, glow worms, and mostly marine
+adenosine triphosphate (ATP) [44]. The ratio-metric signal- animals. Among different luminescence types, chemilumi-
+based sensors can also be designed by using an intermolecular nescence and electro-chemiluminescence are growingly used
+charge transfer (ICT) approach. However, the ratio between in developing biosensors. The principle behind chemilumi-
+two relatively broad signal emissions becomes difficult to nescence-based sensors is the combination of light-emitting
+determine in many ICT-based ion sensors. reactions with sensor capabilities. Optical transducers have
+Apart from exploiting the normal change in fluorescence been used for the design of these biosensors. They can be
+intensity and FRET, FCS (fluorescence correlation spec- used to detect certain biochemical reactions that occur. The
+troscopy), and FLIM (fluorescence lifetime imaging) are immobilized biorecognition element has been marked with a
+also explored for generating specific signals for biosensing chemiluminescence species, and on reaction with the analyte,
+applications. FCS analyzes small deviations from spontane- it generates light. Generally, photomultiplier tubes (PMTs)
+ous fluorescence intensity of the sample to gain information are used to detect this light. Chemiluminescence-based sen-
+on the kinetics of thermodynamic processes associated with sors have a high sensitivity, a fast dynamic response prop-
+reversible fluorescence changes, e.g. flow rate, diffusion coef- erty, and a wide calibration range. These sensors have been
+ficient, and molecular concentration [45]. FCS is usually use- used for immunosensing applications. However, they are
+ful to deal with low concentrations of molecules. expensive and difficult to use for real-time monitoring [47].
+
+--- Page 16 ---
+16 Advanced Materials and Techniques for Biosensors and Bioanalytical Applications
+A comprehensive discussion on electrochemilunescene bio- The potential difference (ΔV) of a thermopile transducer
+sensors has been included in another chapter of this book. depends on the pair number of thermocouples (n), the Seebeck
+The assembly of a luminescence-based transducer is simi- coefficient (ε), and the temperature difference (ΔT):
+lar to that of an absorbance-based transducer. Excitation light
+is directed to the recognition element, which is exposed to ∆V =nε∆T (1.23)
+the analyte. The fluorescence is then collected by the detec-
+tion system. Any change in luminescence intensity, phase, or
+Substituting ∆T from Equation 1.22:
+lifetime can be related to the interaction of recognition ele-
+ment, analyte, and product. The principle of luminescence
+−∆Hn
+quenching is normally employed in a luminescence-based ∆V =nε p (1.24)
+mC
+transducer. According to Stern and Volmer, the relationship p
+between intensities or lifetimes in the absence and presence
+of a quencher is given by: Hence, for the adiabatic environment, the enthalpy change
+(ΔH) produced by an enzymatic reaction in a biosensor can
+I τ
+0 =1+K SV [Q]= 0 (1.19) lead to a direct change in potential (ΔV). Up to 80% of the
+I τ heat generated in the reaction can be registered as a tempera-
+ture change in the reaction under such adiabatically controlled
+where I o and I are the luminescence intensities in the absence conditions. A thermopile transducer has been reported for the
+and presence of quencher Q, respectively; K SV is the Stern- detection of many analytes, including organophosphate pesti-
+Volmer constant; [Q] is the quencher concentration; and τ 0 cides such as dichlorvos [50].
+and τ are the luminescence lifetimes in the absence and pres- The thermistor is a combination of thermal and resis-
+ence of quencher, respectively [39]. This type of transducer tor, implying that it is a type of resistor whose resistance is
+is best exemplified by the oxygen sensors based on lumines- dependent on temperature. Hence, thermistors are widely
+cence quenching of ruthenium complexes [48, 49]. used as temperature sensors, among other applications.
+Two major types of thermistors are available, depending
+1.4.3.3 Calorimetric Biosensors
+upon the decrease or increase in resistance with increasing
+A large number of enzyme-catalyzed reactions are known to temperature. The thermistor whose resistance decreases as
+be exothermic in nature with a significant evolution of heat temperature rises (negative temperature coefficient, or NTC,
+(normally ΔH ∼ −10 to −200 kJ mol−1). The calorimetric bio- type typically) is commonly used as a temperature sensor.
+sensor thus relies on the heat generated in these reactions to The relationship between resistance and temperature is linear,
+produce the response signal for the target analyte of interest. assuming, as a first-order approximation,
+The relations among the heat generated, enthalpy change,
+and temperature change under adiabatic conditions can be
+∆R=k∆T (1.25)
+expressed by the following generic equations:
+where ∆R is the change in resistance, ∆T is the change in
+Q=−n ∆H (1.20)
+p
+temperature, and k is the first-order temperature coefficient of
+resistance. If k is positive, the resistance increases with
+Q=mC ∆T (1.21)
+p increasing temperature, and the device is called a positive
+temperature coefficient (PTC) thermistor. If k is negative,
+−∆Hn the resistance decreases with increasing temperature, and the
+∆T = p (1.22)
+mC device is called an NTC thermistor.
+p
+The benefits of using a thermistor are accuracy and sta-
+bility. Different versions of the thermometric biosensors are
+where Q is the total heat evolved during a catalytic reaction, known. The conventional ET thermistor system has been pro-
+ΔH is the molar enthalpy change, n p is the molar number gressively modified into mini, micro, and hybrid thermometric
+of the product, ΔT is the temperature change, C p is the heat devices. A cross-section of a conventional enzyme thermistor
+capacity, and m is the mass of the system in which the reaction instrument with its various components is shown in Figure 1.9.
+takes place. The instrument contained an immobilized enzyme column
+The heat generated in the reactions and hence the tempera- for the reaction in a thermostated system, and the temperature
+ture change, though in principle, could be measured by using at the point of exit was analyzed using a thermistor connected
+the conventional mercury-based thermometer, practically to a Wheatstone bridge. The components were assembled in
+their use is limited due to their low temperature sensitivity. a compact design for operation of the ET attached to the flow
+More sensitive different temperature transducers are known injection analysis. The reference probe contains an immobi-
+and employed in enzyme calorimetric analyzers among which lized nonenzyme protein. The response signal can be refined
+the thermopile (or thermocouple) and thermistor are more by subtracting the signal of the reference column from the
+popular. signal of the enzyme column [51].
+
+--- Page 17 ---
+Fundamentals of Biosensors 17
+FIGURE 1.9 A cross-section of a conventional enzyme thermistor (ET) instrument showing its various components [51] Copyright (2001),
+with permission from Elsevier.
+The low sensitivity of calorimetric biosensors for the 1.4.3.4 Piezoelectric Biosensors
+reactions with low enthalpy change could be increased sub- Pierre Curie discovered the piezoelectric (Greek piezo means
+stantially through coupled reactions, which contribute to the to squeeze or press) effect in 1880, and later it was used for
+heat output of the assay [52]. In the simplest case, this can sensing purposes in the 1950s. The Curie group perceived
+be achieved by linking together several reactions in a reac- that anisotropic crystals, i.e. crystals without a center of
+tion pathway, all of which contribute to the heat output. For symmetry, can generate an electric dipole when mechani-
+instance, the sensitivity of the glucose analysis using glucose cally squeezed (Figure 1.10). The effect can also work in an
+oxidase can be substantially increased by the co-immobiliza- opposite way in that an anisotropic crystal becomes deformed
+tion of catalase in the column that exothermically degrades when voltage is applied on it [54]. The mechanical deforma-
+the hydrogen peroxide produced in the oxidase reaction. This tion is, however, a simple situation, and generally oscillation
+highly exothermic reaction doubles the sensitivity of the sen- occurs in the common applications. In the case of oscil-
+sor, reduces the deleterious effects of hydrogen peroxide in the lation, an alternating voltage is imposed on the crystal and
+reactor, and enriches the oxygen concentration in the reactor then mechanical oscillation occurs. A piezoelectric sensor
+for the oxidase reaction. There have been reports of increasing is used to measure changes in pressure, acceleration, tem-
+the enthalpy change by using certain buffers like Tris that can perature, strain, or force by converting them to an electrical
+increase the total enthalpy of the proton-producing reactions. charge. Many materials, both natural and man-made, exhibit
+Small amounts of organic solvents (around 5%, v/v) present in piezoelectricity such as natural crystals: cane sugar, quartz,
+the aqueous buffer can also be used to increase the registered Rochelle salt, topaz, dry bone, tendon, silk, wood, enamel
+temperature changes by increasing the total enthalpy change and man-made crystals: gallium orthophosphate (GaPO ),
+4
+in the reaction, which can be attributed to the lowering of heat and langasite (La Ga SiO ).
+3 5 14
+capacity of the solvent.
+The advantage of the calorimetric biosensors is that their
+application is not interfered with by the optical properties of
+the sample, viz. color and turbidity. The extensive applica-
+tion of calorimetry has, however, been restricted by the rela-
+tively high cost and complexity of the existing calorimeters.
+The design fabrication must ensure that the temperature of
+the sample stream remains constant (±0.01°C). Recently
+numerous inexpensive, less complicated devices for bio-
+chemical analysis have been developed merging the uni-
+versality of calorimeters with the specificity of enzymatic
+FIGURE 1.10 Piezoelectric effect when mechanical deformation
+reactions [53].
+is initiated by an applied voltage [54].
+
+--- Page 18 ---
+18 Advanced Materials and Techniques for Biosensors and Bioanalytical Applications
+Frequencies of oscillations are determined in standard are suitable for label-free and real-time biosensing. They can
+analytical applications. Analyte can be determined from the attained detection limits to the pico level and hence are suit-
+electricity produced on the crystal surface through interaction able to measure various gases such as ammonia, hydrogen,
+with either crystal alone or electrode. The bound mass on the methane, and carbon monoxide. Piezoelectric biosensors have
+crystal surface causes slowing of oscillation. For the common been reported to detect various toxins, pathogens in food and
+quartz crystals, the frequency shift (Δf) is directly propor- water, hepatitis B and C, etc. They have also been used in
+tional to the change of mass (Δm) on the crystal, as described protein and DNA detection. These sensors have good com-
+by Sauerbrey [55] (Equation 1.26). patibility with integrated circuits (IC) technology and can be
+easily manufactured by photolithography, which renders them
+−2f2∆m ∆m inexpensive [57].
+∆f = 0 =−2.3×106 f2 (1.26)
+A√(ρ µ ) 0 A A QCM-based biosensor was constructed for the determi-
+q q
+nation of organophosphorus and carbamate pesticides in the
+nM level. The sensor had an immobilized enzyme acetylcho-
+In this equation, f is the fundamental mode of the crystal
+0 linesterase, which converted 3-indolyl-acetate to insoluble
+oscillation (in hertz), A is the piezoelectrically active area (in
+indigo pigment, providing alteration in the oscillations. The
+centimeters), ρ means density (2.648 g/cm3), and μ means
+q q biosensor was used for the assay of pesticides, which inhibit
+shear modulus (2.947 × 1011 g/cm·s2) of quartz. The Sauerbrey
+the enzyme acetylcholinesterase. When the enzyme became
+equation is reliable for calculating frequency shift when the
+inhibited, the precipitate was not formed [58].
+ambient environment is not unaltered. Upon a change in the
+surrounding environment, since viscosity has an impact on
+frequency shift, the equation described by Kanazawa and 1.5 BIORECEPTOR IMMOBILIZATION
+coworkers for quartz crystal should be consulted with [56] STRATEGIES
+(Equation 1.27).
+To efficiently capture the biochemical signal generated as a
+result of interactions between the bioreceptor and the target
+∆(ρη)
+∆f = f3/2 l l (1.27) analyte, the bioreceptors are usually immobilized on the trans-
+0
+πρ η
+q q ducer surface of the biosensor device. This process empowers
+reusability of the bioreceptor with linked cost reduction of the
+The equation states that frequency shift is proportional to an developed devices/process. There are mainly four different
+increase of ambient viscosity η. The symbols’ meaning is the techniques of bioreceptor immobilization, and their choice
+same as for the Sauerbrey equation – the symbols with index l is based on their intended use. The different immobilization
+relate to the ambient liquid and q to quartz crystal. strategies for bioreceptors have been depicted in Figure 1.11
+Piezoelectric biosensors can be of two different types: and Table 1.2.
+bulk acoustic wave (BAW) piezoelectric sensors and surface
+acoustic wave (SAW) piezoelectric sensors. BAW is based on
+1.5.1 adsorption
+the principle that the wave propagates through the interior of
+the substrate. Conversely, SAW works on the principle that Adsorption refers to the easiest technique of immobilization
+the wave propagates on the surface of the substrate. As the of the bioreceptor onto a surface by reversible surface inter-
+wave propagates through or on the surface of the substrate, its action between the bioreceptor and the surface. The forces
+velocity continually changes. This change can be known by involved in this interaction are weak forces viz. van der
+measuring the change in the frequency. This can be related Waals forces, ionic bonds, hydrogen bonds, and hydrophobic
+to the physical mass being measured. These sensors apply interactions. In this method the solid support onto which the
+an electric field that creates mechanical stress (wave). This immobilization is desired is placed in contact with a solution
+moves through or on the substrate, and in the last step, is con- containing the dissolved bioreceptor at optimum pH, ionic
+verted back to an electric field before we can measure it. concentration, etc., for an appropriate period of time to allow
+A quartz crystal microbalance (QCM) is one of the sim- the adsorption to take place. The unbound bioreceptor mol-
+plest and commonly used BAW devices. SAW sensors are ecules are removed from the surface by washing with a suit-
+composed of a thick layer of piezoelectric material, like able buffer [59].
+quartz, lithium niobate, or lithium tantalite. Here, Rayleigh Adsorption offers the advantage of retention of biorecep-
+waves propagate along the upper surface. The surface trans- tor activity (native conformation) during immobilization, as
+verse wave (STW) sensor is the most commonly used SAW this process is not accompanied by chemical changes in the
+device. bioreceptor molecule or the surface. It is simple, low cost, and
+This technique is known for its excellent sensitivity, and nondestructive to the bioreceptor. However, the disadvantage
+hence it has wide applications in the medical, aeronautical, of this technique is that the immobilized bioreceptor is prone
+and telecommunications, fields. Quartz is a commonly used to desorption or leaching under conditions of changed pH,
+piezoelectric material as it is cheap and has the ability to ionic strength, temperature, or polarity of the solvent, as
+withstand various types of stresses. Other potential materials only weak forces are involved to achieve the immobilization.
+are lithium niobate and lithium tantalite. These transducers Also, nonspecific interaction of other proteins or molecules
+
+--- Page 19 ---
+Fundamentals of Biosensors 19
+FIGURE 1.11 Bioreceptor immobilization strategies.
+on the surface can cause contamination, inhibition, or sig- rigid porous structure for the retention of bioreceptor special
+nal interference. This is why biosensors employing immo- enzyme molecules are mostly used as the enzyme immobi-
+bilization of the bioreceptor by adsorption usually suffer lizing matrix surface.
+from poor operational and storage stability. Importantly,
+the bioreceptor molecules may not exhibit homogeneity in
+1.5.2 covalent Binding
+orientation in the immobilized form; hence, there is a pos-
+sibility of reduction of binding sites/active sites for the ana- This involves immobilization of the bioreceptor onto the
+lytes of interest. In order to overcome the drawbacks, many transducer surface through covalent bonds. The functional
+strategies are emerged, among which, the immobilization on groups of bioreceptors, such as amine, hydroxyl, carboxyl,
+three-dimensional and/or porous structure of the matrix is aldehyde, and sulfhydryl, are exploited for the covalent link-
+widely used. Hydrogel polymers, such as agarose, collagen, ages with the solid transducer surfaces. The covalent immo-
+gelatin, and polyacrylamide gel, and inorganic materials, bilizations are frequently performed in two steps. First,
+such as mesoporous carbon, silica, and zeolite, which have a the surface is activated using linker (also called carrier)
+TABLE 1.2
+Summary of Bioreceptor Immobilization Strategies
+Immobilization Strategy Characteristic Feature Advantages Disadvantages
+Adsorption Weak bonds • Simple and easy • Desorption
+• Limited loss of enzyme activity • Nonspecific adsorption
+Covalent binding Strong chemical bonds • Stable • High loss of enzyme activity
+• No diffusional barrier
+• Short response time
+Entrapment Confinement of bioreceptors within • Enzyme activity not compromised • Diffusion barrier formed
+gel or polymer without chemical • Enzyme leakage may occurs
+reaction
+Crosslinking Bond between bioreceptors via • Simple • Likely to suffer from high loss of enzyme
+crosslinking agents activity
+Affinity Affinity bond between affinity tag of • Controlled immobilization • Requirement of the presence of specific
+bioreceptor and a functional group on groups on the bioreceptor (e.g. histidine,
+the support biotin)
+
+--- Page 20 ---
+20 Advanced Materials and Techniques for Biosensors and Bioanalytical Applications
+molecules such as glutaraldehyde or carbodiimide that act as In photopolymerization, monomers are activated to form
+the covalent linker between the bioreceptor and the surface. cross-links or form polymers when exposed to light (photo-
+Second, addition of the bioreceptor (viz. enzyme) followed polymers). In the sol-gel process, a metal alkoxide precur-
+by formation of a covalent bond between the activated sub- sor such as tetramethoxysilane is suspended or dissolved in
+strate and the bioreceptor molecule. The most widely used a suitable acidic solvent for hydrolization to produce silanol
+carrier molecules, particularly for enzyme immobilization, groups. This is followed by addition of a base to activate
+are hydrophilic in nature such as agarose, dextran, cellulose, to hydrolized precursor to initiate a condensation reac-
+and starch. These carrier molecules consists of ideal func- tion to form siloxane polymers. With appropriate time and
+tional groups viz. hydroxyl groups that support the forma- temperature, gelation of the polymer occurs with biorecep-
+tion of covalent bonds. Also, their ability to form hydrogen tor entrapment. The sol-gel method offers the advantage
+bonds with water helps maintain a hydrophilic environment of forming a stable nanoporous material with high load-
+that favors bioreceptor/enzyme stability. The orientation and ing capacity of the enzyme that aids in preserving enzyme
+homogeneity of the linker/carrier molecules can be con- activity and increasing biosensor sensitivity. However, this
+trolled as they form a self-assemble monolayer (SAM) [59]. method is comparatively costly and is accompanied with
+This in turn allows for controlled homogeneity of the immo- matrix inhomogeneity. Encapsulation refers to entrapment
+bilized bioreceptor on the surface, unlike that of adsorption. of the bioreceptor inside a closed semi-permeable mem-
+Due to the immobilization of bioreceptors through covalent brane. The nature of the membrane may be polymeric, lip-
+bonds, the leaching problem of the receptor could be over- oidal, or nonionic in nature. The membrane restricts the
+come. The main disadvantage of this technique lies in the movement of the enzyme, thereby preventing loss of the
+probable denaturation of the bioreceptors accompanied by enzyme, while allowing the diffusion of small molecules
+the loss of their activity; additionally, this method is time like substrates or products. This method maintains enzyme
+consuming and complex as compared to absorption and is integrity, as the enzyme remains isolated from the external
+poorly reproducible. environment. However, control of membrane pore size is
+crucial to ensure retention of the enzyme and prevention
+of enzyme leakage, while allowing the entry and exit of
+1.5.3 entrapment
+substrate and product molecules [59].
+Entrapment refers to confinement of the enzyme within a
+polymeric network without chemically interacting with the
+1.5.4 crosslinking
+support matrix. The pore size of the matrix is controlled to
+prevent loss of bioreceptor while allowing movement of sub- Immobilization by crosslinking refers to the creation of
+strates and products. In this method, a bioreceptor is usually intermolecular cross-linkages between the bioreceptor mol-
+mixed with monomeric units in solution, which is then made ecules by covalent bond formation. This process requires the
+to undergo polymerization. The bioreceptor molecules are involvement of a multifunctional reagent like glutaraldehyde
+entrapped within the polymer during the polymerization pro- or toluene diisocyanate, which links the bioreceptor mole-
+cess. This method offers the advantage of minimizing bio- cules together. Glutaraldehyde, for example, can crosslink
+receptor leakage and denaturation. Additionally it helps to enzyme molecules via the reactions of free amino groups
+increase stability of the enzyme as the microenvironment of of lysine residues of the individual enzyme molecules. This
+the entrapment matrix can be controlled to have optimal pH, results in the formation of the three-dimensional complex
+ionic strength, or polarity. However, the disadvantage of this structure or bioreceptor aggregates. The advantages of
+method is that the support matrix polymerization generates immobilization by crosslinking include minimization of
+mass transfer resistance because of which the binding sites/ bioreceptor leakage due to the involvement of covalent bonds
+active sites of the bioreceptor may not be accessible to the and possible control of the bioreceptor microenvironment to
+substrates efficiently. Special care needs to be taken in con- maintain optimum pH, ionic strength, and other factors. The
+trolling the pore size of the matrix to minimize bioreceptor disadvantage of this technique is that the crosslinking agent
+leaching. Also, this method is accompanied with low enzyme can bring about certain modifications in the bioreceptor or
+loading capacity. All these factors may contribute to serious denaturation that compromises its biological activity to vari-
+kinetic implications. A few procedures to achieve entrapment ous degrees [60].
+include electrochemical polymerization, photopolymeriza-
+tion, sol-gel process, and microencapsulation.
+1.5.5 affinity
+In electrochemical polymerization, monomer polymer-
+ization takes place due to the application of appropriate The strategy of affinity immobilization is employed with
+potential or current. This application of potential or cur- the main focus of obtaining a particular orientation of the
+rent may generate radical species that facilitate the polym- enzyme or bioreceptor so as to leave its active site/binding
+erization process on the electrode surface solution while site undisturbed and therefore accessible to the substrate/ana-
+simultaneously entrapping the bioreceptor. Examples lyte. This can be achieved by creating affinity bonds between
+of electropolymerized films used for immobilization an activated support viz. lectin, avidin, metal chelates, and a
+include polyaniline (PANI), polypyrrole, thiophenes, etc. specific interacting group or sequence of the bioreceptor viz.
+
+--- Page 21 ---
+Fundamentals of Biosensors 21
+carbohydrate residue, biotin, and histidine, respectively. Such in the market in the year 1975 by Yellow Springs Instruments
+groups or affinity tags are sometimes attached to the biore- (YSI). Following this, several new and improved products
+ceptor by genetic engineering methods [61]. were introduced in the global market by different companies
+over the years [68]. Nova’s StatStrip has introduced a glucose
+monitor for use in neonatal testing. StatStrip is the only glu-
+1.6 APPLICATION OF BIOSENSORS
+cose monitor with 6s analysis time that measures hematocrit
+1.6.1 application in tHe food industry on the strip. The company also provides a handheld device
+for the measurement of blood lactate using a very tiny drop
+The important concerns relevant to the food industry include
+of blood (0.7 μL) with an analysis time of 13s. Nova also
+quality and safety of the food products, storage and shelf
+commercializes a biosensor that measures creatinine with
+life, and processing. Quality control measures play an
+an analysis time of 30s [68]. Roche Diagnostics markets the
+important role in approving any food product as suitable
+Accu-Chek family of products/services for blood glucose
+for consumption. This involves detection of food spoilage
+monitoring. Its US Patent Number 6,541,216 describes an
+microorganisms or other molecules that may be indica-
+invention that allows the measurement of ketone levels in
+tive of degraded food quality and of food-borne pathogens.
+blood. In 2001, LifeScan, a part of the Johnson & Johnson
+Because biosensors are specific, sensitive, rapidly respon-
+companies, launched a glucose measuring device (OneTouch
+sive, and cost-effective as compared to the traditional
+Ultra blood glucose) and the In Duo system, the world’s first
+methods, these have captured attention for practical appli-
+blood glucose checking and insulin-dosing system. After that,
+cation in assessing food quality. The enzyme-based biosen-
+in 2003, LifeScan launched the OneTouch UltraSmart blood
+sors and immunosensors are widely used for this purpose.
+glucose monitoring system with a 3,000-record memory for
+Biosensors with different detection principles for detection
+the storage of health, medication, exercise, and meal informa-
+of foodborne pathogens such as Staphylococcus aureus [62],
+tion [68]. The acceptance and success of biosensors in this
+Salmonella typhimurium [63], Salmonella enteritidis [64],
+field are largely determined by a high level of precision in
+Escherichia coli [65], and Listeria monocytogenes [66] are
+measuring analytes of clinical importance, capability to sense
+some examples.
+the analyte in real time, and high sensitivity. A few common
+applications of biosensors in biomedicine include detection
+and measurement of disease-specific biomarkers; biomol-
+1.6.2 application in tHe fermentation industry
+ecules such as glucose, lactate, peroxides, cholesterol, and
+Biosensors play a pivotal role in the fermentation industry where cytokines; and release of antibodies or other indicator bio-
+continuous monitoring of metabolites, products, enzyme, anti- molecules in various inflammatory diseases and tumors. For
+body, biomass, or byproducts is essential. Several commercial example, biosensors for detection of Candida infection [69],
+biosensors are available to monitor various fermentation pro- circulating tumor cells (CTCs) [70], and antibiotic sensitivity
+cesses. A few examples of compounds usually monitored in the of bacteria [71] are reported.
+fermentation industry are listed in Table 1.3 [67].
+1.6.4 environmental applications
+1.6.3 Biomedical applications
+Harmful environmental agents pose a serious threat not only
+The application of biosensors in biomedical field has been to human health but to the entire ecosystem. The first and
+rapidly growing since the commercial release of the glucose foremost step for appropriate treatment of these agents is
+biosensor. Blood glucose monitoring has been occupying cen- to detect their levels and their sources. The attainable high
+ter stage in biosensor research since the first product launched sensitivity of the biosensors plays a crucial role in detecting
+TABLE 1.3
+Analytes of Interest in the Fermentation Industry
+Fermentation Process Compounds to Monitor
+Microbial fermentation Short-chain monocarboxylic and dicarboxylic acids-butyl esters of volatile
+(C1–C7) and nonvolatile (lactic, succinic, and fumaric) acids
+Wine fermentation Malolactic fermentation compounds
+Rice wine Total sugar content, alcohol, and pH
+Wine L-Lactic acid
+Probiotic fermented milk Oligosaccharides, improved fermentation rates, accelerated lactose hydrolysis
+Grapes during yeast fermentation Volatile flavor chemicals—acetates, ethyl esters, C4–C8 fatty acids
+Fermented soybean foods Proteases and ethanol, ethylene glycol, glucose, isopropanol, and mannitol
+Cheese Tyramine
+
+--- Page 22 ---
+22 Advanced Materials and Techniques for Biosensors and Bioanalytical Applications
+the otherwise undetectable low level of harmful agents in the transduce the biorecognition signal in the biosensor. The most
+environment. Such major pollutants include heavy metals, popular nanomaterials used for biosensor applications include
+pesticides, polychlorinated biphenyls, toxic organic wastes, gold nanoparticles (AuNPs), carbon nanotubes, graphene,
+nitrogenous compounds, endotoxin, and several pathogens. quantum dots, and others, among which, AuNPs are one of
+Considerable emphasis has been laid on detection of different the most stable noble metal nanoparticles and most popularly
+toxic heavy metals such as Hg, Cd, Ni, Co, Zn, Pb, and Cu, used in biosensors due to their biocompatibility, suitable opti-
+and biosensors with different detection principles have been cal and electrical properties, and relatively simple mode of
+reported [72–75]. production and modification [77].
+Smart biosensors refer to the coupling of a biosensor with
+smart technology, especially for application in health care,
+1.6.5 applications in Biodefense
+food safety, and environmental monitoring. An amalgamation
+The world is witnessing increased threats of terrorism, includ- of nanotechnology, wireless technology, information technol-
+ing bioterrorism. Organisms or toxins used for such activities ogy, machine learning, material sciences, and biomedical sci-
+are termed biowarfare agents (BWAs), which include bacte- ences has made this concept of smart biosensors possible. One
+ria like Bacillus anthracis causing anthrax, toxins such as straightforward outcome is the integration of POC biosensors
+Botulinum neurotoxin and Cholera toxin, and viruses. The with smart phone technology. This has become possible with
+anthrax bioterrorist attack is predominantly due to the resis- the advancements in various technologies viz. deep learn-
+tant spores, which have been observed to be lethal in 75% ing, which is derived from conventional artificial neural net-
+of infections. Biosensors hold application in detecting these works, wherein a sensory input is received and subjected to an
+agents by employing their important attributes of high selec- iterative process of training until a desired/accurate output is
+tivity. Some of the examples of potential bioterrorism agents reported. The applicability of deep learning can be envisioned
+against which biosensors have been developed in the litera- with the emergence of wearable biosensors, invasive sensors,
+ture with their detection limit in parenthesis are detection of or embedded sensors in smart devices to collect medical data
+Anthrax spores (1 μg/mL), Botulinum toxin (400 ng/mL), and for disease diagnosis or prognosis. Artificial intelligence is
+ricin (400 ng/mL) with an assay time of 15–25 min follow- concerned with the creation of intelligent machines that work
+ing flow immunosensor systems, commercialized as a bio- in analogy with the human brain. It encompasses machine
+warfare agent detection device (BADD); detection of Anthrax learning, which includes application of pattern-recognition
+spores (4,000 spores), Botulinum toxin (5 ng), ricin (10 ng), algorithms to improve performance via experience. Pattern-
+and smallpox (100,000 pfu) with an assay time of 15 min fol- recognition algorithms particularly involve training by using
+lowing fluorescent bead immunoassay commercialized by previously acquired data, and its assessment for retrieval of
+Response Biomedical Corp. [76] detection limits of the noted those data with particular characteristics aid in grouping data
+sensors are shown in the parentheses. into classes with similar characteristics and interpretation of
+the final assignment of the class. In other words, pattern-rec-
+ognition trains the device to identify the presence or absence
+1.7 RECENT ADVANCES IN BIOSENSOR
+of substances in the sample, characteristic composition, anal-
+TECHNOLOGY
+ysis, and designation of a reported outcome as readout [78].
+Recent advancement in biosensor technology comprises min-
+iaturization of the devices, wearable and implantable design
+1.7.1 WearaBle Biosensors
+using smart materials, and analyzing and transmitting the
+response signal through modern communication technology, As the name suggests, wearable biosensors are meticulously
+including Internet of Thing (IoT), machine learning, and smart designed miniaturized biosensors that can be worn on the
+phone technology. In these technology-driven research and skin in the form of a temporary skin tattoo or bands, on eyes
+developments, application of various nanomaterials for sig- as contact lenses, or on tooth enamel. Noninvasive monitor-
+nal transduction and amplifications, and micro-scale domain ing of biofluids (sweat, tears, saliva, and interstitial fluid) is
+technology, such as microfluidics and MEMS are increasingly the characteristic feature of such sensors and has great value
+used in biosensing applications to improve the sensitivity, ren- in the ever-booming health care industry, as they can provide
+der multiplexing capability in a chip format, and provide cost continuous real-time monitoring of targets, management of
+economy of the devices. chronic diseases, and alert the user or medical professionals
+Nanomaterials can be one dimensional viz. surface nano- in case of emergency. In order to achieve this, wearable bio-
+films, two dimensional viz. nanofibers, or three dimensional sensor platforms must be in direct contact with the noninva-
+viz. nanoparticles. A common property of the nanomaterials sive sample fluid without causing any discomfort to the user.
+is their tremendously increased surface area as compared to Multidisciplinary research has brought about this possibility
+their corresponding bulk materials. The increased surface by integrating smart materials with the necessary flexibility,
+area supports enhanced immobilization of the bioreceptors. stretchability and biocompatibility, and miniaturization tech-
+Also, nanoscale quantum effects bring about certain proper- nologies which facilitate data processing and transmission for
+ties viz. unique mechanical, magnetic, electrical, optical, and real-time monitoring of the target analyte (biomarkers, metab-
+other properties, which can be used either to amplify or to olites, hormones, etc.). Although several proofs-of-concept
+
+--- Page 23 ---
+Fundamentals of Biosensors 23
+FIGURE 1.12 Representative examples of wearable biosensors [79].
+have been forwarded in the literature, a thorough validation for its way to the liver. It is hypothesized that under conditions of
+correlation of analyte concentrations in noninvasive body flu- diminished peripheral perfusion, lactate levels in the tissues
+ids and a gold-standard sample fluid in most cases, i.e., blood, will be discordant with systemic lactate levels and that the
+is needed to improve reliability. Additionally, the limited arena amount and duration of the tissue lactate levels will be a bet-
+of smart materials and miniaturization technologies best suited ter indicator of the extent of hemorrhagic shock in the trauma
+for the development of wearable biosensors hampers its com- patient. Continued examination of interstitial compartments
+mercialization so far. Figure 1.12 illustrates a few examples using biosensors will aid in understanding the temporal rela-
+of wearable biosensor, and the target analytes are shown in tionships among markers of stress in these environments and
+parentheses [79]. how they relate to shock-like states. Potentiostat is a vital
+instrument for an implantable amperometric enzyme bio-
+sensor. However, for implantation, the potentiostat is closely
+1.7.2 implantaBle Biosensors
+connected with two-way telemetry and communications.
+Most implantable biosensors use the amperometry-based Three general formats of implantable amperometric biosen-
+principle, which is envisioned to measure and remotely trans- sors are being followed. The first is an implantable but teth-
+mit a record of specific molecular level of a biological ana- ered biotransducer with outwardly located power, electronics
+lyte within the human body. Implantable biosensors generally and communications components with the external compo-
+use enzymes as the biorecognition molecule to enable the nents being mounted outside but on the subject’s body [83].
+detection of biochemicals of interest within the body under The second is a fully integrated discrete but otherwise fully
+a suitable impressed potential [80]. Trauma management and implanted device [84], and the third is an application-specific
+diagnostics are the foremost aims of research for implantable integrated circuit (ASIC) where all components are likewise
+amperometric biosensor technology [81]. A recently devel- fully implanted [85]. Representative examples of these three
+oped dual responsive electrochemical cell-on-a-chip micro- formats are shown in Figure 1.13.
+disc electrode array (ECC MDEA 5037) transducer was used Implantable amperometric enzyme biosensors have tremen-
+in a wireless, implantable biosensor system for the continu- dous technological potential to influence patient management
+ous measurement of interstitial analytes. Preliminary studies and compliance among diabetics but also to address the man-
+with the MDEA 5037 in a rat hemorrhagic shock model have agement of hemorrhaging victims of trauma. However, they
+shown discordance between blood and interstitial lactate lev- face some major challenges, such as (a) enzyme stability, (b)
+els [82]. Lactate can accumulate more readily in the muscles biomolecular interferences, (c) the performance of molecular
+particularly during periods of compensation and increased mediators used in Generation II biotransducers, and (d) inter-
+peripheral resistance during moderate to severe hemorrhage nal calibration. Modern nano-biomedicine approaches such
+as blood oxygen delivery will be even further reduced, thus as biomaterials biomimicry, programmed anti-inflammatory
+causing a rapid spike in interstitial lactate levels. Now, this drug delivery, and regenerative medicine are examples of tac-
+lactate will diffuse back into the blood and eventually make tics being developed to quiet the foreign body response. The
+
+--- Page 24 ---
+24 Advanced Materials and Techniques for Biosensors and Bioanalytical Applications
+FIGURE 1.13 Examples to illustrate three general formats for implantable biosensor systems. (A) The tethered biotransducer with exter-
+nally located power, electronics, and communications components. (B) The fully integrated discrete but otherwise fully implanted biosensor
+system. (C) The application-specific integrated circuit (ASIC) [80] Copyright (2012), with permission from Elsevier.
+efforts to address the inherent factors that limit device bioana- k , and the Michaelis constant, K . The first reports on the
+cat M
+lytical performance include enzyme engineering to promote effect of deglycosylation of redox enzymes were on recom-
+stability, hybrid biomaterials to address endogenous interfer- binant horseradish peroxidase (r-HRP) overexpressed in E.
+ences, and the emergence of reagentless, third-generation bio- coli [89]. Bioengineering of GOD extracted from Penicillium
+sensors hold considerable promise. Finally, fully implantable amagasakiense to make the enzyme less oxygen-dependent
+ASIC devices with a small footprint and wireless communica- demonstrated a promise for making the enzyme more suit-
+tion capabilities are being developed [80]. able for biosensor applications. Another example of bioengi-
+neering of a sugar oxidizing enzyme is the mutation of two
+ascomycete CDHs to increase the affinity for glucose and at
+1.7.3 engineered enzymes for Biosensor development
+the same time largely decrease the affinity for maltose, which
+Genetically engineered acetylcholinesterases (AChEs) have is of vital importance for glucose biosensors. Another recent
+been extensively exploited in enzyme inhibition-based bio- work in which a FAD-GDH was successfully fused with cyt
+sensors for the detection of pesticides, like carbamate insecti- c to mimic CDH and other flavohaemo proteins with direct
+cides and organophosphate [86–88]. Currently great attention electron transfer properties to obtain enzymes with modi-
+is given to protein engineering in order to improve the com- fied properties [90]. To make the active site more accessible,
+plete performance of bioelectronics. Specifically, there exist eliminating the amino acids that are not vital for the enzyme
+two strategies: (a) improving the biomolecular recognition functionality is another approach that facilitates the electron
+between enzyme and substrate and (b) increasing the rate transfer easy.
+of electron transfer between enzyme and electrode. The first
+strategy can enhance the functional performance of ampero-
+1.8 MARKET POTENTIAL FOR BIOSENSORS
+metric sensors by increasing their selectivity as well as sensi-
+tivity. To address the second strategy, the enzyme is modified, The market potential of biosensors is driven by their demand
+keeping in mind the two key parameters: the turnover number, in diverse fields such as medicine, pharmacology, health
+
+--- Page 25 ---
+Fundamentals of Biosensors 25
+care, food and agriculture, environmental monitoring, and 7. D. Thevenot, K. Toth, R. A. Durst, and G. S. Wilson,
+biodefense. Additionally, with the advantages of biosensors “Technical report: Electrochemical biosensors: recommended
+to detect analytes over the established conventional tech- definitions and classification,” Biosens. Bioelectron., vol. 16,
+pp. 121–131, 2001.
+niques, compounded with possible miniaturization and low
+8. H. Kumar, and Neelam, “Enzyme-based electrochemical
+production costs, remote monitoring and reduced health care
+biosensors for food safety: A review,” Nanobiosensors Dis.
+expenses, promising growth in the biosensor market seems
+Diagnosis, p. 29, 2016, doi: 10.2147/ndd.s64847.
+visible. According to a recent analysis (Frost & Sullivan), the 9. R. P. Buck, and E. Lindner, “Recommendations for nomen-
+global biosensor market is expected to grow at a 12% com- clature of ion-selective electrodes (IUPAC recommendations
+pound annual growth rate (CAGR) during 2018–2023, from 1994),” Pure Appl. Chem., vol. 66, no. 12, pp. 2527–2536,
+revenues of $17.7 billion in 2018, to reach $31.2 billion by the 1994, doi: 10.1351/pac199466122527.
+10. A. Chaubey, and B. D. Malhotra, “Mediated biosensors,”
+end of 2023. The patent publication in the field is on the rise,
+Biosens. Bioelectron., vol. 17, pp. 441–456, 2002.
+with 56% of total patents published by the United States alone
+11. A. N. Ivanov, G. A. Evtugyn, L. V. Lukachova, et al., “New
+from 2016 to 2018. The key areas of innovation include POC
+polyaniline-based potentiometric biosensor for pesticides
+diagnostics, wearable biosensors, and noninvasive monitor- detection,” IEEE Sens. J., vol. 3, no. 3, pp. 333–340, 2003,
+ing. Numerous companies are working worldwide in the area doi: 10.1109/JSEN.2003.814647.
+of biosensors for commercialization of their products. 12. N. Jaffrezic-Renault, and S. V. Dzyadevych, “Conductometric
+Many factors influence the commercial success of biosen- microbiosensors for environmental monitoring,” Sensors,
+vol. 8, no. 4, pp. 2569–2588, 2008, doi: 10.3390/s8042569.
+sor devices. From the end-user point of view, low cost, simple,
+13. O. O. Soldatkin, V. M. Peshkova, S. V. Dzyadevych, A. P.
+and reliable performances of the product are essential factors
+Soldatkin, N. Jaffrezic-Renault, and A. V. El’skaya, “Novel
+for penetrating the developed product in the market. It may
+sucrose three-enzyme conductometric biosensor,” Mater. Sci.
+be mentioned that the WHO prescribed the ASSURED [91] Eng. C, vol. 28, nos. 5–6, pp. 959–964, 2008, doi: 10.1016/j.
+criteria for applications of the diagnostic devices in devel- msec.2007.10.034.
+oping countries. The biosensors should comply with all the 14. P. Das, M. Das, S. R. Chinnadayyala, I. M. Singha, and
+performance criteria as discussed elsewhere in this chapter. P. Goswami, “Recent advances on developing 3rd genera-
+tion enzyme electrode for biosensor applications,” Biosens.
+Addressing these issues may expedite the process of bridging
+Bioelectron., vol. 79, pp. 386–397, 2016, doi: 10.1016/j.
+the gap between academia (for proof-of-concept) and indus-
+bios.2015.12.055.
+try (to translate the concept to technology) for commercial-
+15. A. D. Hirst, and J. F. Stevens, “Electrodes in clinical chemis-
+ization of the biosensors. However, few concerns associated try,” Ann. Clin. Biochem., vol. 22, no. 5, pp. 460–488, 1985,
+with biosensor research need to be identified before develop- doi: 10.1177/000456328502200503.
+ing the product such as the market for biosensors, advantages 16. B. Willner, E. Katz, and I. Willner, “Electrical contacting
+of biosensors over the existing analytical methods, ease of of redox proteins by nanotechnological means,” Curr. Opin.
+manufacturing and usage, and last but not the least, hazards Biotechnol., vol. 17, no. 6, pp. 589–596, 2006, doi: 10.1016/j.
+copbio.2006.10.008.
+and ethics associated with the particular biosensor research
+17. S. V. Dzyadevych, V. N. Arkhypova, A. P. Soldatkin,
+in question. Moreover, some other issues, such as government
+A. V. El’skaya, C. Martelet, and N. Jaffrezic-Renault,
+support in terms of ease of doing business and customer per-
+“Amperometric enzyme biosensors: Past, present and
+ceptions, should encourage for developing and marketing bio- future,” ITBM-RBM, vol. 29, nos. 2–3, pp. 171–180, 2008,
+sensor products for the decentralization of laboratory testing. doi: 10.1016/j.rbmret.2007.11.007.
+18. L. Gorton, A. Lindgren, T. Larsson, F. D. Munteanu, T.
+Ruzgas, and I. Gazaryan, “Direct electron transfer between
+REFERENCES heme-containing enzymes and electrodes as basis for third
+generation biosensors,” Anal. Chim. Acta., vol. 400, nos. 1–3,
+1. V. Perumal, and U. Hashim, “Advances in biosensors:
+pp. 91–108, 1999, doi: 10.1016/S0003-2670(99)00610-8.
+Principle, architecture and applications,” J. Appl. Biomed.,
+19. R. a. Marcus, and N. Sutin, “Electron transfers in chemistry and
+vol. 12, no. 1, pp. 1–15, 2014, doi: 10.1016/j.jab.2013.02.001.
+biology,” Biochim. Biophys. Acta – Rev. Bioenerg., vol. 811,
+2. L.C. Clark Jr. “Monitor and control of blood and tissue oxy-
+no. 3, pp. 265–322, 1985, doi: 10.1016/0304-4173(85)90014-X.
+gen tensions,” Trans. Am. Soc. Artif. Intern. Organs., vol. 2,
+20. C. Léger, S. J. Elliott, K. R. Hoke, L. J. C. Jeuken, A. K. Jones,
+pp. 41–48, 1956.
+and F. A. Armstrong, “Enzyme electrokinetics: Using pro-
+3. L. C. Clark, and C. Lyons, “Electrode systems for continuous
+tein film voltammetry to investigate redox enzymes and their
+monitoring in cardiovascular surgery,” Ann. N. Y. Acad. Sci.,
+mechanisms,” Biochemistry, vol. 42, no. 29, pp. 8653–8662,
+vol. 102, no. 1, pp. 29–45, 1962, doi: 10.1111/j.1749-6632.1962.
+2003, doi: 10.1021/bi034789c.
+tb13623.x.
+21. J. Hirst, “Elucidating the mechanisms of coupled electron
+4. S. J. Updike, and G. P. Hicks, “The enzyme electrode,” Nature,
+transfer and catalytic reactions by protein film voltam-
+vol. 214, no. 5092, pp. 986–988, 1967, doi: 10.1038/214986a0.
+metry,” Biochim. Biophys. Acta – Bioenerg., vol. 1757, no. 4,
+5. N. Bhalla, P. Jolly, N. Formisano, and P. Estrela, “Introduction
+pp. 225–239, 2006, doi: 10.1016/j.bbabio.2006.04.002.
+to biosensors,” Essays Biochem., vol. 60, no. 1, pp. 1–8, 2016,
+22. E. Laviron, “General expression of the linear potential
+doi: 10.1042/EBC20150001.
+sweep voltammogram in the case of diffusionless elec-
+6. D. A. Armbruster, and T. Pry, “Limit of blank, limit of detec-
+trochemical systems,” J. Electroanal. Chem. Interfacial
+tion and limit of quantitation,” Clin. Biochem. Rev., vol. 29,
+Electrochem., vol. 101, no. 1, pp. 19–28, 1979, doi: 10.1016/
+Suppl 1, no.August, pp. S49–52, 2008.
+S0022-0728(79)80075-3.
+
+--- Page 26 ---
+26 Advanced Materials and Techniques for Biosensors and Bioanalytical Applications
+23. M. J. Cooney, V. Svoboda, C. Lau, G. Martin, and S. D. 38. A. Soni, R. K. Surana, and S. K. Jha, “Smartphone based
+Minteer, “Enzyme catalysed biofuel cells,” Energy Environ. optical biosensor for the detection of urea in saliva,” Sensors
+Sci., vol. 1, no. 3, p. 320, 2008, doi: 10.1039/b809009b.10.1039/ Actuators, B Chem., vol. 269, pp. 346–353, 2018.”
+b809009b. 39. M. M. F. Choi, “Progress in enzyme-based biosensors using
+24. P. Vatsyayan, S. Bordoloi, and P. Goswami, “Large cata- optical transducers,” Microchim. Acta, vol. 148, nos. 3–4,
+lase based bioelectrode for biosensor application,” Biophys. pp. 107–132, 2004, doi: 10.1007/s00604-004-0273-8.
+Chem., vol. 153, no. 1, pp. 36–42, 2010, doi: 10.1016/j. 40. T. Aristotelous, A. L. Hopkins, and I. Navratilova, Surface
+bpc.2010.10.002. plasmon resonance analysis of seven-transmembrane recep-
+25. N. Elgrishi, K. J. Rountree, B. D. McCarthy, E. S. Rountree, tors, 1st ed., vol. 556. Elsevier Inc., 2015.
+T. T. Eisenhart, and J. L. Dempsey, “A practical beginner’s 41. J. A. D. E. Feijter, J. Benjamins, and F. A. Veer, “Ellipsometry
+guide to cyclic voltammetry,” J. Chem. Educ, vol. 95, no. 2, as a tool to study the adsorption behavior of synthetic and
+pp. 197–206, 2018, doi: 10.1021/acs.jchemed.7b00361. biopolymers at the air-water interface,” Biopolymers, vol. 17,
+26. S. R. Chinnadayyala, A. Kakoti, M. Santhosh, and P. Goswami, pp. 1759–1772, 1978.
+“A novel amperometric alcohol biosensor developed in a 3rd 42. M. Piliarik, H. Vaisocherová, and J. Homola, Surface Plasmon
+generation bioelectrode platform using peroxidase coupled Resonance Biosensing in J. M. Walker, Biosensors and
+ferrocene activated alcohol oxidase as biorecognition sys- Biodetection Series Editor. pp. 65–88, 2009, Springer.
+tem,” Biosens. Bioelectron., vol. 55, pp. 120–126, 2014, doi: 43. S. Zadran, S. Standley, K. Wong, E. Otiniano, A. Amighi,
+10.1016/j.bios.2013.12.005. and M. Baudry, “Fluorescence resonance energy transfer
+27. T. Ghosh, P. Sarkar, and A. P. F. Turner, “A novel third gen- (FRET)-based biosensors: Visualizing cellular dynamics and
+eration uric acid biosensor using uricase electro-activated bioenergetics,” Appl. Microbiol. Biotechnol., vol. 96, no. 4,
+with ferrocene on a Nafion-coated glassy carbon electrode,” pp. 895–902, 2012, doi: 10.1007/s00253-012-4449-6.
+Bioelectrochemistry, vol. 102, pp. 1–9, 2015, doi: 10.1016/j. 44. B. T. Bajar, E. S. Wang, S. Zhang, M. Z. Lin, and J. Chu,
+bioelechem.2014.11.001. “A guide to fluorescent protein FRET pairs,” Sensors
+28. D. Brondani, B. de Souza, B. S. Souza, A. Neves, and I. C. (Basel). vol. 16, no. 9, p. 1488, 2016. Published 2016 Sep 14.
+Vieira, “PEI-coated gold nanoparticles decorated with lac- doi:10.3390/s16091488.
+case: A new platform for direct electrochemistry of enzymes 45. R. Cicchi, and F. Saverio Pavone, “Non-linear fluorescence
+and biosensing applications,” Biosens. Bioelectron. vol. 42, lifetime imaging of biological tissues,” Anal. Bioanal.
+no. 1, pp. 242–247, 2013, doi: 10.1016/j.bios.2012.10.087. Chem., vol. 400, no. 9, pp. 2687–2697, 2011, doi: 10.1007/
+29. B. C. Janegitz, R. A. Medeiros, R. C. Rocha-Filho, and O. s00216-011-4896-4.
+Fatibello-Filho, “Direct electrochemistry of tyrosinase and 46. N. E. Azmi, A. H. A. Rashid, J. Abdullah, N. A. Yusof, and
+biosensing for phenol based on gold nanoparticles electro- H. Sidek, “Fluorescence biosensor based on encapsulated
+deposited on a boron-doped diamond electrode,” Diam. quantum dots/enzymes/sol-gel for non-invasive detection of
+Relat. Mater., vol. 25, pp. 128–133, 2012, doi: 10.1016/j. uric acid,” J. Lumin., vol. 202, no. May, pp. 309–315, 2018,
+diamond.2012.02.023. doi: 10.1016/j.jlumin.2018.05.075.
+30. S. K. Moccelini, A. C. Franzoi, I. C. Vieira, J. Dupont, and C. W. 47. T. H. Fereja, A. Hymete, and T. Gunasekaran, “A recent
+Scheeren, “A novel support for laccase immobilization: Cellulose review on chemiluminescence reaction, principle and applica-
+acetate modified with ionic liquid and application in biosensor tion on pharmaceutical analysis,” ISRN Spectrosc., vol. 2013,
+for methyldopa detection,” Biosens. Bioelectron. vol. 26, no. 8, pp. 1–12, 2013, doi: 10.1155/2013/230858.
+pp. 3549–3554, 2011, doi: 10.1016/j.bios.2011.01.043. 48. J. R. Bacon, and J. N. Demas, “Determination of oxygen con-
+31. M. J. Moehlenbrock, R. L. Arechederra, K. H. Sjöholm, centrations by luminescence quenching of a polymer-immobi-
+and S. D. Minteer, “Analytical techniques for character- lized transition-metal complex,” Anal. Chem., vol. 59, no. 23,
+izing enzymatic biofuel cells,” Anal. Chem, vol. 81, no. 23, pp. 2780–2785, 1987, doi: 10.1021/ac00150a012.
+pp. 9538–9545, 2009, doi: 10.1021/ac901243s. 49. I. Klimant, P. Belser, and O. S. Wolfbeis, “Novel metal-
+32. P. Jain, S. Das, B. Chakma, and P. Goswami, “Aptamer- organic ruthenium(II) diimin complexes for use as longwave
+graphene oxide for highly sensitive dual electrochemical detec- excitable luminescent oxygen probes,” Talanta, vol. 41, no. 6,
+tion of Plasmodium lactate dehydrogenase,” Anal. Biochem., pp. 985–991, 1994, doi: 10.1016/0039-9140(94)E0051-R.
+vol. 514, pp. 32–37, 2016, doi: 10.1016/j.ab.2016.09.013. 50. Y. H. Zheng, T. C. Hua, D. W. Sun, J. J. Xiao, F. Xu, and
+33. J. Chouler, Á. Cruz-Izquierdo, S. Rengaraj, J. L. Scott, and F. F. Wang, “Detection of dichlorvos residue by flow injec-
+M. D. Lorenzo, “A screen-printed paper microbial fuel cell tion calorimetric biosensor based on immobilized chicken
+biosensor for detection of toxic compounds in water,” Biosens. liver esterase,” J. Food Eng., vol. 74, no. 1, pp. 24–29, 2006,
+Bioelectron., vol. 102, no. November 2017, pp. 49–56, 2018, doi: 10.1016/j.jfoodeng.2005.02.009.
+doi: 10.1016/j.bios.2017.11.018. 51. K. Ramanathan, and B. Danielsson, “Principles and applica-
+34. Y. Cui, B. Lai, and X. Tang, “Microbial fuel cell-based bio- tions of thermal biosensors,” Biosens. Bioelectron., vol. 16,
+sensors,” Biosensors. vol. 9, pp. 1–18, 2019, doi: 10.3390/ no. 6, pp. 417–423, 2001, doi: 10.1016/S0956-5663(01)00124-5.
+bios9030092. 52. S. Salman, S. Soundararajan, G. Safina, I. Satoh, and B.
+35. J. Z. Sun, G. P. Kingori, R-W. Si, et al., “Microbial fuel cell- Danielsson, “Hydroxyapatite as a novel reversible in situ
+based biosensors for environmental monitoring: A review,” adsorption matrix for enzyme thermistor-based FIA,”
+Water Sci. Technol., vol. 71, no. 6, pp. 801–809, 2015, doi: Talanta, vol. 77, no. 2, pp. 490–493, 2008, doi: 10.1016/j.
+10.2166/wst.2015.035. talanta.2008.04.003.
+36. P. Damborský, J. Švitel, and J. Katrlík, “Optical biosensors,” 53. B. Danielsson, “The enzyme thermistor,” Appl. Biochem.
+Essays Biochem. vol. 60, no. 1, pp. 91–100, 2016, doi: 10.1042/ Biotechnol., vol. 7, nos. 1–2, pp. 127–134, 1982, doi: 10.1007/
+EBC20150010. BF02798634.
+37. A. H. Free, “Analytical applications of immobilized enzymes,” 54. M. Pohanka, “The piezoelectric biosensors: Principles and
+Ann. Clin. Lab. Sci., vol. 7, no. 6, pp. 479–485, 1977. applications, a review,” Int. J. Electrochem. Sci, vol. 12, no. 1,
+pp. 496–506, 2017, doi: 10.20964/2017.01.44.
+
+--- Page 27 ---
+Fundamentals of Biosensors 27
+55. G. Sauerbrey, “Verwendung von Schwingquarzen zur Wägung 72. S. Magrisso, Y. Erel, and S. Belkin, “Microbial reporters
+dünner Schichten und zur Mikrowägung,” Zeitschrift für Phys. of metal bioavailability,” Microb. Biotechnol. vol. 1, no. 4,
+vol. 155, no. 2, pp. 206–222, 1959, doi: 10.1007/BF01337937. pp. 320–330, 2008, doi: 10.1111/j.1751-7915.2008.00022.x.
+56. K. K. Kanazawa, and J. G. Gordon, “Frequency of a quartz 73. O. Domínguez-Renedo, M. A. Alonso-Lomillo, L. Ferreira-
+microbalance in contact with liquid,” Anal. Chem, vol. 57, Gonçalves, and M. J. Arcos-Martínez, “Development of
+no. 8, pp. 1770–1771, 1985, doi: 10.1021/ac00285a062. urease based amperometric biosensors for the inhibitive deter-
+57. B. Drafts, “Acoustic wave technology sensors,” IEEE mination of Hg (II,” Talanta, vol. 79, no. 5, pp. 1306–1310,
+TRANSACTIONS ON MICROWAVE THEORY AND 2009, doi: 10.1016/j.talanta.2009.05.043.
+TECHNIQUES,” vol. 49, pp. 795–802, 2001. 74. B. Kuswandi, “Simple optical fibre biosensor based on immo-
+58. J. M. Abad, F. Pariente, L. Hernández, H. D. Abruña, and E. bilised enzyme for monitoring of trace heavy metal ions,”
+Lorenzo, “Determination of organophosphorus and carba- Anal. Bioanal. Chem. vol. 376, no. 7, pp. 1104–1110, 2003,
+mate pesticides using a piezoelectric biosensor,” Anal. Chem, doi: 10.1007/s00216-003-2001-3.
+vol. 70, no. 14, pp. 2848–2855, 1998, doi: 10.1021/ac971374m. 75. A. P. Das, P. S. Kumar, and S. Swain, “Recent advances in
+59. H. H. Nguyen, and M. Kim, “An overview of techniques in biosensor based endotoxin detection,” Biosens. Bioelectron.,
+enzyme immobilization,” Appl. Sci. Converg. Technol, vol. 26, vol. 51, pp. 62–75, 2014, doi: 10.1016/j.bios.2013.07.020.
+no. 6, pp. 157–163, 2017, doi: 10.5757/asct.2017.26.6.157. 76. J. J. Gooding, “Biosensor technology for detecting biologi-
+60. T. M. Temer, A. M. Omer, and M. Hassan, “Methods of cal warfare agents: Recent progress and future trends,” Anal.
+enzyme immobilization,”Int. J. Curr. Pharm. Rev. Res., vol. Chim. Acta., vol. 559, no. 2, pp. 137–151, 2006, doi: 10.1016/j.
+7, no. 6, pp. 385–392, 2016. aca.2005.12.020.
+61. H. H. Nguyen, S. H. Lee, U. J. Lee, C. D. Fermin, and M. 77. X. Zhang, Q. Guo, and D. Cui, “Recent advances in nano-
+Kim, “Immobilized enzymes in biosensor applications,” technology applied to biosensors,” Sensors, vol. 9, no. 2,
+Materials (Basel). vol. 12, no. 1, pp. 1–34, 2019, doi: 10.3390/ pp.1033–1053, 2009, doi: 10.3390/s90201033.
+ma12010121. 78. S. B. Baker, W. Xiang, and I. Atkinson, “Internet of things
+62. H. Yue, Y. Zhou, P. Wang, et al. “A facile label-free elec- for smart healthcare: Technologies, challenges, and opportu-
+trochemiluminescent biosensor for specific detection of nities,” IEEE Access, vol. 5, no. November, pp. 26521–26544,
+Staphylococcus aureus utilizing the binding between immu- 2017, doi: 10.1109/ACCESS.2017.2775180.
+noglobulin G and protein A,” Talanta, vol. 153, pp. 401–406, 79. J. Kim, A. S. Campbell, B. E. F. de Ávila, and J. Wang,
+2016, doi: 10.1016/j.talanta.2016.03.043. “Wearable biosensors for healthcare monitoring,” Nat.
+63. G. Kim, J. H. Moon, C. Y. Moh, and J. Guk Lim, “A micro- Biotechnol., vol. 37, no. 4, pp. 389–406, 2019, doi: 10.1038/
+fluidic nano-biosensor for the detection of pathogenic s41587-019-0045-y.
+Salmonella,” Biosens. Bioelectron., vol. 67, pp. 243–247, 80. C. N. Kotanen, F. G. Moussy, S. Carrara, and A. Guiseppi-Elie,
+2015, doi: 10.1016/j.bios.2014.08.023. “Implantable enzyme amperometric biosensors,” Biosens.
+64. E. Eser, O. Ö. Ekiz, H. Çelik, S. Sülek, A. Dana, and H. İ. Bioelectron., vol. 35, no. 1, pp. 14–26, 2012, doi: 10.1016/j.
+Ekiz, “Rapid Detection of Foodborne Pathogens by Surface bios.2012.03.016.
+Plasmon Resonance Biosensors,” vol. 5, no. 6, pp. 329–335, 81. C. K. Guiseppi-Elie Anthony, “Development of an implant-
+2015, doi: 10.17706/ijbbb.2015.5.6.329-335. able biosensor system for physiological Status monitoring dur-
+65. N. Hesari, A. Alum, M. Elzein, and M. Abbaszadegan, “A ing Long duration space exploration,” Gravitational Sp. Res.,
+biosensor platform for rapid detection of E. coli in drinking vol. 23, pp. 55–64, 2010.
+water,” Enzyme Microb. Technol., vol. 83, pp. 22–28, 2016, 82. A. Guiseppi-Elie, “An implantable biochip to influence
+doi: 10.1016/j.enzmictec.2015.11.007. patient outcomes following trauma-induced hemorrhage,”
+66. H. Sharma, and R. Mutharasan, “Rapid and sensitive immu- Anal. Bioanal. Chem. vol. 399, no. 1, pp. 403–419, 2011,
+nodetection of Listeria monocytogenes in milk using a novel doi: 10.1007/s00216-010-4271-x.
+piezoelectric cantilever sensor,” Biosens. Bioelectron. vol. 45, 83. H. Endo, Y. Yonemori, K. Hibi, et al., “Wireless enzyme sen-
+no. 1, pp. 158–162, 2013, doi: 10.1016/j.bios.2013.01.068. sor system for real-time monitoring of blood glucose levels
+67. S. Chandra, J. Chapman, A. Power, J. Roberts, and D. in fish,” Biosens. Bioelectron., vol. 24, no. 5, pp. 1417–1423,
+Cozzolino, “The application of state-of-the-art analytic tools 2009, doi: 10.1016/j.bios.2008.08.038.
+(biosensors and spectroscopy) in beverage and food fermenta- 84. C. P. Cheney, B. Srijanto, D. L. Hedden, et al., “In vivo wireless
+tion process monitoring,” Fermentation, vol. 3, no. 4, 2017, ethanol vapor detection in the Wistar rat,” Sensors Actuators,
+doi: 10.3390/fermentation3040050. B Chem., vol. 138, no. 1, pp. 264–269, 2009, doi: 10.1016/j.
+68. J. H. T. Luong, K. B. Male, and J. D. Glennon, “Biosensor snb.2009.01.052.
+technology: Technology push versus market pull,” Biotechnol. 85. E. Johannessen, O. Krushinitskaya, A. Sokolov, et al., “Toward
+Adv. vol. 26, no. 5, pp. 492–500, 2008, doi: 10.1016/j. an injectable continuous osmotic glucose sensor,” J. Diabetes
+biotechadv.2008.05.007. Sci. Technol., vol. 4, no. 4, pp. 882–892, 2010, doi: 10.1177/
+69. M. A. Pfaller, D. M. Wolk, and T. J. Lowery, “T2MR and 193229681000400417.
+T2Candida: Novel technology for the rapid diagnosis of can- 86. B. Bucur, D. Fournier, A. Danet, and J. L. Marty, “Biosensors
+didemia and invasive candidiasis,” Future Microbiol. vol. 11, based on highly sensitive acetylcholinesterases for enhanced
+no. 1, pp. 103–117, 2016, doi: 10.2217/fmb.15.111. carbamate insecticides detection,” Anal. Chim. Acta, vol. 562,
+70. A. F. Sarioglu, N. Aceto, N. Kojic, et al., “A microfluidic no. 1, p. 115–121, 2006, doi: 10.1016/j.aca.2005.12.060.
+device for label-free, physical capture of circulating tumor 87. G. Istamboulie, S. Andreescu, J. L. Marty, and T. Noguer,
+cell-clusters,” Nat. Methods., vol. 12, no. 7, pp. 685–691, 2015, “Highly sensitive detection of organophosphorus insecti-
+doi: 10.1038/nmeth.3404.A. cides using magnetic microbeads and genetically engineered
+71. J. D. Besant, E. H. Sargent, and S. O. Kelley, “Rapid electro- acetylcholinesterase,” Biosens. Bioelectron., vol. 23, no. 4,
+chemical phenotypic profiling of antibiotic-resistant bacteria,” pp. 506–512, 2007, doi: 10.1016/j.bios.2007.06.022.
+Lab Chip, vol. 15, no. 13, pp. 2799–2807, 2015, doi: 10.1039/ 88. S. Sotiropoulou, D. Fournier, and N. A. Chaniotakis,
+c5lc00375j. “Genetically engineered acetylcholinesterase-based biosensor
+
+--- Page 28 ---
+28 Advanced Materials and Techniques for Biosensors and Bioanalytical Applications
+for attomolar detection of dichlorvos,” Biosens. Bioelectron. 90. P. Bollella, and L. Gorton, “Enzyme based amperometric
+vol. 20, no. 11, pp. 2347–2352, 2005, doi: 10.1016/j.bios.2004 biosensors,” Curr. Opin. Electrochem., vol. 10, pp. 157–173,
+.08.026. 2018, doi: 10.1016/j.coelec.2018.06.003.
+89. G. Presnova, V. Grigorenko, A. Egorov, et al., “Direct het- 91. R. W. Peeling, K. K. Holmes, D. Mabey, and A. Ronald,
+erogeneous electron transfer of recombinant horseradish per- “Rapid tests for sexually transmitted infections (STIs): The
+oxidases on gold,” Faraday Discuss., vol. 116, no. February, way forward,” Sex. Transm. Infect. vol. 82, Suppl 5, pp. v1–v6,
+pp. 281–289, 2000, doi: 10.1039/b001645o. 2006, doi: 10.1136/sti.2006.024265.
+

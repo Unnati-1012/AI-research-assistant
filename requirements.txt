@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+jinja2
+python-multipart
+pdfplumber
+langchain
+fastembed
+qdrant-client
+google-generativeai
+python-dotenv

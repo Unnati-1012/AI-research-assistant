@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>PDF Research Assistant</title>
+  <link rel="stylesheet" href="/static/style.css">
+  <style>
+    .message.bot { color: white; }  /* Bot messages in white */
+    #processing-overlay {
+      position: fixed;
+      top:0; left:0;
+      width:100%; height:100%;
+      background: rgba(0,0,0,0.5);
+      display:none;
+      justify-content:center;
+      align-items:center;
+      color:white;
+      font-size:1.5em;
+      z-index:1000;
+    }
+    .history-list li { cursor: pointer; }
+  </style>
+</head>
+<body>
+  <div id="processing-overlay">📄 Uploading and processing PDF...</div>
+  <div class="app-container">
+    <div class="sidebar">
+      <h2>📂 Documents</h2>
+      <form id="upload-form" enctype="multipart/form-data">
+        <input type="file" id="file-input" name="file" />
+        <button type="submit">Upload</button>
+      </form>
+      <ul id="file-list" class="file-list">
+        <li>No documents uploaded yet</li>
+      </ul>
+
+      <h3>💬 Chat History</h3>
+      <ul id="history-list" class="history-list">
+        <li>No history yet</li>
+      </ul>
+    </div>
+
+    <div class="chat-container">
+      <div id="chat-window" class="chat-window">
+        <div class="message bot">👋 Hi! Upload a PDF and ask me questions about it.</div>
+      </div>
+
+      <div class="chat-input">
+        <input id="user-input" type="text" placeholder="Ask your question..." />
+        <select id="doc-select">
+          <option value="">Select document</option>
+        </select>
+        <button id="send-btn">Send</button>
+      </div>
+
+      <div class="history-display">
+        <h3>Selected Question & Answer</h3>
+        <p><strong>Q:</strong> <span id="selected-question"></span></p>
+        <p><strong>A:</strong> <span id="selected-answer"></span></p>
+        <p><strong>📄 PDF:</strong> <span id="selected-meta"></span></p>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const uploadForm = document.getElementById("upload-form");
+    const fileInput = document.getElementById("file-input");
+    const fileList = document.getElementById("file-list");
+    const docSelect = document.getElementById("doc-select");
+    const sendBtn = document.getElementById("send-btn");
+    const userInput = document.getElementById("user-input");
+    const chatWindow = document.getElementById("chat-window");
+    const historyList = document.getElementById("history-list");
+    const selectedQuestion = document.getElementById("selected-question");
+    const selectedAnswer = document.getElementById("selected-answer");
+    const selectedMeta = document.getElementById("selected-meta");
+    const overlay = document.getElementById("processing-overlay");
+
+    let documents = {};
+    let history = {};
+
+    // Upload PDF with overlay
+    uploadForm.addEventListener("submit", async (e) => {
+      e.preventDefault();
+      const file = fileInput.files[0];
+      if (!file) return;
+
+      overlay.style.display = "flex"; // show processing
+      const formData = new FormData();
+      formData.append("file", file);
+
+      try {
+        const res = await fetch("/upload/", { method: "POST", body: formData });
+        const data = await res.json();
+        const docId = data.id;
+        const fileName = file.name;
+        documents[docId] = fileName;
+
+        const li = document.createElement("li");
+        li.textContent = fileName;
+        fileList.appendChild(li);
+
+        const option = document.createElement("option");
+        option.value = docId;
+        option.textContent = fileName;
+        docSelect.appendChild(option);
+
+        alert("PDF uploaded and processed!");
+      } catch (err) {
+        alert("Upload failed: " + err);
+      } finally {
+        overlay.style.display = "none"; // hide processing
+      }
+    });
+
+    function addMessage(sender, text) {
+      const div = document.createElement("div");
+      div.className = `message ${sender}`;
+      div.textContent = text;
+      chatWindow.appendChild(div);
+      chatWindow.scrollTop = chatWindow.scrollHeight;
+    }
+
+    function renderHistory(docId) {
+      historyList.innerHTML = "";
+      if (!history[docId] || history[docId].length === 0) {
+        historyList.innerHTML = "<li>No history yet</li>";
+        return;
+      }
+      history[docId].forEach((entry) => {
+        const li = document.createElement("li");
+        li.textContent = `Q: ${entry.question}`;
+        li.addEventListener("click", () => {
+          selectedQuestion.textContent = entry.question;
+          selectedAnswer.textContent = entry.answer;
+          selectedMeta.textContent = entry.metadata
+            ? `PDF: ${entry.metadata.filename}, Pages: ${entry.metadata.pages.join(", ")}`
+            : "";
+        });
+        historyList.appendChild(li);
+      });
+    }
+
+    // Streaming answer function
+    async function sendQuestionStream() {
+      const question = userInput.value.trim();
+      const docId = docSelect.value;
+      if (!question || !docId) return;
+
+      addMessage("user", question);
+
+      const res = await fetch("/ask/stream/", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ question, doc_id: docId }),
+      });
+
+      const reader = res.body.getReader();
+      const decoder = new TextDecoder();
+      let answer = "";
+      let metadata = null;
+
+      const botDiv = document.createElement("div");
+      botDiv.className = "message bot";
+      chatWindow.appendChild(botDiv);
+
+      while (true) {
+        const { value, done } = await reader.read();
+        if (done) break;
+        const chunk = decoder.decode(value, { stream: true });
+
+        // Check for META chunk
+        if (chunk.startsWith("[META]")) {
+          try {
+            metadata = JSON.parse(chunk.replace("[META]", ""));
+          } catch (err) {
+            console.error("Failed to parse metadata:", err);
+          }
+          continue; // skip adding META to answer text
+        }
+
+        answer += chunk;
+        botDiv.textContent = answer;
+        chatWindow.scrollTop = chatWindow.scrollHeight;
+      }
+
+      if (!history[docId]) history[docId] = [];
+      history[docId].push({ question, answer, metadata });
+      renderHistory(docId);
+
+      // Display metadata below the last answer
+      if (metadata) {
+        const metaDiv = document.createElement("div");
+        metaDiv.className = "message bot";
+        metaDiv.style.fontSize = "0.85em";
+        metaDiv.style.fontStyle = "italic";
+        metaDiv.textContent = `📄 PDF: ${metadata.filename}, Pages: ${metadata.pages.join(", ")}`;
+        chatWindow.appendChild(metaDiv);
+        chatWindow.scrollTop = chatWindow.scrollHeight;
+      }
+
+      userInput.value = "";
+    }
+
+    // Event listeners for send button and Enter key
+    sendBtn.addEventListener("click", sendQuestionStream);
+    userInput.addEventListener("keydown", (e) => {
+      if (e.key === "Enter") {
+        e.preventDefault();
+        sendQuestionStream();
+      }
+    });
+  </script>
+</body>
+</html>
