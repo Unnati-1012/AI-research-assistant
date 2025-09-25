@@ -8,3 +8,4 @@ fastembed
 qdrant-client
 google-generativeai
 python-dotenv
+groq
