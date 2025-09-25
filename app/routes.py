@@ -6,31 +6,28 @@ import asyncio
 import uuid
 import json
 import traceback
+import pdfplumber
 
-from app.utils import extract_text_to_file, chunk_text_and_save, generate_embeddings_and_store
-from app.qdrant_client import search_qdrant_for_doc
-from app.genai_client import answer_with_groq_async
+# Use relative imports within the 'app' package
+from .state import uploaded_docs, chat_history
+from .utils import extract_text_from_pdf, chunk_text, generate_embeddings_and_store
+from .qdrant_client import search_qdrant_for_doc
+from .genai_client import answer_with_groq_async
 
 router = APIRouter()
+
+# --- Configuration ---
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-
-# Templates
 templates = Jinja2Templates(directory=os.path.join(BASE_DIR, "../templates"))
-
-# Directories
 UPLOAD_DIR = os.path.join(BASE_DIR, "../uploaded_pdfs")
-TEXT_DIR = os.path.join(BASE_DIR, "../texts")
-CHUNK_DIR = os.path.join(BASE_DIR, "../chunks")
 os.makedirs(UPLOAD_DIR, exist_ok=True)
-os.makedirs(TEXT_DIR, exist_ok=True)
-os.makedirs(CHUNK_DIR, exist_ok=True)
 
-# Memory storage
-uploaded_docs = {}
-chat_history = {}
+
+# --- Routes ---
 
 @router.get("/", response_class=HTMLResponse)
 async def index(request: Request):
+    """Serve main page"""
     return templates.TemplateResponse(
         "index.html",
         {"request": request, "uploaded_docs": uploaded_docs}
@@ -42,20 +39,22 @@ async def upload_pdf(file: UploadFile = None):
         return JSONResponse({"error": "No file uploaded"}, status_code=400)
     try:
         filename = file.filename
-        uid = str(uuid.uuid4())
-        saved_path = os.path.join(UPLOAD_DIR, f"{uid}_{filename}")
-
+        doc_id = str(uuid.uuid4())
+        saved_path = os.path.join(UPLOAD_DIR, f"{doc_id}_{filename}")
+        
         with open(saved_path, "wb") as f:
             f.write(await file.read())
 
-        extracted_path = extract_text_to_file(saved_path, uid)
-        chunks_path, num_chunks = chunk_text_and_save(extracted_path, uid)
-        generate_embeddings_and_store(chunks_path, uid)
+        full_text = extract_text_from_pdf(saved_path)
+        text_chunks = chunk_text(full_text)
+        num_chunks = len(text_chunks)
+        generate_embeddings_and_store(text_chunks, doc_id)
 
-        uploaded_docs[uid] = {"filename": filename, "path": saved_path}
-        chat_history[uid] = []
+        # Modify the shared state
+        uploaded_docs[doc_id] = {"filename": filename, "path": saved_path}
+        chat_history[doc_id] = []
 
-        return JSONResponse({"id": uid, "filename": filename, "chunks": num_chunks})
+        return JSONResponse({"id": doc_id, "filename": filename, "chunks": num_chunks})
     except Exception as e:
         traceback.print_exc()
         return JSONResponse({"error": f"Error processing file: {e}"}, status_code=500)
@@ -64,6 +63,7 @@ async def upload_pdf(file: UploadFile = None):
 async def ask_question(payload: dict = Body(...)):
     query = payload.get("question")
     doc_id = payload.get("doc_id")
+
     if not query or not doc_id:
         return JSONResponse({"error": "Missing question or doc_id"}, status_code=400)
     if doc_id not in uploaded_docs:
@@ -71,24 +71,39 @@ async def ask_question(payload: dict = Body(...)):
 
     try:
         results = search_qdrant_for_doc(query, doc_id, top_k=10) or []
-        context_chunks = [r.payload.get("text", "") for r in results if r.payload.get("text")]
+        context_chunks = [
+            {"text": r.payload.get("text", ""), "page": r.payload.get("page", None)}
+            for r in results if r.payload.get("text")
+        ]
+        prompt_chunks = [c["text"] for c in context_chunks]
 
         prompt = (
             f"Use the following context from a PDF to answer the question.\n\n"
-            f"Context:\n{'\n\n'.join(context_chunks)}\n\n"
+            f"Context:\n{'\n\n'.join(prompt_chunks)}\n\n"
             f"Question: {query}\n"
             f"Answer based only on the context provided. If the answer is not present, respond 'Not available in the document.'"
-        ) if context_chunks else query
+        ) if prompt_chunks else query
 
         answer = await answer_with_groq_async(prompt)
         chat_history.setdefault(doc_id, []).append({"question": query, "answer": answer})
 
+        pdf_path = uploaded_docs[doc_id]["path"]
+        try:
+            with pdfplumber.open(pdf_path) as pdf:
+                all_pages = list(range(1, len(pdf.pages) + 1))
+        except Exception:
+            all_pages = []
+
+        metadata = {
+            "filename": uploaded_docs[doc_id]["filename"],
+            "pages": all_pages,
+            "used_pages": sorted(list(set([c["page"] for c in context_chunks if c["page"] is not None])))
+        }
+
         return JSONResponse({
-            "query": query,
-            "answer": answer,
-            "doc_id": doc_id,
+            "query": query, "answer": answer, "doc_id": doc_id,
             "history": chat_history.get(doc_id, []),
-            "context": context_chunks,
+            "context": context_chunks, "metadata": metadata
         })
     except Exception as e:
         traceback.print_exc()
@@ -96,46 +111,66 @@ async def ask_question(payload: dict = Body(...)):
 
 @router.post("/ask/stream/")
 async def ask_question_stream(payload: dict = Body(...)):
+    # ... (code to get query, doc_id, prompt is all correct) ...
     query = payload.get("question")
     doc_id = payload.get("doc_id")
+
     if not query or not doc_id:
         return JSONResponse({"error": "Missing question or doc_id"}, status_code=400)
     if doc_id not in uploaded_docs:
         return JSONResponse({"error": "Selected document not found"}, status_code=404)
 
     results = search_qdrant_for_doc(query, doc_id, top_k=10) or []
-    context_chunks = [r.payload.get("text", "") for r in results if r.payload.get("text")]
-
+    context_chunks = [
+        {"text": r.payload.get("text", ""), "page": r.payload.get("page", None)}
+        for r in results if r.payload.get("text")
+    ]
+    prompt_chunks = [c["text"] for c in context_chunks]
     prompt = (
         f"Use the following context from a PDF to answer the question.\n\n"
-        f"Context:\n{'\n\n'.join(context_chunks)}\n\n"
+        f"Context:\n{'\n\n'.join(prompt_chunks)}\n\n"
         f"Question: {query}\n"
         f"Answer based only on the context provided. If the answer is not present, respond 'Not available in the document.'"
-    ) if context_chunks else query
+    ) if prompt_chunks else query
+
 
     async def answer_generator():
         try:
-            answer = await answer_with_groq_async(prompt)
-            if not answer or not answer.strip():
-                answer = "⚠️ No relevant content found." if not context_chunks else "⚠️ Unable to generate answer from the context."
+            pdf_path = uploaded_docs[doc_id]["path"]
+            try:
+                with pdfplumber.open(pdf_path) as pdf:
+                    all_pages = list(range(1, len(pdf.pages) + 1))
+            except Exception:
+                all_pages = []
 
-            for i in range(0, len(answer), 20):
-                yield answer[i:i+20]
-                await asyncio.sleep(0.02)
+            metadata = {
+                "filename": uploaded_docs[doc_id]["filename"],
+                "pages": all_pages,
+                "used_pages": sorted(list(set([c["page"] for c in context_chunks if c["page"] is not None])))
+            }
+
+            full_answer = ""
+            
+            # --- THIS IS THE CORRECTED LINE ---
+            async for chunk in await answer_with_groq_async(prompt, stream=True):
+                full_answer += chunk
+                yield chunk
+                await asyncio.sleep(0.01)
+
+            if not full_answer.strip():
+                final_text = "⚠️ No relevant content found." if not context_chunks else "⚠️ Unable to generate answer from the context."
+                yield final_text
+                full_answer = final_text
+
+            yield f"[META]{json.dumps(metadata)}"
 
             chat_history.setdefault(doc_id, []).append({
                 "question": query,
-                "answer": answer,
-                "sources": results
+                "answer": full_answer,
+                "sources": context_chunks
             })
-
-            meta = {
-                "filename": uploaded_docs[doc_id]["filename"],
-                "pages": list({r.payload.get("page_number") for r in results if r.payload.get("page_number") is not None})
-            }
-            yield f"[META]{json.dumps(meta)}"
-
         except Exception as e:
+            traceback.print_exc()
             yield f"⚠️ Error: {e}"
 
-    return StreamingResponse(answer_generator(), media_type="text/plain")
+    return StreamingResponse(answer_generator(), media_type="text/event-stream")

@@ -1,128 +1,86 @@
+# app/utils.py
 import os
 import uuid
 import pdfplumber
-from fastapi import UploadFile
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from .embeddings import embed_text
-from .qdrant_client import qdrant, COLLECTION_NAME
 from qdrant_client.http import models
 
-import os
-import uuid
-import pdfplumber
+# Assuming these are in other files and imported correctly
+from .embeddings import embed_text
+from .qdrant_client import qdrant, COLLECTION_NAME
 
-# ---------------- PDF extraction ----------------
-def extract_text_to_file(pdf_path, doc_id):
-    extracted_file = os.path.join(os.path.dirname(pdf_path), f"{doc_id}_extracted.txt")
-    with pdfplumber.open(pdf_path) as pdf, open(extracted_file, "w", encoding="utf-8") as f:
-        for i, page in enumerate(pdf.pages, 1):
-            text = page.extract_text()
-            if text:
-                f.write(f"[PAGE_{i}]\n{text}\n")
-    return extracted_file
+# --- Define Directories Relative to this file ---
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+TEXT_DIR = os.path.join(BASE_DIR, "../texts") # Assuming 'texts' is one level up
+CHUNK_DIR = os.path.join(BASE_DIR, "../chunks") # No longer needed, but kept for context
 
-# ---------------- Chunking ----------------
-def chunk_text_and_save(extracted_path, doc_id, chunk_size=500):
-    chunks_file = os.path.join(os.path.dirname(extracted_path), f"{doc_id}_chunks.txt")
-    with open(extracted_path, "r", encoding="utf-8") as f:
-        text = f.read()
-    chunks = []
-    for i in range(0, len(text), chunk_size):
-        chunks.append(text[i:i+chunk_size])
-    with open(chunks_file, "w", encoding="utf-8") as f:
-        for chunk in chunks:
-            f.write(chunk + "\n")
-    return chunks_file, len(chunks)
-
-UPLOAD_DIR = os.path.join(os.path.dirname(__file__), "../uploads")
-TEXT_DIR = os.path.join(os.path.dirname(__file__), "../texts")
-CHUNK_DIR = os.path.join(os.path.dirname(__file__), "../chunks")
-
-os.makedirs(UPLOAD_DIR, exist_ok=True)
 os.makedirs(TEXT_DIR, exist_ok=True)
-os.makedirs(CHUNK_DIR, exist_ok=True)
+# os.makedirs(CHUNK_DIR, exist_ok=True) # We won't be saving chunks to a file anymore
 
 
-async def save_pdf_file(file: UploadFile):
+def extract_text_from_pdf(pdf_path: str) -> str:
     """
-    Save uploaded PDF to disk.
-    Returns: (uid, filename, saved_path)
+    Extracts raw text content from a PDF file.
+    Returns: A single string with all the text.
     """
-    uid = str(uuid.uuid4())
-    filename = file.filename
-    saved_path = os.path.join(UPLOAD_DIR, f"{uid}_{filename}")
-
-    with open(saved_path, "wb") as f:
-        f.write(await file.read())
-
-    return uid, filename, saved_path
-
-
-def extract_text_to_file(pdf_path: str, uid: str) -> str:
-    """
-    Extract text from PDF and save as a .txt file.
-    """
-    text_output_path = os.path.join(TEXT_DIR, f"{uid}.txt")
     text_content = ""
-
     with pdfplumber.open(pdf_path) as pdf:
-        for page in pdf.pages:
+        for i, page in enumerate(pdf.pages, 1):
             page_text = page.extract_text()
             if page_text:
-                text_content += page_text + "\n"
-
-    with open(text_output_path, "w", encoding="utf-8") as f:
-        f.write(text_content)
-
-    return text_output_path
+                # Add a page marker for context
+                text_content += f"\n\n--- Page {i} ---\n\n{page_text}"
+    return text_content
 
 
-def chunk_text_to_file(text_path: str, uid: str, chunk_size: int = 1000, chunk_overlap: int = 200):
+def chunk_text(text: str, chunk_size: int = 1000, chunk_overlap: int = 150) -> list[str]:
     """
-    Split text into chunks and save each chunk to a file.
-    Returns: (chunks_path, num_chunks)
+    Splits a long text into smaller chunks.
+    Returns: A list of text chunks.
     """
-    with open(text_path, "r", encoding="utf-8") as f:
-        text = f.read()
-
     splitter = RecursiveCharacterTextSplitter(
         chunk_size=chunk_size,
-        chunk_overlap=chunk_overlap
+        chunk_overlap=chunk_overlap,
+        length_function=len,
     )
     chunks = splitter.split_text(text)
-
-    chunks_path = os.path.join(CHUNK_DIR, f"{uid}_chunks.txt")
-    with open(chunks_path, "w", encoding="utf-8") as f:
-        for chunk in chunks:
-            f.write(f"{chunk}\n")
-
-    return chunks_path, len(chunks)
+    return chunks
 
 
-def generate_embeddings_and_store(chunks_path: str, doc_id: str):
+def generate_embeddings_and_store(chunks: list[str], doc_id: str):
     """
-    Generate embeddings for each chunk and store in Qdrant using UUIDs for point IDs.
+    Generate embeddings for each chunk and store in Qdrant.
+    This function now takes a list of chunks directly.
     """
-    with open(chunks_path, "r", encoding="utf-8") as f:
-        chunks = [line.strip() for line in f if line.strip()]
-
+    # Get embeddings for the chunks
     embeddings = embed_text(chunks)
 
+    # Prepare points for Qdrant
     points = []
     for chunk, emb in zip(chunks, embeddings):
+        # You could parse the '--- Page X ---' marker here to get page number
+        page_number = None
+        if "--- Page " in chunk:
+            try:
+                # Simple parsing, can be made more robust
+                page_number = int(chunk.split('---')[1].split('Page')[1].strip())
+            except (ValueError, IndexError):
+                page_number = None
+        
         points.append(
             models.PointStruct(
-                id=str(uuid.uuid4()),  # Use valid UUID for Qdrant
+                id=str(uuid.uuid4()),
                 vector=emb,
-                payload={"text": chunk, "doc_id": doc_id}
+                payload={"text": chunk, "doc_id": doc_id, "page": page_number}
             )
         )
 
+    if not points:
+        return # Nothing to upsert
+
+    # Upsert points to Qdrant
     qdrant.upsert(
         collection_name=COLLECTION_NAME,
-        points=points
+        points=points,
+        wait=True # Ensures the operation is completed before returning
     )
-
-
-# Alias for backward compatibility
-chunk_text_and_save = chunk_text_to_file
