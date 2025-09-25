@@ -1,0 +1,2116 @@
+--- Page 1 ---
+Chapter One Introduction
+Biomaterials
+Biomaterials are used to make devices to replace a part or a function of the body in
+safe, reliably economically, and physiologically acceptable manner. A variety of devices
+and materials are used in the treatment of disease or injury. Commonplace examples
+include suture needles, plates, teeth fillings, etc.
+Term Definitions
+Biomaterial: A synthetic material used to make devices to replace part of a living system or
+to function in intimate contact with living tissue.
+Biological Material: A material that is produced by a biological system.
+Bio-compatibility: Acceptance of an artificial implant by the surrounding tissues and by the
+body as a whole.
+Fields of Knowledge to Develop Biomaterials
+1- Science and engineering: (Materials Science) structure-property relationships of
+synthetic and biological materials including metals, ceramics, polymers, composites,
+tissues (blood and connective tissues), etc.
+2- Biology and Physiology: Cell and molecular biology, anatomy, animal and human
+physiology, histopathology, experimental surgery, immunology, etc.
+3- Clinical Sciences: (All the clinical Specialties) density, maxillofacial, neurosurgery,
+obstetrics and gynecology, ophthalmology, orthopedics, plastic and reconstructive
+surgery, thoracic and cardiovascular surgery, veterinary medicine and surgery, etc.
+١
+
+--- Page 2 ---
+Chapter One Introduction
+Uses of Biomaterials
+Uses of Biomaterials Example
+Replacement of diseased and Artificial hip joint,
+damaged part kidney dialysis machine
+Assist in healing Sutures, bone plates and screws
+Improve function Cardiac pacemaker, intra-ocular lens
+Correct functional abnormalities Cardiac pacemaker
+Mastectomy augmentation,
+Correct cosmetic problem
+chin augmentation
+Aid to diagnosis Probes and catheters
+Aid to treatment Catheters, drains
+Biomaterials in Organs
+Organ Example
+Heart Cardiac pacemaker, artificial heart valve, Totally artificial heart
+Lung Oxy-generator machine
+Eye Contact lens, intraocular lens
+Ear Artificial stapes, cochlea implant
+Bone Bone plate, intra-medullary rod
+Kidney Kidney dialysis machine
+Bladder Catheter and stent
+٢
+
+--- Page 3 ---
+Chapter One Introduction
+Materials for Use in the Body
+Materials Advantages Disadvantages Examples
+Polymers (nylon, silicon Not strong Blood vessels,
+Resilient
+Rubber, polyester, Deforms with time Sutures, ear, nose,
+Easy to Fabricate
+PTFE, etc) May degrade Soft tissues
+Joint replacement,
+Metals (Ti and its alloys Bone plates and
+Strong Tough May corrode, dense,
+Co-Cr alloys, stainless Screws, dental root
+ductile Difficult to make
+Steels) Implant, pacer, and
+suture
+Ceramics
+(Aluminum Oxide,
+calcium phosphates, Very biocompatible Difficult to make Dental coating
+including Inert strong in Brittle Orthopedic implants
+hydroxyapatite compression Not resilient Femoral head of hip
+carbon)
+Composites
+(Carbon-carbon, wire
+Compression Joint implants
+Or fiber reinforced Difficult to make
+strong Heart valves
+Bone cement)
+The science of biomedical materials involves a study of the composition and
+properties of materials and the way in which they interact with the environment in which
+they are placed.
+The number of medical devices used each year is very large. The chart below
+estimates usage for common devices.
+٣
+
+--- Page 4 ---
+Chapter One Introduction
+Device Usage Estimate
+Contact lens 75,000,000
+Hip and knee prostheses 1,000,000
+Catheter 300,000,000
+Heart valve 200,000
+Vascular graft 400,000
+Breast implant 300,000
+Dental implant 500,000
+Pace maker 200,000
+Renal dialyzer 25,000,000
+Cardiovascular 2,000,000
+Intraocular lens 7,000,000
+Left ventricular assist devices 100,000
+Selection of Biomedical Materials
+The process of material selection should ideally be for a logical sequence involving:
+1- Analysis of the problem;
+2- Consideration of requirement;
+3- Consideration of available material and their properties leading to:
+4- Choice of material.
+The choice of a specific biomedical material is now determined by consideration of the
+following:
+1- A proper specification of the desired function for the material;
+2- An accurate characterization of the environment in which it must function, and
+the effects that environment will have on the properties of the material;
+3- A delineation of the length of time the material must function;
+4- A clear understanding of what is meant by safe for human use.
+٤
+
+--- Page 5 ---
+Chapter One Introduction
+Materials Evaluation
+As the number of available materials increases, it becomes more and more important
+to be protected from unsuitable products or materials, which haven't been thoroughly
+evaluated.
+Most manufacturers of materials operate an extensive quality assurance program and
+materials are thoroughly tested before being released to the general practitioner.
+1- Standard Specifications: Many standard specification tests of both national and
+international standards organizations (ISO) are now available, which effectively
+maintain quality levels. Such specifications normally give details for:
+(a) the testing of certain products,
+(b) the method of calculating the results
+(c) the minimum permissible result, which is acceptable.
+2- Laboratory Evaluation: Laboratory tests, some of which are used in standard
+specification, can be used to indicate the suitability of certain materials. It is
+important that methods used to evaluate materials in laboratory give results, which
+can be correlated with clinical experience.
+3- Clinical Trials: Although laboratory tests can provide many important and useful
+data on materials, the ultimate test is the controlled clinical trial and verdict of
+practitioners after a period of use in general practice. Many materials produce good
+results in the laboratory, only to be found lacking when subjected to clinical use.
+The majority of manufacturers carry out extensive clinical trials of new materials,
+normally in cooperation with a university or hospital department, prior to releasing
+a product for use by general practitioners.
+The most common classes of materials used as biomedical materials are
+polymers, metals, and ceramics. These three classes are used singly and in combination to
+form most of the implantation devices available today.
+٥
+
+--- Page 6 ---
+Chapter One Introduction
+1- Polymers
+There are a large number of polymeric materials that have been used as implants or
+part of implant systems. The polymeric systems include acrylics, polyamides, polyesters,
+polyethylene, polysiloxanes, polyurethane, and a number of reprocessed biological
+materials.
+Some of the applications include the use of membranes of ethylene-vinyl-acetate
+(EVA) copolymer for controlled release and the use of poly-glycolic acid for use as a
+resorbable suture material. Some other typical biomedical polymeric materials applications
+include: artificial heart, kidney, liver, pancreas, bladder, bone cement, catheters, contact
+lenses, cornea and eye-lens replacements, external and internal ear repairs, heart valves,
+cardiac assist devices, implantable pumps, joint replacements, pacemaker, encapsulations,
+soft-tissue replacement, artificial blood vessels, artificial skin, and sutures.
+As bioengineers search for designs of ever increasing capabilities to meet the needs of
+medical practice, polymeric materials alone and in combination with metals and ceramics
+are becoming increasingly incorporated into devices used in the body.
+2- Metals
+The metallic systems most frequently used in the body are:
+(a) Iron-base alloys of the 316L stainless steel
+(b) Titanium and titanium-base alloys, such as
+(i)Ti-6% Al-4%V, and commercially pure ‡ 98.9%
+(ii) Ti-Ni (55% Ni and 45% Ti)
+(c) Cobalt base alloys of four types
+(i) Cr (27-30%), Mo (5-7%), Ni (2-5%)
+(ii) Cr (19-21%), Ni (9-11%), W (14-16%)
+(iii) Cr (18-22%), Fe (4-6%), Ni (15-25%), W (3-4%)
+(iv)Cr (19-20%), Mo (9-10%), Ni (33-37%)
+٦
+
+--- Page 7 ---
+Chapter One Introduction
+The most commonly used implant metals are the 316L stainless steels, Ti-6%-4%V,
+and Cobalt base alloys of type "i" and "ii". Other metal systems being investigated include
+Cobalt-base alloys of type "iii" and "iv", and Niobium and shape memory alloys, of which
+(Ti 45% - 55%Ni) is receiving most attention. Further details of metallic biomedical
+materials will be given later.
+3- Composite Materials
+Composite materials have been extensively used in dentistry and prosthesis designers
+are now incorporating these materials into other applications. Typically, a matrix of
+ultrahigh-molecular-weight polyethylene (UHMWPE) is reinforced with carbon fibers.
+These carbon fibers are made by pyrolizing acrylic fibers to obtain oriented graphitic
+structure of high tensile strength and high modulus of elasticity. The carbon fibers are 6-
+m
+15 m in diameter, and they are randomly oriented in the matrix. In order for the high
+modulus property of the reinforcing fibers to strengthen the matrix, a sufficient interfacial
+bond between the fiber and matrix must be achieved during the manufacturing process.
+This fiber reinforced composite can then be used to make a variety of implants such as
+intra-medullary rods and artificial joints. Since the mechanical properties of these
+composites with the proportion of carbon fibers in the composites, it is possible to modify
+the material design flexibility to suit the ultimate design of prostheses.
+Composites have unique properties and are usually stronger than any of the single
+materials from which they are made. Workers in this field have taken advantages of this
+fact and applied it to some difficult problems where tissue in-growth is necessary.
+Examples:
+Deposited Al O onto carbon;
+2 3
+Carbon / PTFE;
+Al O / PTFE;
+2 3
+PLA-coated Carbon fibers.
+٧
+
+--- Page 8 ---
+Chapter One Introduction
+4 – Ceramics
+The most frequently used ceramic implant materials include aluminum oxides, calcium
+phosphates, and apatites and graphite. Glasses have also been developed for medical
+applications. The use of ceramics was motivated by:
+(i) their inertness in the body,
+(ii) their formability into a variety of shapes and porosities,
+(iii) their high compressive strength, and
+(iv) some cases their excellent wear characteristics.
+Selected applications of ceramics include:
+(a) hip prostheses,
+(b) artificial knees,
+(c) bone grafts,
+(d) a variety of tissues in growth related applications in
+(d.1) orthopedics
+(d.2) dentistry, and
+(d.3) heart valves.
+Applications of ceramics are in some cases limited by their generally poor mechanical
+properties: (a) in tension; (b) load bearing, implant devices that are to be subjected to
+significant tensile stresses must be designed and manufactured with great care if ceramics
+are to be safely used.
+5 – Biodegradable Materials
+Another class of materials that is receiving increased attention is biodegradable
+materials. Generally, when a material degrades in the body its properties change from their
+original values leading to altered and less desirable performance. It is possible, however, to
+design into an implant's performance the controlled degradation of a material, such that
+natural tissue replaces the prosthesis and its function.
+٨
+
+--- Page 9 ---
+Chapter One Introduction
+Examples include: Suture material that hold a wound together but resorb in the
+body as the wound heals and gains strength. Another application of these materials occurs
+when they are used to encourage natural tissue to grow. Certain wound dressings and
+ceramic bone augmentation materials encourage tissue to grow into them by providing a
+"scaffold". The scaffold material may or may not resorb over a period of time but in each
+case, natural tissue has grown into the space, then by restoring natural function. One final
+application of biodegradable materials is in drug therapy, where it is possible to chemically
+bond certain drugs to the biodegradable material, when these materials are placed within
+the body the drug is released as the material degrades, thereby providing a localized,
+sustained release of drugs over a predictable period of time.
+Success and Failure are seen with Biomaterials and Medical Devices
+Most biomaterials and medical devices perform satisfactorily, improving the quality of
+life for the recipient or saving lives. Still, man-made constructs are never perfect.
+Manufactured devices have a failure rate. Also, all humans differ in genetics, gender, body
+chemistries, living environment, and physical activity. Furthermore, physicians also differ
+in their "talent" for implanting devices.
+The other side to the medical device success story is that there are problems,
+compromises and complications that occur with medical devices.
+Central issues for the biomaterials scientist, manufacturer, patient, physician, and
+attorney are:
+1- what represents good design;
+2- Who should be responsible when devices perform with an inappropriate host
+response;
+3- What is the cost/risk or cost/benefit ratio for the implant or therapy?
+These five characteristics of biomaterial science-multidisciplinary, multi-material,
+need driven, substantial market, and risk-benefit, color the field of biomaterials.
+٩
+
+--- Page 10 ---
+Chapter One Introduction
+What Subjects are Important to Biomaterials Science?
+1- Toxicology
+A biomaterial should not be toxic, unless it is specifically engineered for
+such requirements (for example a "smart" bomb" drug delivery system that targets
+cancer cells and destroy them). Toxicology for biomaterials deals with the
+substances that migrate out of the biomaterials. It is reasonable to say that a
+biomaterial should not give off anything from its mass unless it is specifically
+designed to do so.
+2- Biocompatibility
+It is the ability of a material to perform with an appropriate host response
+in a specific application. "Appropriate host response" includes lack of blood
+clotting, resistance of bacterial colonization and normal heating. The operational
+definition of biocompatible "the patient is alive so it must be biocompatible".
+3-Functional Tissue Structure and Pathobiology
+Biomaterials incorporated into medical devices are implanted into tissues
+and organs. Therefore, the key principles governing the structure of normal and
+abnormal cells, tissues or organs, the technique by which the structure and
+function of normal and abnormal tissues are studied, and the fundamental
+mechanisms of disease processes are critical considerations to workers in the
+field.
+4- Healing
+Special processes are invoked when a material or device heals in the
+body. Injury to tissue will stimulate the well-defined inflammatory reaction
+sequence that leads to healing. When a foreign body is present in the wound site,
+the reaction sequence is referred to as the "foreign body reaction". This reaction
+will differ in intensity and duration depending upon the anatomical site involved.
+١٠
+
+--- Page 11 ---
+Chapter One Introduction
+5- Dependence on Specific Anatomical Sites of Implantation
+An intraocular lens may go into the lens capsule or the anterior chamber
+of the eye. A hip-joint will be implanted in bone across an articulating joint space.
+A heart valve will be sutured into cardiac muscle and will contact both soft tissues
+and blood. A catheter may be placed in an artery. Each of these sites challenges
+the biomedical device designer with special requirements for geometry, size,
+mechanical properties, and bio-responses.
+6- Mechanical and Performance Requirements
+Biomaterials and devices have mechanical and performance requirements
+that originate from the physical properties of the materials. The following are
+three categories of such requirements:
+i. Mechanical Performance
+ii. Mechanical durability
+iii. Physical Properties
+(A) Mechanical performance.
+Device Properties
+A hip prosthesis Must be strong and rigid
+A tendon material Must be strong and flexible
+A heart valve leaflet Must be flexible and tough
+An articular cartilage substitute Must be soft and elastomeric
+A dialysis membrane Must be strong and flexible but not elastomer
+(B) Mechanical durability
+A catheter may only have to perform for 3 days. A bone plate may fulfill
+its function in 6 months or longer. A leaflet in a heart valve must flex 60 times per
+minute without tearing for the lifetime of the patient (for 10 years). A hip joint must
+not fail under heavy loads for more than 10 years.
+١١
+
+--- Page 12 ---
+Chapter One Introduction
+(C) The physical properties
+The dialysis membrane has a specified permeability. The articular cup of
+the hip joint has high lubricity. The intraocular lens has clarity and refraction
+requirements.
+7- Industrial Involvement
+A significant basic research effort is now under way to understand how
+biomaterials function and how to optimize them. At the same time, companies are
+producing implants for use in humans and appropriate to the mission of the company,
+earning profits on the sale of medical devices.
+Industry deals well with technologies, such as packaging, sterilization,
+storage, distribution and quality control, and analysis. These subjects are specialized
+technologies, often ignored by academic researchers.
+8- Ethics
+A wide range of ethical considerations impact biomaterials. Like most
+ethical questions, an absolute answer may be difficult to come by. Some articles have
+addressed ethical questions in biomaterials and debated the important points.
+9- Regulation
+The patient demands safe medical devices. To prevent inadequately tested
+devices and materials from coming on the market, and to screen out individuals clearly
+unqualified to produce biomaterials. The International Standards Organization (ISO)
+has introduced international standards for world community.
+١٢
+
+--- Page 13 ---
+CHAPTER TWO PROPERTIES OF BIOMATERIALS
+1- Physical Properties
+(i) Mechanical Properties of Biomaterials
+The tensile test is a common testing procedure used to provide data for
+characterization of biomaterials. The discussion below focuses on special
+considerations needed fro tensile testing biological soft tissue (e.g. ligament and
+tendon) compared to traditional engineering materials (e.g. aluminum and steel).
+(a) Traditional Engineering Materials
+Common assumptions used for testing and analysis of traditional materials are
+that they are homogeneous, exhibit small deformations and are linearly elastic.
+Young's modulus (E), the slope of the elastic portion of stress-strain curve, is a
+quantity often used to assess a material stiffness. The linear elastic assumption
+makes the determination of "E" relatively straight-forward as it can be assessed
+anywhere along the initial linear portion of the curve.
+Stress-strain curve of traditional engineering materials
+١
+
+--- Page 14 ---
+CHAPTER TWO PROPERTIES OF BIOMATERIALS
+Biological Soft Tissue Materials
+The assumptions made for the traditional materials are not valid when
+testing biological soft tissue samples. These materials are, in general, non-
+homogeneous due to the orientation of their collagen and elastin fibers. Hence,
+care must be taken when collecting samples and positioning them in testing
+system to ensure the directions are consistent with the intended analysis.
+Biological tissues exhibit large deformation before failure, therefore, any
+transducer used to measure strain will need to accommodate the large
+movement. Due to the un-crimping of collagen fibers and elasticity of elastin,
+the initial portion of a biological sample stress-strain curve has a high
+deformation/low force characteristics known as the toe region. In short, unlike
+traditional materials, this region is non-linear. A linear region is typically
+identified after the toe region and is used for the determination of E.
+Stress-Strain Curve of Biological Soft Tissue Material
+The mechanical properties of biological tissues are strain or loading rate
+dependent due to these tissues, visco-elastic nature. For example, biological
+tissues typically become stiffer with increasing strain rate (see figure below).
+٢
+
+--- Page 15 ---
+CHAPTER TWO PROPERTIES OF BIOMATERIALS
+Strain rate Dependence
+As such, predetermined and tightly controlled strain or loading rates must
+be maintained during testing. Furthermore, many biological tissues in their
+normal state are preconditioned (e.g. the anterior cruciate ligament) while many
+are not (e.g. brain).
+For a tissue that has not been preconditioned, its response to load or
+displacement from one cycle to the next will not be similar; hence results will
+not be consistent (See figure below).
+Preconditioning
+٣
+
+--- Page 16 ---
+CHAPTER TWO PROPERTIES OF BIOMATERIALS
+Depending on the type of tissue being tested or response of interest (e.g.
+sudden impact or fatigue failure), preconditioning as part of the testing protocol
+may or may not be necessary.
+(ii) Thermal Properties
+Wide temperature fluctuations occur in the oral cavity due to the ingestion
+of hot or cold food and drink. Thermal Conductivity is the rate of heat flow per
+unit temperature gradient. Thus, good conductors have high values of
+conductivity.
+Material Thermal Conductivity
+Enamel 0.92 W.m-1.oC-1
+Dentine ٠.63 W.m-1.oC-1
+Acrylic Resin 0.21 W.m-1.oC-1
+Dental Amalgam 23.02 W.m-1.oC-1
+Zinc Phosphate Cement 1.17 W.m-1.oC-1
+Zinc Oxide Cement 0.46 W.m-1.oC-1
+Silicate Materials 0.75 W.m-1.oC-1
+Porcelain 1.05 W.m-1.oC-1
+Gold 291.70 W.m-1.oC-1
+K
+(a) Thermal Diffusivity (D) is defined by the equation:D= ,
+C r
+p
+Where, K is thermal conductivity;
+C is heat capacity, and
+p
+r
+is density.
+٤
+
+--- Page 17 ---
+CHAPTER TWO PROPERTIES OF BIOMATERIALS
+Measurements of thermal diffusivity are often made by embedding a
+thermocouple in a specimen of material and plunging the specimen into hot or
+cold liquid. If the temperature, recorded by the thermocouple, rapidly reaches
+that of the liquid, this indicates a high value of diffusivity. A slow response
+indicates a lower value of diffusivity is preferred. In many circumstances, a low
+value of diffusivity is preferred. There are occasions on which a high value is
+beneficial. For example, a denture base material, ideally, should have a high
+value of thermal diffusivity in order that the patient retains a satisfactory
+response to hot and cold stimuli in the mouth.
+(b) Coefficient of Thermal Expansion is defined as the fractional increase in
+length of a body for each degree centigrade increase in temperature.
+DL/L
+a = o o C -1
+DT
+D
+Where L is the change in length;
+L is the original length;
+o
+D
+T is the temperature change.
+a
+Because the values of very small numbers. For example for amalgam
+a=0.0000025 oC-1=25 oC-1 p.p.m ( part per million).
+Coefficient of thermal
+Material
+expansion(p.p.m.oC-1)
+Enamel 11.4
+Dentine 8.0
+Acrylic Resin 90.0
+Porcelain 4.0
+Amalgam 25.0
+Composite resins 25 – 60
+Silicate Cements 10.0
+٥
+
+--- Page 18 ---
+CHAPTER TWO PROPERTIES OF BIOMATERIALS
+This property is particularly important for filling materials. For filling
+materials, the most ideal combination of properties would be low value of
+a
+diffusivity combined with ( ) similar to that for tooth substance.
+(2) Chemical Properties
+One of the main factors, which determine the durability of a material, is
+its chemical stability. Material should not dissolve, erode or corrode, nor should
+they leach important constituents into oral fluids.
+(i) Solubility and Erosion
+The solubility of a material is a measurement of the extent to which it will
+dissolve in a given fluid, for example, water or saliva. Erosion is a process
+which combines the chemical process of dissolution with a mild mechanical
+action.
+These properties are particularly important for all restorative materials
+since a high solubility or poor resistance to erosion will severely limit the
+effective lifetime of the restoration.
+The pH of oral fluids may vary from pH4 to pH8.5, representing a range
+from mildly acidic to mildly alkaline. Highly acidic soft drinks and the use of
+chalk-containing tooth-pastes extend this range from a lower end of pH2 up to
+pH11. It is possible for a material to be stable at near neutral pH7 values but to
+erode rapidly at extremes of either acidity or alkalinity.
+Standard tests of solubility often involve the storage of disc specimens of
+materials in water for a period of time, the results being quoted as the percentage
+weight loss of the disc. Such methods, however, often give misleading results.
+٦
+
+--- Page 19 ---
+CHAPTER TWO PROPERTIES OF BIOMATERIALS
+When comparing silicate and phosphate cements, for example, silicate materials
+appear more soluble in simple laboratory test, but in practice they are more
+durable than the phosphates.
+(ii) Leaching of Constituents
+Many materials, when placed in an aqueous environment, absorb water by
+a diffusion process. Constituents of the material may be lost into the oral fluids
+by a diffusion process commonly referred to as leaching.
+Some soft acrylic polymers, used for cushioning, the fitting surfaces of
+dentures rely on the absence of relatively large quantities of plasticizer in the
+acrylic resin for their softness. The slow leaching of plasticizer causes the resin
+to become hard and, therefore, ineffective as a cushion.
+Occasionally, leaching is used to the benefit of the patient. For example,
+in some cements containing calcium hydroxide, slow leaching causes an alkaline
+environment in the base of deep cavities. This has the dual benefit of being
+antibacterial and of encouraging secondary dentine formation.
+(iii) Corrosion
+It is a term which specifically characterizes the chemical reactivity of
+metals and alloys. Metals and alloys are good electrical conductors and many
+corrosion processes involve the setting up of an electrolytic cell as a first stage
+in the process.
+The tendency of a metal to corrode can be predicted from its electrode
+potential. It can be seen from the figure below, that materials with large negative
+electrode potential values are more reactive whilst those with large positive
+values are far less reactive and are often referred to as noble metals.
+٧
+
+--- Page 20 ---
+CHAPTER TWO PROPERTIES OF BIOMATERIALS
+Gold
+Platinum
++ve Electrode Silver
+Potential Mercury
+Copper
+Hydrogen Increasing Increasing
+Iron Nobility Reactivity
+Tin
+-ve Electrode Chromium
+Potential Zinc
+Aluminum
+Calcium
+It can be seen that chromium has a negative value of electrolytic potential
+and is at the reactive end of the series of metals shown. It is, therefore,
+surprising to learn that chromium is included as a component of many alloys in
+order to improve corrosion resistance. The apparent contradiction can be
+explained by the passivating effect. Although chromium is electrochemically
+active it reacts readily forming a layer of chromic oxide, which protects the
+metal or alloy from further decomposition.
+Other factors, which can affect the corrosion of metals and alloys, are
+stress and surface roughness. Stress in metal components of appliances
+produces, for example, by excessive or continued bending can accelerate the rate
+of corrosion and may lead to failure by stress corrosion cracking.
+Pits in rough surfaces can lead to the setting up of small corrosion cells in
+which the material at the bottom of the pit acts as the anode and that at the
+surface acts as the cathode. The mechanism of this type of corrosion sometimes
+referred to as concentration cell corrosion , is complicated but is caused by the
+fact that pits tend to become filled with debris, which reduces the oxygen
+٨
+
+--- Page 21 ---
+CHAPTER TWO PROPERTIES OF BIOMATERIALS
+concentration in the base of the pit compared with the surface. In order to reduce
+corrosion by this new mechanism, metals and alloys used in the mouth should be
+polished to remove surface irregularities.
+Ideally, a material placed into a patient's mouth should be non-toxic, non-
+irritant, have no carcinogenic or allergic potential and if used as a filling
+material, should be harmless to the pulp.
+٩
+
+--- Page 22 ---
+CHAPTER THREE BIOCERAMICS
+(I) Bio-ceramics
+Ceramics are used for the repair and restoration of diseased or damaged parts
+of the musculo-skeletal system.
+Bio-ceramics may be:
+1- Bioinert like Alumina (Al O ), Zirconia (ZrO );
+2 3 2
+2- Resorbable like tri-calcium phosphate (TCP);
+3- Bioactive like Hydroxyapatite, bioactive glasses, and glass-ceramics;
+4- Porous for tissue in-growth (hydroxyapatite-coated metals, alumina) of the jaw
+bone.
+Applications include: Replacement for hips, knees, teeth, tendons and
+ligaments, and repair for periodontal disease, maxillofacial reconstruction,
+augmentation and stabilization, spinal fusion and bone fillers after tumor surgery.
+Carbon coatings are thrombo-resistant and are used for prosthetic heart valves.
+(II) Types of Bio-ceramics – Tissue Attachment
+The mechanism of tissue attachment is directly related to the type of tissue
+response at the implant interface. No material implanted in living tissues is inert; all
+materials elicit a response from living tissues.
+Four types of response allow different means of achieving attachment of
+prostheses to the musculo-skeletal system.
+The types of implant-tissue response are:
+١
+
+--- Page 23 ---
+CHAPTER THREE BIOCERAMICS
+a- If the material is toxic, the surrounding tissue dies;
+b- the material is nontoxic and biologically inactive (nearly inert), a fibrous tissue
+of variable thickness forms;
+c- If the material is nontoxic and biologically active (bioactive), an interfacial
+bond forms;
+d- If the material is nontoxic and dissolves, the surrounding tissue replaces it.
+The attachment mechanisms with examples are summarized below:
+Type of
+Type of Attachment Example
+Bioceramic
+Dense, nonporous , nearly inert ceramics
+attach to bone-growth into surface
+Al O (single crystal and
+2 3
+1 irregularities by cementing the device into
+polycrystalline)
+the tissues, or by pressing fitting into a
+defect (termed Morphology Fixation).
+For porous inert implants bone ingrowth Al O (porous
+2 3
+occurs, which mechanically attaches the polycrystalline)
+2
+bone to the material (termed Biological hydroxyapetite-coated
+Fixation) porous metals
+Dense, no nporous, surface -reactive
+Bioactive glasses
+ceramics and glass-ceramics attach directly
+3 Bioactive glass-ceramics
+by chemical bonding with the bone (termed
+Hysdroxyapetite
+Bioactive Fixation)
+Dense, nonporous (or porous), resorbable Calcium sulphate (Plaster
+ceramics are designed to be slowly replaced of Paris) Tricalcium
+4
+by bone. phosphate, Calcium
+phosphate salts
+٢
+
+--- Page 24 ---
+CHAPTER THREE BIOCERAMICS
+(III) Nearly Inert Crystalline Bioceramics
+Inert refers to materials that are essentially stable with little or no tissue
+reactivity when implanted within the living organism.
+When a biomaterial is nearly inert (type1) and the interface is not chemically or
+biologically bonded, there is relative movement and progressive development of a
+non-adherent fibrous capsule in both soft and hard tissues. Movement at the
+biomaterial-tissue interface eventually leads to deterioration in function of the
+implant or the tissue at the interface or both.
+Bone at an interface with type1, nearly inert, implant is very often structurally
+weak because of disease, localized death of bone, or stress shielding when higher
+elastic modules of the implant prevents the bone from being loaded properly. Most
+notable among the nearly inert ceramics are alumina and special forms of carbon and
+silicon.
+a
+High density high purity (>99.5%) alumina ( -Al O ) was the first bioceramic
+2 3
+widely used clinically. It is used in load-bearing hip prostheses and dental implants,
+because of its combination of excellent corrosion resistance, good biocompatibility,
+and high wear resistance, and high strength.
+Although some dental implants are single-crystal sapphire, most alumina
+a
+devices are very-fine-grained polycrystalline -Al O . A very small amount of
+2 3
+magnesia (<0.5%) is used as an aid to sintering and to limit grain growth during
+sintering.
+a
+Strength, fatigue resistance, and fracture toughness of polycrystalline -Al O
+2 3
+are a function of grain size and percentage of sintering aid, i.e. purity. Alumina with
+m
+an average grain size of <4 m and >99.7% purity exhibits good flexural strength and
+excellent compressive strength.
+٣
+
+--- Page 25 ---
+CHAPTER THREE BIOCERAMICS
+Low wear rates have led to wide-spread use of alumina non-cemented cups,
+press fitted into the acetabulum (socket) of the hip. The cups are stabilized by bone
+growth into grooves or round pegs. The mating femoral ball surface is also of
+alumina, which is bonded to a metallic stem. Though long-term results in general
+have been excellent, it is essential that the age of the patient, nature of the disease of
+the joint, and bioceramics of the repair be considered carefully before any prosthesis
+is used.
+The primary use of alumina is for the ball of the hip joint, with the socket
+component being made of ultrahigh molecular weight polyethylene (PE). Other
+clinical applications of alumina implants include knee prostheses, bone screws, jaw
+bone reconstruction, segmental bone replacement, and blade, screws or post-type
+dental implants.
+(IV) Porous Ceramics
+The concept behind nearly inert, micro-porous bioceramics (type2) is the
+ingrowths of tissue into pores on the surface or throughout the implant. The increased
+interfacial area between the implant and the tissues result in an increased inertial
+resistance to movement of the device in the tissue. The interface is established by the
+living tissue in the pores. This method of attachment is often termed biological
+fixation. It is capable of withstanding more complex stress states than type1 implants,
+which achieve only morphological fixation.
+The limitation associated with type2 porous implants is that, for tissue to
+remain viable and healthy, it is necessary for the pores to be greater than 100 to
+m
+150 m in diameter. The large interfacial area required for the porosity is due to the
+need to provide a blood supply to the ingrown connective tissue. Vascular tissue does
+m
+not appear in pores, which measure less than 100 m. If micro-movement occurs at
+the interface of a porous implant, tissue is damaged, the blood supply may be cut off,
+tissue dies, inflammation ensues and the interfacial stability can be destroyed.
+٤
+
+--- Page 26 ---
+CHAPTER THREE BIOCERAMICS
+The potential advantage offered by a porous ceramic is the inertness combined
+with the mechanical stability of the highly convoluted interface developed when bone
+grows into the pores of the ceramic. Mechanical requirements of prostheses,
+however, severely restrict the use of low strength porous ceramics to low-load or
+non-load bearing applications. Studies show that, when load bearing is not a primary
+requirement, nearly inert porous ceramics can provide a functional implant.
+m
+When pore sizes exceed 100 m, bone will grow within the interconnecting
+pore channels near the surface and maintain its blood supply and long-term health. In
+this manner, the implant serves as a structural bridge and model or scaffold for bone
+formation. The microstructures of certain marine corals make an almost ideal casting
+material for obtaining structures with highly controlled pore sizes.
+m
+Several types of coral are promising, with pore-size ranges of 40-160 m and
+m
+200-1000 m. After the coral shape is machined, it is fired to drive off CO from the
+2
+limestone, forming a porous structure of calcia, or transformed directly into
+hydroxyapatite ceramic.
+Porous ceramic surfaces can also be prepared by mixing soluble metal or salt
+particles into the surface. The pore size and structure are determined by the size and
+shape of the soluble particles that are subsequently removed with a suitable etchant.
+The porous surface layer produced by this technique is an integral part of the
+underlying dense ceramic phase. Materials, such as alumina, may also be made
+porous by using a suitable foaming agent that evolves gases during heating.
+Porous materials are weaker than the equivalent bulk form. As the porosity
+increases, the strength of the material decreases rapidly. Much surface area is also
+exposed, so that the effects of the environment on decreasing the strength become
+much more important than for dense nonporous materials.
+-cr
+s = s e
+o
+s
+Where is strength;
+s
+is strength at zero porosity (Nonporous);
+o
+٥
+
+--- Page 27 ---
+CHAPTER THREE BIOCERAMICS
+c is a constant;
+r
+and is porosity.
+(V) Bioactive Glasses and Glass-Ceramics
+Another approach to the solution of the problems of interfacial attachment is
+the use of bioactive materials (type3). The concept of bioactive materials is
+intermediate between resorbable and bioinert.
+Certain compositions of glasses, ceramics, glass-ceramics, and composites
+have been shown to bond to bone. These materials are also called bioactive ceramics.
+Some, even more specialized compositions of bioactive glasses, will bond to soft
+tissues as well as bone. A common characteristic of such bioactive materials is a
+modification of the surface that occurs upon implantation. The surface forms a
+biologically active hydroxycarbonate apatite (HCA) layer, which provides the
+bonding interface with tissues. The HCA phase that forms on bioactive implants has
+the same chemical structure as the mineral phase in bone, and is therefore responsible
+for interfacial bonding.
+The bonding results in an interface that resists substantial mechanical forces.
+Bonding to bone was first demonstrated for a range of bioactive glasses, which
+contained specific amounts of SiO , CaO, and P O . These glasses contained less than
+2 2 5
+60 mol% SiO , high contents of Na O, and CaO, and had a high CaO/ P O ratio.
+2 2 2 5
+Such a composition produced a surface that was highly reactive when exposed to an
+aqueous medium.
+Many bioactive silica glasses are based upon the formula (called 45S5), which
+signifies 45wt% SiO , S as the network former, and a 5 to 1 molar ratio of Ca to P (in
+2
+form of CaO and P O do not bond to bone. 45S5 glass implants have been used
+2 5
+successfully for replacement of ear bones and maintenance of the jaw bone for
+denture wearers for up to eight years, with nearly 90% retention ratio.
+٦
+
+--- Page 28 ---
+CHAPTER THREE BIOCERAMICS
+This glass is also used for the restoration of the bone next to teeth that might
+otherwise be lost because of gum disease. Several other compositions have developed
+that are bioactive, as tabulated below:
+A/W Glass-
+Component 45S5 Bioglass KGC Ceravital
+ceramic
+SiO 45 46.2 34.2
+2
+P O 6 - 16.3
+2 5
+CaO 24.5 20.2 44.9
+Ca(PO ) - 25.5 -
+3 2
+CaF - - 0.5
+2
+MgO - 2.9 4.6
+Na O 24.5 4.8 -
+2
+Glass and
+Structure Glass-Ceramic Glass-Ceramic
+glass-ceramic
+Bioactive glass ceramics is biocompatible, osteoconductive, and bonds to bone
+without an intervening fibrous connective tissue interface. This material has been
+widely used for filling bone defects. When granules of bioactive glass are inserted
+into bone defects, ions are released in body fluids and precipitate into a bone-like
+apatite on the surface, promoting the adhesion and proliferation of osteogenic cells.
+After long-term implantation, this biological apatite layer is partially replaced by
+bone. Bioactive glass with macro-porous structure has the properties of layer surface
+areas, which are favorable for bone integration. The porosity provides a scaffold on
+which newly-formed bone can be deposited after vascular ingrowth and osteoblast
+differentiation. The porosity of bioglass is also beneficial for resorption and
+bioactivity.
+(VI) Resorbable Ceramics (type4)
+٧
+
+--- Page 29 ---
+CHAPTER THREE BIOCERAMICS
+They are designed to degrade gradually over a period of time and be replaced
+by the natural host tissue. This leads to a very thin or nonexistent interfacial
+thickness. This is the optimal solution to the problem of biomaterials if the
+requirements of strength and short-term performance can be met. Natural tissues can
+repair themselves and are gradually replaced throughout life by a continual turnover
+of cell population. As we grow older, the replacement of cells and tissues is slower
+and less efficient, which is why parts "wear out", unfortunately sum faster than
+others. Thus resorbable biomaterials are based on the same principles of repair which
+have evolved over millions of years.
+One of the unique advantages of the resorbable ceramic is that its initial pore-
+size can be small, thereby possessing high mechanical strength compared to the
+strength of more porous substances. As the ceramic dissolves, it becomes more and
+more porous allowing the ingrowth of more supporting tissue to occur. As a result,
+mechanical integrity is maintained and stress concentrations minimized.
+Complications in development of resorbable bio-ceramics are:
+(1) Maintenance of strength and the stability of the interface during the
+degradation period and replacement by the natural host tissue.
+(2) Matching resorption rates to the repair to the repair rate of body tissues which
+themselves vary enormously. Some dissolve too rapidly and some too slowly.
+Because large quantities of material may be replaced, it is also essential that a
+resorbable biomaterial consist only of metabolically acceptable substances.
+This criterion imposes considerable limitations on the compositional design of
+resorbable biomaterials.
+Resorbable bioceramics have been used too treat maxillofacial defects, for
+obliterating periodontal pockets, as artificial tendons and as composite bone plates.
+٨
+
+--- Page 30 ---
+CHAPTER THREE BIOCERAMICS
+Calcium Phosphate Ceramics
+Different phases of calcium phosphate ceramics are used depending upon
+whether a resorbable or bioactive material is desired. These include dicalcium
+phosphate (CaHPO ) and hydroxyapatite Ca (PO ) (OH) [HA].
+4 10 4 6 2
+Applications include dental implants, skin treatments, gum treatment, jawbone
+reconstruction, orthopedics, facial surgery, ear, nose and throat repair, and spinal
+surgery.
+The mechanical behavior of calcium phosphate ceramics strongly influences
+their application as implants. Tensile and compressive strength and fatigue resistance
+depend on the total volume of porosity. Because HA implant have low reliability
+under tensile load, such calcium phosphate bioceramics can only be used as powders,
+or as small, unloaded implants with reinforcing metal posts, coatings on metal
+implants, low-bonded porous implants where bone growth acts as a reinforcing phase
+and as the bioactive phase in a composite.
+Calcium phosphate (CaP) biomaterials are available in various physical forms
+(particles or blocks; dense or porous). One of their main characteristics is their
+porosity. The ideal pore size for bioceramic is similar to that of spongy bone.
+m
+Macroprosity (pore size >50 m) is intentionally introduced into the material by
+adding volatile substances or porogens (naphthalene, sugar, hydrogen peroxide,
+polymer beads, fibers, etc) before sintering at high temperatures.
+Microporosity is formed when the volatile materials are released.
+m
+Microporosity is related to pore size <10 m. Microporosity is the result of the
+sintering process, where the sintering temperature and time are critical parameters. It
+has been demonstrated that microporosity allows body fluid circulation whereas
+٩
+
+--- Page 31 ---
+CHAPTER THREE BIOCERAMICS
+macroporosity provides a scaffold for bone colonization. Average pore size diameter
+m
+of 560 m is reported as the ideal macropore size for bone ingrowth compared to a
+m
+smaller size (300 m). The main difference between the different commercially
+available BCP (biophasic calcium phosphate) are the microporosities, which are
+dependent on sintering process.
+Composites and Coatings
+One of the primary restrictions on clinical use of bioceramics is the uncertain
+lifetime under the complex stress states, slow crack growth, and cyclic fatigue that
+arise in many clinical applications. Two solutions to these limitations are the use of
+bioactive ceramics as coatings or in composites. Much of the rapid growth in the field
+of bioactive ceramics is due to development of various composite and coating
+systems.
+Composites have been composed of plastic, carbon, glass, or ceramic matrices
+reinforced with various types of fibers, including carbon, SiC, stainless steel, HA,
+phosphate glass, and ZrO . In most cases the goal is to increase flexural strength and
+2
+strain to failure and decrease elastic modulus. The strongest composite achieved to
+date is A/W glass-ceramic containing a dispersion of tetragonal Zirconia, which has a
+bend strength of 700MPa, and fracture toughness of 4MPam1/2.
+١٠
+
+--- Page 32 ---
+CHAPTER THREE BIOCERAMICS
+The table below shows the characteristics of those composites:
+Matrix Reinforcing Phase
+Type1: Nearly inert Composites
+Polyethylene Carbon fiber
+Poly(methyl methacrylate) Carbon fiber
+Carbon SiC
+Epoxy resin Alumina/ stainless steel
+Type 2: Porous ingrowth composites
+Coral HA yoniopora DL polylactic acid
+Type3: Bioactive Composites
+Bioglass Stainless steel fibers
+Bioglass Titanium fibers
+Collagen HA
+Polyethylene HA
+Poly(methyl methacrylate) Phosphate-silicate-apatite glass fiber
+A/W glass-ceramic Transformation-toughened ZrO
+2
+Type4: Resorbable composite
+Polyhydroxybuturate HA
+PLA/PGA HA
+PLA/PGA PLA/PGA fibers
+PLA is poly(lactic acid)
+PGA is poly(glycalic acid)
+Implant materials with similar mechanical properties should be the goal when
+bone is to be replaced. Because of the anisotropic deformation and fracture
+characteristics of cortical bone, which is itself a composite of compliant collagen
+fibrils and brittle HCA crystals, the Young's modulus (E) varies between about 7 to
+25GPa. The critical strain intensity increases from as low as 600Jm -2 to as much as
+5000J m-2 depending on orientation, age, and test conditions.
+Most bioceramics are much stiffer than bone, many exhibit poor fracture
+toughness. Consequently, one approach to achieve properties analogous to bone is to
+stiffen a compliant biocompatible synthetic polymer, such as PE with a higher
+modulus ceramic second phase, such as HA powders. The effect is to increase
+Young's modulus from1 to 8GPa and to decrease the strain to failure from >90% to
+3% as the volume fraction of HA increases to 0.5.
+Thus, the mechanical properties of the PE-HA composite are close to or
+superior to those of bone.
+١١
+
+--- Page 33 ---
+CHAPTER THREE BIOCERAMICS
+Another promising approach toward achieving high toughness, ductility and
+Young's modulus matching that of bone was developed. This composite uses sintered
+m
+316 stainless steel of 50-, 100-, 200- m or Titanium fibers, which provide an
+interconnected fibrous matrix which then impregnated with molten 45S5 bioglass.
+After the composite is cooled and annealed, very strong and tough material results,
+4 6
+with metal to glass volume ratio between to .
+6 4
+Stress enhancement of up to 340MPa is obtained in bending with substantial
+ductility of up to 10% elongation, which bends 90o without fracturing.
+Coatings
+A biometric coating, which has reached a significant level of clinical
+application, is the use of HA as a coating on porous metal surfaces for fixation of
+orthopedic prostheses. This approach combines biological and bioactive fixation.
+Though a wide range of methods have been used to apply the coating, plasma spray
+coating is usually preferred. The table below lists the bioceramic coatings:
+Substrate Coating
+316L stainless steel Pyrolytic carbon
+316L stainless steel 45S5 bioglass
+316L stainless steel a Al O -HA-TiN
+2 3
+316L stainless steel HA
+Co-Cr alloy 45S5 bioglass
+Co-Cr alloy HA
+Ti-6Al-4V alloy 45S5 bioglass
+Ti-6Al-4V alloy HA
+Ti-6Al-4V alloy Al O
+2 3
+HA/ABS glass[ABS is alkali borosilicate
+Ti-6Al-4V alloy
+glass]
+١٢
+
+--- Page 34 ---
+CHAPTER THREE BIOCERAMICS
+1- Carbon
+The medical use of pyrolytic carbon coatings on metal substrates were used in
+heart surgery. The first time the low-temperature isotropic (LTI) carbon coatings
+were used in humans was a prosthetic heart valve.
+Almost all commonly used prosthetic heart valves today have LTI carbon coatings
+for the orifice and/or occluder because of their excellent resistance to blood clot
+formation and long fatigue life. More than 600,000 lives have been prolonged
+through the use of these bioceramic-in-heart valves.
+Three types of Carbon are used in biomedical devices:
+1- Low temperature Isotropic (LTI);
+2- Ultra low Temperature Isotropic (ULTI);
+3- Glassy Carbons.
+The LIT, ULTI and glassy carbon are sub-crystalline forms and represent a
+lower degree of crystal perfection. There is no order between the layers such as there
+is in graphite; therefore the crystal structure of these carbons is two-dimensional.
+Such a structure, called turbostratic, has densities between 1400-2100 kg.m-3.
+High density LTI carbons are the strongest bulk forms of carbon and their
+strength can further be increased by adding silicon.
+ULTI carbon can also be produced with high densities and strength, but it is
+m
+available only as a thin coating (0.1 to 1 m) of pure carbon.
+Glassy carbon is inherently a low density material and, as such, is weak. Its
+strength cannot be increased through processing.
+١٣
+
+--- Page 35 ---
+CHAPTER THREE BIOCERAMICS
+The turbostratic carbon materials have extremely good wear resistance, some
+of which can be attributed to their toughness, i.e. their capacity to sustain large local
+elastic strains under concentrated or point loading without galling or incurring surface
+damage.
+Another unique characteristic of the turbostratic carbons is that they do not
+fatigue. The ultimate strength of turbostratic carbon, as opposed to metals, does not
+degrade with cyclical loading.
+Carbon surfaces are not only thromboresistant, but also appear to be
+compatible with the cellular elements of blood'; they do not influence plasma proteins
+or alter the activity of plasma enzymes. One of the proposed explanations for the
+blood compatibility of these materials is that they absorb blood proteins on their
+surface without altering them.
+2- Hydroxyapatite (HA)
+A second bioceramic coating which has reached a significant level of clinical
+applications is the use of HA as a coating on porous metal surfaces for fixation of
+orthopedic prostheses.
+Resorption or biodegradation of calcium phosphate ceramic is caused by:
+(i) Physiochemical dissolution, which depends on the solubility product of the
+material and local pH of its environment;
+(ii) Physical disintegration into small particles due to preferential chemical
+attack of grain boundaries;
+(iii) Biological factors, such as phagocytosis, which causes a decrease in local
+pH.
+١٤
+
+--- Page 36 ---
+CHAPTER THREE BIOCERAMICS
+The rate of biodegradation increases as:
+(a) Surface area increases;
+(b) Crystallinity increases;
+(c) Crystal perfection decreases;
+(d) Crystal and grain size decrease;
+2- 2+ 2+
+(e) Ionic substitutions of CO , Mg , Sr in HA take place.
+3
+Factors which result in a decreasing rate of biodegradation include:
+(1) F-substitution in HA;
+(2) Mg2+ substitution in b -TCP [ b - Ca (PO ) , b -tricalcium phosphate];
+3 4 2
+(3) Decreasing
+b
+-TCP/HA ratios in biphasic calcium phosphate.
+Because of these variables, it is necessary to control the microstructure and
+phase state of resorbable calcium phosphate bioceramic in addition to achieving
+precise compositional control to produce a given rate of resorption in the body.
+Natural Composites
+Natural occurring composites are within us all. On the macroscale, soft and
+hard tissues are formed from a complex structural array of organic fibers and matrix.
+Soft tissues are formed from elastic (elastin) and non-elastic fibers (collagen)
+with a cellular matrix between the fibers. Biological structures, such as tendon,
+linking muscles to bone, are low in elastin, thus allowing muscle movement to be
+translated to the bone. However, ligaments linking bone to bone are high in elastin
+allowing movement between bones but retaining sufficient support to stop joints
+dislocating.
+١٥
+
+--- Page 37 ---
+CHAPTER THREE BIOCERAMICS
+Ultimate Elongation
+Tissue Tensile Strength (MPa)
+%
+Tendon (Low elastin content) 53 9.4
+Skin (High elastin content) 7.6 78.0
+Elastin 1 100
+Collagen 50-100 10
+Hard Tissues
+The two most important naturally occurring forms of bone required for
+structural stability are termed cancellous (spongy bone) and cortical. Spongy bone is
+a sponge-like structure, which approximates to an isotropic material. Cortical bone is
+highly anisotropic with reinforcing structures along its loading axis and a highly
+organized blood supply called Haversian system.
+All hard tissues are formed from the four basic phases, shown below. The
+relative fractions of each phase vary between bone types and conditions. The relative
+percentages of mass for a typical cortical bone are included.
+Organic- Collagen Fiber 16%
+Mineral – Hydroxyapatite (HA) [Ca (PO ) (OH) ] 60%
+10 4 2 2
+Ground substance 2%
+Water 23%
+The collagen fibers provide the framework and architecture of bone, with the
+HA particles located between the fibers. The ground substance is formed from
+proteins, polysaccharides, and musco-polysacharides, which acts as a cement, filling
+the spaces between collagen fibers and HA mineral.
+The microstructural level has two possible forms:
+1- Woven bone is an immature version of the more mature lamellar form.
+Woven bone is formed very rapidly and has no distinct structure.
+١٦
+
+--- Page 38 ---
+CHAPTER THREE BIOCERAMICS
+2- Lamellar bone is formed into concentric rings called Osteons with
+central blood supply or Haversian systems. Each osteon is formed from
+4-20 rings, with each ring being 4-7 mm thick and having a different
+fiber orientation. The arrangement of different fiber orientations in each
+layer gives the osteon the appearance of successive light and dark layers.
+In the centre of the rings, there is a Haversian canal which contains the
+blood supply. Whilst the outer layer is a cement layer formed from
+ground substance, it is less mineralized than the rest of the bone and has
+no collagen fibers. Consequently, the cement line is a site of weakness.
+Synthetic Bone Grafting Materials
+These materials must be:
+1- Biocompatible with host tissues, i.e.
+a- non-toxic;
+b- non-allergic;
+c- non-carcinogenic;
+d- non-inflammatory
+2- Able to stimulate bone induction;
+3- Resorbable following replacement by bone;
+4- Radio-opaque;
+5- Capable of withstanding sterilization
+6- Inexpensive and stable to variation of temperature and humidity;
+7- It has sufficient porosity to allow bone conduction and growth.
+١٧
+
+--- Page 39 ---
+CHAPTER FOUR Polymer as Biomaterial
+Polymer as Biomaterial
+Polymers have assumed an important role in medical applications. In most
+of these applications, polymers have little or no competition from other types of
+materials. Their unique properties are:
+1- Flexibility;
+2- Resistance to biochemical attack;
+3- Good biocompatibility;
+4- Light weight;
+5- Available in a wide variety of compositions with adequate physical and
+mechanical properties;
+6- Can be easily manufactured into products with the desired shape.
+Applications in biomedical field as:
+1- Tissue engineering;
+2- Implantation of medical devices and artificial organs due to its inert
+nature;
+3- Prostheses;
+4- Dentistry;
+5- Bone repair;
+6- Drug delivery and targeting into sites of inflammation or tumors;
+7- Plastic tubing for intra-venous infusion;
+8- Bags for the transport of blood plasma;
+9- Catheter.
+A few of the major classes of polymer are listed below:
+(1) (PTFE) Polytetrafluoroethylene is a fluorocarbon –based polymer.
+Commercially, the material is best known as Teflon. It is made by free-radical
+polymerization of tetrafluoroethylene and has a carbon backbone chain, where
+each carbon has two fluorine atoms attached to it.
+١
+
+--- Page 40 ---
+CHAPTER FOUR Polymer as Biomaterial
+Properties of PTFE
+1-Hydrophobic (Water hating)
+* The chemical inertness (stability) of
+2- Biologically inert*
+PTFE is related to the strength of the
+fluorine-carbon bond. This is why
+3- Non-biodegradable
+nothing sticks to this polymer
+4- Has low friction characteristics
+5- Excellent "Slipperiness"
+6- Relatively lower wear resistance.
+7- Highly crystalline (94%)
+8- Very high density (2.2 kg.m-3)
+9- Low modulus of elasticity (0.5MPa)
+10- Low tensile strength (14MPa)
+PTFE has many medical uses, including:
+1- Arterial grafts (artificial vascular graft);
+2- Catheters;
+3- Sutures;
+4- Uses in reconstructive and cosmetic facial surgery.
+PTFE can be fabricated in many forms, such as:
+1- Can be woven into a porous fabric like mesh. When implanted in the
+body, this mesh allows tissue to grow into its pores, making it ideal for
+medical devices, such as vascular grafts;
+2- Pastes;
+3- Tubes;
+4- Strands;
+5- Sheets.
+٢
+
+--- Page 41 ---
+CHAPTER FOUR Polymer as Biomaterial
+Disadvantages of PTFE
+PTFE has relatively low wear resistance. Under compression or in
+solutions where rubbing or abrasion can occur, it can produce wear particles.
+These can result in a chronic inflammatory reaction, an undesirable outcome.
+2- Polyethylene, (PE)
+It is chemically the simplest of all polymers and as a homochain polymer.
+It is essentially:
+1- Stable and suitable for long-time implantation under many circumstances;
+2- Relatively inexpensive;
+3- Has good general mechanical properties.
+So that it has become a versatile biomedical polymer with applications
+ranging from catheters to joint-replacement.
+3- Polypropylene, (PP)
+Polypropylene is widely used in medical devices ranging from sutures to
+finger joints and oxygenerators.
+4- Poly (methyl methacrylate), PMMA
+It is a hard brittle polymer that appears to be unsuitable for most clinical
+applications, but it does have several important characteristics.
+٣
+
+--- Page 42 ---
+CHAPTER FOUR Polymer as Biomaterial
+(a) It can be prepared under ambient conditions so that it can be
+manipulated in the operating theater or dental clinic, explaining its
+use in dentures and bone cement.
+(b) The relative success of many joint prostheses is dependent on the
+performance of the PMMA cement, which is prepared intra-
+operatively by mixing powdered polymer with monomeric
+methylmethacrylate, which forms a dough that can be placed in
+the bone, where it then sets.
+The disadvantages of PMMA
+(a) The exotherm of polymerization;
+(b) The toxicity of the volatile methylmethacrylate;
+(c) The poor fracture toughness.
+(But no better material has been developed to date)
+5- Polyesters
+6-Polyurathanes
+Denture Base Resins
+Although individual denture bases may be formed from metals or metal
+alloys, most denture bases are fabricated using common polymers. Such
+polymers are chose based on:
+(a) Availability;
+(b) Dimensional stability;
+(c) Handling characteristics;
+(d) Color;
+(e) Compatibility with oral tissues.
+٤
+
+--- Page 43 ---
+CHAPTER FOUR Polymer as Biomaterial
+General Techniques
+Several processing techniques are available for the fabrication of denture
+bases. Each technique is available for the fabrication of an accurate impression
+of the edentulous arch. Using this impression, a dental cast is generated. In turn,
+a resin recorded base is fabricated on the cast. Wax is added to the record base
+and the teeth are positioned in the wax.
+Acrylic Resins
+Most denture bases have been fabricated using Poly (methyl
+methacrylate) resins. Such resins are resilient plastics formed by joining
+multiple methylmethacrylate molecules (PMMA).
+Pure PMMA is a colorless transparent solid. To
+facilitate its use in dental applications, the polymer
+may be tinted to provide almost any shade and degree
+of transparency. Its color and optical properties remain
+stable under normal intraoral conditions, and its
+physical properties have proved adequate for dental
+applications.
+One decided advantage of PMMA as a denture base material is the
+relative ease with which it may be processed.
+PMMA denture base material usually is supplied as a powder-liquid
+system. The liquid contains unpolymerized MMA, and the powder contains
+propolymerized PMMA resin in the form of small beads. When the liquid and
+powder are mixed in the correct proportions, a workable mass is formed.
+Subsequently, the material is introduced into a mold cavity of the desired shape
+and polymerized.
+٥
+
+--- Page 44 ---
+CHAPTER FOUR Polymer as Biomaterial
+Properties of Denture Base Resin
+When, methyl methacrylate monomer is polymerized, to form Poly
+(methyl methacrylate), the density of the mass changes from 0.94 to
+1.19gm/cm3. This change in density results in a volumetric shrinkage of 7%.
+Based on projected volumetric shrinkage of 7%, an acrylic resin denture base
+should exhibit a linear shrinkage of approximately 2%.
+PMMA absorbs relatively small amounts of water when placed in an
+aqueous environment. Nevertheless, this water exerts significant effect on the
+mechanical and dimensional properties of the polymer.
+PMMA exhibits a water sorption value of 0.69mg/cm 2. Although this
+amount of water may seem inconsequential, it exerts significant effect on the
+dimensions of polymerized denture base. Laboratory trials indicate a linear
+expansion caused by water absorption is approximately equal to the thermal
+shrinkage encountered as a result of the polymerization process. Hence these
+processes almost offset one another.
+Although denture base resins are soluble in a variety of solvents and a
+small amount of monomer may be leached, they are virtually insoluble in the
+fluids commonly encountered in the oral cavity.
+The strength of an individual denture base resin is dependent on several
+factors. These factors include:
+(a) Composition of the resin;
+(b) Processing technique;
+(c) Conditions presented by the oral environment.
+٦
+
+--- Page 45 ---
+CHAPTER FOUR Polymer as Biomaterial
+Because of the resilient nature of denture base resins, some elastic
+deformation that is recoverable deformation also occurs. Clinically, this means
+that load application produces stresses within a resin and a change in the overall
+shape of the denture base. When the load is released, stresses within the resin are
+relaxed and the denture base returns to its original shape. Nevertheless, the
+existence of plastic deformation prevents complete recovery. Therefore, some
+permanent deformation remains.
+Perhaps the most important determinant of overall resin strength is the
+degree of polymerization exhibited by the material. As the degree of
+polymerization increases the strength of the resin also increases.
+Resin Teeth for Prosthodentic Applications
+PMMA resins used in the fabrication of prosthetic teeth are similar to
+those used in denture base construction. Nevertheless, the degree of cross-
+linking within prosthetic teeth is somewhat greater than that within polymerized
+denture bases. This increase is achieved by elevating the amount of cross-linking
+agent in the denture base liquid, that is, the monomer. The resultant polymer
+displays enhanced stability and improved clinical properties.
+Despite the current emphasis on resin teeth, prosthetic teeth also may be
+fabricated using dental porcelain. Hence a comparison of resin and porcelain
+teeth is provided that:
+(a) Resin teeth display greater fracture toughness than porcelain teeth. As a
+result, resin teeth are less likely to chip or fracture on impact, such as
+when a denture is dropped;
+٧
+
+--- Page 46 ---
+CHAPTER FOUR Polymer as Biomaterial
+(b) Resin teeth are easier to adjust and display greater resistance to thermal
+shock;
+(c) Porcelain teeth display better dimensional stability and increasing wear
+resistance;
+(d) Porcelain teeth, especially when contacting surfaces have been
+roughened often cause significant wear of opposing enamel and gold
+surfaces. As a result, porcelain teeth should not oppose such surfaces,
+and if they are used, they should be polished periodically to reduce such
+abrasive damage;
+(e) As a final note, resin teeth are capable of chemical bonding with
+commonly used denture base resins. Porcelain teeth do not form
+chemical bonds with denture resins and must be retained by other means,
+such as mechanical undercuts and silanization.
+Materials in Maxillofacial Prosthetic
+Despite improvements in surgical and restorative techniques, the materials
+used in maxillofacial prosthetics are far from ideal. An ideal material should be
+inexpensive, biocompatible, strong, and stable. In addition, the material should
+be skin-like in color and texture. Maxillofacial materials must exhibit resistance
+to tearing and should be able to withstand moderate thermal and chemical
+challenges. Currently, no material fulfills all of these requirements. A brief
+description of maxillofacial materials is included in the following paragraphs:
+Latexes
+Latexes are soft, inexpensive materials that may be used to create lifelike
+prostheses. Unfortunately, these materials are weak, degenerate rapidly, exhibit
+color instability and can cause allergic reactions.
+٨
+
+--- Page 47 ---
+CHAPTER FOUR Polymer as Biomaterial
+A recently developed synthetic latex is a tripolymer of butylacrylate,
+methyl methacrylate, and methyl metharylamide. This material is nearly
+transparent, but has limited applications.
+Vinyl Plastisols
+They are plasticized vinyl resin sometimes are used in maxillofacial
+applications. Plastsols are thick liquids comprising small vinyl particles
+dispersed in a plasticizer. Colorants are added to these materials to match
+individual skin tones. Unfortunately, vinyl plastisols harden with age because
+plasticizer loss. Ultraviolet light also has an adverse effect on these materials.
+For these reasons, the use of vinyl is limited.
+Silicone Rubbers
+Both heat-vulcanizing and room temperature vulcanizing silicones are in
+use today and both exhibit advantages and disadvantages.
+Room temperature vulcanizing silicones are supplied as single- paste
+systems. These silicones are not as strong as the heat-vulcanized silicones and
+generally are monochromatic.
+Heat-vulcanizing silicone is supplied as a semi-solid material that requires
+milling, packing under pressure, and 30-minute heat treatment application cycle
+at 180oC. Heat vulcanizing silicone displays better strength and color than room
+temperature vulcanizing silicone.
+Polyurethane polymers
+Polyurethane is the most recent of the materials used in maxillofacial
+prosthetics. Fabrication of a polyurethane prosthesis requires accurate
+proportioning of three materials. The material is placed in a stone or metal mold
+and allowed to polymerize at room temperature. Although a polyurethane
+٩
+
+--- Page 48 ---
+CHAPTER FOUR Polymer as Biomaterial
+prosthesis has a natural feel and appearance, it is susceptible to rapid
+deterioration.
+The loss of natural teeth, through disease or trauma, has for many years
+been compensated by the provision of artificial teeth in the form of bridges and
+dentures. These essentially provide an aesthetic replacement of crown of the
+tooth but do nothing to replace the root and its attachment to the bone of the jaw.
+Natural Polymers
+Natural polymers, or polymers, derived from living creatures, are of great
+interest in the biomaterials field. In the area of tissue-engineering, for example,
+scientists and engineers look for scaffold on which one may successfully grow
+cells to replace damaged tissue.
+Typically, it is desirable for these scaffolds to be:
+(1) Biodegradable;
+(2) Non-toxic/ non-inflammatory;
+(3) Mechanically similar to the tissue to be replaced;
+(4) Highly porous;
+(5) Encouraging of cell attachments and growth;
+(6) Easy and cheap to manufacture;
+(7) Capable of attachment with other molecules ( to potentially
+increase scaffold interaction with normal tissue)
+Normal polymers often easily fulfill these expectations, as they are
+naturally engineered to work well within the living beings from which they
+come. Three examples of natural polymers that have been previously studied for
+use as biomaterials are: collagen, chitosan, and alginate.
+١٠
+
+--- Page 49 ---
+CHAPTER FOUR Polymer as Biomaterial
+Collagen is the most widely found protein in mammals (25% of our protein
+mass) and is the major provider of strength to tissue. A typical collagen
+molecule consists of three interwined protein chains that form a helical structure
+similar to a typical staircase). These molecules polymerize together to form
+collagen fibers of varying length, thickness and interweaving pattern (some
+collagen molecules will form ropelike structures, while others will form meshes
+or networks). There are actually at least 15 different types of collagen, differing
+in their structure, function, location, and other characteristics. The predominant
+form used in biomedical applications, however, is type I collagen, which is a
+"rope-forming" collagen and can be found almost everywhere in the body,
+including skin and bone.
+Collagen can be resorbed into the body, is non-toxic produces only a
+minimal immune response, and is excellent for attachment and biological
+interaction with cell. Collagen may also be processed into a variety of formats,
+including porous sponges, gels and sheets, and can be cross-linked with
+chemicals to make it stronger or to alter its degradation rate. The number of
+biomedical applications in which collagen has been utilized is too high to count
+here, it not only explored for use in various types of surgery, cosmetics, and
+drug delivery, but in bio-prosthetic implants and tissue-engineering of multiple
+organs as well. Cells grown in collagen often come close to behaving as they do
+within the body, which is why collagen is so promising when one is trying to
+duplicate natural tissue function and healing.
+However, some disadvantages to using collagen as a cell substrate do
+exist. Depending on how it is processed, collagen can potentially cause
+alteration of cell behavior (e.g. changes in growth or movement), have
+inappropriate mechanical properties, or undergo contraction (shrinkage).
+Because cells interact so easily with collagen, cells can actually pull and
+reorganize collagen fibers, causing scaffolds to lose their shape if they are not
+١١
+
+--- Page 50 ---
+CHAPTER FOUR Polymer as Biomaterial
+properly stabilized by cross-linking or mixing with another less "vulnerable
+material".
+Fortunately, collagen can be easily combined with other biological or
+synthetic materials, to improve its mechanical properties or change the way cells
+behave when grown upon it.
+Chitosan
+It is derived from chitin, a type of polysaccharide (sugar) that is present in
+the hard exoskeletons of shellfish like shrimp and crab. Chitin has sparked
+interest in the tissue-engineering field due to several desirable properties:
+1- Minimal foreign body reaction;
+2- Mild processing conditions (synthetic polymers often need to be
+dissolved in harsh chemicals; chitosan will dissolve in water based on
+pH);
+3- Controllable mechanical/biodegradation properties (such as scaffold
+porosity);
+4- Availability of chemical side groups for attachment to other molecules.
+Chitosan has already been investigated for use in the engineering of
+cartilage, nerve and liver tissues. Chitosan has also been studied for use in
+wound healing and drug delivery. Current difficulties with using chitosan as a
+polymer scaffold in tissue-engineering, however, include low strength and
+inconsistent behavior with seeded cells. Fortunately, chitosan may be easily
+combined with other materials in order to increase its strength and cell-
+attachment potential. Mixtures with synthetic polymers such as poly (vinyl
+alcohol) and poly (ethylene glycol) or natural polymers such as collagen have
+already been produced.
+١٢
+
+--- Page 51 ---
+CHAPTER FOUR Polymer as Biomaterial
+Alginate
+It is a polysaccharide derived from brown seaweed. Like chitosan,
+alginate can be processed easily in water and has been found to be fairly non-
+toxic and non-inflammatory enough, so that it has been approved in some
+countries for wound dressing and for use in food products. Alginate is
+biodegradable, has controllable porosity, and may be linked to other biologically
+active molecules. Interestingly, encapsulation of certain cell types into alginate
+beads may actually enhance cell survival and growth. In addition, alginate has
+been explored for use in liver, nerve, heart, and cartilage tissue-engineering.
+Unfortunately, some drawbacks of alginate include mechanical weakness and
+poor cell adhesion. Again, to overcome these limitations, the strength and cell
+behavior of alginate have been enhanced by mixing with other materials,
+including the natural polymers agarose and chitosan.
+١٣
+
+--- Page 52 ---
+Chapter Five Metals and Alloys
+Metals and Alloys
+Metals are used as biomaterial due to their excellent electrical and thermal
+conductivity and mechanical properties. Since some electrons are independent in
+metals, they can quickly transfer an electric charge and thermal energy. The
+mobile free electrons as the binding force to hold the positive metal ions
+together. This attraction is strong, as evidenced by the closely-packed atomic
+arrangement resulting in high specific gravity and high melting points of most
+metals. Since the metallic bond id essentially non-directional, the position of the
+metal ions can be altered without destroying the crystal structure, resulting in a
+plastically deformable solid.
+Some metals are used as passive substitutes for hard tissue replacement
+such as:
+1- Total hip;
+2- Knee joints;
+3- For fracture healing aids as bone plates and screws;
+4- Spinal fixation devices;
+5- Dental implants, because of their excellent mechanical properties, and
+corrosion resistance;
+6- Vascular stents;
+7- Catheter guide wires.
+Stainless Steels
+Stainless steel was first used successfully as an important material in the
+surgical field.
+I- Type 302 stainless steel was introduced, which is stronger and more
+resistant to corrosion than the vanadium steel;
+١
+
+--- Page 53 ---
+Chapter Five Metals and Alloys
+II- Type 316 stainless steel was introduced, which contains a small
+percentage of molybdenum (18-8sMo) to improve the corrosion
+resistance in chloride solution (salt water);
+III- Type 316L stainless steel. The carbon content was reduced from 0.08
+to a maximum amount of 0.03% for better corrosion resistance to
+chloride solution.
+The inclusion of molybdenum enhances resistance to pitting corrosion in salt
+water. Even the 316L stainless steels may corrode in the body under certain
+circumstances in highly stressed and oxygen depleted region, such as the
+contacts under the screws of the bone fracture plate. Thus, these stainless steels
+are suitable to use only in temporary implant devices, such as fracture plates,
+screws, and hip nails.
+CoCr Alloys
+There are basically two types of cobalt-chromium alloys:
+1- The CoCrMo alloy [ Cr (27-30%), Mo (5-7%), Ni (2.5%)] has been used
+for many decades in dentistry, and in making artificial joints;
+2- The CoNiCrMo alloy [Cr (19-21%), Ni (33-37%), and Mo (9-11%)] has
+been used for making the stems of prostheses for heavily loaded joints,
+such as knee and hip.
+The ASTM lists four types of CoCr alloys, which are recommended for
+surgical implant applications:
+1) CoCrMo alloy [Cr (29-30%), Mo (5-7%), Ni (2.5%)];
+2) CoCrWNi alloy [Cr (19-21%), W (14-16%), Ni (9-11%)];
+3) CoNiCrMo alloy [Ni (33-37%), Cr (19-21%), Mo (9-11%)];
+4) CoNiCrMoWFe alloy [Ni (15-25%), Cr (18-22%), Mo (3-4%), W (3-4%),
+Fe (4-6%)].
+٢
+
+--- Page 54 ---
+Chapter Five Metals and Alloys
+The two basic elements of the CoCr alloys form a solid solution of up to
+65% Co. The molybdenum is added to produce finer grains, which results in
+higher strengths after casting. The chromium enhances corrosion resistance, as
+well as solid solution strengthening of the alloy.
+The CoNiCrMo alloy contains approximately 35% Co and Ni each. The
+alloy is highly corrosion resistant to seawater (containing chloride ions) under
+stress.
+Titanium and its Alloys
+Titanium and its alloys are getting great attention in both medical and
+dental fields because of:
+(a) Excellent biocompatibility;
+(b) Light weight;
+(c) Excellent balance of mechanical properties;
+(d) Excellent corrosion resistance.
+They are commonly used for implant devices replacing failed hard tissue,
+for example, (1) artificial hip joints, (2) artificial knee joint, (3) bone plate,
+(4) dental implants, (5) dental products, such as crowns, bridges and dentures,
+and (6) used to fix soft tissue, such as blood vessels.
+In the elemental form, titanium has a high melting point (1668 oC) and
+a
+possesses a hexagonal closely packed structure (hcp) up to a temperature of
+882.5oC. Titanium transforms into a body centered cubic structure (bcc) b above
+this temperature.
+٣
+
+--- Page 55 ---
+Chapter Five Metals and Alloys
+One titanium alloy (Ti6Al4V) is widely used to manufacture implants.
+The main alloying elements of the alloy are Aluminum (5.5-6.5%) and
+Vanadium (3.5-4.5%). The addition of alloying elements to titanium enables it
+to have a wide range of properties:
+1- Aluminum tends to stabilize the
+a
+-phase; it increases the
+a b
+transformation temperature from - to -phase.
+2-
+Vanadium stabilizes the
+b
+-phase by lowering the temperature
+a b.
+of transformation from to
+He titanium-nickel alloys show unusual properties, that is, after it is
+deformed the material can snap back to its previous shape following heating of
+the material. This phenomenon is called (shape memory effect) SME. The equi-
+atomic TiNi or NiTi alloy (Nitinol) exhibits an exceptional SME near room
+temperature: if it is plastically deformed below the transformation temperature it
+reverts back to its original shape as the temperature is raised.
+Another unusual property is super-elasticity, which is shown
+schematically below in Figure.1. As can be seen the stress does not increase
+with increased strain after the initial elastic stress or strain, the metal springs
+back to its original shape in contrast to other metals, such as stainless steel.
+Fig.1 Schematic illustration of the stainless steel wire and TiNi SMR wire
+springs for orthodontics arch-wire behavior
+٤
+
+--- Page 56 ---
+Chapter Five Metals and Alloys
+Biomedical Applications
+The applications of titanium and its alloys can be classified according to
+their biomedical functionalities:
+1- Hard Tissue Replacement
+Hard tissues are often damaged due to accidents, aging, and other causes.
+Titanium and titanium alloys are widely used as hard tissue replacements in
+artificial bones, joints, and dental implants. As a hard tissue replacement, the
+low elastic modulus of titanium and its alloys is generally viewed as a
+biomechanical advantage because the smaller elastic modulus can result in
+smaller stress shielding.
+One of the most common applications of titanium and its alloys is
+artificial hip joint that consists of an articulating bearing (femoral head and cup)
+and stem as in Fig.2.
+Fig.2. Schematic diagram of artificial hip joint
+Titanium and titanium alloys are also often used in knee joint
+replacement, which consists of a femoral component, tibial component, and
+patella.
+٥
+
+--- Page 57 ---
+Chapter Five Metals and Alloys
+Titanium and titanium alloys are common in dental implants, the most
+commonly used implants are root-forming analogs. Fig.3 displays some of the
+popular designs, such as screw-shaped devices and cylinders.
+Fig.3. Schematic diagram of the screw-shaped artificial tooth
+2- Cardiac and Cardiovascular Applications
+Titanium and titanium alloys are common in cardiovascular implants,
+because of their unique properties. Early applications examples were prosthetic
+heart valves, protective cases in pacemakers, artificial hearts and circulatory
+devices. Recently, the use of shape memory Nickel-Titanium alloy (Ni-Ti) in
+intravascular devices, such as stents and occlusion coils has received
+considerable attention.
+The advantages of titanium in cardiovascular applications are that it is
+strong, inert and anon-magnetic. A disadvantage is that it is not sufficiently
+radio-opaque in finer structures. Many types of prosthetic heart valves have been
+used clinically. The common designs as shown in Fig.4.
+٦
+
+--- Page 58 ---
+Chapter Five Metals and Alloys
+Fig.4. Artificial Heart Valve
+At present stents (Fig.5) are commonly used in the treatment of
+cardiovascular disease. They dilate and keep narrowed blood vessels open.
+Stents are usually mounted on balloon catheters or folded inside special delivery
+catheters. Nickel-Titanium alloy is one of the most common materials used in
+vascular stents due to its special shape memory effects.
+Fig.5. Artificial Vascular Stents
+٧
+
+--- Page 59 ---
+Chapter Five Metals and Alloys
+3- Other Applications
+Titanium and titanium alloys are attractive materials in osteo-synthesis
+implant in view of its special properties that fulfill the requirements of osteo-
+synthesis applications. Typical implants for osteo-synthesis include bone screws,
+bone plates (Fig.6), maxillofacial implants, etc.
+Fig.6: Bone screws and bone plate.
+Surface Structure and Properties
+There has been a considerable amount of scientific and technical
+knowledge published on the structure, composition, and preparation of titanium
+and titanium alloys, and many of the favorable properties arising from the
+presence of the surface oxide. It is well-known that a native oxide film grows
+spontaneously on the surface upon exposure to air. The excellent chemical
+inertness, corrosion resistance, repassivation ability, and even biocompatibility
+of titanium and most other titanium alloys are thought to result from the
+chemical stability and structure of titanium oxide film that is typically only few
+nanometers thick.
+٨
+
+--- Page 60 ---
+Chapter Five Metals and Alloys
+The characteristics of films grown at room temperature on pure titanium
+are summarized as follows in Fig.7.
+Fig.7 Schematic View of the oxide film on pure titanium
+1- The amorphous or nano-crystalline oxide film is typically 3-7nm thick
+and mainly composed of the stable oxide TiO ;
+2
+2- The TiO /Ti interface has an O to Ti concentration ratio that varies
+2
+gradually from 2 to 1 from the TiO film to a much lower ratio in the
+2
+bulk;
+3- Hydroxide and chemisorbed water bond with Ti cations leads to weakly
+bound physisorbed water on the surface. In addition, some organic species
+like hydrocarbons adsorb and metal-organic species, such as alkoxides or
+carboxylates of titanium also exist on the outmost surface layer whose
+concentrations depend on not only the surface conditions, such as
+cleanliness bur also the exposure time to air as well as the quality of the
+atmosphere during storage.
+٩
+
+--- Page 61 ---
+Chapter Five Metals and Alloys
+Mechanical Properties
+Titanium is very promising in orthopedics due to its high specific strength
+and low elastic modulus. However, titanium has low wear and abrasion
+resistance because of its hardness.
+Biological Properties
+Biocompatibility is the ability of the materials to perform in the presence
+of an appropriate host for a specific application. Titanium and titanium alloys
+are generally regarded to have good biocompatibility. They are relatively inert
+and have good corrosion resistance because of the thin surface oxide. They
+typically do not suffer from significant corrosion in a biological environment.
+Titanium readily absorbs proteins from biological fluids.
+Titanium and bones are generally separated by a thin non-mineral layer
+and true adhesion of titanium to bones has not been observed. Instead, the bond
+associated with osteo-integration is attributed to mechanical interlocking of
+titanium surface asperities and pores in the bones. In order to make titanium
+biologically bond to bones, surface modification methods have been proposed to
+improve the bone conductivity or bioactivity of titanium.
+Table 9.1 Biomaterials Applications in Internal Fixation
+Materials Properties Application
+Stainless Steel Low cost, easy fabrication Surgical wire (annealed)
+Pin, plate, screw
+IM nail
+Ti alloy High cost Surgical wire
+Low density and modulus Plate, screws, IM nails
+Excellent bony contact
+Co-Cr (wrought) High cost Surgical wire
+High density and modulus IM nail
+Difficult fabrication
+Polylactic acid Resorbable Pin screw
+Polyglycolic acid Weak strength
+Nylon Non-resorbable plastic Cerclage band
+١٠
+
+--- Page 62 ---
+Chapter Five Metals and Alloys
+Table 9.3 Biomaterials fir Total Joint Replacements
+Materials Properties Application
+Co-Cr alloy Stem, head (ball) Heavy, hard, stiff
+(casted or wrought) Cup, porous coating High wear resistance
+Metal backing
+Ti alloy Stem porous coating Low stiffness
+Metal backing Low wear resistance
+Pure titanium Porous coating Excellent osseousintegration
+Tantulum Porous structure Excellent osseousintegration
+Good mechanical strength
+Alumina Ball, cup Hard, brittle
+High wear resistance
+Zirconia Ball Heavy and high toughness
+High wear resistance
+UHMWPE Cup Low friction, wear debris
+Low creep resistance
+PMMA Bone cement fixation Brittle, weak in tension
+Low fatigue strength
+Table 9.4 Types of Total Joint Replacements
+Joint Types
+Hip Bull and Socket
+Knee Hinged, semi-constrained, surface replacement
+Uni-compartment or bio-compartment
+Shoulder Bull and Socket
+Ankle Surface replacement
+Elbow Hinged, unconstrained, surface replacement
+Wrist Ball and socket, space filter
+Finger Hinged, space filter
+Dental Materials
+Dental amalgam is an alloy made of liquid mercury and other solid
+materials particulate alloys made of silver, tin, copper, etc. The solid alloy is
+mixed with (liquid) mercury in a mechanical vibrating mixer and the resulting
+material is packed into the prepared cavity. One of the solid alloys is composed
+of at least 65% silver, and not more than 29% tin, 6% copper, 2% zinc, and 3%
+mercury. The final composition of dental amalgams typically contains 45% to
+55% mercury, 35% to 45% silver, and about 15% tin after fully set in about one
+day.
+١١
+
+--- Page 63 ---
+Chapter Five Metals and Alloys
+Gold and gold alloys are useful metals in dentistry as a result of their
+durability, stability, and corrosion resistance. Gold alloys are introduced by two
+methods: casting and malleting. Gold alloys are used for cast restorations, since
+they have mechanical properties which are superior to those of pure gold. The
+pure gold is relatively soft, so this type of restoration is limited to areas not
+subjected to much stress.
+Other Metals
+Tantalum has been subjected to animal implant studies and has been
+shown very biocompatible. Due to its poor mechanical properties and its high
+density (16.6 gm/cm3) it is restricted to few applications such as wire sutures for
+plastic surgeons and neurosurgeons, and a radioisotope for bladder tumors.
+Surface modifications of metal alloys such as coatings by plasma spray,
+physical or chemical vapor deposition, ion implantation, and fluidized bed
+deposition have been used in industry. Coating implants with tissue compatible
+material such as hydroxyapatite, oxide ceramics, bio-glass, and pyrolytic carbon
+are typical applications in implants. Such efforts have been largely ineffective if
+the implants are subjected to a large loading. The main problem is in the
+delaminating of the coating or eventual wear of the coating. The added cost of
+coating or ion implanting hinders the use of such techniques unless the
+technique shows unequivocal superiority compared to the non-treated implants.
+Defining Terms
+In vitro: In glass, as in a test tube. An in vitro test is one done in the laboratory,
+usually involving isolated tissues, organs, or cells.
+In vivo: A test performed in a living body or organism.
+Passivation: Production of corrosion resistance by a surface layer of reaction
+products (normally oxide layer which is impervious to gas and
+water)
+Passivity: Resistance to corrosion by a surface layer of reaction products.
+Pitting: A form of localized corrosion, in which, pits form on the metal surface.
+١٢
+
+--- Page 64 ---
+Chapter Six Hard Tissue Replacements
+Hard Tissue Replacements
+Bone Repair and Joint Implants
+A large number of devices are available for the repair of the bone tissue.
+1- Bone Repair
+The principal functions of the skeleton are to provide a frame to support
+the organ-systems, and to determine the direction and range of body movements.
+Bone provides an anchoring point for the most of skeletal muscles and
+ligaments.
+Bone is the only tissue able to undergo spontaneous regeneration and to
+remodel its micro- and macro-structure. This is accomplished through a delicate
+balance between an osteogenic (bone forming) and osteoclastic (bone removing)
+process.
+Nature provides different types of mechanisms to repair fracture in order
+to be able to cope with different mechanical environments about a fracture. With
+external fracture fixation, the bone fragments are held in alignment by pins
+placed through the skin onto the skeleton, structurally supported by external
+bars. With internal fracture fixation, the base fragments are held by wires,
+screws, plates, and/or intra-medullary devices.
+All the internal fixation devices should meet the general requirements of
+biomaterials, that is, biocompatibility, sufficient strength, corrosion resistance,
+and a suitable mechanical environment for fracture healing. From this
+perspective, stainless steel, cobalt-chrome alloys, and titanium alloys are most
+suitable for internal fixation. Most internal fixation devices persist in the body
+after the fracture has healed, often causing discomfort and requiring removal.
+Recently, biodegradable polymers, for example, polylactic acid (PLA) and
+polyglycolic acid (PGA) have been used to treat minimally loaded fractures,
+thereby eliminating the need for a second surgery for implant removal.
+١
+
+--- Page 65 ---
+Chapter Six Hard Tissue Replacements
+Wires
+Surgical wires are used to reattach fragments of bone, like the greater
+trochanter, which is often detached during total hip replacement. They are also
+used to provide additional stability in long-oblique or spiral fractures of long
+bones which have already been stabilized by other means.
+Twisting and knotting is unavoidable when fastening wires to bone,
+however, by doing so, the strength of the wire can be reduced by 25% or more
+due to stress concentration. This can be overcome by using a thicker wire, since
+its strength increases directly proportional to its diameter (Fig 9.1).
+Pins
+Pins are widely used primarily to hold fragments of bones together
+provisionally or permanently and to guide large screws during insertion. To
+facilitate implantation, the pins have different tip designs which have been
+optimized for different types of bone. The trochar tip is the most efficient in
+cutting hence; it is often used for cortical bone.
+The holding power of the pin comes from elastic deformation surrounding
+bone. In order to increase the holding power to bone, threaded pins are used.
+Most pins are made of 316L stainless steel; however, recently, biodegradable
+pins made of polylactic or polyglycolic acid have been employed for the
+treatment of minimally loaded fractures. (Fig.9.2)
+Screws
+Screws are the most widely used devices for fixation of bone fragments.
+There are two types of bone screws:
+1- Cortical bone screws, which have small threads, and
+2- Cancellous screws which have large threads to get more thread-to-bone
+contact. They may have either V or buttress threads.
+٢
+
+--- Page 66 ---
+Chapter Six Hard Tissue Replacements
+The holding power of screws can be affected by the size of the pilot
+drill-hole, the depth of screw engagement, the outside diameter of the screw, and
+quality of the bone. (Fig.9.3)
+Plates
+Plates are available in a wide variety of shapes and are intended to
+facilitate fixation of bone fragments. They range from the very rigid, intended to
+produce primary bone healing, to the relatively flexible, intended to facilitate
+physiological loading of bone.
+The rigidity and strength of a plate in bending depend on the cross-
+sectional shape and material of which it is made. The effect of the material on
+the rigidity of the plate is defined by the elastic modulus of the material for
+bending and by the shear modulus for twisting. Thus, given the same
+dimensions, a titanium alloy plate will be less rigid than a stainless steel plate,
+since the elastic modulus of each alloy is 110 and 200GPa respectively. (Fig.9.5)
+Joint Replacement
+The design of an implant for joint replacement should be based on the
+kinematics and dynamic load transfer characteristics of the joint. The material
+properties shape, and methods used for fixation of the implant to the patient
+determines the load transfer characteristics. This is one of the most important
+elements that determine long-term survival of the implant, since bone responds
+to changes in load transfer with a remodeling process. Overloading the implant-
+bone interface or shielding it from load transfer may result in bone resorption
+and subsequent loosening of the implant. The articulating surfaces of the joint
+should function with minimum friction and produce the least amount of wear
+products. The implant should be securely fixed to the body as early as possible
+(ideally immediately after implantation); however, removal of the implant
+should not require destruction of a large amount of surrounding tissues.
+٣
+
+--- Page 67 ---
+Chapter Six Hard Tissue Replacements
+Implant Fixation Method
+Fixation of implants with polymethyl-methacrylate (PMMA, bone
+cement) provides immediate stability, allowing patients to bear all of their
+weight on the extremity at once. In contrast, implants which depend on bone
+ingrowth require the patient to wait about 12 weeks to bear full weight. Being a
+viscoelastic polymer, it has the ability to function as a shock absorber. It allows
+loads to be transmitted uniformly between the implant and bone, reducing
+localized high-content stress.
+The problems with bone-cement interface may arise from intrinsic factors,
+such as the properties of the PMMA and bone, as well as extrinsic factors such
+as the cementing techniques.
+Porous Ingrowth Fixation
+Bone ingrowth can occur with inert implants which provide pores larger
+m
+than 25 m in diameter, which is the size required to accommodate an osteon.
+For the best ingrowth in clinical practice, pore size range should be 100 to
+m
+350 m and pores should be interconnected with each other with similar size of
+opening.
+Commercially, pure titanium, titanium alloys, tantalum, and calcium
+hydroxyapatite (HA) are currently used in porous coating materials. With pure
+titanium, three different types of porosity can be achieved:
+1- Plasma spray coating;
+2- Sintering of wire mesh;
+3- Sintering of beads on an implant surface.
+Thermal processing of the porous coating may weaken the underlying metal
+(implant). Additional problems may result from flaking of the porous coating
+materials, since loosened metal particles may cause severe wear when they
+migrate into the articulation.
+٤
+
+--- Page 68 ---
+Chapter Six Hard Tissue Replacements
+Recently, a cellular, structural biomaterial comprised of 15 to 25%
+m
+tantalum has been developed. The average pore size is about 550 m, and the
+pores are fully interconnected.
+Total Joint Replacement
+1- Hip Joint Replacement
+The prosthesis for total hip replacement consists of a femoral component
+and an acetabular component. (Fig. ) The femoral stem is divided into head,
+neck, and shaft. The femoral stem is made of Ti alloy or CoCr alloy and is fixed
+into a reamed medullary canal by cementation or press fitting. The femoral head
+is made of CoCr alloy, alumina or zirconia. The acetabular component is
+generally made of ultra-high molecular-weight polyethylene (UHMWPE). The
+hip joint is a ball-and-socket joint which derives its stability from cony ity of the
+implants, pelvic, and capsule.
+2- Knee Joint Replacements
+The prosthesis for total knee joint replacement consists of femoral, tibial,
+and patellar components. Compared to the hip joint, the knee has a more
+complicated geometry and movement biomechanics, and it is not intrinsically
+stable. In a normal knee, the center of movement is controlled by the geometry
+of the ligaments.
+Total knee replacement can be implanted with or without cement, the
+latter relying on porous coating for fixation. The femoral components are
+typically made of CoCr alloy and the monolithic tibial components are made of
+UHMWPE.
+In modular component, the tibial polyethylene component is assembled
+onto a titanium alloy tibial tra . The patellar component is made of UHMWPE,
+and titanium alloy back is added to components designed for uncemented use.
+٥
+
+--- Page 69 ---
+Chapter Six Hard Tissue Replacements
+3- Ankle Joint Replacement
+Total ankle replacements have not met with as much success as total hip and
+knee replacements, and typically loosen within a few years of service. This is
+mainly due to the high load transfer demand over the relatively small ankle
+surface area and need to replace three articulating surfaces (tibial, talar, and
+fibular). The materials used to construct ankle joints are usually CoCr alloy and
+UHMWPE.
+4- Shoulder Joint Replacements
+The prostheses for total shoulder replacement consist of humeral and
+glenoid components. Like the femoral stem, the humeral component can be
+divided into head, neck, and shaft. The shoulder has the largest range of motion
+in the body, which results from a shallow ball and socket joint, which allows a
+combination of rotation and sliding motions between the joint surfaces.
+5- Elbow Joint Replacements
+The elbow joint is a hinge-type joint allowing mostly flexion and
+extension, but having a polycentric motion. The elbow joint implants are hinged,
+semi-constrained, or unconstrained. These implants, like those of the ankle, have
+a high failure rate and are not used commonly. The high loosening rate is the
+result of high rotational movements, limited bone stock for fixation, and
+minimal ligamentous support.
+6- Finger Joint Replacements
+Finger joint replacements are divided into three types:
+1- Hinge
+2- Polycentric
+3- Space-filler
+The most widely used are the space-filler type. These are of high performance
+silicone rubber (poly dimethylsiloxane) and are stabilized with a passive fixation
+method.
+٦
+
+--- Page 70 ---
+Chapter Six Hard Tissue Replacements
+٧
+
+--- Page 71 ---
+Chapter Seven Composite Biomaterials
+Composite Biomaterials
+Biomaterials are solids which contain two or more distinct constituent
+materials or phases, on a scale larger than the atomic. The tem "composite" is
+usually reserved for those materials in which the distinct phases are separated on
+a scale larger than the atomic, and in which properties such as the elastic
+modulus are significantly altered in comparison with those of a homogeneous
+material. Accordingly, reinforced plastics such as fiberglass as well as natural
+materials, such as bone are viewed as composite materials. Natural composites
+often exhibit hierarchical structures in which particulate, porous, and fibrous
+structural features are seen in different micro-scales.
+Composite materials offer a variety of advantages in comparison with
+homogeneous materials. Those include the ability for the scientist or engineer to
+exercise considerable control over material properties. This is the potential for
+stiff, strong, light-weight materials as well as for highly resilient and compliant
+materials. Some applications of composites in biomaterial applications are:
+(1) Dental filling composites;
+(2) Reinforced methyl methacrylate bone cement and ultra-high molecular
+weight polyethylene;
+(3) Orthopedic implants with porous surfaces.
+Structure
+The properties of composite materials depend very much upon structure.
+Composites differ from homogeneous materials in that considerable control can
+be exerted over the larger scale structure, and hence over the desired properties.
+In particular, the properties of a composite material depend upon the shape of
+the heterogeneities, upon the volume fraction occupied by them, and upon the
+interface among the constituents. The shape of the heterogeneities in a
+composite material is classified as follows:
+١
+
+--- Page 72 ---
+Chapter Seven Composite Biomaterials
+a- The particle, with no long dimension;
+b- The fiber, with one long dimension;
+c- The platelet or lamina, with two long dimensions.
+Bonds on Properties
+Mechanical properties in many composite materials depend on structure
+in a complex way, however for some structures; the prediction of properties is
+relatively simple. The simplest composite structures are the idealized Voigt and
+Reuss models, shown in Fig.2. The dark and light areas in these diagrams
+represent the two constituent materials in the composite. In contrast to most
+composite structures, it is easy to calculate the stiffness of materials with the
+Voigt and Reuss structures, since in the Voigt structure the strain is the same in
+both constituents, in the Reuss structure the stress is the same. The Young's
+modulus, E, of the Voigt composite is given by:
+E= E V + E [1- V ]
+i i m i
+Where E is the Voigt modulus of the inclusions,
+i
+V is the volume fraction of the inclusions,
+i
+E is the Young's modulus of the matrix.
+m
+The Reuss stiffness R, is less than that of the Voigt model
+-1
+V 1- V
+E= i + i
+E E
+i m
+The Voigt and Reuss models provide upper and lower bounds
+respectively upon the stiffness of a composite of arbitrary phase geometry. For
+composite materials which are isotropic, the more complex relations of Hashin
+and Shtrikman provide tighter bounds upon the moduli both the Young's and
+shear moduli must be known for each constituent to calculate these bounds.
+٢
+
+--- Page 73 ---
+Chapter Seven Composite Biomaterials
+An isotopic material has the same material properties in any direction.
+Anisotropic composites offer superior strength and stiffness in comparison with
+isotropic ones.
+Particulate Composites
+It is often convenient to stiffen or harden a material, commonly a
+polymer, by the incorporation of particulate inclusions. The shape of the
+particles is important. In isotropic systems, stiff composite, followed by fibers
+and the last effective geometry for stiff inclusions is the spherical particles.
+Particle reinforcement has been used to improve the properties of bone
+cement. For example, inclusion of bone particles in PMMA cement somewhat
+improves the stiffness and improves the fatigue life considerably. Moreover, the
+bone particles at the interface with the patient's bone are ultimately resorbed and
+are replaced by ingrown new bone tissue.
+Rubber, used in catheters, rubber gloves, etc is usually reinforced with
+very fine particles of silica (SiO ) to make the rubber stronger and tougher.
+2
+Teeth with decayed regions have traditionally been restored with metals
+such as silver amalgam. Metallic restoration is not considered desirable for
+interior teeth for cosmetic reasons. Acrylic resins and silicate cements had been
+used for anterior teeth, but their poor material properties led to short service life
+and clinical failures. Dental composite resins have virtually replaced these
+materials and are very commonly used to restore posterior teeth as well as
+anterior teeth.
+٣
+
+--- Page 74 ---
+Chapter Seven Composite Biomaterials
+The dental composite resins consist of a polymer matrix and stiff
+inorganic inclusions. The inorganic inclusions confer a relatively high stiffness
+and high wear resistance on the material. Available dental composite resins use
+quartz, barium glass and colloidal silica as fillers. Fillers have particle size from
+m
+0.04 to 13 m, and concentrations from 33 to 78% by weight.
+In restoring a cavity, the dentist mixes several constituents, then places
+them in the prepared cavity to polymerize. For this procedure to be successful
+the viscosity of the mixed paste must be sufficiently low and the polymerization
+must be controllable.
+Dental composites have a Young's modulus in the range 10 to 16GPa, and
+the compressive strength from 170 to 260 MPa. These composites are still
+considerably less stiff than dental enamel, which contains about 99% mineral.
+The thermal expansion of dental composites, as with other dental
+materials exceeds that of tooth structure. Moreover, there is a contraction during
+polymerization to 1.2 to 1.6%. These effects are thought to contribute to leakage
+saliva, bacteria, etc. at the interface margins. Such leakage in some cases can
+cause further decay of the tooth. All the dental composites exhibit creep.
+Fibrous Composites
+Fibers incorporated in a polymer matrix increase the stiffness, fatigue life,
+and other properties. Fibers are mechanically more effective in achieving a stiff,
+strong composite than particles. Materials can be prepared in fiber form with
+very few defects which concentrate stress. Fibers such as graphite are stiff
+(Young's modulus is 200 –800GPa) and strong (the tensile strength is 2.7 –
+5.5GPa). Composites made from them can be as strong as steel but much lighter.
+٤
+

@@ -1,0 +1,1508 @@
+Chapter 3
+3D Printing of Biopolymers: Trends and
+Opportunities for Medical Applications
+Tomy J. Gutiérrez
+Thermoplastic Composite Materials (CoMP) Group,
+Institute of Research in Materials Science and Technology (INTEMA),
+Faculty of Engineering, National University of Mar del Plata (UNMdP) and National
+Council of Scientific and Technical Research (CONICET),
+Colón 10850, Mar del Plata 7600, Buenos Aires, Argentina
+tomy.gu(cid:415) errez@fi .mdp.edu.ar, tomy_gu(cid:415) errez@yahoo.es
+Overall, three-dimensional (3D) printing is a technology booming
+for processing and development of unique polymeric materials.
+In this context, the manufacture of parts layer-by-layer with specific
+requirements such as biomedical devices and tissue engineering
+may represent an economical option, off ering the flexibility
+of starting materials. However, there are many outstanding
+challenges to meet. This chapter provides an overview of the field
+of 3D-printed biopolymers for medical applications, and future
+trends and opportunities in this field.
+Handbook of Biopolymers: Advances and Multifaceted Applications
+Edited by Shakeel Ahmed, Suvardhan Kanchi, and Gopalakrishnan Kumar
+Copyright © 2019 Pan Stanford Publishing Pte. Ltd.
+ISBN 978-981-4800-17-4 (Hardcover), 978-0-429-02475-7 (eBook)
+www.panstanford.com
+46 3D Printing of Biopolymers
+3.1 Introduction
+Since the past decade, tissue engineering has shown a sensational
+promise in providing more viable alternatives to surgical procedures
+for harvested tissues, implants, and prostheses. Due to the fast
+development on biomaterial technologies, it is now possible for
+doctors to use patients’ cells to repair orthopedic defects such
+as focal articular cartilage lesions. In order to support the three-
+dimensional tissue formation, scaff olds made by biocompatible
+and bioresorbable polymers and composite materials, produced
+by three-dimensional (3D) printing, for providing temporary
+support to the damaged body and cell structures have been
+developed recently. Although ceramic and metallic materials have
+been widely accepted for the development of implants, their non-
+resorbability and necessity of second surgical operation result in
+extra discomfort for the patients and limit their wide applications
+[1].
+3D printing is also known as additive manufacturing (AM),
+layered manufacturing, rapid prototyping (RP), or solid freeform
+fabrication. This technique represents the direct fabrication of
+parts layer-by-layer, based on data obtained by computerized
+medical imaging equipment such as magnetic resonance imaging
+(MRI) and computed tomography (CT) scans, using a computer-
+aided design (CAD) file [2]. In 3D printing, CAD models of the
+parts to be manufactured are first sliced in a virtual environment
+to create a stack of two-dimensional (2D) slices. A 3D printing
+machine then builds the parts one layer at a time based on the 2D
+slice information, stacking and joining successive layers to make
+the final 3D object. Just as the Internet has given us the ability
+to access information and connect with people from diff erent
+parts of the world, CAD has provided us the ability to create,
+modify, and, if needed, critique designs in a virtual world. With
+the advent of 3D printing, such virtual designs can now be
+rendered into physical 3D objects that can serve as prototypes
+or be directly used as functional parts for a variety of
+applications. In this context, polymers in various forms, reactive,
+liquid solutions or as thermoplastic melts play a key role in many
+Introduction 47
+applications and the further expansion toward manufacturing
+robust, real end use products [3].
+The origins of contemporary 3D printing can be traced back
+to the 1980s when Hull invented stereolithography (SLA), the
+first 3D printing technology [4]. SLA is a process in which an
+ultraviolet (UV) laser light source is focused onto the surface of a
+UV-curable liquid monomer bath and scanned in patterns
+representing slice cross sections. The scanned monomers undergo
+photo-induced cross-linking and harden to form the desired
+2D cross sections, while the uncured monomers remain in the
+bath. Hull was also the first to find a way to allow a CAD file to
+communicate with the RP system in order to build computer-
+modeled parts. Hull’s patent was approved in 1986, making it
+the first patent for a 3D printer. The company 3D Systems,
+founded by Hull, focused on commercializing SLA systems, which
+were the first commercial 3D printers [5].
+Fast forward to 2014, when the U.S. National Aeronautics
+and Space Administration (NASA) launched the first 3D printing
+machine to the International Space Station to directly build
+parts in space under zero gravity [6]. This is also the year
+when researchers from Oak Ridge National Laboratory built a
+complete car body using a 3D printing technique known as big
+area additive manufacturing and partnered with Local Motors
+to commission and drive a functional car at the International
+Manufacturing Technology Show [7]. 3D printing-based
+agile manufacturing technologies are promoting on-demand
+production with traditional as well as innovative designs that
+are difficult, if not impossible, to make through conventional
+manufacturing (CM) approaches. 3D printing technologies
+are also making a significant impact in biomedical research—
+from device designs to tissue engineering (TE) to bioprinting and
+drug delivery.
+After following the technology, markets, and publications
+over several years, it appears that now we are in a period where
+many decisive actors in industry, media, and research and even
+finance advisors realize that the traditional area of prototyping
+is expanding more and more into manufacturing, and this will
+have a significant impact on many areas of our lives, and probably
+a spectacular growth of the 3D printing industry [3].
+48 3D Printing of Biopolymers
+3.2 Brief History of 3D Printing
+Several 3D printing technologies were conceived and developed
+around the time of the emergence of SLA. Deckard invented
+selective laser sintering (SLS) as a graduate student in Beaman’s
+group at the University of Texas at Austin [8]. SLS uses powder
+materials spread on a build plate where a laser selectively
+sinters the powder in certain areas based on the CAD file [6]. A
+similar powder bed-based concept formed the basis of another
+technology, 3D printing, at the Massachusetts Institute of
+Technology by Sachs’ group. Inkjet printing was combined with
+a powder bed, where a binder was printed onto each successive
+layer of swept powder based on the CAD slice information.
+Using this approach, complex shaped metal, polymer, and ceramic
+parts could be printed. However, post-processing or sintering
+steps were often required to enhance the final strength of the
+parts [9]. Scott and Lisa Crump developed another 3D printing
+technology called fused deposition modeling (FDM). FDM
+involves heating a thermoplastic filament to a semi-liquid state,
+which is then extruded and deposited through a nozzle onto
+a substrate to build parts layer-by-layer based on the CAD file
+information [10, 11]. Additionally, Sanders released the first
+3D printer based on inkjet printing of thermoplastic polymers
+[12]. Parts with fine features could be made easily using this
+approach. These are some of the notable early-stage 3D
+printing technologies that were primarily focused on RP for design
+verification and visualization.
+Over the past 15 years, a variety of new technologies have
+evolved that have transformed the idea of RP to AM, where parts
+produced by a 3D printer can be directly used for a variety of
+applications. In the case of metallic materials, laser-based or
+electron beam-based technologies with or without a powder
+bed have truly revolutionized industrial applications of these
+printers. For biomedical applications, novel fabrication
+approaches based on the 3D-Bioplotter or direct ink writing,
+laser-assisted bioprinting, and robotic-assisted printing are all
+in use for diff erent applications. Table 3.1 off ers a brief summary
+of some of these technologies that are relevant for biomaterials
+and their applications toward TE [13–26]. Other technologies
+related to metallic printing are covered throughout this chapter.
+49
+slairetamoib
+ni
+snoitacilppa
+rieht
+dna
+seigolonhcet
+gnitnirp
+D3
+1.3
+elbaT
+dna
+segatnavdA
+rof
+slairetam
+dessecorP
+secnerefeR
+segatnavdasid
+gnireenigne
+eussit
+sliated
+ssecorP
+euqinhceT
+]61–31[
+egatnavdA
+dna
+sremylop
+fo yteirav
+A
+desab-noisurtxE
+tcerid/gnittolp
+D3
+htob
+etaroprocni
+ot
+ysaE−
+ydaerla
+evah
+scimarec
+reyal-yb-reyal
+gnitirw
+kni
+selucelomoib
+dna
+gurd
+gnidulcni
+,desu
+neeb
+noitisoped
+)sllec
+gnivil
+dna
+snietorp(
+,)LCP(
+enotcalorpacylop
+segatnavdasiD
+evitcaoib
+,)AH(
+etitapayxordyh
+eb
+yam
+gnissecorp-tsoP−
+dica
+citcalylop
+,sessalg
+slairetam
+emos
+rof
+dedeen
+locylg
+enelyhteylop/)ALP(
+nihtiw
+llew
+skrow
+ssecorP−
+lyhtemyxordyh(ylop
+dna
+,)GEP(
+ytisocsiv
+fo egnar
+niatrec
+a
+)enotcalorpac-ε-ocedilocylg
+]81
+,71[
+egatnavdA
+,slairetam
+fo yteirav
+A
+derised
+eht
+gnitaoC
+detsissa-resaL
+dlim dna
+tneibmA−
+/AH
+,ainocriz
+,AH
+gnidulcni
+tnerapsnart
+no
+lairetam
+gnitnirpoib
+rof
+elbatius
+si
+noitidnoc
+,)llec
+ekil-tsalboetso(
+36GM
+eht
+;)nobbir(
+ksid
+ztrauq
+cinagroni
+dna
+cinagro
+rotinegorpoetso
+namuh
+dellortnoc
+si
+noitisoped
+sllec
+dna
+slairetam
+eht
+sah
+taht
+llec
+a
+,.e.i(
+llec
+dna
+,ygrene
+eslup
+resal
+yb
+egatnavdasiD
+eno
+otni
+mrofsnart
+ot laitnetop
+yb
+dellortnoc
+si
+noituloser
+era
+snobbir
+suoenegomoH−
+namuh
+dna
+,)enob
+smrof
+taht
+/nobbir
+neewteb
+ecnatsid
+dedeen
+llec
+lailehtodne
+niev
+lacilibmu
+dna
+,ezis
+tops
+,etartsbus
+tnemevom
+egats
+)deunitnoC(
+Brief History of 3D Printing
+50 3D Printing of Biopolymers
+)deunitnoC(
+1.3
+elbaT
+dna
+segatnavdA
+rof
+slairetam
+dessecorP
+secnerefeR
+segatnavdasid
+gnireenigne
+eussit
+sliated
+ssecorP
+euqinhceT
+]02
+,91[
+segatnavdA
+,sremylop
+fo
+yteirav
+egral
+A
+desab-deb
+redwop
+A
+evitceleS
+desu
+si
+deb
+redwoP−
+cimarec
+dna
+,slatem
+yllaitrap
+taht
+ssecorp
+resal
+erofereht
+,troppus
+sa
+neeb
+evah
+slairetam
+sretnis
+yletelpmoc
+ro
+gniretnis
+yradnoces
+rof
+deen
+on
+,euqinhcet
+siht
+htiw
+desu
+a gnisu
+reyal-yb-reyal
+serutcurts
+troppus
+,ALLP
+,AH
+,LCP
+gnidulcni
+taeh
+desab-resal
+a rof
+desu
+eb
+naC−
+dna
+,etahpsohp
+muiclacirt
+ecruos
+slairetam
+fo yteirav
+)etarytubyxordyh-3(ylop
+egatnavdasiD
+noituloser
+erutaeF−
+maeb-resal
+no
+sdneped retemaid
+]22
+,12[
+egatnavdA
+yteirav
+egral
+A
+reyal-yb-reyaL
+yhpargohtiloeretS
+xelpmoc
+dna
+elpmiS−
+elbaruc-otohp
+fo
+erusopxe
+yb
+noitacirbaf
+eb
+nac
+sngised
+sremylop
+;diuqil
+remylopotohp
+ot
+htworg
+;derutcafunam
+ta gniyfidilos
+remylop
+dna
+,snietorp
+,srotcaf
+dna
+,tniop
+lacof
+eht
+enod
+eb
+osla
+nac
+sllec
+remylop
+desopxe-nu
+egatnavdasiD
+diuqil
+sniamer
+rof
+elbacilppa
+ylnO−
+sremylopotohp
+51
+dna
+segatnavdA
+rof
+slairetam
+dessecorP
+secnerefeR
+segatnavdasid
+gnireenigne
+eussit
+sliated
+ssecorP
+euqinhceT
+]52–32[
+egatnavdA
+,sremylopoib
+dna
+larutcurtS
+fo
+sdnartS
+noitisoped
+desuF
+eb
+nac
+dna
+esu
+ot
+ysaE−
+ro
+,remylop-cimarec
+citsalpomreht
+gniledom
+yteirav
+egral
+a
+htiw
+desu
+setisopmoc
+remyloplatem
+ro
+sremylop
+slairetam
+fo
+cimarec/remylop
+egatnavdasiD
+dedurtxe
+setisopmoc
+noitcirtser
+lairetaM−
+dna
+pit
+a
+hguorht
+citsalpomreht
+ot
+detaler
+reyal-yb-reyal
+detisoped
+sremylop
+]62[
+egatnavdA
+,LCP/AH
+,ALP/AH
+hgih
+fo
+gnitirw
+tceriD
+detsissa
+citoboR
+scimarec
+rof
+dooG−
+ssalg
+evitcaoib
+dna
+doog
+;yrruls
+dedaol
+sdilos
+gnitsacobor/noitisoped
+egatnavdasiD
+LCP/)B35P6(
+scimarec
+fo
+yteirav
+a
+rof
+rof
+lufesu
+eb
+ton
+yaM−
+remylop-cimarec
+dna
+slairetam
+tnereff
+id
+setisopmoc
+Brief History of 3D Printing
+52 3D Printing of Biopolymers
+An American Society for Testing and Materials (ASTM)
+International committee dedicated to the specification of standards
+for AM was formed in 2009 [27]. This committee, known as ASTM
+F42, created a categorization of all 3D printing technologies into
+seven major groups. Table 3.2 shows the major categories along
+with the well-known 3D printing technologies that fit within
+each category.
+Table 3.2 3D printing techniques and respective vendors
+Commercial 3D printing technologies
+Category and vendors
+Vat • Stereolithography from 3D Systems
+photopolymerization • Bioplotters from Envisiontec
+• Large area maskless photopolymerization from
+DDM Systems
+• Lithoz Lithography-Based ceramic
+manufacturing
+Material extrusion • Fused deposition modeling from Stratasys
+Powder bed fusion • Selective laser sintering from 3D Systems
+• Electron beam melting from Arcam AB
+• Direct metal laser sintering from EOS
+• Selective laser melting from SLM Solutions
+Directed energy • Laser engineered net shaping from Optomec Inc
+deposition • Direct metal deposition from DM3D
+• Electron beam welding from Sciaky Inc
+Material jetting • Objet from Stratasys
+• Solidscape 3D printers from Solidscape
+• Multi-jet Fusion Technology from HP
+Binder jetting • ZCorp
+• ExOne
+• Voxeljet
+Sheet lamination • MCor Technologies
+3.3 3D Materials Processing Techniques
+In general, there are two modes of processing 3D materials: the
+extrusion mode and the droplet mode. In the extrusion mode,
+3D Materials Processing Techniques 53
+the material is extruded out of the nozzle tip under an applied
+pressure. This mode can basically lay down the material in the
+form of line structures to create the desired model by moving the
+nozzle tip over a substrate in the designed path. This process can
+be repeated layer by layer to develop a freeform fabricated part.
+In the droplet mode, the material is deposited in the form of
+droplets that is controlled by using a frequency function and key
+parameters in the nozzle system settings. The droplet mode can
+form a structured layer by depositing multiple droplets at desired
+locations on a substrate. Similarly, this process can be repeated
+to fabricate a 3D structure. Figure 3.1 shows a schematic diagram
+of the extrusion and droplet mode for the deposition.
+Pressure and material Pressure and material
+Nozzle movement Nozzle movement
+Nozzle Nozzle
+Drop-on-demand Continuous deposition
+(a) (b)
+Figure 3.1 3D materials processing techniques: (a) extrusion mode and
+(b) droplet mode.
+Each nozzle system is unique in its method of operation,
+which makes each system have its advantages and limitations over
+the others. All nozzle systems have a material delivery system.
+However, the detailed setup for each system is diff erent and the
+material delivery system parameters such as air pressure are not
+controlled by in-house software. Characteristics and comparison
+of the four nozzle systems with their advantages and limitations
+is shown in Table 3.3.
+54 3D Printing of Biopolymers
+smetsys
+elzzon
+ruof
+eht
+fo
+nosirapmoc
+dna
+scitsiretcarahC
+3.3
+elbaT
+metsys
+elzzon
+evlavorciM
+elzzon-orcim
+citamuenP
+elzzon-orcim
+cirtceleozeiP
+elzzon-orcim
+dioneloS
+redurtxe
+inim
+dezirusserP
+serutaeF
+telpord/suounitnoC
+telporD
+telpord/suounitnoC
+suounitnoC
+edom
+noitisopeD
+erusserp
+ria
+fo eslup
+ycneuqerF
+egatlov
+fo eslup
+ycneuqerF
+egatlov
+fo
+eslup
+ycneuqerF
+rotom
+aiv
+raeg
+wercs
+gnitatoR
+lortnoc/noitarepO
+,eslup
+ycneuqerf
+,erusserP
+,eslup
+ycneuqerf
+,erusserP
+,eslup
+ycneuqerf
+,erusserP
+,deeps
+dna
+erusserP
+ssecorp
+yeK
+,retemaid
+elzzon
+,lairetam
+,retemaid
+elzzon
+,lairetam
+,retemaid
+elzzon
+,lairetam
+elzzon
+,lairetam
+,erutarepmet
+sretemarap
+deeps
+noitisoped
+deeps
+noitisoped
+deeps
+noitisoped
+deeps
+noitisoped
+,retemaid
+)zH
+41–10.0(
+:H
+)zH
+000,02–0(
+:H
+)CD(V
+04
+:V
+spr
+1
+:deeps
+wercS
+egnar
+gnitarepO
+)isp
+05–0(
+:P
+diulF
+)001-0012(
+:V
+)zH
+002,1–1(
+:H
+C°051
+:erutarepmeT
+snoitatimil
+)isp 001–07(
+:P
+evlaV
+)mμ
+07
+,05
+,03(
+:D
+)mμ
+07
+,05
+,03(
+:D
+lim
+01–7
+:D
+,noitacifidilos
+lacisyhP
+,noitacifidilos
+lacisyhP
+,noitacifidilos
+lacisyhP
+noitacifidilos
+lacisyhP
+erutcurtS
+noitcaer
+lacimehc
+noitcaer
+lacimehc
+noitcaer
+lacimehc
+noitamrof
+hgih
+,erutarepmet
+mooR
+,erutarepmet
+mooR
+,erutarepmet
+mooR
+on
+,noitacifidilos
+tsaF
+segatnavdA
+dna
+noisurtxe
+,ytisocsiv
+,noitisoped
+telpord-orcim
+,telpord
+dna
+noisurtxe
+,erutcurts
+gnorts
+,stnevlos
+tnemnorivne
+elirets
+,telpord
+elirets
+,emulov
+dellortnoc
+tnemnorivne
+elirets
+tnemnorivne
+elirets
+tnemnorivne
+,ytiliballortnoc
+telporD
+ton
+,ytisocsiv
+woL
+telpord
+,ytisocsiv
+woL
+gnitlem
+wol
+,erutarepmeT
+segatnavdasiD
+noitisoped
+noisicerp
+tisoped
+suounitnoc
+ytiliballortnoc
+lairetam
+3D Materials Processing Techniques 55
+More specifically, these methods of processing 3D materials
+can be divided into two distinct groups based on the step, which
+defines the shape of each cross section.
+As a summary, the first group can be described as a repetitive
+process of the following:
+(i) Apply a “fluid” material as a thin layer on a workpiece (or
+fluid bed) under construction.
+(ii) Induce a selective phase change (solidification) on the
+current cross section of the work piece.
+(iii) Lower the work piece (on a platform) into the fluid bed by
+one layer thickness; then repeat.
+The second group combines the “imaging” step with the
+addition of the material of a full cross section:
+(i) Dispense a liquid or liquefied material as small droplets or
+filament onto the preceding cross section of the work piece.
+(ii) Solidify the new cross section.
+(iii) Optionally equalize the new layer to a defined thickness;
+then repeat.
+A third group is the group of “imaging” on a bulk material
+that uses a (ink) jet technology on a powder bed (ASTM: Binder
+Jetting) to solidify the loose powder with a liquid solution,
+which dries or reacts to agglomerate the powder particles at the
+specified locations of each layer. This method was originally
+coined with the name “3D printing” by the MIT, but is now used
+alongside the other techniques with the same designation.
+If we look at the second group of technologies where we
+use addition of the material for each full cross section, without
+a separate imaging step, we have two major processes, which
+dominate the market by machine numbers: (Multi)jet printing
+of reactive resins or molten wax (ASTM: Material Jetting) and
+extrusion of molten thermoplastics (ASTM: Material Extrusion).
+The processes coined as Multijet Modelling or Polyjet use a
+print head similar to inkjet printers to deposit exactly shaped
+layers of a photopolymer resin, and normally a support material
+to partially surround it, which is then immediately cured with a UV
+lamp. In order to maintain exact layer thickness and compensate
+for small variations of droplet size, current machines use a
+56 3D Printing of Biopolymers
+mechanical planarizer, which removes excess material on each
+pass of the print head.
+These machines can process robust resin objects—generally
+complex acrylate formulations—with high accuracy and
+resolution, and do not require complex lasers and beam scanners.
+Some limitations related to materials relate to the viscosity
+requirements of the jetting process; often the viscosity is reduced
+by heating the print head and nozzle plate. This heating is also
+required in machines, which are processing wax materials to
+produce patterns for investment casting, in jewelry and dental
+restorations applications notably.
+A recent development adds machines with multiple print
+heads or channels, again similar to color inkjet printers, which
+can deposit selected mixtures of diff erent materials. Besides
+a palette of colors, this also allows to assign diff erent material
+properties, essentially modulus of elasticity, to diff erent regions
+of a part. It is another step to replace assemblies of several
+components and fasteners with a single part, which is generally
+an advantage of additive technologies.
+The last technique we look at is based on the original
+process of FDM and also relies on a rather simple buildup of an
+essentially standard thermoplastic material (ASTM: Material
+Extrusion). The concept of melting a “standard” plastic material
+and extruding it through a thin, heated nozzle seems quite
+straightforward; the extruded melt can then be spread in a
+controlled X-Y-movement onto the previous layer of part being
+built. Obviously, the processing temperature has to be adapted to
+the specific material and well controlled, and thermal shrinkage
+after deposition can be reduced by heating the build platform
+or even the complete build chamber.
+Originally developed and implemented as an industrial quality
+process with larger size machines and a selection of thermoplastic
+polymers, the scope has now grown into the widest palette of
+smaller and low-cost machines. Some of these machines are even
+off ered as kits to be built or assembled by the user. Recently,
+this type of machines have become very popular and also have
+the largest number manufacturers of quite similar devices, mostly
+with rather small build volumes of roughly 100 to 200 mm on
+each side. While the simple machines just have one extrusion
+head and filament spool, many of the newer developments have
+3D Materials Processing Techniques 57
+multiple heads and can extrude support and part material for
+good accuracy and complex shapes, or to combine diff erent
+colors in a single part.
+The most popular polymers in this process are ABS and
+poly lactide, which is also off ered on almost every entry-level
+printer, but higher-grade machines can also process engineering
+materials such as polycarbonate, polyamide, or even polyphenyl
+sulfone. As the starting material in this process already is a
+thermoplastic polymer, the mechanical properties of parts
+approach those of traditionally molded or machined products,
+similar to SLS, but using a significantly simpler machine.
+The extrusion-type machines are a specific example that
+demonstrate the accelerated progress in the development toward
+the wide availability of 3D printers at aff ordable cost, relying
+on the assembly of readily available core components such as
+precision rails, servo drives, control electronics modules, including
+computers and software that can handle the complex geometry
+data. The latter is also essential for the design of the 3D model
+data based on CAD programs or object scanners; not the least is
+the declining cost of computers to handle all these data and
+control the machine components.
+Another early method that uses paper or other thin films
+of material, which are stacked up, bonded together, and cut to
+shape was called layered object manufacturing (LOM) and has
+now been revived (ASTM: Sheet Lamination) with the possibility
+to use standard office paper sheets. Whereas the original
+version used an IR laser to cut the individual layers, the more
+recent devices cut the paper with a stencil, and a special option
+allows printing onto the sheets with an office printer, which
+then creates fully colored parts. Whereas paper is a well-known
+standard build material, the pressure- or heat-sensitive adhesives
+which hold the sheets together are specially developed to fit the
+process.
+It has been observed that a vast choice of 3D printing
+methods is available, many with a variety of materials to choose
+from, and generally a large range of possible or preferred
+applications. Technically the possibilities are almost without
+limits, and on top of the thousands of applications that are
+being realized today, there is also a lot of speculation about the
+imminent replacement of current production technologies with
+58 3D Printing of Biopolymers
+these new 3D printers. In reality, the majority of users still apply
+these methods to produce prototypes of all kinds, unique parts
+and new designs, including architectural models and display
+objects. There are quite some areas where 3D printing is
+competitive with the cost and speed required for a specific set
+of products, and the available materials meet specifications.
+Today these applications are mostly in the medical field for
+personalized prostheses, in the aeronautical business for low-
+volume production of special parts, or complex-shaped tools
+and fixtures for traditional manufacturing. The benefits are
+particularly high for complex parts, which can often replace an
+assembled device with a single print. The user community is
+constantly expanding the limits toward manufacturing by 3D
+printing, and with progress on the machine side, improved
+reliability, build speed, and intuitive user interfaces, the range
+of these applications keeps growing steadily. Besides that eff ort,
+there is a lot of development in materials to expand the scope of
+manufacturing, notably by the machine manufacturers, independent
+materials supply companies and at research institutions.
+This quest for better materials is also true in the realm of
+low-cost printers, which are aff ordable for individuals and schools
+at higher levels; hobby designers, artists, and researchers can
+turn their ideas and creations into solid plastic parts. There
+is notable interest in creating toys, accessories for personal
+electronics or sometimes even replacements for broken parts.
+3.4 Biopolymers Used for 3D Printing
+Diff erent biopolymers have been studied as materials for the
+development of devices printed in 3D to be used in medical
+applications, such as chitosan, alginate, and collagen, among others
+[2, 28]. Other than biopolymers, poly(ethylene glycol) (PEG),
+poly(ethylene oxide) (PEO), polycaprolactone (PCL), and poly-
+L-lactide acid (PLLA) are the widely used synthetic polymers in
+the biomedical field [29].
+However, not all polymeric materials are applicable and
+suitable for all manufacturing methods. For example, molding
+methods are inappropriate for developing medical implants from
+Biopolymers Used for 3D Printing 59
+hydrogels. Because, the biomaterial cannot be removed without
+damaging both internal and external architecture, which will
+most likely cause the implant breakage [29].
+Another factor to consider is the degradation rate of the
+biomaterial, since it is desired that the material degrade once its
+function is accomplished, which would avoid a second operation
+on the individuals to remove the implant. In this context, the
+biodegradation rate of PLLA is too low to match the tissue
+regeneration process after implantation. Besides, the acidic
+degradation products of PLLA, such as lactic acid, tend to cause
+aseptic inflammation in tissue [29]. On the contrary, PCL has the
+presence of hydrolytic aliphatic–ester bonds, which are unstable.
+Therefore, its degradation duration can be as long as 24 months
+for being completely degraded. Thus, PCL is always used to co-
+polymerize with other materials to have desired degradation
+properties [1]. So, PCL has a better degradation rate to make
+long-term implants and controlled-drug-release implants. In this
+sense, Honda et al. [30] used poly(L-lactide-ε-caprolactone) as a
+biodegradable sponge and implanted it into a nude mice. After a
+4-week experimental process, the result showed that there was
+the formation of cartilage-like structures in the construct [1].
+Additionally, polymers can be chemically modified to match
+the rate of tissue regeneration and degradation rate of the
+material as well as to obtain a wide range of properties for
+biomedical applications, such as mechanical properties, diff usivity,
+density, and hydrophilicity. In addition, these may have optimal
+control over specific cellular interactions with the polymer
+material, whereby cells are comfortable, interacting with
+proteins that bind to the surface of the material, particularly
+biopolymers [29].
+On the other hand, the combination of more than one
+biomaterial provides better characteristics than any single type
+of biomaterial, which in turn leads to the development of
+composite polymeric materials [29]. In this context, composite
+polymers as 3D printing materials have been used to improve
+implant–tissue biocompatibility, i.e., they will not be rejected by
+the body upon implantation [2]. For example, Inzana et al. [31]
+developed osseous implants from polymer blends of collagen
+and Tween 80 using calcium phosphate as a natural filler with
+60 3D Printing of Biopolymers
+the aim of improving osteointegration and improving the
+mechanical properties of the implant [31]. However, the
+development of these materials requires high temperatures
+that prevent the incorporation of bioactive molecules and drugs
+during the 3D printing process, which could stimulate bone
+regeneration or combat infections [31].
+The feasibility of 3D printing of composite biopolymers at
+low temperature has also been demonstrated from low-melting-
+point matrices [2, 31]. This has allowed the incorporation of drugs,
+cells, and 3D printing of synthetic or biological polymers such as
+collagen, thus allowing the development of bioactive implants
+[2]. Type I collagen is the most abundant structural protein in the
+human body and is a critical component of bone extracellular
+matrix, where it plays important roles in this mineralized tissue’s
+strength and toughness. It has been shown that incorporating
+collagen into mineralized bone cements could enhance their
+biomechanical properties, as well as their osteoconductive and
+osteoinductive characteristics. For example, collagen incorporation
+into hand-mixed calcium phosphate cements has been shown to
+improve cellular attachment, viability, proliferation, and activity
+as well as mechanical properties. Advantages of 3D printing over
+molding or paste injection include patient-specific geometries
+and controlled spatial patterning of drugs or polymers within the
+scaff old [31].
+3.5 Advantages of 3D Printing for Medical
+Applications
+3D printing technology off ers significant advantages for medical
+applications due to the ability to manufacture low-volume or
+one-of-a-kind parts on-demand based on patient-specific needs.
+For example, surgical implants are currently manufactured by
+making a near-net-shape part via forging, casting, or machining
+operations, followed by specialized surface finishing or treatments
+for the desired surface, mechanical properties, and aesthetic
+eff ects, as shown in Fig. 3.2. These operations require expensive
+tooling; therefore, patient-specific or one-of-a-kind implants are
+costly and are rarely used. Other challenges such as difficulty in
+machining of titanium alloys due to high strength, low modulus of
+Advantages of 3D Printing for Medical Applications 61
+elasticity, and low thermal conductivity compared with steel
+makes it more expensive to manufacture patient-specific
+implants from these materials [32]. Finally, CM technologies can
+be energy intensive, producing significant amounts of material
+waste, and are not capable of easily producing implants with
+functional gradation.
+3D printing or AM represents a new option for the
+production of a variety of biomedical devices such as orthopedic
+implants. Although AM may require final machining, the AM-
+based approach allows significant flexibility toward manufacturing
+customized, low-volume, complex implants. Figure 3.2 compares
+CM of implants with AM. AM provides geometrical freedom to
+designers without manufacturing constraints, leading to novel
+lightweight designs and potentially reduced part counts for
+medical implants. Specifically for medical implants, AM allows for
+customized complex shaped functional implants and demand-
+based manufacturing—which can off er a significant reduction in
+cost and inventory. Since AM does not require any part specific
+tooling, cost per part remains constant for AM. However, for
+CM, there is always a fixed cost for tooling and dies, and therefore,
+cost per part decreases as the volume of parts increases until
+it reaches a minimum. Such cost analysis forms the basis and
+rationale for the use of 3D printing or AM for biomedical devices.
+Despite some noteworthy success, the construction of human
+tissue or entire organs with 3D printing or AM continues to present
+significant challenges [33–36]. From plastic surgery to cancer
+treatment and from treatment of birth defects to prosthetics
+for amputees—all areas of medicine are seeking breakthroughs
+enabled by 3D printing to enhance quality of life or to help patients
+live longer.
+We present two examples that illustrate future possibilities.
+Complex craniofacial titanium implants from computed tomography
+images of a fractured skull, shown in Fig. 3.3, can be fabricated
+directly using a laser-based AM technology, Laser Engineered
+Net Shaping. In another example, shown in Fig. 3.4, TE scaff olds
+for bone regeneration can be produced through SLS of
+poly(caprolactone), a biocompatible and bioresorbable polymer,
+and poly(caprolactone)–hydroxyapatite composites [37, 38].
+Furthermore, the scaff olds can be produced with a priori
+designed mechanical properties to match the desired mechanical
+performance of the target bone tissue.
+62 3D Printing of Biopolymers
+(cid:336)(cid:374)(cid:349)(cid:336)(cid:396)(cid:381)(cid:38)
+(cid:286)(cid:272)(cid:258)(cid:296)(cid:396)(cid:437)(cid:94)
+(cid:367)(cid:258)(cid:448)(cid:381)(cid:373)(cid:286)(cid:396)(cid:3)(cid:286)(cid:282)(cid:349)(cid:454)(cid:381)(cid:876)(cid:346)(cid:400)(cid:258)(cid:327)(cid:3)
+(cid:400)(cid:437)(cid:381)(cid:396)(cid:381)(cid:87) (cid:400)(cid:336)(cid:374)(cid:349)(cid:410)(cid:258)(cid:381)(cid:18)
+(cid:3)(cid:410)(cid:374)(cid:286)(cid:373)(cid:410)(cid:400)(cid:286)(cid:448)(cid:374)(cid:47)
+(cid:336)(cid:374)(cid:349)(cid:346)(cid:400)(cid:349)(cid:374)(cid:349)(cid:38)
+(cid:3)(cid:18)(cid:69)(cid:18)
+(cid:3)(cid:400)(cid:400)(cid:286)(cid:367)(cid:410)(cid:374)(cid:286)(cid:373)(cid:381)(cid:18)
+(cid:853)(cid:336)(cid:374)(cid:349)(cid:282)(cid:374)(cid:349)(cid:396)(cid:39)
+(cid:336)(cid:374)(cid:349)(cid:346)(cid:272)(cid:258)(cid:68)
+(cid:3)(cid:853)(cid:374)(cid:396)(cid:286)(cid:425)(cid:3)(cid:258)(cid:393)(cid:3)(cid:454)(cid:258)(cid:116)(cid:3)(cid:336)(cid:374)(cid:349)(cid:410)(cid:400)(cid:258)(cid:18)
+(cid:410)(cid:374)(cid:258)(cid:367)(cid:393)(cid:373)(cid:47)
+(cid:853)(cid:336)(cid:374)(cid:349)(cid:346)(cid:400)(cid:349)(cid:367)(cid:381)(cid:393)
+(cid:853)(cid:336)(cid:374)(cid:349)(cid:373)(cid:437)(cid:100)
+(cid:3)(cid:853)(cid:336)(cid:374)(cid:415)(cid:3)(cid:258)(cid:381)(cid:272)(cid:3)(cid:853)(cid:455)(cid:367)(cid:271)(cid:373)(cid:286)(cid:400)(cid:400)(cid:258)
+(cid:3)(cid:853)(cid:286)(cid:349)(cid:24)(cid:3)(cid:853)(cid:367)(cid:381)(cid:381)(cid:100)
+(cid:189)(cid:131)(cid:196)(cid:202)(cid:174)(cid:227)(cid:196)(cid:155)(cid:242)(cid:196)(cid:202)(cid:18)
+(cid:3)(cid:367)(cid:367)(cid:286)(cid:346)(cid:400)(cid:3)(cid:853)(cid:336)(cid:374)(cid:349)(cid:454)(cid:258)(cid:449)(cid:286)(cid:282)
+(cid:336)(cid:374)(cid:349)(cid:364)(cid:258)(cid:68)(cid:3)(cid:282)(cid:367)(cid:381)(cid:68)
+(cid:166)(cid:196)(cid:174)(cid:217)(cid:231)(cid:227)(cid:145)(cid:131)(cid:165)(cid:231)(cid:196)(cid:131)(cid:68)
+(cid:336)(cid:374)(cid:349)(cid:393)(cid:393)(cid:258)(cid:367)
+(cid:336)(cid:374)(cid:349)(cid:367)(cid:367)(cid:349)(cid:396)(cid:282)(cid:3)(cid:853)(cid:336)(cid:374)(cid:349)(cid:367)(cid:367)(cid:349)(cid:373)
+(cid:3)(cid:853)(cid:336)(cid:374)(cid:349)(cid:364)(cid:374)(cid:258)(cid:271)(cid:876)(cid:336)(cid:374)(cid:349)(cid:364)(cid:258)(cid:373) (cid:853)(cid:272)(cid:410)(cid:286)(cid:3)(cid:336)(cid:374)(cid:427)(cid:3)(cid:3)(cid:286)(cid:296)(cid:3)(cid:853)(cid:336)(cid:374)(cid:349)(cid:396)(cid:437)(cid:381)(cid:393)
+(cid:3)(cid:400)(cid:400)(cid:286)(cid:367)(cid:410)(cid:374)(cid:286)(cid:373)(cid:381)(cid:18)
+(cid:282)(cid:396)(cid:258)(cid:282)(cid:374)(cid:258)(cid:410)(cid:94)(cid:876)(cid:373)(cid:381)(cid:410)(cid:400)(cid:437)(cid:18)
+(cid:410)(cid:374)(cid:258)(cid:367)(cid:393)(cid:373)(cid:47)
+(cid:374)(cid:336)(cid:349)(cid:400)(cid:286)(cid:24)(cid:3)(cid:410)(cid:374)(cid:258)(cid:367)(cid:393)(cid:373)(cid:47)
+(cid:336)(cid:374)(cid:349)(cid:346)(cid:400)(cid:349)(cid:374)(cid:349)(cid:38) (cid:853)(cid:336)(cid:374)(cid:349)(cid:282)(cid:374)(cid:349)(cid:396)(cid:39)
+(cid:155)(cid:242)(cid:174)(cid:227)(cid:174)(cid:151)(cid:151)(cid:4)
+(cid:853)(cid:336)(cid:374)(cid:349)(cid:346)(cid:400)(cid:349)(cid:367)(cid:381)(cid:393)
+(cid:166)(cid:196)(cid:174)(cid:217)(cid:231)(cid:227)(cid:145)(cid:131)(cid:165)(cid:231)(cid:196)(cid:131)(cid:68)
+(cid:336)(cid:374)(cid:349)(cid:393)(cid:393)(cid:258)(cid:367)
+(cid:68)(cid:4)(cid:3)(cid:282)(cid:286)(cid:400)(cid:258)(cid:271)(cid:882)(cid:396)(cid:286)(cid:400)(cid:258)(cid:62)
+(cid:876)(cid:282)(cid:286)(cid:410)(cid:374)(cid:286)(cid:373)(cid:381)(cid:18) (cid:3)(cid:400)(cid:400)(cid:286)(cid:367)(cid:410)(cid:374)(cid:286)(cid:373)(cid:381)(cid:18)
+(cid:410)(cid:374)(cid:258)(cid:367)(cid:393)(cid:373)(cid:47)
+.stnalpmi
+fo
+sessecorp
+gnirutcafunam
+lanoitnevnoc
+dna
+evitidda
+fo
+nosirapmoC
+2.3
+erugiF
+Advantages of 3D Printing for Medical Applications 63
+Figure 3.3 Laser Engineered Net Shaping processed craniofacial Ti
+implant (left) and fused deposition modeling processed polymer
+prototype of the skull with large defect (right).
+Figure 3.4 Selective laser sintering-processed poly(caprolactone) tensile
+specimens shown post-fracture (D638-1D, D638-2D, and D638-3D) and
+compressive specimens (D695-1D, D695-2D, and D695-3D) based on
+ASTM D638 and D695 test specimen geometries endowed with 1D, 2D,
+and 3D orthogonal porous channels (placed on a 2 mm grid).
+It is envisioned that application of 3D printing will
+revolutionize the field of biomedical devices and TE due to its
+inherent flexibility in manufacturing complex parts using various
+materials. However, many challenges still remain, due to a lack
+64 3D Printing of Biopolymers
+of diff erent materials for use in any printer and the inability
+to manufacture multicomponent structures using commercial
+printers.
+3.6 Current Challenges in 3D Printing of
+Biomaterials
+3.6.1 Achieving Target Material Properties and
+Desired Architectures
+By virtue of layer-by-layer additive fabrication, it is claimed that
+3D printing provides “complexity for free,” allowing the physical
+realization of complex 3D structures endowed with complex
+internal and external architectures. However, every layer and
+every interface between adjacent layers provides the opportunity
+for the introduction of defects during 3D printing that can lead
+to the failure of the part under the intended application conditions.
+Some of the key challenges associated with 3D printing of
+biomedical implants lie in achieving target mechanical properties,
+durability, and designed architectures to satisfy both mechanical
+and functional requirements. This is especially important in
+load-bearing implants, where mechanical performance and
+fatigue are critical. 3D printing technologies are being used to
+produce permanent implants in metals, polymers, and ceramics.
+The capabilities of these technologies in processing feedstock
+materials such as titanium, poly(ether ether ketone), and
+hydroxyapatite need to be well-characterized and documented
+under diverse conditions both in vitro and in vivo.
+The challenges increase when the implants are endowed
+with intentionally designed or manufacturing-induced porous
+architectures. The eff ective mechanical properties and failure
+modes of such porous architectures need to be well understood
+and integrated into implant design procedures to avoid
+undesirable implant failure outcomes. Computational design
+techniques validated with experimentally measured property
+data need to be integrated into implant design procedures.
+Additional challenges lie in the ability of 3D printing technologies
+Current Challenges in 3D Printing of Biomaterials 65
+to accurately produce desired porous architectures meeting
+design intent. Often, the length scales associated with the
+designed porous architectures (ranging from tens to hundreds of
+microns) are beyond the resolution capability of the 3D printing
+technology in use.
+Finally, surface finish or surface roughness can be a critical
+requirement as well. The inherent stair-stepped surface finish
+from layer-by-layer fabrication or other material consolidation-
+induced surface roughness artifacts prevalent in 3D printing are
+often beneficial for cell anchoring, proliferation, and integration,
+but in other cases, they can be highly detrimental due to the
+inducement of foreign body reactions or due to the release of
+particles into regions surrounding the implant. Thus, careful
+attention has to be paid to understanding surface finish and
+surface texture requirements as well as choosing appropriate
+post-processing procedures to attain final desired surfaces in
+biomaterials fabricated by 3D printing.
+3.6.2 Clean and Sterile Manufacturing Environments
+3D-printed biomaterials are being produced with the intention
+of use in implants or in laboratory scale studies in bioengineering.
+In either case, careful attention needs to be paid to the conditions
+under which the feedstock material is produced, supplied,
+processed, post-processed, and handled. The scale-up of 3D
+printing technologies for biomaterials will require careful design
+of clean manufacturing environments both inside and outside
+the 3D printing platforms to ensure the avoidance of material
+contamination and related possible infections. Thus, the design
+of 3D printing equipment for biomaterials needs to ensure
+that equipment subsystems can meet the requirements for
+contamination control, perhaps similar to or even more stringent
+than those applied in the medical device industry. Furthermore,
+clean manufacturing environments will need to be designed
+from the ground up for scale-up manufacturing of 3D-printed
+biomaterials. New sterilization, packaging, and shipping
+procedures for 3D-printed biomaterials need to be developed
+to ensure product integrity at the point of use.
+66 3D Printing of Biopolymers
+3.6.3 Concerns Related to Regulatory Issues
+Regulatory issues are specific to a particular country and should
+be checked for that particular region first. In the United States,
+medical devices are classified under three categories based on
+the risk to the patient: Class I, Class II, and Class III. Class I devices
+are typically the lowest risk (e.g., a tongue depressor). If there is a
+predicate device, then many devices are classified under Class II,
+where the new device is substantially equivalent to the previous
+device, which has already been cleared by the U.S. Food and Drug
+Administration. Regulatory paths for the Class III or high-risk
+devices are quite challenging as well as time-consuming. In most
+cases, regulation follows technology development, and therefore,
+many times there is a lag in appropriate regulations for certain
+types of devices.
+This is the case for 3D printing and its applications to human
+health. Although the technology for patient-specific implants
+is available, no clear regulatory path is established toward
+immediate utilization of this technology. This is also because
+the risk associated with the use of this technology is yet to
+be fully understood and evaluated. A TE graft with tailored
+porosity and chemistry can be fabricated in hours; however, the
+scientific factors that need to be verified to confirm that this will
+perform the same way as before are still evolving. Moreover,
+the advent of diff erent 3D printing technologies is also making
+this evaluation more complex. Finally, the needs of specific
+patients are diff erent. A clear understanding of the biomechanical
+and biological issues for diff erent parts will eventually help
+develop regulatory pathways for diverse clinical applications
+of 3D-printed parts. A logical approach will establish regulatory
+paths for low-risk devices, such as specialty surgical tools, and
+then slowly move toward the high-risk devices such as
+patient-matched implants. It is envisioned that such trends will
+follow in the coming years in the United States as well as other
+parts of the world.
+3.6.4 Material-Specific Machines
+Unlike CM processes such as forging or investment casting,
+many 3D printing processes are diff erent in terms of the materials
+that can be used and the delivery of materials. For example,
+Current Challenges in 3D Printing of Biomaterials 67
+a polymer-based 3D printing process will not work for metals or
+ceramics and vice versa. This makes process optimization very
+important for diff erent materials that will be used with a specific
+printer. The user must know what material will be used and
+what kind of resolution is needed before selecting a 3D printer.
+This limitation is the main reason why diff erent companies have
+multiple 3D printers for a variety of applications.
+3.6.5 Future Trends
+3D printing of multi-material structures is one of the most
+promising future trends. Diff erent materials at diff erent locations
+in a structure can off er properties that cannot be achieved using
+monolithic structures. These materials can only be bonded to
+each other or alloyed during the part building, allowing for
+compositional variations in the part. For 3D-printed biomaterials,
+a simple example can help us understand the power of multi-
+material 3D printing. For total hip prosthesis, implants are made
+with either Ti Al V or CoCrMo alloys. To enhance bone–tissue
+6 4
+integration, implants are sometimes coated with porous Ti or Ta
+metal or calcium phosphate-based ceramics. However, diff erent
+processing strategies are utilized for the addition of coatings.
+Using multi-material 3D printing, a calcium phosphate or metal
+coated hip stem can be directly manufactured from the same
+machine that can also produce an uncoated sample in the very next
+run. Therefore, in addition to flexibility in design modifications,
+the potential of incorporating compositional variations will allow
+future innovations in advanced materials and structures using
+3D printing.
+For bioprinting, multi-material structures include cells that
+can be printed along with organic or inorganic materials to
+make a fully functional scaff old for TE [39]. Such an approach is
+gaining considerable attention from a number of researchers,
+though there are many challenges that need careful attention.
+For example, cell viability will be key for successful bioprinting
+operation. Shelf-life of materials with and without cells is
+another significant issue. Also, due to significant variation in the
+stiff ness of the cells and materials to be deposited, careful process
+optimization is necessary to build scaff olds that can be used for
+further in vitro or in vivo analysis.
+68 3D Printing of Biopolymers
+Another important criterion is vascularization or new blood
+vessel network formation, commonly known as angiogenesis.
+Figure 3.5 shows new blood vessel formation in 3D-printed-doped
+tricalcium phosphate TE scaff olds in a rat distal femur model.
+3D-printed TE scaff olds should support angiogenesis for
+functional tissue formation to enhance healing in vivo [40–46].
+Figure 3.5 New blood vessel formation in 3D-printed-doped tricalcium
+phosphate TE scaff olds implanted in a rat distal femur model.
+Finally, 3D printing combined with drug or protein delivery
+is becoming popular and is expected to gain more attention in
+the future. Drug-/protein-loaded biomaterials with a controlled
+delivery option can be used to treat many diseases [45]. In particular,
+specific drug combinations that are patient-matched and unique
+can be loaded into a single 3D-printed drug delivery device.
+However, drug–material and drug–drug interactions during 3D
+printing are complex topics and will require significant process
+optimization before actual applications can be realized and
+approved for patient use.
+3.7 Conclusion
+The processing of biopolymers and polymer composites through
+three-dimensional (3D) printing has been gaining a lot of
+attention, because of its multiple applications in a wide variety
+References 69
+of industries. In fact, the exploration of the areas of applicability
+of this technique remains an active area of research. With the
+latest 3D printers capable of printing materials with a widely
+contrasting mechanical behavior and with complex geometries
+at micrometer resolutions, the potential of this technology
+has grown. This technology now off ers the possibility of creating
+complex topologies with fine features, composed of a multitude
+of materials with variable mechanical properties on a large
+scale, thus allowing the manufacture of devices with an
+unprecedented multifunctional performance [47, 48]. Particularly
+in medical applications, in the last decade there has been a growing
+interest in the development of medical systems with bioactive
+properties, which have been possible thanks to the technological
+development of 3D printing as well as biopolymers, drugs,
+natural fillers and implementation in vitro or in vivo of cells in
+the formulated materials, which have generated a series of
+implants with outstanding mechanical properties and exceptional
+biocompatibility, adjusted to the exact dimensions of each implant
+for each patient. Likewise, because of the greater surface area
+of these devices, the cells are able to regenerate the tissues at
+a faster rate, thus allowing the patients to recover quickly, and
+avoiding a subsequent operation to remove the implant, since
+these implants are degraded in the time, while this one fulfills
+the mission for which it was developed. Finally, this type of
+implant also promises to be a controlled-drug-release device,
+while the polymer material used is degraded.
+Acknowledgements
+The authors would like to thank Consejo Nacional de Investigaciones
+Científicas y Técnicas (CONICET) (Postdoctoral fellowship
+internal PDTS-Resolution 2417) and Universidad Nacional de
+Mar del Plata (UNMdP) for the financial support, and to Dr. Mirian
+Carmona-Rodríguez.
+References
+1. Cheung, H. Y., Lau, K. T., Lu, T. P., and Hui, D. (2007). A critical
+review on polymer-based bio-engineered materials for scaff old
+development, Compos. Part B Eng., 38(3), pp. 291–300.
+70 3D Printing of Biopolymers
+2. Khalil, S., Nam, J., and Sun, W. (2005). Multi-nozzle deposition
+for construction of 3D biopolymer tissue scaff olds, Rapid Prototyping
+J., 11(1), pp. 9–17.
+3. Hofmann, M. (2014). 3D printing gets a boost and opportunities
+with polymer materials, ACS Macro Lett., 3(4), pp. 382–386.
+4. Hull, C. W. (1986). Apparatus for production of three-dimensional
+objects by stereolithography, US patent 4,575,330.
+5. 3D Systems Inc, http://www.3dsystems.com/, accessed on
+03/27/2017.
+6. Made in Space, http://www.madeinspace.us/#section-portal,
+accessed on 03/27/2017.
+7. Manufacturing Demonstration Facility, Oak Ridge National
+Laboratory, http://web.ornl.gov/sci/manufacturing/media/news/
+3d-car/, accessed on 03/27/2017.
+8. Deckard, C. R. (1989). Method and apparatus for producing parts
+by selective sintering, US patent 4,863,538.
+9. Sachs, E. M., Haggerty, J. S., Cima, M. J., and Williams, P. A. (1993).
+Three-dimensional printing techniques, US patent 5,204,055.
+10. Crump, S. S. (1992). Apparatus and method for creating three-
+dimensional objects, US patent 5,121,329.
+11. Stratasys Ltd., http://www.stratasys.com, accessed on 03/27/2017.
+12. Sanders, R. C., Forsyth, J. L., and Philbrook, K. F. (1998). 3-D model
+making, US patent 5,740,051.
+13. Sobral, J. M., Caridade, S. G., Sousa, R. A., Mano, J. F., and Reis, R. L.
+(2011). Three-dimensional plotted scaff olds with controlled pore
+size gradients: Eff ect of scaff old geometry on mechanical performance
+and cell seeding efficiency, Acta Biomater., 7(3), pp. 1009–1018.
+14. Wu, C., Luo, Y., Cuniberti, G., Xiao, Y., and Gelinsky, M. (2011).
+Three-dimensional printing of hierarchical and tough mesoporous
+bioactive glass scaff olds with a controllable pore architecture,
+excellent mechanical strength and mineralization ability, Acta
+Biomater., 7(6), pp. 2644–2650.
+15. Seyednejad, H., Gawlitta, D., Kuiper, R. V., de Bruin, A., van Nostrum,
+C. F., Vermonden, T., Dhert, W. J. A., and Hennink, W. E. (2012).
+In vivo biocompatibility and biodegradation of 3D-printed porous
+scaff olds based on a hydroxyl-functionalized poly(ε-caprolactone),
+Biomaterials, 33(17), pp. 4309–4318.
+16. Fu, Q., Saiz, E., and Tomsia, A. P. (2011). Direct ink writing of highly
+porous and strong glass scaff olds for load-bearing bone defects
+repair and regeneration, Acta Biomater., 7(10), pp. 3547–3554.
+References 71
+17. Doraiswamy, A., Narayan, R. J., Harris, M. L., Qadri, S. B., Modi, R.,
+and Chrisey, D. B. (2007). Laser microfabrication of hydroxyapatite-
+osteoblast-like cell composites, J. Biomed. Mater. Res. A, 80(3),
+pp. 635–643.
+18. Guillotin, B., Souquet, A., Catros, S., Duocastella, M., Pippenger, B.,
+Bellance, S., Bareille, R., Rémy, M., Bordenave, L., Amédée, J., and
+Guillemot, F. (2010). Laser assisted bioprinting of engineered tissue
+with high cell density and microscale organization, Biomaterials,
+31(28), pp. 7250–7256.
+19. Williams, J. M., Adewunmi, A., Schek, R. M., Flanagan, C. L., Krebsbach,
+P. H., Feinberg, S. E., Hollister, S. J., and Das, S. (2005). Bone tissue
+engineering using polycaprolactone scaff olds fabricated via selective
+laser sintering, Biomaterials, 26(23), pp. 4817–4827.
+20. Duan, B., Wang, M., Zhou, W. Y., Cheung, W. L., Li, Z. Y., and Lu, W. W.
+(2010). Three-dimensional nanocomposite scaff olds fabricated via
+selective laser sintering for bone tissue engineering, Acta Biomater.,
+6(12), pp. 4495–4505.
+21. Lan, P. X., Lee, J. W., Seol, Y. J., and Cho, D. W. (2009). Development
+of 3D PPF/DEF scaff olds using micro-stereolithography and
+surface modification, J. Mater. Sci. Mater. M., 20(1), pp. 271–279.
+22. Ronca, A., Ambrosio, L., and Grijpma, D. W. (2013). Preparation of
+designed poly (D, L-lactide)/nanosized hydroxyapatite composite
+structures by stereolithography, Acta Biomater., 9(4), pp. 5989–5996.
+23. Kalita, S. J., Bose, S., Hosick, H. L., and Bandyopadhyay, A. (2003).
+Development of controlled porosity polymer-ceramic composite
+scaff olds via fused deposition modeling, Mat. Sci. Eng. C, 23(5),
+pp. 611–620.
+24. Bose, S., Darsell, J., Hosick, H. L., Yang, L., Sarkar, D. K., and
+Bandyopadhyay, A. (2002). Processing and characterization of
+porous alumina scaff olds, J. Mater. Sci. Mater. M., 13(1), pp. 23–28.
+25. Darsell, J., Bose, S., Hosick, H. L., and Bandyopadhyay, A. (2003).
+From CT scan to ceramic bone graft, J. Am. Ceram. Soc., 86(7),
+pp. 1076–1080.
+26. Russias, J., Saiz, E., Deville, S., Gryn, K., Liu, G., Nalla, R. K., and Tomsia,
+A. P. (2007). Fabrication and in vitro characterization of three-
+dimensional organic/inorganic scaff olds by robocasting, J. Biomed.
+Mater. Res. A, 83(2), pp. 434–445.
+27. ASTM International (2003), Standard Test Methods for Conductivity
+Type of Extrinsic Semiconducting Materials, available online at
+http://www. astm.org/Standards/F42.htm.
+72 3D Printing of Biopolymers
+28. Colosi, C., Costantini, M., Latini, R., Ciccarelli, S., Stampella, A., Barbetta,
+A., Massimi, M., Conti, L., and Dentini, M. (2014). Rapid prototyping
+of chitosan-coated alginate scaff olds through the use of a 3D fiber
+deposition technique, J. Mater. Chem. B, 2(39), pp. 6779–6791.
+29. Hoque, M. E., Chuan, Y. L., and Pashby, I. (2012). Extrusion based
+rapid prototyping technique: An advanced platform for tissue
+engineering scaff old fabrication, Biopolymers, 97(2), pp. 83–93.
+30. Honda, M., Yada, T., Ueda, M., and Kimata, K. (2000). Cartilage
+formation by cultured chondrocytes in a new scaff old made of
+poly (L-lactide-ε-caprolactone) sponge, J. Oral Maxil. Surg., 58(7),
+pp. 767–775.
+31. Inzana, J. A., Olvera, D., Fuller, S. M., Kelly, J. P., Graeve, O. A., Schwarz,
+E. M., Kates, S. L., and Awad, H. A. (2014). 3D printing of composite
+calcium phosphate and collagen scaff olds for bone regeneration,
+Biomaterials, 35(13), pp. 4026–4034.
+32. Balazic, M., Kopac, J., Jackson, M. J., and Ahmed, W. (2007). Review:
+Titanium and titanium alloy applications in medicine, Int. J. Nano
+Biomater., 1(1), pp. 3–34.
+33. Woodruff , M. A., Lange, C., Reichert, J., Berner, A., Chen, F., Fratzl, P.,
+Schantz, J.-T., and Hutmacher, D. W. (2012), Bone tissue engineering:
+From bench to bedside, Mater. Today, 15(10), pp. 430–435.
+34. Reichert, J. C., Cipitria, A., Epari, D. R., Saifzadeh, S., Krishnakanth,
+P., Berner, A., Woodruff , M. A., Schell, H., Mehta, M., Schuetz, M. A.,
+Duda, G. N., and Hutmacher, D. W. (2012). A tissue engineering
+solution for segmental defect regeneration in load-bearing long
+bones, Sci. Transl. Med., 4(141), p. 141ra93.
+35. Melchels, F. P., Domingos, M. A., Klein, T. J., Malda, J., Bartolo, P. J.,
+and Hutmacher, D. W. (2012). Additive manufacturing of tissues
+and organs, Prog. Polym. Sci., 37(8), pp. 1079–1104.
+36. Hutmacher, D. W. (2013). A road map for a tissue engineering
+concept for restoring structure and function after limb loss, J. Biomed.
+Mater. Res. A, 24(11), pp. 2659–2663.
+37. Eshraghi, S., and Das, S. (2012). Micromechanical finite-element
+modeling and experimental characterization of the compressive
+mechanical properties of polycaprolactone–hydroxyapatite
+composite scaff olds prepared by selective laser sintering for bone
+tissue engineering, Acta Biomater., 8(8), pp. 3138–3143.
+38. Eshraghi, S., and Das, S. (2010). Mechanical and microstructural
+properties of polycaprolactone scaff olds with one-dimensional, two-
+References 73
+dimensional, and three-dimensional orthogonally oriented porous
+architectures produced by selective laser sintering, Acta Biomater.,
+6(7), pp. 2467–2476.
+39. Ringeisen, B. R., Pirlo, R. K., Wu, P. K., Boland, T., Huang, Y., Sun,
+W., Hamid, Q., and Chrisey, D. B. (2013). Cell and organ printing
+turns 15: Diverse research to commercial transitions, MRS Bull.,
+38(10), pp. 834–843.
+40. Fielding, G., and Bose, S. (2013). SiO and ZnO dopants in
+2
+three-dimensionally printed tricalcium phosphate bone tissue
+engineering scaff olds enhance osteogenesis and angiogenesis
+in vivo, Acta Biomater., 9(11), pp. 9137–9148.
+41. Tarafder, S., Dernell, W. S., Bandyopadhyay, A., and Bose, S. (2015).
+SrO-and MgO-doped microwave sintered 3D printed tricalcium
+phosphate scaff olds: Mechanical properties and in vivo osteogenesis
+in a rabbit model, J. Biomed. Mater. Res. B, 103(3), pp. 679–690.
+42. Tarafder, S., Davies, N. M., Bandyopadhyay, A., and Bose, S. (2013).
+3D printed tricalcium phosphate bone tissue engineering scaff olds:
+Eff ect of SrO and MgO doping on in vivo osteogenesis in a rat
+distal femoral defect model, Biomater. Sci., 1(12), pp. 1250–1259.
+43. Bose, S., Roy, M., and Bandyopadhyay, A. (2012). Recent advances
+in bone tissue engineering scaff olds, Trends Biotechnol., 30(10),
+pp. 546–554.
+44. Bose, S., Fielding, G., Tarafder, S., and Bandyopadhyay, A. (2013).
+Understanding of dopant-induced osteogenesis and angiogenesis in
+calcium phosphate ceramics, Trends Biotechnol., 31(10), pp. 594–605.
+45. Bose, S., and Tarafder, S. (2012). Calcium phosphate ceramic systems
+in growth factor and drug delivery for bone tissue engineering:
+A review, Acta Biomater., 8(4), pp. 1401–1421.
+46. Tarafder, S., and Bose, S. (2014). Polycaprolactone-coated 3D
+printed tricalcium phosphate scaff olds for bone tissue engineering:
+In vitro alendronate release behavior and local delivery eff ect on in
+vivo osteogenesis, ACS Appl. Mater. Interfaces, 6(13), pp. 9955–9965.
+47. Dimas, L. S., Bratzel, G. H., Eylon, I., and Buehler, M. J. (2013). Tough
+composites inspired by mineralized natural materials: Computation,
+3D printing, and testing, Adv. Funct. Mater., 23(36), pp. 4629–4638.
+48. Ge, Q., Qi, H. J., and Dunn, M. L. (2013). Active materials by four-
+dimension printing, Appl. Phys. Lett., 103(13), p. 131901.
+

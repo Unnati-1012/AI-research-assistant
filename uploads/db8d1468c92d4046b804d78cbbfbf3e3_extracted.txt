@@ -1,0 +1,86 @@
+--- Page 1 ---
+Organisms must constantly protect themselves from harm caused by invaders such as bacterial and
+viral pathogens. The immune system delivers this protection via numerous pathways, but this can
+broadly be broken down into two arms, innate immunity and adaptive immunity.
+Immunity definition
+Immunity is defined as an organism’s ability to protect itself from anything it does not recognize
+as self, such as a pathogen or toxin.
+How does the immune system tell self from non-self?
+In humans, all nucleated cells express distinctive surface molecules called major
+histocompatibility complex class I (MHC class I) that identify them as being self. Anything that
+does not possess these “self-tags” may be recognized by the immune system as foreign and
+targeted. Anything that triggers the immune system is called an antigen.
+What is innate immunity?
+Innate immunity, also known as genetic or natural immunity, is immunity that an organism is born
+with. This type of immunity is written in one’s genes, offering lifelong protection. It is considered
+the more evolutionarily primitive immune system and consequently, as well as being found in
+vertebrates, is also found in various shapes and forms in plants, fungi and insects. The innate
+immune response is fast-acting and non-specific, meaning it does not respond differently based on
+the specific invader that it detects.
+In humans, the innate immune system encompasses physical and chemical barriers, that provide a
+first line of defense, and chemical (humoral) and cellular aspects as the second line of defense.
+• Physical and chemical barriers protect the body from invasion and include things like
+the skin and eyelashes, while substances at these barriers, such as tears, mucous, blood
+clotting factors and stomach acid help to stop and destroy them.
+• Chemical defenses consist of proteins able to interact directly or indirectly with invaders,
+activating cascades of reactions to cause inflammation and recruit further immune
+mediators that help to defend the body. Examples include the complement system,
+interferons and interleukin-1.
+• Cellular defenses identify things that are non-self, take steps to neutralize or destroy them
+and activate the adaptive immune system. Examples include phagocytes, natural killer cells
+and mast cells.
+The path taken will depend upon whether the threat is intracellular, such as a virus,
+or extracellular, such as a bacterium. Invaders may be recognized by the innate immune system
+if the host MHC-class I molecules that indicate it as self are absent, as is the case with natural
+killer cell surveillance. Alternatively, molecules may be recognized that are common to many
+pathogens but are absent in the host. These are called pathogen-associated molecular
+
+--- Page 2 ---
+patterns or PAMPs, and their recognition promotes their destruction through phagocytosis or
+cytotoxic killing.
+For intracellular threats, pattern recognition receptors (PRRs) detect non-self-components, such
+as viral RNA, DNA, or intermediate products. This leads to the production of pro-inflammatory
+cytokines, induces apoptosis of infected cells or flags them to be targeted by other innate immune
+cells for destruction.
+Phagocytic cells, such as dendritic cells, are able to chop up the foreign material they engulf and
+present it on their surfaces which is an important step in activating the adaptive immune response.
+This has earned them the name, antigen-presenting cells (APCs).
+Collectively, the main roles of the innate immune system are to:
+1. Prevent the entry of foreign material using physical and chemical barriers.
+2. Prevent further spread of infection through humoral mediators such as the complement
+cascade.
+3. Remove non-self via phagocytosis (e.g., macrophages or neutrophils) or cytotoxic means.
+4. Activate the adaptive immune system through signaling cytokines and antigen
+presentation.
+
+--- Page 3 ---
+What is adaptive immunity?
+Organisms are not born with adaptive immunity and it is not “hard-wired” in their genes like innate
+immunity. It is acquired during their lifetime as a result of exposure to specific antigens, be that
+through natural means such as infection or by vaccination. Consequently, it is also known as
+acquired immunity. An adaptive immune response is much slower than an innate response, taking
+days or even weeks to develop on first encounter (the primary immune response), but is specific
+to the antigen(s) present and can retain a long-term “memory” to enable a faster response if it is
+encountered again in the future. Adaptive immunity does it necessarily last throughout an
+organism’s entire lifespan, especially if it is not regularly re-exposed, although it can.
+If the innate immune system alone is insufficient to control a foreign threat, the adaptive immune
+system is activated via signaling molecules and/or the presentation of antigens by antigen-
+presenting cells. Professional antigen-presenting cells, such as dendritic cells, have major
+histocompatibility complex class II (MHC class II) molecules on their surface that are involved
+in the presentation of foreign peptides, helping to ensure appropriate immune activation. The
+adaptive response consists of the cell-mediated immune response, which is executed by T cells,
+and the humoral immune response, which is controlled by activated B cells and antibodies.
+Clonal expansion of T and B cells that specifically recognize epitopes of the antigens present
+occurs.
+T-cells have diverse functions and may cause direct killing of infected cells or help to stimulate B
+cells towards antibody production. Once stimulated, naïve B cells differentiate into memory cells
+and plasma cells. Plasma cells produce and secrete large quantities of antigen-specific antibodies
+for the remainder of their lifecycle to help neutralize and destroy their target. Memory cells can
+survive for decades, reactivating in response to the presence of their target antigen to produce
+antibodies. Consequently, the response to repeated exposures may be faster and more robust.
+The above description of adaptive immunity describes active immunity, which is the result of first-
+hand exposure, infection, or vaccination. Passive immunity.is also a type of adaptive immunity but
+instead of creating its own antibodies, the organism receives external antibodies that help to protect
+them. This may be because of transfer from mother to baby through the placenta via breast milk,
+or by injection to defend against a specific disease.
+

@@ -1,0 +1,647 @@
+--- Page 1 ---
+REVIEW
+published:16July2018
+doi:10.3389/fbioe.2018.00099
+Blood-Contacting Biomaterials: In
+Vitro Evaluation of the
+Hemocompatibility
+MarbodWeber,HeidrunSteinle,SoniaGolombek,LudmillaHann,ChristianSchlensak,
+HansP.WendelandMeltemAvci-Adali*
+DepartmentofThoracicandCardiovascularSurgery,UniversityHospitalTübingen,Tübingen,Germany
+Hemocompatibilityofblood-contactingbiomaterialsisoneofthemostimportantcriteria
+for their successful in vivo applicability. Thus, extensive in vitro analyses according to
+ISO 10993-4 are required prior to clinical applications. In this review, we summarize
+essentialaspectsregardingtheevaluationofthehemocompatibilityofbiomaterialsand
+therequiredinvitroanalysesfordeterminingthebloodcompatibility.Static,agitated,or
+shearflowmodelsareusedtoperformhemocompatibilitystudies.Beforeandafterthe
+incubation of the test material with fresh human blood, hemolysis, cell counts, and the
+activation of platelets, leukocytes, coagulation and complement system are analyzed.
+Furthermore,thesurfaceofbiomaterialsareevaluatedconcerningattachmentofblood
+Editedby:
+cells,adsorptionofproteins,andgenerationofthrombusandfibrinnetworks.
+NihalEnginVrana,
+ProtipMedical,France
+Keywords:hemocompatibility,bloodcontact,biomaterials,coagulation,complementsystem
+Reviewedby:
+GiovannVozzi,
+UniversitàdegliStudidiPisa,Italy INTRODUCTION
+ElifVardar,
+CentreHospitalierUniversitaire
+Hemocompatibility is one of the major criteria, which limit the clinical applicability of blood-
+Vaudois(CHUV),Switzerland
+contacting biomaterials. These materials come in close contact with blood, which is a complex
+*Correspondence: “organ,” comprising of 55% plasma, 44% erythrocytes, and 1% leukocytes and platelets. Thus,
+MeltemAvci-Adali
+adverseinteractionsbetweennewlydevelopedmaterialsandbloodshouldbeextensivelyanalyzed
+meltem.avci-adali@uni-tuebingen.de
+topreventactivationanddestructionofbloodcomponents.Theinitiallyadsorbedproteinlayeron
+thebiomaterialsurfacemainlytriggerstheadversereactions,suchastheactivationofcoagulation
+Specialtysection:
+viaintrinsicpathway,theactivationofleukocytes,whichresultsininflammation,andtheadhesion
+Thisarticlewassubmittedto
+Biomaterials, andactivationofplatelets(Liuetal.,2014).Asaresult,thenumberofbloodcellscandecreaseand
+asectionofthejournal athrombuscanbeformed.
+FrontiersinBioengineeringand Thus,theappliedblood-contactingbiomaterialsshouldnotadverselyinteractwithanyblood
+Biotechnology components and activate or destruct blood components. Erythrocytes are the most abundant
+Received:12May2018 bloodcellswith4–6×106 cells/µlandtheyareimportantforthetransportofoxygen(O 2 )from
+Accepted:26June2018 the lung to all tissues and cells and carbon dioxide (CO ) from tissues back to the lung. Since
+2
+Published:16July2018 erythrocytes are the most rigid cells in the blood, they are sensitive to rupture and hemolysis
+Citation: due to shear stress and changes in osmotic pressure. Blood platelets are the smallest (1–3µm)
+WeberM,SteinleH,GolombekS, and the second abundant cell type in the blood with 1.5–3.5 × 105 cells/µl, which can rapidly
+HannL,SchlensakC,WendelHPand recognize foreign surfaces and initiate blood coagulation. Furthermore, human blood contains
+Avci-AdaliM(2018)Blood-Contacting 4.3–10×103 leukocytes/µl,suchasgranulocytes,lymphocytes,monocytes,dendriticandnatural
+Biomaterials:InVitroEvaluationofthe
+killercells.Monocytesaccountfor1–6%ofallleukocytesandneutrophilgranulocytesarethemost
+Hemocompatibility.
+Front.Bioeng.Biotechnol.6:99. abundantleukocytesintheblood,comprising50–70%ofallleukocytes.Theseimmunecellsare
+doi:10.3389/fbioe.2018.00099 belonging to the innate immune system and they can be rapidly activated upon recognition of
+FrontiersinBioengineeringandBiotechnology|www.frontiersin.org 1 July2018|Volume6|Article99
+
+--- Page 2 ---
+Weberetal. HemocompatibilityofBlood-ContactingBiomaterials
+a foreign invader such as a pathogen or a foreign material.
+Furthermore, blood plasma contains high amounts of
+plasma proteins, such as albumin, coagulation factors, and
+immunoglobulins.
+Catheters,guidewires,dialyzer,oxygenators(artificiallungs),
+heart-supporting systems, cardiac pacemaker, vascular grafts,
+stents, heart valves, micro-, and nanoparticles are widely used
+medical devices and materials coming in direct contact with
+blood. Prior to clinical application, the hemocompatibility
+of blood-contacting medical materials have to be analyzed
+and therefore, a guidance is developed by the International
+Organization for Standardization (ISO 10993-4) (International
+Organization for Standardization, 2000). According this
+guideline, five different categories, thrombosis, coagulation,
+platelets, hematology, and immunology (complement system
+andleukocytes),areindicatedforhemocompatibilityevaluation.
+The devices are divided into three categories concerning blood
+contact: (1) Externally communicating devices with indirect
+blood contact, e.g., cannulas and blood collection sets; (2)
+Externally communicating devices with direct blood contact,
+e.g.,cathetersandhemodialysisequipment;(3)Implantdevices,
+e.g.,heartvalves,stents,andvasculargrafts.Sofar,severalstudies
+were performed according ISO-10993-4 to evaluate various
+blood contacting devices and materials, such as stents (Sinn
+etal.,2011;Stangetal.,2014),catheterswithanoblemetalalloy
+coating (Vafa Homann et al., 2016), poly(2-dimethylamino- FIGURE1|Schematicrepresentationoftheprocedurefortheevaluationof
+ethylmethacrylate) (PDMAEMA) (Cerda-Cristerna et al., thehemocompatibilityofbiomaterials.First,freshhumanbloodiscollected
+2011), and DNA hydrogels (Stoll et al., 2017). To perform andanticoagulatedwithlowdoseheparin.Thereafter,thetestmaterialis
+incubatedat37◦Cusingstatic,agitated,ordynamictestmodelswiththe
+hemocompatibilityanalysis,static,agitated,orshearflowinvitro
+blood.Theactivationmarkersinthebloodareanalyzedbeforeandafterthe
+modelsareusedfortheincubationofbloodwiththebiomaterial. incubationwiththetestmaterial.Furthermore,thesurfaceofthebiomaterialis
+Beforeandaftertheincubationofbiomaterialswithfreshhuman analyzedtodeterminetheinteractionofbloodcellsandproteinswiththe
+blood, the activation markers regarding hemocompatibility are biomaterialsurface.
+analyzed(Figure1).
+should be performed with fresh blood from healthy subjects
+INCUBATION OF BIOMATERIALS WITH (Blok et al., 2016). Blok et al. demonstrated that the stationary
+HUMAN BLOOD storageofbloodover4hatroomtemperatureaffectstheplatelet
+functionandactivityofleukocytes.Thus,experimentsshouldbe
+Using fresh human blood and adequate in vitro models, the startedwithin4hafterthebloodcollection.However,thefaster
+hemocompatibility of blood-contacting biomaterials can be the experiments are started, the better it is. Peripheral blood
+studiedaccurately.Comparedtoinvivoanimalmodels,invitro should be collected from healthy non-smoker, non-pregnant
+models allow the analysis under well controllable conditions subjects free of medication (particularly drugs affecting the
+such as blood flow, anticoagulation and eliminate disturbing hemostasis,suchasaspirin,oralcontraceptives,andnonsteroidal
+factors related to flow obstruction, surgery, and tissue effects anti-inflammatorydrugs).Moreover,atraumaticbloodcollection
+(van Oeveren, 2013). Furthermore, the blood contact is more byminimizingvenostasisduringbloodwithdrawalandtheuseof
+intense and products generated due to reaction of the blood 21-gaugeneedlesisrequired tominimizeactivationofplatelets
+components to the biomaterial are not cleared. Moreover, and the coagulation cascade during collection (Braune et al.,
+using in vitro models, different devices can be analyzed under 2013).
+the same conditions, which enable the direct comparison Furthermore, prior to starting hemocompatibility analyses,
+of outcomes. Thereby, positive controls, which show a poor unreacted monomers, intermediate- or by-products, solvents,
+hemocompatibility, such as glass (Ferrer et al., 2013), devices and unwanted chemical residues should be removed by
+or biomaterials, which are already on the market with a appropriate washing and cleaning procedures from generated
+comparable surface area, and negative controls without test biomaterials to eliminate an unwanted influence on blood
+material should be simultaneously tested to be able to evaluate components.Dependingonbiomaterial,device,andproduction
+thehemocompatibility. technique, different washing and cleaning procedures with
+Thequalityofcollectedbloodisextremelyimportanttoenable different solutions are required, for example ethanol can be
+standardized hemocompatibility analysis. The in vitro analysis removed by evaporation or washing with PBS (Punet et al.,
+FrontiersinBioengineeringandBiotechnology|www.frontiersin.org 2 July2018|Volume6|Article99
+
+--- Page 3 ---
+Weberetal. HemocompatibilityofBlood-ContactingBiomaterials
+2015), NaCl, or water and unreacted methacrylic anhydride blood with air bubble to allow the blood mixture and rotated
+◦
+and by-products can be eliminated by dialysis (Xiao et al., in a water bath with 37 C to stimulate blood circulation. In
+2011;Camci-Unaletal.,2013).Additionally,endotoxincontent modified versions of the Chandler loop, small materials, such
+shouldbedeterminedtoexcludematerial-unrelatedactivationof as stents are inserted in tubings and then filled with blood
+plateletsandbloodcellsduetopresenceofendotoxins(Watanabe (Müller et al., 2012). Since the Chandler loop is partially filled
+et al., 2003; Kälsch et al., 2007; Schrottmaier et al., 2016). with air, the device circulates through an air-liquid interface.
+Furthermore,aprocesscalleddepyrogenationcanbeappliedto Thus, this method can lead to the denaturation of proteins at
+remove endotoxins from biomaterials (Li and Boraschi, 2016). the air-liquid interface (Thorsen et al., 1993;Ritz-Timme et al.,
+For example by using detergents (e.g., Triton X-114) and a 1997) and the detachment of adhered blood cells. Therefore,
+two-phase extraction method, endotoxins can be eliminated roller pump closed-loop test systems were also used instead
+(Zhang et al., 2015). After the addition of the detergent to the of Chandler loop. Hereby, the blood flow is realized by using
+sample,endotoxinsareincorporatedintomicellesvianon-polar a pump. However, due to use of a pump even with lowest
+interactionsofthesurfactantendgroupsandalkylchainsoflipid pumping rates a slight destruction of erythrocytes (hemolysis)
+A, which is the most conserved part of endotoxins (Magalhães canoccur.VanOeverenandcolleaguesanalyzedadditionallyto
+etal.,2007).Theincreaseoftemperatureleadstotheformationof theChandlerloopandrollerpumpmodel,theHemobilemodel
+awaterphase(micelle-poor)andamicelle-richphase.Thereby, (Van Oeveren et al., 2012) regarding intrinsic damage of blood
+endotoxins remained in the micelle-rich phase (bottom-phase) components and activation of platelets. Hemobile model has a
+canberemoved. one-wayballvalvetoensureunidirectionalflowandthetubing
+containsnoair,andthereisnomechanicaldevicecompressing
+Static Blood Incubation Models the tubing. Thus, using this model, less blood trauma
+In static blood incubation models, test materials are incubated was induced compared to Chandler-Loop and roller pump
+withbloodorplatelet-richplasma(PRP)withoutflowconditions model.
+(Mohan et al., 2013). Therefore, container, such as well However, the main limitation of these in vitro models is
+plates or tubes, can be used to incubate the material with a the lack of an endothelium in the circulating system. The
+certain blood or PRP volume. It is a very simple and rapid endothelium produces cytokines, anti-thrombotic components
+method to determine the hemocompatibility of biomaterials, andexpressesadhesionmoleculesforthrombocytes,monocytes,
+especially the thrombogenicity. However, this method provides and neutrophils and plays an important role in interaction
+onlyrudimentaryresultsregardinghemocompatibility.Thereby, betweenthecirculatingbloodandinjuredvesselwall.Therefore,
+majorlimitationscanbethecellsedimentationandthebigblood- inarecentstudy,Nordlingetal.usedanovelbloodendothelial
+airinterface,whichcanleadtoaproteinaggregationandresult cell chamber model to study the interactions between human
+inplateletactivation(HaycoxandRatner,1993). whole blood and endothelium (Nordling et al., 2014). There,
+the blood contacting surface of incubation chambers were
+Agitated Blood Incubation Models seededwithhumanumbilicalveinendothelialcells(HUVECs).
+In agitated blood incubation models, flat incubation chambers Furthermore,arelativelynewfieldfortheexaminationofplatelet
+with top and bottom surfaces made of the test material are andcoagulationactivationistheuseofmicrofluidics(Kentetal.,
+completely filled with blood and incubated on a shaker or 2010;Onasoga-Jarvisetal.,2013,2014;Kovachetal.,2014;Zhu
+overhead rotator without directed flow (Streller et al., 2003). et al., 2015; Nagy et al., 2017). Using microfluidic flow devices
+Furthermore,thecontainerfilledwiththebloodcanberotated plateletandcoagulationactivationcanbedeterminedatthesame
+to prevent the sedimentation of the test material, such as timeandunderdefined,physiologicalorpathological(stenotic)
+nanoparticles(Maitzetal.,2017).Usingthesemodels,theblood- wall shear rates. Due to the small size of microfluidic devices,
+aircontactisalmostexcludedandcellsedimentationisreduced. only small amounts of blood are required. Furthermore, the
+combinationwithfluorescencemicroscopyallowsthereal-time
+Shear Flow Models opticalimagingofplateletadhesionandformationoffibrinfibers
+Flat-plate flow chambers (Van Kruchten et al., 2012), parallel- (Westeinetal.,2012;Zhuetal.,2015).
+plate and cone-platelet viscometer (Lackner et al., 2012), and
+tubular systems such as the “Chandler loop” (McClung et al.,
+2007; Krajewski et al., 2013; Stang et al., 2014) and the roller ANALYSIS OF HEMOCOMPATIBILITY
+pumpclosed-loop(Podiasetal.,1995;Wangetal.,2001)systems
+aresomeofinvitroshearflowmodels.Inthesemodels,vascular Using the described in vitro models, various information
+blood flow is mimicked to simulate the dynamic interaction regarding hemocompatibility (Figure2) can be obtained: (1)
+betweenthebiomaterialandwholeblood(SanakandWegrzyn, Changesofplatelets,erythrocytesandleukocytes,(2)Generation
+2010).In flat-plateflow chambers,blood flows over a flatpiece of activation products in plasma, (3) Deposition of proteins
+of biomaterial and in parallel-plate viscometers, blood is filled and cells on the material surface. Thus, blood and surface of
+betweentwoplatesmadeofthebiomaterialtobetestedandone biomaterials are analyzed before and after the incubation. In
+oftheplatesisrotatedrelativetotheother(Sukavaneshvar,2017). Table1, test categories for the hemocompatibility analysis of
+In Chandler loop, a circular conduit made of the biomaterial biomaterialsaresummarizedandinthefollowing,therequired
+or coated with the biomaterial, is filled with fresh human analysesfortheevaluationofhemocompatibilityaredescribed.
+FrontiersinBioengineeringandBiotechnology|www.frontiersin.org 3 July2018|Volume6|Article99
+
+--- Page 4 ---
+Weberetal. HemocompatibilityofBlood-ContactingBiomaterials
+FIGURE2|Schematicrepresentationofmajorreactionsinbloodinducedbybiomaterialsurface.Besidescomplementsystem,intrinsicandextrinsiccoagulation
+pathwaycanbeactivated.Coagulationactivationresultsingenerationofafibrinnetwork.Furthermore,plateletscanadhereandaggregateonthesurface.The
+adhesionandactivationofleukocytescanleadtothereleaseofpolymorphonuclear(PMN)elastaseandtissuefactor(TF)andresultinactivationofextrinsicpathway.
+ADP,Adenosinediphosphate;β-TG,β-Thromboglobulin;GPIIb/IIIa,GlycoproteinIIb/IIIa;MAC,Membraneattackcomplex;PF4,Plateletfactor4;TXA2,Thromboxane
+A2;vWF,vonWillebrandfactor.
+DETERMINATION OF BLOOD CELL hemoglobin to the cyanoderivate (Neun and Dobrovolskaia,
+NUMBERS AND HEMOLYSIS 2011). The absorption of CMH is measured at 540nm using a
+photometer.Dependingonhemolysis,materialscanbeclassified
+The number of erythrocytes, leukocytes, and platelets is in three different categories: Materials resulting in over 5%
+measured before and after the incubation of blood with hemolysisareclassifiedhemolytic,between5and2%asslightly
+biomaterial using a hematology analyzer, which uses electrical hemolytic,andbelow2%asnonhemolytic(Toteaetal.,2014).
+impedance. A decrease of the platelet count over time
+indicatesathrombogenicmaterial.Furthermore,theruptureof
+COAGULATION ACTIVATION
+erythrocytes, called hemolysis, is accompanied by the release
+of hemoglobin. Thus, an increased concentration of free
+Theinteractionofplasmaproteinswithartificialsurfacestriggers
+hemoglobin in the plasma is a direct indicator of erythrocytes
+intrinsiccoagulationpathwaybycontactactivation.Thecontact-
+destruction.Thedamageoferythrocytescanleadtothereduced
+phase system consists of three serine proteinases, factor XII,
+oxygen transport to tissues and organs in vivo and increased
+factorXI,andplasmaprekallikrein(PK),andthenonenzymatic
+levelsoffreehemoglobincaninducetoxicityoralterthekidney
+cofactor high molecular weight kininogen (HMWK) and it is
+function(Qianetal.,2010).Additionally,microvesiclesderived
+also called as plasma kallikrein-kinin system (Wu, 2015). The
+from erythrocytes can promote the thrombus formation in a
+contact of blood with artificial, negatively charged surfaces,
+tissue factor (TF)-dependent manner (Biró et al., 2003). Thus,
+such as kaolin, glass, collagen, silica, or dextran sulfate, leads
+hemolysiscanbeanalyzedafterdirectorindirectbloodcontact.
+to the conversion of Factor XII to the active enzyme Factor
+In direct analysis, blood is incubated with the biomaterial and
+XIIa.FactorXIIaconvertsPKintoactivekallikreinandHMWK
+in indirect testing blood is incubated with biomaterial extract
+into bradykinin. Besides coagulation, kallikrein and bradykinin
+(Kuhbier et al., 2017). Hemolysis can be detected by using
+promoteinflammation(Longetal.,2016).Kallikreincandirectly
+a photometric colorimetric test (cyanmethemoglobin method)
+activateneutrophils(Wachtfogeletal.,1995)andbradykinincan
+(Stadie, 1920). Thereby, the free amount of hemoglobin in stimulatethereleaseofnitricoxide(Baeetal.,2003),TNFα,and
+plasma is examined after the addition of cyanmethemoglobin
+IL-1 (Tiffany and Burch, 1989). Factor XIIa activates Factor XI
+(CMH) reagent, e.g., Drabkin’s reagent, which rapidly converts
+toXIaandinthefollowingstep,FactorIXisconvertedbyFactor
+FrontiersinBioengineeringandBiotechnology|www.frontiersin.org 4 July2018|Volume6|Article99
+
+--- Page 5 ---
+Weberetal. HemocompatibilityofBlood-ContactingBiomaterials
+TABLE1|Summaryoftestcategoriesforthehemocompatibilityanalysisof recorded to obtain the activated PTT (aPTT). A shortened
+biomaterials. clottingtimeindicatesanactivationoftheintrinsicandcommon
+pathways of coagulation by the test material. Untreated plasma
+Test Parameter Testprinciple
+category isusedasnegativecontrolandlatexorblackrubberaspositive
+control.
+Complement C3a,C5a,Bb,C4d, ELISA
+System C5b-9
+ACTIVATION OF COMPLEMENT SYSTEM
+Coagulation FactorXIIa,TAT,F1+ ELISA,Opticaldensity,
+2,freeactivethrombin, Viscoelasticity
+Complement system consists of more than 30 proteins
+FPA,aPTT
+circulating in the blood and present as membrane-associated
+Fibrinolysis D-Dimers Immunoturbidimetry,
+LPIA,ELISA proteins (Dunkelberger and Song, 2010). In response to the
+Platelets β-TG,PF4,numberof ELISA,CellCounter, recognition of foreign surface structures, complement factors
+platelets, are sequentially activated in an enzyme cascade via three
+P-selectin,activated FACS different pathways: classical, alternative, and mannose binding
+GPIIb/IIIa
+lectin (MBL) pathway. All of these pathways lead to the
+Hemolysis Numberof CellCounter generation of a C3 convertase, which cleaves C3 into a large
+erythrocytes,
+fragment C3b, which acts as an opsonin and a small fragment
+Hemoglobin ColorimetricAssay
+C3a, which is an anapylatoxin that promotes inflammation.
+Leukocyte PMNelastase,ROS ELISA,fluorimetricor
+Activation detection,CD11b spectrophotometric Afterwards, C5 convertase is generated, which cleaves C5 in
+expression methods,FACS C5a, which is an anapylatoxin, and C5b that binds to the
+Surface Plateletadhesion, SEM,Fluorescence foreign surface and initiates the generation of terminal lysis
+Analysis aggregation,leukocyte microscopy complex (C5b-9, TCC), which is also called membrane attack
+adhesion complex (MAC). As a result, microorganisms are eliminated
+Plasmaprotein ELISA,WesternBlot
+by lysis, opsonization and triggering a series of inflammatory
+adsorption
+reactions.
+aPTT,activatedpartialthromboplastintime;β-TG,β-Thromboglobulin;C3a,Complement The contact of the artificial surface with blood leads to
+factor3a;C5a,Complementfactor5a;C4d,Complementfactor4d;Bb,complement
+an immediate adsorption of serum proteins, e.g., fibrinogen,
+factorBb;ELISA,Enzyme-linkedImmunosorbentAssay;FACS,Fluorescence-activated
+cell sorting; FPA, fibrinopeptide A; F1+2, Prothrombin fragment 1+2; LPIA, Latex albumin, and immunoglobulin G (IgG), to the surface of the
+photometricimmunoassay;PF4,Plateletfactor4;TAT,thrombin-antithrombinIIIcomplex; material (Wetterö et al., 2000) and it results in a kinetic
+PMN elastase, Polymorphonuclear elastase; ROS, Reactive oxygen species; SEM, competitionbetweentheproteinsonthematerialsurface,which
+Scanningelectronmicroscopy.
+is called the Vroman effect (Vroman et al., 1980). During the
+first minutes, abundant proteins, such as fibrinogen, adsorb
+XIatoIXa,whichthenactivatesfactorX.Theconversionoffactor and they are progressively displaced by less abundant proteins
+X into factor Xa is the first common step in the coagulation with a higher affinity for the surface, such as HMWK, Factor
+cascade between the intrinsic and extrinsic pathways (Millar XII, and plasminogen (Ballet et al., 2010). Especially, the
+et al., 2016). In addition, the activation of complement system complementproteinC3andIgGcanreadilybindtohydrophobic
+canleadtothegenerationofTFbymonocytes,whichcanresult surfaces and lead to the activation of complement system.
+in activation of extrinsic pathway (Kappelmayer et al., 1993). Thereby, the following conformational changes on the blood-
+FactorXaconvertsprothrombintothrombin,whichhydrolyses contacting surface are considered as initial trigger for the
+fibrinogenintofibrinandleadstothesubsequentclotformation. complement activation via the alternative or classical pathway
+Theactivationofcoagulationsystemisscreenedbydetection (GorbetandSefton,2004;Anderssonetal.,2005;Nilssonetal.,
+of FXIIa (Basu et al., 2017), prothrombin fragment 1 + 2 (F1 2007).Differentbiomaterialsurfacesshowdifferentcomplement
++2)(Maitzetal.,2017;Sperlingetal.,2017),whichisreleased activatingproperties,forexample,hydrophobicsurfacescanlead
+during thrombin formation, free active thrombin (Müller toanincreasedcomplementactivationcomparedtohydrophilic
+et al., 2011), fibrinopeptide A (FPA) (Peckham et al., 1997), surfaces(Nilssonetal.,2007).
+partial thromboplastin time (PTT), or thrombin-antithrombin The generated complement activation products lead to the
+III complex (TAT). Furthermore, the degradation product of increased expression of P-selectin, which is an important
+fibrin, D-dimer, can be detected by ELISA to determine the mediator of neutrophil recruitment and platelet accumulation
+activation of fibrinolysis (Sperling et al., 2017). Antithrombin (Sukavaneshvar,2017).ComparedtoC3aandC4a,theproduced
+III inhibits thrombin by forming a TAT complex. Thus, this C5a is the most powerful anaphylatoxin. It can increase the
+complex reflects a functional state of the coagulation system permeability of blood vessels, attract and activate neutrophil
+and can be quantified using ELISA. PTT assay measures the granulocytes and monocytes to stimulate phagocytosis. C5a
+clottingtimefromtheactivationofFactorXIItotheformation stimulates endothelial cells to increasingly express cytokines,
+of a stable fibrin clot. To detect PTT, citrated platelet-poor chemokines and cell adhesion molecules, such as E-selectin
+plasma is incubated at 37◦C with the test material for 15, 30, (Newton and Dixit, 2012). Furthermore, it can bind to mast
+or 60min. The addition of PTT reagent (cephalin) followed cellsandincreaseinflammation.Moreover,C5aisabletotrigger
+by the addition of calcium chloride solution inactivates the the release of TF from neutrophils and monocytes, which can
+anticoagulant and initiates clot formation and this time is initiatecoagulationcascade(Ikedaetal.,1997;Ritisetal.,2006;
+FrontiersinBioengineeringandBiotechnology|www.frontiersin.org 5 July2018|Volume6|Article99
+
+--- Page 6 ---
+Weberetal. HemocompatibilityofBlood-ContactingBiomaterials
+Kourtzelisetal.,2010).Thus,thereisaclosecross-talkbetween further platelets passing by and lead to the adhesion and
+the complement system and the coagulation pathway mediated aggregation of neighbored platelets. Finally, the thrombi is
+bythegeneratedC5a(Oikonomopoulouetal.,2010). stabilizedbyfibrin.Alphagranulescontainhemostaticproteins,
+Therefore, the analysis of complement activation is a highly suchasvWF,fibrinogen,FactorV,FactorIX,andplasminogen,
+relevant criterion in the legislation for testing biomaterials chemokines (e.g., platelet factor 4 (PF4), SDF-1α), and growth
+intended for blood contact. According to ISO 10993-4 factors (e.g., VEGF, PDGF). Furthermore, large amounts of β-
+(International Organization for Standardization, 2000), the thromboglobulin (β-TG) are released from alpha granules after
+complementactivationcanbeanalyzedbydetectionofC3a,C5a, the activation of platelets, which lead to leukocyte recruitment
+Bb,iC3b,C4d,C3-,orC5-convertase,andtheC5b-9complexin (Brandtetal.,2000;Frohlich,2016).Inaddition,alphagranules
+wholeblood,aswellasthe50%complementhemolyticactivity also contain integral membrane protein P-selectin, which is
+(CH50) (Costabile, 2010). Most frequently, the concentration translocated to the plasma membrane after the activation of
+ofanaphylatoxinsC3aandC5aaswellastheC5b-9complexis platelets (Frenette et al., 2000). P-selectin glycoprotein ligand-1
+determinedusingELISA(Koppetal.,2002;Sperlingetal.,2007; (PSGL-1) expressed on leukocytes can interact with P-selectin
+Engbergetal.,2011).Furthermore,inarecentstudy,Endgberg and lead to the activation of neutrophils (Sreeramkumar et al.,
+andcolleaguesproposedthattheratiobetweenthebindingofC4 2014). Furthermore, the released polyphosphates can activate
+and its inhibitor C4BP should be considered as a predictor for FactorXIIandleadtotheinitiationoftheintrinsiccoagulation
+theevaluationofthehemocompatibility(Engbergetal.,2015). pathway(Mülleretal.,2009).
+The activation of platelets can be determined according to
+ISO10993-4bymeasuringreleasedcontentsfromalphagranules,
+PLATELET ACTIVATION such as β-TG or PF4 using ELISA (Mayer et al., 2009; Teligui
+etal.,2016;Stolletal.,2017)anddetectionofP-selectin(CD62P)
+Platelets are present in large quantities in the blood and under oractivatedGPIIb/IIIareceptorwithPAC-1antibodyusingflow
+physiological conditions, they circulate in a quiescent state for cytometry(Theoretetal.,2011;vanVelzenetal.,2012).
+7–10days.Theadhesionandactivationofplateletsisprevented
+by an healthy endothelial monolayer, which acts as a barrier
+betweenbloodandtissuesandhasantithrombogenicproperties ACTIVATION OF LEUKOCYTES
+by the release of e.g., nitric oxide (NO) and prostaglandin I
+2
+(PGI )(Brassetal.,2013;GolebiewskaandPoole,2015;Frohlich, Besides coagulation, complement, and platelet activation, the
+2
+2016).Thedamageofendotheliumleadstotheexposureofthe activationofleukocytesandtheoccurrenceofrespiratoryburst
+underlying subendothelial collagen to the blood. In addition, can be analyzed to evaluate biomaterial-induced inflammatory
+damagedendothelialcellssecretevonWillebrandfactor(vWF), response.Thus,thegenerationofreactiveoxygenspecies(ROS)
+which can bind to the collagen in the exposed subendothelial and the release of PMN elastase are the mainly determined
+layerandmediatetheadhesionofcirculatingplatelets(Yauetal., parametersforleukocytesactivation.Theactivationofleukocytes
+2015)toformasealatthedamagedarea. leadstoarespiratoryburst(DahlgrenandKarlsson,1999),which
+The exposure of biomaterial to the blood can result in is the result of an enhanced oxygen metabolism, and results in
+−
+an undesired activation of platelets and consequently lead generationofROS(superoxide anion(O ),hydrogenperoxide
+2
+to thrombotic complications. Thus, the analysis of platelet (H O ),hydroxylradical(HO • )andsingletoxygen(1O ).Thus,
+2 2 2
+activation is an important part of hemocompatibility tests. the ROS generation can be detected (Roesslein et al., 2013)
+The contact of blood with foreign surfaces immediately leads using chemiluminogenic (Nygren et al., 2000) or fluorogenic
+to the adsorption of plasma proteins, especially fibrinogen, substances (Ferrer et al., 2013). Furthermore, the release of
+immunoglobulins, fibronectin, vitronectin, Factor XI and XII, elastasefromPMNgranulocytes,especiallyfromneutrophils,can
+vWF, HMWK, and PK to the biomaterial surface (Long bequantifiedbyELISA(Zimmermannetal.,2007).Additionally,
+et al., 2016). Particularly, fibrinogen, vWF, fibronectin, and PMN elastase activity can also be measured by the proteolytic
+vitronectin induce the adhesion of platelets via interaction cleavageofasyntheticsubstrateandthereleaseofafluorophore,
+with the most frequent integrin receptor α β glycoprotein whichcanbeeasilyquantifiedbyfluorescence(Gramegnaetal.,
+IIb 3
+IIb/IIIa (GPIIb/IIIa) on the surface of platelets and lead to the 2017).
+activation of platelets. Subsequently, platelets release bioactive Theactivationofleukocytesleadstotheincreasedexpression
+molecules from their alpha and dense granules. Each platelet of CD11b on the cell surface via translocation of the CD11b
+contains ∼50–80 alpha granules and ∼3–6 dense granules from intracellular granules to the plasma membrane. Thus, the
+(Fitch-Tewfik and Flaumenhaft, 2013). The dense granules detectionofCD11bexpressiononthesurfaceofleukocytesusing
+contain proaggregatory factors such as adenosine diphosphate fluorescence-activated cell sorting (FACS) can give additional
+(ADP), adenosine triphosphate (ATP), histamine, serotonin information on activation of leukocytes (Gorbet et al., 1999).
+[5-hydroxytryptamine (5-HT)], polyphosphates, and bivalent Furthermore, the production of neutrophil extracellular traps
+cations
+Mg2+
+and
+Ca2+
+(Meyers et al., 1982). ADP can (NETs) is a recently described mechanism of neutrophils for
+activate neighboring platelets via binding to two different host defense (Brinkmann et al., 2004; Delgado-Rizo et al.,
+purinergic receptors on platelets, known as P2Y and P2Y 2017).DuringNETosis,thenuclearmaterialisreleasedinform
+1 12
+(WijeyeratneandHeptinstall,2011).Theseplateletscanactivate of a meshwork of chromatin by activated neutrophils to the
+FrontiersinBioengineeringandBiotechnology|www.frontiersin.org 6 July2018|Volume6|Article99
+
+--- Page 7 ---
+Weberetal. HemocompatibilityofBlood-ContactingBiomaterials
+FIGURE3|Scanningelectronmicroscopic(SEM)analysisofsyntheticvasculargraftsurfaceafterthebloodcontact.Arrowsindicatetheadheredplateletsaswellas
+theresulting3D-fibrinmeshesduetoactivationofbloodcoagulation.Theanalyseswereperformedinourworkinggroupandthedatahasnotbeenpublishedbefore.
+extracellular space (Noubouossie et al., 2017). Several proteins release of vasoconstrictive substances, such as thromboxane
+adhere to the NETs, such as histones and components with and PDGF, as well as contents of stored granules occur.
+antimicrobialactivity,e.g.,elastaseandmyeloperoxide(Delgado- Finally, the aggregation of platelets and the generation of
+Rizoetal.,2017).Besidestheabilitytotrapbacteria,NETsability a fibrin network can be analyzed using scanning electron
+topromotethrombosiswasdemonstratedinanimalmodels(Brill microscopy (SEM) (Zhang et al., 2017) (Figure3). Thus, in
+etal.,2012). several studies, the surface thrombogenicity of biomaterials
+was examined by characterization of cell morphology and
+ANALYSIS OF BIOMATERIAL SURFACES spreadingusingSEM(BalasubramanianandSlack,2001;Aguilar
+etal.,2002).Furthermore,usingfluorescentlylabeledantibodies
+The adsorption of proteins to the surface of biomaterials is the against specific receptors, the adhered cells and the cell density
+initialstepdirectlyafterthebloodcontact.Subsequently,adhered can be detected using fluorescence and confocal microscopy
+proteins initiate the adhesion and activation of platelets on the (Nguyenetal.,2016).Inrecentyears,microgravimetricanalyses
+surface.Theseplateletscanfurtheractivateneighboredplatelets using quartz crystal microbalance (QCM) were also applied to
+andatthelaststepthethrombiarestabilizedbythegenerationof investigatetheplateletadhesionandactivation(Sinnetal.,2010;
+afibrinnetwork. Fatisson et al., 2011; Kunze et al., 2014). Moreover, Hanson
+The activation of platelets is a very fast process of ∼180ms and colleagues used surface plasmon resonance (SPR) based
+(van Oeveren, 2013) and different morphological appearance flow chamber device to detect platelet-surface interactions and
+of platelets can be detected on material surfaces depending on blood coagulation (Hansson et al., 2007). Furthermore, Zhao
+varying states of activation: (1) unactivated platelets: round, et al. (2011) used SEM and transmission electron microscopy
+discoid shaped without pseudopodia, (2) partially activated (TEM)toinvestigatetheeffectofdifferentsizesofnanoparticles
+platelets: dendritic with early pseudopodia, (3) moderately on hemolysis and the mechanism behind the lysis of red
+activated platelets: spread-dendritic with irreversible long- bloodcells.Thegroupdemonstratedthatasmallproportionof
+dendritic extensions, (4) fully activated platelets: fully spread smalltypeofmesoporoussilicananoparticles(MSNs)adsorbed
+(Parketal.,1990). to the surface of erythrocytes without any alteration of cell
+Theadhesionandactivationofplateletsleadtoacytoskeletal membrane or morphology. In contrast, the adsorption of large
+rearrangement and therefore to a morphological change of typeMSNstotheerythrocytesinducedastronglocalmembrane
+platelets on the biomaterial surface with extensive formation deformation and resulted in internalization of particles and
+of pseudopodia. Afterwards, the spreading of platelets and the hemolysis.
+FrontiersinBioengineeringandBiotechnology|www.frontiersin.org 7 July2018|Volume6|Article99
+
+--- Page 8 ---
+Weberetal. HemocompatibilityofBlood-ContactingBiomaterials
+CONCLUSION hemocompatibility. Furthermore, to prove the safety and
+reliability of new products, hemocompatibility analyses should
+The interaction of biomaterials with blood leads to cellular include appropriate references and follow the ISO 10993-4
+as well as humoral reactions, which can result in an standard.
+unwanted inflammation and activation of coagulation and/or
+fibrinolysis. Thus, the development of biomaterials with an AUTHOR CONTRIBUTIONS
+improved hemocompatibility increases the tolerability and
+minimizes unwanted side effects, such as thrombus formation. MA-A is the corresponding author of this work. She
+Therefore, during the development of new blood-contacting developed the outline with HW and CS edited the paper.
+medical devices, not only the mechanical and chemical MWandMA-Awrotethemanuscript.HS,SG,andLHrevised
+characteristics should play an important role, but also the themanuscript.
+REFERENCES
+Cerda-Cristerna, B. I., Flores, H., Pozos-Guillén, A., Pérez, E., Sevrin, C., and
+Grandfils,C.(2011).Hemocompatibilityassessmentofpoly(2-dimethylamino
+Aguilar,M.R.,Rodríguez,G.,Fernández,M.,Gallardo,A.,andSanRomán,J. ethylmethacrylate)(PDMAEMA)-based polymers. J. Control. Release 153,
+(2002).Polymericactivecoatingswithfunctionalityinvascularapplications. 269–277.doi:10.1016/j.jconrel.2011.04.016
+J. Mater. Sci. Mater. Med. 13, 1099–1104. doi: 10.1023/A:10211009 Costabile,M.(2010).Measuringthe50%haemolyticcomplement(CH50)activity
+16920 ofserum.J.Vis.Exp.37:1923.doi:10.3791/1923
+Andersson, J., Ekdahl, K. N., Lambris, J. D., and Nilsson, B. (2005). Binding Dahlgren,C.,andKarlsson,A.(1999).Respiratoryburstinhumanneutrophils.J.
+of C3 fragments on top of adsorbed plasma proteins during complement Immunol.Methods.232,3–14.
+activation on a model biomaterial surface. Biomaterials 26, 1477–1485. Delgado-Rizo, V., Martínez-Guzmán, M. A., Iñiguez-Gutierrez, L., García-
+doi:10.1016/j.biomaterials.2004.05.011 Orozco,A.,Alvarado-Navarro,A.,andFafutis-Morris,M.(2017).Neutrophil
+Bae,S.W.,Kim,H.S.,Cha,Y.N.,Park,Y.S.,Jo,S.A.,andJo,I.(2003).Rapid extracellulartrapsanditsimplicationsininflammation:anoverview.Front.
+increaseinendothelialnitricoxideproductionbybradykininismediatedby Immunol.8:81.doi:10.3389/fimmu.2017.00081
+protein kinase A signaling pathway. Biochem. Biophys. Res. Commun. 306, Dunkelberger,J.R.,andSong,W.-C.(2010).Complementanditsroleininnate
+981–987.doi:10.1016/S0006-291X(03)01086-6 andadaptiveimmuneresponses.CellRes.20,34–50.doi:10.1038/cr.2009.139.
+Balasubramanian, V., and Slack, S. M. (2001). Effects of fibrinogen residence Engberg,A.E.,Nilsson,P.H.,Huang,S.,Fromell,K.,Hamad,O.A.,Mollnes,T.E.,
+time and shear rate on the morphology and procoagulant activity of etal.(2015).Predictionofinflammatoryresponsesinducedbybiomaterialsin
+humanplateletsadherenttopolymericbiomaterials.ASAIOJ.47,354–360. contactwithhumanbloodusingproteinfingerprintfromplasma.Biomaterials
+doi:10.1097/00002480-200107000-00012 36,55–65.doi:10.1016/j.biomaterials.2014.09.011
+Ballet,T.,Boulange,L.,Brechet,Y.,Bruckert,F.,andWeidenhaupt,M.(2010). Engberg,A.E.,Rosengren-Holmberg,J.P.,Chen,H.,Nilsson,B.,Lambris,J.D.,
+Proteinconformationalchangesinducedbyadsorptionontomaterialsurfaces: Nicholls,I.A.,etal.(2011).Bloodprotein-polymeradsorption:implicationsfor
+animportantissueforbiomedicalapplicationsofmaterialscience.Bull.Pol. understandingcomplement-mediatedhemoincompatibility.J.Biomed.Mater.
+Acad.Sci.Tech.Sci.58,303–313.doi:10.2478/v10175-010-0028-0 Res.A97,74–84.doi:10.1002/jbm.a.33030
+Basu, A., Hong, J., and Ferraz, N. (2017). Hemocompatibility of Ca(2+) Fatisson, J., Mansouri, S., Yacoub, D., Merhi, Y., and Tabrizian, M. (2011).
+-crosslinked nanocellulose hydrogels: toward efficient management of Determination of surface-induced platelet activation by applying
+hemostasis.Macromol.Biosci.17.doi:10.1002/mabi.201700236 time-dependency dissipation factor versus frequency using quartz
+Biró,E.K.,Sturk-Maquelin,Vogel,G.,Meuleman,D.,Smit,M.,Hack,C.,etal. crystal microbalance with dissipation. J. R. Soc. Interface 8, 988–997.
+(2003).Humancell-derivedmicroparticles promotethrombusformationin doi:10.1098/rsif.2010.0617
+vivoinatissuefactor-dependentmanner.J.Thromb.Haemost.1,2561–2568. Ferrer,M.C.,Eckmann,U.N.,Composto,R.J.,andEckmann,D.M.(2013).
+doi:10.1046/j.1538-7836.2003.00456.x Hemocompatibility and biocompatibility ofantibacterial biomimetic hybrid
+Blok, L. J. S., Engels, G. E., and van Oeveren, W. (2016). In vitro films.Toxicol.Appl.Pharmacol.272,703–712.doi:10.1016/j.taap.2013.07.023
+hemocompatibility testing: the importance of fresh blood. Biointerphases Fitch-Tewfik, J. L., and Flaumenhaft, R. (2013). Platelet granule exocytosis:
+11:029802.doi:10.1116/1.4941850 a comparison with chromaffin cells. Front. Endocrinol. (Lausanne) 4:77.
+Brandt,E.,Petersen,F.,Ludwig,A.,Ehlert,J.E.,Bock,L.,andFlad,H.D.(2000). doi:10.3389/fendo.2013.00077
+Thebeta-thromboglobulinsandplateletfactor4:bloodplatelet-derivedCXC Frenette,P.S.,Denis,C.V.,Weiss,L.,Jurk,K.,Subbarao,S.,Kehrel,B.,etal.
+chemokineswithdivergentrolesinearlyneutrophilregulation.J.Leukoc.Biol. (2000).P-Selectinglycoproteinligand1(PSGL-1)isexpressedonplateletsand
+67,471–478.doi:10.1002/jlb.67.4.471 canmediateplatelet-endothelialinteractionsinvivo.J.Exp.Med.191,1413–22.
+Brass, L. F., Tomaiuolo, M., and Stalker, T. J. (2013). Harnessing the platelet doi:10.1084/jem.191.8.1413
+signalingnetworktoproduceanoptimalhemostaticresponse.Hematol.Oncol. Frohlich, E. (2016). Action of nanoparticles on platelet activation
+Clin.NorthAm.27,381–409.doi:10.1016/j.hoc.2013.02.002 and plasmatic coagulation, Curr. Med. Chem. 23, 408–430.
+Braune, S., Grunze, M., Straub, A., and Jung, F. (2013). Are there sufficient doi:10.2174/0929867323666160106151428
+standards for the in vitro hemocompatibility testing of biomaterials?. Golebiewska, E. M., and Poole, A. W. (2015). Platelet secretion: from
+Biointerphases8:33.doi:10.1186/1559-4106-8-33 haemostasis to wound healing and beyond. Blood Rev. 29, 153–162.
+Brill,A.,Fuchs,T.,Savchenko,A.,Thomas,G.,Martinod,K.,DeMeyer,S.,etal. doi:10.1016/j.blre.2014.10.003
+(2012).Neutrophilextracellulartrapspromotedeepveinthrombosisinmice.J. Gorbet,M.B.,andSefton,M.V(2004).Biomaterial-associatedthrombosis:roles
+Thromb.Haemost.10,136–144.doi:10.1111/j.1538-7836.2011.04544.x ofcoagulationfactors,complement,plateletsandleukocytes.Biomaterials25,
+Brinkmann,V.,Reichard,U.,Goosmann,C.,Fauler,B.,Uhlemann,Y.,Weiss,D.S., 5681–703.doi:10.1016/j.biomaterials.2004.01.023
+etal.(2004)Neutrophilextracellulartrapskillbacteria.Science303,1532–1535. Gorbet, M., Yeo, E., and Sefton, M. (1999). Flow cytometric study of in vitro
+doi:10.1126/science.1092385 neutrophilactivationbybiomaterials.J.Biomed.Mater.Res.A44,289–297.
+Camci-Unal, G., Cuttica, D., Annabi, N., Demarchi, D., and Khademhosseini, Gramegna, A., Amati, F., Terranova, L., Sotgiu, G., Tarsia, P., Miglietta, D.,
+A. (2013). Synthesis and characterization of hybrid hyaluronic acid-gelatin et al. (2017). Neutrophil elastase in bronchiectasis. Respir. Res. 18:211.
+hydrogels.Biomacromolecules14,1085–1092.doi:10.1021/bm3019856 doi:10.1186/s12931-017-0691-x
+FrontiersinBioengineeringandBiotechnology|www.frontiersin.org 8 July2018|Volume6|Article99
+
+--- Page 9 ---
+Weberetal. HemocompatibilityofBlood-ContactingBiomaterials
+Hansson,K.M.,Johansen,K.,Wetterö,J.,Klenkar,G.,Benesch,J.,Lundström, Mayer,A.,Vadon,M.,Rinner,B.,Novak,A.,Wintersteiger,R.,andFrohlich,E.
+I., et al. (2007). Surface plasmon resonance detection of blood coagulation (2009).Theroleofnanoparticlesizeinhemocompatibility. Toxicology 258,
+and platelet adhesion under venous and arterial shear conditions. Biosens. 139–147.doi:10.1016/j.tox.2009.01.015
+Bioelectron.23,261–268.doi:10.1016/j.bios.2007.04.009 McClung, W. G., Babcock, D., and Brash, J. (2007). Fibrinolytic properties of
+Haycox, C.L.,and Ratner,B.D(1993).In vitroplatelet interactions inwhole lysine-derivatizedpolyethyleneincontactwithflowingwholeblood(Chandler
+humanbloodexposedtobiomaterialsurfaces:insightsonbloodcompatibility. loop model). J. Biomed. Mater. Res. A 81, 644–651. doi: 10.1002/jbm.a.
+J.Biomed.Mater.Res.A27,1181–1193. 31018
+International Organization for Standardization (2000). Biological Evaluation of Meyers,K.M.,Holmsen,H.,andSeachord,C.L.(1982).Comparativestudyof
+MedicalDevices.Availableonlineathttps://www.iso.org/standard/63448.html plateletdensegranuleconstituents.Am.J.Physiol.243,R454–R461.
+(AccessedApril23,2018). Millar, J. E., Fanning, J. P., McDonald, C. I., McAuley, D. F., and Fraser,
+Ikeda,K.,Nagasawa,K.,Horiuchi,T.,Tsuru,T.,Nishizaka,H.,andNiho,Y.(1997). J. F. (2016). The inflammatory response to extracorporeal membrane
+C5ainducestissuefactoractivityonendothelialcells.Thromb.Haemost.77, oxygenation (ECMO): a review of the pathophysiology. Crit. Care 20:387.
+394–398. doi:10.1186/s13054-016-1570-4
+Kälsch, T., Elmas, E., Nguyen, X. D., Suvajac, N., Klüter, H., Borggrefe, Mohan,C.C.,Chennazhi,K.P.,andMenon,D.(2013).Invitrohemocompatibility
+M. et al. (2007). Endotoxin-induced effects on platelets and monocytes and vascular endothelial cell functionality on titania nanostructures under
+in an in vivo model of inflammation. Basic Res. Cardiol. 102, 460–466. staticanddynamicconditionsforimprovedcoronarystentingapplications.
+doi:10.1007/s00395-007-0667-y ActaBiomater.9,9568–9577.doi:10.1016/j.actbio.2013.08.023
+Kappelmayer,J.,Bernabei,A.,Edmunds,L.H.,Edgington,T.S.,andColman, Müller, F., Mutch, N. J., Schenk, W. A., Smith, S. A., Esterl, L., Spronk,
+R. W. (1993). Tissue factor is expressed on monocytes during simulated H. M., et al. (2009). Platelet polyphosphates are proinflammatory and
+extracorporealcirculation.Circ.Res.72,1075–1081. procoagulantmediatorsinvivo.Cell139,1143–1156.doi:10.1016/j.cell.2009.
+Kent, N. J., Basabe-Desmonts, L., Meade, G., MacCraith, B. D., Corcoran, B. 11.001
+G., Kenny, D., et al. (2010). Microfluidic device to study arterial shear- Müller, J., Becher, T., Braunstein, J., Berdel, P., Gravius, S., Rohrbach,
+mediatedplatelet-surfaceinteractionsinwholeblood:reducedsamplevolumes F., et al. (2011). Profiling of active thrombin in human blood by
+andwell-characterisedproteinsurfaces.Biomed.Microdevices12,987–1000. supramolecular complexes. Angew. Chem. Int. Ed. Engl. 50, 6075–6078.
+doi:10.1007/s10544-010-9453-y. doi:10.1002/anie.201007032
+Kopp,R.,Mottaghy,K.,andKirschfink,M.(2002).Mechanismofcomplement Müller, M., Krolitzki, B., and Glasmacher, B. (2012). Dynamic in vitro
+activation during extracorporeal blood-biomaterial interaction: effects hemocompatibilitytesting–improvingthesignaltonoiseratio.Biomed.Eng.
+of heparin coated and uncoated surfaces. ASAIO J. 48, 598–605. 57,549–552.doi:10.1515/bmt-2012-4211
+doi:10.1097/00002480-200211000-00005 Nagy, M., Heemskerk, J. W., and Swieringa, F. (2017). Use of microfluidics
+Kourtzelis, I., Markiewski, M. M., Doumas, M., Rafail, S., Kambas, to assess the platelet-based control of coagulation. Platelets 28, 441–448.
+K., Mitroulis, I., et al. (2010). Complement anaphylatoxin C5a doi:10.1080/09537104.2017.1293809
+contributes to hemodialysis-associated thrombosis. Blood 116, 631–639. Neun, B. W., and Dobrovolskaia, M. A. (2011). “Method for analysis
+doi:10.1182/blood-2010-01-264051 of nanoparticle hemolytic properties in vitro,” in Characterization of
+Kovach, K. M., Capadona, J. R., Gupta, A. S., and Potkay, J. A. (2014). Nanoparticles Intended for Drug Delivery (Humana Press), 215–224.
+The effects of PEG-based surface modification of PDMS microchannels on doi:10.1007/978-1-60327-198-1
+long-term hemocompatibility. J. Biomed. Mater. Res. A 102, 4195–4205. Newton, K., and Dixit, V. M. (2012). Signaling in innate immunity
+doi:10.1002/jbm.a.35090 and inflammation. Cold Spring Harb. Perspect. Biol. 4:a006049.
+Krajewski, S., Prucek, R., Panacek, A., Avci-Adali, M., Nolte, A., Straub, A., doi:10.1101/cshperspect.a006049.
+et al. (2013). Hemocompatibility evaluation of different silver nanoparticle Nilsson,B.,Ekdahl,K.N.,Mollnes,T.E.,andLambris,J.D.(2007).Theroleof
+concentrationsemployingamodifiedChandler-loopinvitroassayonhuman complementinbiomaterial-inducedinflammation.Mol.Immunol.44,82–94.
+blood.ActaBiomater.9,7460–7468.doi:10.1016/j.actbio.2013.03.016 doi:10.1016/j.molimm.2006.06.020
+Kuhbier, J., Coger, V., Mueller, J., Liebsch, C., Schlottmann, F., Bucan, V., Nguyen, T.-H., Palankar, V.-R., Bui, C., Medvedev, N., Greinacher, A.,
+et al. (2017). Influence of direct or indirect contact for the cytotoxicity and Delcea, M. (2016). Rupture forces among human blood platelets
+and blood compatibility of spider silk. J. Mater. Sci. Mater. Med. 28:127. at different degrees of activation. Sci. Rep. 6:25402. doi: 10.1038/srep
+doi:10.1007/s10856-017-5936-1 25402
+Kunze,A.,Hesse,C.,andSvedhem,S.(2014).Real-timemonitoringofsurface- Nordling,S.,Nilsson,B.,andMagnusson,P.U(2014).Anovelinvitromodelfor
+confinedplateletactivationonTio2.ColloidsSurf.BBiointerfaces116,446–451. studyingtheinteractionsbetweenhumanwholebloodandendothelium.J.Vis.
+doi:10.1016/j.colsurfb.2014.01.025 Exp.96:e52112.doi:10.3791/52112
+Lackner, J. M., Waldhauser, W., Hartmann, P., Bruckert, F., Weidenhaupt, Noubouossie, D. F., Whelihan, M. F.,Yu, Y.-B., Sparkenbaugh, E.,
+M.,Major,R.,etal.(2012).Hemocompatibilityofinorganicphysicalvapor Pawlinski, R., and Key, N. (2017). In vitro activation of coagulation
+deposition(PVD)coatingsonthermoplasticpolyurethanepolymers.J.Funct. by human neutrophil DNA and histone proteins but not neutrophil
+Biomater.3,283–297.doi:10.3390/jfb3020283. extracellular traps. Blood 129, 1021–1029. doi: 10.1182/blood-2016-06-7
+Li, Y., and Boraschi, D. (2016). Endotoxin contamination: a key element 22298
+in the interpretation of nanosafety studies. Nanomedicine 11, 269–287. Nygren, H., Braide, M., and Karlsson, C. (2000). Different kinetics of the
+doi:10.2217/nnm.15.196 respiratory burst response in granulocytes, induced by serum from blood
+Liu, X., Yuan, L., Li, D., Tang, Z., Wang, Y., Chen, G., et al. (2014). Blood coagulated in contact with polymer materials. Biomaterials 21, 173–182.
+compatible materials: state of the art. J. Mater. Chem. B 2, 5718–5738. doi:10.1016/S0142-9612(99)00146-5
+doi:10.1039/C4TB00881B Oikonomopoulou, K., Ricklin, D., Ward, P. A., and Lambris, J.
+Long, A. T., Kenne, E., Jung, R., Fuchs, T. A., and Renné, T. (2016). Contact D. (2010). Interactions between coagulation and complement—
+systemrevisited:aninterfacebetweeninflammation,coagulation,andinnate their role in inflammation. Semin. immunopathol. 34, 151–165.
+immunity.J.Thromb.Haemost.14,427–437.doi:10.1111/jth.13235 doi:10.1007/s00281-011-0280-x.
+Magalhães, P. O., Lopes, A. M., Mazzola, P. G., Rangel-Yagui, C., Penna, T., Onasoga-Jarvis, A., Puls, T., O’brien, S., Kuang, L., Liang, H., and Neeves,
+and Pessoa, A. Jr. (2007). Methods of endotoxin removal from biological K. (2014). Thrombin generation and fibrin formation under flow on
+preparations:areview.J.Pharm.Pharm.Sci.10,388–404. biomimetic tissue factor-rich surfaces. J. Thromb. Haemost. 12, 373–382.
+Maitz, M. F., Sperling, C., Wongpinyochit, T., Herklotz, M., Werner, C., doi:10.1111/jth.12491
+and Seib, F. P. (2017). Biocompatibility assessment of silk nanoparticles: Onasoga-Jarvis,A.A.,Leiderman,K.,Fogelson,A.L.,Wang,M.,Manco-Johnson,
+hemocompatibilityandinternalizationbyhumanbloodcells.Nanomedicine13, M.J.,DiPaola,J.A.,etal.(2013).TheeffectoffactorVIIIdeficienciesand
+2633–2642.doi:10.1016/j.nano.2017.07.012 replacementandbypasstherapiesonthrombusformationundervenousflow
+FrontiersinBioengineeringandBiotechnology|www.frontiersin.org 9 July2018|Volume6|Article99
+
+--- Page 10 ---
+Weberetal. HemocompatibilityofBlood-ContactingBiomaterials
+conditions inmicrofluidic and computational models. PLoS ONE 8:e78732. Teligui, L., Dalmayrac, E., Corbeau, J. J., Bouquet, E., Godon, A., Denomme,
+doi:10.1371/journal.pone.0078732 A. S., et al. (2016). Ex vivo simulation of cardiopulmonary bypass
+Park,K.,Mao,F.,andPark,H.(1990).Morphologicalcharacterizationofsurface- with human blood for hemocompatibility testing. Perfusion 31, 376–83.
+inducedplateletactivation.Biomaterials11,24–31. doi:10.1177/0267659115599454
+Peckham, S. M., Turitto, V. T., Glantz, J., Puryear, H., and Slack, S. (1997). Théorêt, J. F., Yacoub, D., Hachem, A., Gillis, M. A., and Merhi, Y.
+Hemocompatibility studies of surface-treated polyurethane-based chronic (2011). P-selectin ligation induces platelet activation and enhances
+indwellingcatheters.J.Biomater.Sci.8,847–858. microaggregate and thrombus formation. Thromb. Res. 128, 243–50.
+Podias, A., Groth, T., and Missirlis, Y. (1995). The effect of shear rate on the doi:10.1016/j.thromres.2011.04.018.
+adhesion/activationofhumanplateletsinflowthroughaclosed-looppolymeric Thorsen, T., Klausen, H., Lie, R., and Holmsen, H. (1993) Bubble-induced
+tubularsystem.J.Biomater.Sci.6,399–410. aggregationofplatelets:effectsofgasspecies,proteins,anddecompression.
+Punet,X.,Mauchauffé,R.,Rodríguez-Cabello,J.C.,Alonso,M.,Engel,E.,and UnderseaHyperb.Med.20,101–119.
+Mateos-Timoneda,M.A.(2015).Biomolecularfunctionalizationforenhanced Tiffany,C.W.,andBurch,R.M.(1989).Bradykininstimulatestumornecrosis
+cell–material interactions of poly (methyl methacrylate) surfaces. Regen. factorandinterleukin-1releasefrommacrophages.FEBSLett.247,189–192.
+Biomater.2,167–175.doi:10.1093/rb/rbv014 Totea, G., Ionita, D., Demetrescu, I., and Mitache, M. (2014). In vitro
+Qian, Q., Nath, K. A., Wu, Y., Daoud, T. M., and Sethi, S. (2010). hemocompatibilityandcorrosionbehaviorofnewZr-binaryalloysinwhole
+Hemolysis and acute kidney failure. Am. J. Kidney Dis. 56, 780–784. humanblood.OpenChem.12,796–803.doi:10.2478/s11532-014-0535-1
+doi:10.1053/j.ajkd.2010.03.025 VafaHomann,M.,Johansson,D.,Wallen,H.,andSanchez,J.(2016).Improved
+Ritis,K.,Doumas,M.,Mastellos,D.,Micheli,A.,Giaglis,S.,Magotti,P.,etal. ex vivo blood compatibility of central venous catheter with noble metal
+(2006). A novel C5a receptor-tissue factor cross-talk in neutrophils links alloy coating. J. Biomed. Mater. Res. B Appl. Biomater. 104, 1359–1365.
+innate immunity to coagulation pathways. J. Immunol. 177, 4794–4802. doi:10.1002/jbm.b.33403
+doi:10.4049/jimmunol.177.7.4794 VanKruchten,R.,Cosemans,J.M.,andHeemskerk,J.W.(2012).Measurement
+Ritz-Timme,S.,Eckelt,N.,Schmidtke,E.,andThomsen,H.(1997).Genesisand of whole blood thrombus formation using parallel-plate flow chambers–
+diagnosticvalueofleukocyteandplateletaccumulationsaround“airbubbles” a practical guide. Platelets 23, 229–242. doi: 10.3109/09537104.2011.6
+inbloodaftervenousairembolism.Int.J.Leg.Med.111,22–26. 30848
+Roesslein, M., Hirsch, C., Kaiser, J.-P., Krug, H. F., and Wick, P. (2013). van Oeveren, W. (2013). Obstacles in haemocompatibility testing. Scientifica
+Comparabilityofinvitrotestsforbioactivenanoparticles:acommonassayto 2013:392584.doi:10.1155/2013/392584
+detectreactiveoxygenspeciesasanexample.Int.J.Mol.Sci.14,24320–24337. VanOeveren,W.,Tielliu,I.F.,andDeHart,J.(2012).Comparisonofmodified
+doi:10.3390/ijms141224320 chandler,rollerpump,andballvalvecirculationmodelsforinvitrotesting
+Sanak,M,Jakieła,B.,andWegrzyn,W.(2010).Assessmentofhemocompatibility in high blood flow conditions: application in thrombogenicity testing of
+ofmaterialswitharterialbloodflowbyplateletfunctionaltests.Bull.Polish different materials for vascular applications. Int. J. Biomater. 2012:673163.
+Acad.Sci.Tech.Sci.58,317–322.doi:10.2478/v10175-010-0029-z doi:10.1155/2012/673163
+Schrottmaier, W. C., Kral, J. B., Zeitlinger, M., Salzmann, M., Jilma, B., and van Velzen, J. F., Laros-van Gorkom, Pop, G. A., and van Heerde,
+Assinger,A.(2016).Plateletactivationattheonsetofhumanendotoxemiais W. L. (2012). Multicolor flow cytometry for evaluation of platelet
+undetectableinvivo.Platelets27,479–483.doi:10.3109/09537104.2015 surface antigens and activation markers. Thromb. Res. 130,92–98.
+Sinn, S., Müller, L., Drechsel, H., Wandel, M., Northoff, H., Ziemer, G., et al. doi:10.1016/j.thromres.2012.02.041
+(2010).Plateletaggregationmonitoringwithanewlydevelopedquartzcrystal Vroman,L.,Adams,A.L,Fischer,G.C.,andMunoz,P.C.(1980).Interaction
+microbalancesystemasanalternativetoopticalplateletaggregometry.Analyst ofhighmolecularweightkininogen,factorXII,andfibrinogeninplasmaat
+135,2930–2938.doi:10.1039/c0an00474j interfaces.Blood55,156–159.
+Sinn,S.,Scheuermann,T.,Deichelbohrer,S.,Ziemer,G.,andWendel,H.P.(2011). Wachtfogel,Y.T.,Hack,C.E.,Nuijens,J.,Kettner,C.,Reilly,T.M.,Knabb,R.
+A novel in vitro model for preclinical testing of the hemocompatibility of M.,etal.(1995).Selectivekallikreininhibitorsalterhumanneutrophilelastase
+intravascularstentsaccordingtoISO10993-4.J.Mater.Sci.Mater.Med.22, releaseduringextracorporealcirculation.Am.J.Physiol.268,H1352–H1357.
+1521–1528.doi:10.1007/s10856-011-4335-2 Wang,D.-A.,Ji,J.,Gao,C.-Y.,Yu,G.-H.,andFeng,L.-X.(2001)Surfacecoating
+Sperling, C., Maitz, M. F., Grasso, S., Werner, C., and Kanse, S. M. (2017). of stearyl poly (ethylene oxide) coupling-polymer on polyurethane guiding
+A positively charged surface triggers coagulation activation through factor catheters with poly (ether urethane) film-building additive for biomedical
+VIIactivatingprotease(FSAP).ACSAppl.Mater.Interfaces9,40107–40116. applications. Biomaterials 22, 1549–1562. doi: 10.1016/S0142-9612(00)00
+doi:10.1021/acsami.7b14281 311-2
+Sperling,C.,Maitz,M.F.,Talkenberger,S.,Gouzy,M.F.,Groth,T.,andWerner,C. Watanabe, J., Marathe, G. K., Neilsen, P. O., Weyrich, A. S., Harrison, K. A.,
+(2007).Invitrobloodreactivitytohydroxylatedandnon-hydroxylatedpolymer Murphy,R.C.,etal.(2003).Endotoxinsstimulateneutrophiladhesionfollowed
+surfaces.Biomaterials28,3617–3625.doi:10.1016/j.biomaterials.2007.04.041 bysynthesisandreleaseofplatelet-activatingfactorinmicroparticles.J.Biol.
+Sreeramkumar, V., Adrover, J. M., Ballesteros, I., Cuartero, M. I., Rossaint, J., Chem.278,33161–33168.doi:10.1074/jbc.M305321200
+Bilbao, I., et al. (2014) Neutrophils scan for activated platelets to initiate Westein, E., de Witt, S., Lamers, M., Cosemans, J. M., and Heemskerk,
+inflammation.Science346,1234–1238.doi:10.1126/science.1256478 J. W. (2012). Monitoring in vitro thrombus formation with novel
+Stadie,W.C(1920).Amethodforthedeterminationofmethaemoglobininthe microfluidic devices. Platelets 23, 501–509. doi: 10.3109/09537104.2012.7
+blood.J.Biol.Chem.41,237–241. 09653
+Stang,K.,Krajewski,S.,Neumann,B.,Kurz,J.,Post,M.,Stoppelkamp,S.,etal. Wetterö, J., Bengtsson, T., and Tengvall, P. (2000). Complement activation
+(2014).HemocompatibilitytestingaccordingtoISO10993-4:discrimination on immunoglobulin G-coated hydrophobic surfaces enhances the
+betweenpyrogen-anddevice-inducedhemostaticactivation.Mater.Sci.Eng.C release of oxygen radicals from neutrophils through an actin-dependent
+42,422–428.doi:10.1016/j.msec.2014.05.070 mechanism. J. Biomed. Mater. Res. 51, 742–751. doi: 10.1002/1097-
+Stoll,H.,Steinle,H.,Stang,K.,Kunnakattu,S.,Scheideler,L.,Neumann,B.,etal. 4636(20000915)51:4<742::AID-JBM24>3.0.CO;2-D
+(2017).GenerationofLarge-ScaleDNAHydrogelswithexcellentbloodandcell Wijeyeratne, Y. D., and Heptinstall, S. (2011). Anti-platelet therapy:
+compatibility.Macromol.Biosci.17:1600252.doi:10.1002/mabi.201600252. ADP receptor antagonists. Br. J. Clin. Pharmacol. 72, 647–57.
+Streller,U.,Sperling,C.,Hübner,J.,Hanke,R.,andWerner,C.(2003).Designand doi:10.1111/j.1365-2125.2011.03999.x
+evaluationofnovelbloodincubationsystemsforinvitrohemocompatibility Wu, Y. (2015). Contact pathway of coagulation and inflammation. Thromb. J.
+assessmentofplanarsolidsurfaces.J.Biomed.Mater.Res.BAppl.Biomater.66, 13:17.doi:10.1186/s12959-015-0048-y
+379–390.doi:10.1002/jbm.b.10016 Xiao,W.,He,J.,Nichol,J.W.,Wang,L.,Hutson,C.B.,Wang,B.,etal.(2011).
+Sukavaneshvar,S.(2017).Devicethrombosisandpre-clinicalbloodflowmodels Synthesisandcharacterizationofphotocrosslinkablegelatinandsilkfibroin
+for assessing antithrombogenic efficacy of drug-device combinations. Adv. interpenetrating polymer network hydrogels. Acta Biomater. 7, 2384–2393.
+DrugDeliv.Rev.112,24–34.doi:10.1016/j.addr.2016.07.009 doi:10.1016/j.actbio.2011.01.016
+FrontiersinBioengineeringandBiotechnology|www.frontiersin.org 10 July2018|Volume6|Article99
+
+--- Page 11 ---
+Weberetal. HemocompatibilityofBlood-ContactingBiomaterials
+Yau,J.W.,Teoh,H.,andVerma,S.(2015).Endothelialcellcontrolofthrombosis. Zimmermann,A.K.,Weber,N.,Aebert,H.,Ziemer,G.,andWendel,H.(2007).
+BMCCardiovasc.Disord.15:130.doi:10.1186/s12872-015-0124-z Effectofbiopassiveandbioactivesurface-coatingsonthehemocompatibilityof
+Zhang, J., Zhu, C., Fan, D., Ma, X., Mi, Y., and Xue, W. (2015). A two-step membraneoxygenators.J.Biomed.Mater.Res.BAppl.Biomater.80,433–439.
+protocoltoremoveendotoxinsfromhuman-likecollagen.Sep.Sci.Technol.50, doi:10.1002/jbm.b.30614
+993–1001.doi:10.1080/01496395.2014.978467
+Zhang, L., Casey, B., Galanakis, D. K., Marmorat, C., Skoog, S., Vorvolakos, Conflict of Interest Statement: The authors declare that the research was
+K.,etal.(2017).Theinfluenceofsurfacechemistryonadsorbedfibrinogen conductedintheabsenceofanycommercialorfinancialrelationshipsthatcould
+conformation, orientation, fiber formation and platelet adhesion. Acta beconstruedasapotentialconflictofinterest.
+Biomater.54,164–174.doi:10.1016/j.actbio.2017.03.002
+Zhao, Y., Sun, X., Zhang, G., Trewyn, B. G., Slowing, I. I., and Lin, V. Copyright©2018Weber,Steinle,Golombek,Hann,Schlensak,WendelandAvci-
+S. (2011). Interaction of mesoporous silica nanoparticles with human red Adali.Thisisanopen-accessarticledistributedunderthetermsoftheCreative
+blood cell membranes: size and surface effects. ACS Nano 5, 1366–1375. CommonsAttributionLicense(CCBY).Theuse,distributionorreproductionin
+doi:10.1021/nn103077k otherforumsispermitted,providedtheoriginalauthor(s)andthecopyrightowner(s)
+Zhu,S.,Herbig,B.A.,Li,R.,Colace,T.V.,Muthard,R.W.,Neeves,K.B.,etal. arecreditedandthattheoriginalpublicationinthisjournaliscited,inaccordance
+(2015).Inmicrofluidico:recreatinginvivohemodynamicsusingminiaturized withacceptedacademicpractice.Nouse,distributionorreproductionispermitted
+devices.Biorheology52,303–318.doi:10.3233/BIR-15065 whichdoesnotcomplywiththeseterms.
+FrontiersinBioengineeringandBiotechnology|www.frontiersin.org 11 July2018|Volume6|Article99
+
