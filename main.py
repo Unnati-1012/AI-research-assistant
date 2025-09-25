@@ -9,6 +9,7 @@ from fastapi.responses import HTMLResponse, JSONResponse, StreamingResponse
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 
+# Make sure these imports are correct and the files exist
 from app.utils import extract_text_to_file, chunk_text_and_save, generate_embeddings_and_store
 from app.qdrant_client import search_qdrant_for_doc
 from app.genai_client import answer_with_groq_async
@@ -37,19 +38,30 @@ app.add_middleware(
 # -------------------------------
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-# Mount static folder
+# --- FIX START ---
+
+# Define the static directory relative to the current file
+STATIC_DIR = os.path.join(BASE_DIR, "static")
+
+# Create the directory if it doesn't exist to prevent errors
+os.makedirs(STATIC_DIR, exist_ok=True)
+
+# Mount the static folder using the relative path
 app.mount(
     "/static",
-    StaticFiles(directory=r"C:\Users\unnat\OneDrive\Desktop\DatasmithAI\AI powered research assisstant\AI research assistant\static"),
+    StaticFiles(directory=STATIC_DIR),
     name="static"
 )
 
-# Templates
-templates = Jinja2Templates(directory=os.path.join(BASE_DIR, "templates"))
+# Templates directory, also using a relative path
+TEMPLATES_DIR = os.path.join(BASE_DIR, "templates")
+templates = Jinja2Templates(directory=TEMPLATES_DIR)
 
 # PDF uploads folder
 UPLOAD_DIR = os.path.join(BASE_DIR, "uploaded_pdfs")
 os.makedirs(UPLOAD_DIR, exist_ok=True)
+
+# --- FIX END ---
 
 # In-memory storage
 uploaded_docs = {}
@@ -127,15 +139,15 @@ async def ask_question(payload: dict = Body(...)):
         import pdfplumber
         pdf_path = uploaded_docs[doc_id]["path"]
         try:
-            pdf = pdfplumber.open(pdf_path)
-            all_pages = list(range(1, len(pdf.pages) + 1))  # ✅ Include all pages
+            with pdfplumber.open(pdf_path) as pdf:
+                all_pages = list(range(1, len(pdf.pages) + 1))
         except Exception:
             all_pages = []
 
         metadata = {
             "filename": uploaded_docs[doc_id]["filename"],
             "pages": all_pages,
-            "used_pages": [c["page"] for c in context_chunks if c["page"] is not None]
+            "used_pages": sorted(list(set([c["page"] for c in context_chunks if c["page"] is not None])))
         }
 
         return JSONResponse({
@@ -180,34 +192,38 @@ async def ask_question_stream(payload: dict = Body(...)):
             pdf_path = uploaded_docs[doc_id]["path"]
             import pdfplumber
             try:
-                pdf = pdfplumber.open(pdf_path)
-                all_pages = list(range(1, len(pdf.pages) + 1))  # ✅ Include all pages
+                with pdfplumber.open(pdf_path) as pdf:
+                    all_pages = list(range(1, len(pdf.pages) + 1))
             except Exception:
                 all_pages = []
 
             metadata = {
                 "filename": uploaded_docs[doc_id]["filename"],
                 "pages": all_pages,
-                "used_pages": [c["page"] for c in context_chunks if c["page"] is not None]
+                "used_pages": sorted(list(set([c["page"] for c in context_chunks if c["page"] is not None])))
             }
 
-            answer = await answer_with_groq_async(prompt)
-            if not answer or not answer.strip():
-                answer = "⚠️ No relevant content found." if not context_chunks else "⚠️ Unable to generate answer from the context."
+            full_answer = ""
+            async for chunk in await answer_with_groq_async(prompt, stream=True): # Assuming your client supports streaming
+                full_answer += chunk
+                yield chunk
+                await asyncio.sleep(0.01)
 
-            for i in range(0, len(answer), 20):
-                yield answer[i:i+20]
-                await asyncio.sleep(0.02)
+            if not full_answer.strip():
+                final_text = "⚠️ No relevant content found." if not context_chunks else "⚠️ Unable to generate answer from the context."
+                yield final_text
+                full_answer = final_text
+
 
             yield f"[META]{json.dumps(metadata)}"
 
             chat_history.setdefault(doc_id, []).append({
                 "question": query,
-                "answer": answer,
-                "sources": results
+                "answer": full_answer,
+                "sources": context_chunks # It's better to save the processed context
             })
 
         except Exception as e:
             yield f"⚠️ Error: {e}"
 
-    return StreamingResponse(answer_generator(), media_type="text/plain")
+    return StreamingResponse(answer_generator(), media_type="text/event-stream")
