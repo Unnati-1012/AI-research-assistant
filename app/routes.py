@@ -87,17 +87,10 @@ async def ask_question(payload: dict = Body(...)):
         answer = await answer_with_groq_async(prompt)
         chat_history.setdefault(doc_id, []).append({"question": query, "answer": answer})
 
-        pdf_path = uploaded_docs[doc_id]["path"]
-        try:
-            with pdfplumber.open(pdf_path) as pdf:
-                all_pages = list(range(1, len(pdf.pages) + 1))
-        except Exception:
-            all_pages = []
-
+        # ✅ FIXED: Only include relevant pages
         metadata = {
             "filename": uploaded_docs[doc_id]["filename"],
-            "pages": all_pages,
-            "used_pages": sorted(list(set([c["page"] for c in context_chunks if c["page"] is not None])))
+            "pages": sorted(list(set([c["page"] for c in context_chunks if c["page"] is not None])))
         }
 
         return JSONResponse({
@@ -111,7 +104,6 @@ async def ask_question(payload: dict = Body(...)):
 
 @router.post("/ask/stream/")
 async def ask_question_stream(payload: dict = Body(...)):
-    # ... (code to get query, doc_id, prompt is all correct) ...
     query = payload.get("question")
     doc_id = payload.get("doc_id")
 
@@ -133,25 +125,15 @@ async def ask_question_stream(payload: dict = Body(...)):
         f"Answer based only on the context provided. If the answer is not present, respond 'Not available in the document.'"
     ) if prompt_chunks else query
 
-
     async def answer_generator():
         try:
-            pdf_path = uploaded_docs[doc_id]["path"]
-            try:
-                with pdfplumber.open(pdf_path) as pdf:
-                    all_pages = list(range(1, len(pdf.pages) + 1))
-            except Exception:
-                all_pages = []
-
+            # ✅ FIXED: Only include relevant pages
             metadata = {
                 "filename": uploaded_docs[doc_id]["filename"],
-                "pages": all_pages,
-                "used_pages": sorted(list(set([c["page"] for c in context_chunks if c["page"] is not None])))
+                "pages": sorted(list(set([c["page"] for c in context_chunks if c["page"] is not None])))
             }
 
             full_answer = ""
-            
-            # --- THIS IS THE CORRECTED LINE ---
             async for chunk in await answer_with_groq_async(prompt, stream=True):
                 full_answer += chunk
                 yield chunk

@@ -1,47 +1,45 @@
 # app/utils.py
+
 import os
 import uuid
 import pdfplumber
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from qdrant_client.http import models
 
-# Assuming these are in other files and imported correctly
+# Import your embeddings function and Qdrant client
 from .embeddings import embed_text
 from .qdrant_client import qdrant, COLLECTION_NAME
 
 # --- Define Directories Relative to this file ---
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-TEXT_DIR = os.path.join(BASE_DIR, "../texts") # Assuming 'texts' is one level up
-CHUNK_DIR = os.path.join(BASE_DIR, "../chunks") # No longer needed, but kept for context
+TEXT_DIR = os.path.join(BASE_DIR, "text")
+AI_DIR = os.path.join(BASE_DIR, "AI")
 
+# Ensure directories exist
 os.makedirs(TEXT_DIR, exist_ok=True)
-# os.makedirs(CHUNK_DIR, exist_ok=True) # We won't be saving chunks to a file anymore
+os.makedirs(AI_DIR, exist_ok=True)
 
 
-def extract_text_from_pdf(pdf_path: str) -> str:
+def extract_text_from_pdf(file_path: str) -> str:
     """
-    Extracts raw text content from a PDF file.
-    Returns: A single string with all the text.
+    Extract text from PDF and add a page marker for each page.
     """
-    text_content = ""
-    with pdfplumber.open(pdf_path) as pdf:
-        for i, page in enumerate(pdf.pages, 1):
-            page_text = page.extract_text()
-            if page_text:
-                # Add a page marker for context
-                text_content += f"\n\n--- Page {i} ---\n\n{page_text}"
-    return text_content
+    all_text = ""
+    with pdfplumber.open(file_path) as pdf:
+        for i, page in enumerate(pdf.pages, start=1):
+            page_text = page.extract_text() or ""
+            # Add page marker at the start of each page
+            all_text += f"--- Page {i} ---\n{page_text}\n"
+    return all_text
 
 
-def chunk_text(text: str, chunk_size: int = 1000, chunk_overlap: int = 150) -> list[str]:
+def chunk_text(text: str, chunk_size: int = 1000, chunk_overlap: int = 100) -> list[str]:
     """
-    Splits a long text into smaller chunks.
-    Returns: A list of text chunks.
+    Split text into manageable chunks for embeddings.
     """
     splitter = RecursiveCharacterTextSplitter(
         chunk_size=chunk_size,
         chunk_overlap=chunk_overlap,
-        length_function=len,
     )
     chunks = splitter.split_text(text)
     return chunks
@@ -50,37 +48,50 @@ def chunk_text(text: str, chunk_size: int = 1000, chunk_overlap: int = 150) -> l
 def generate_embeddings_and_store(chunks: list[str], doc_id: str):
     """
     Generate embeddings for each chunk and store in Qdrant.
-    This function now takes a list of chunks directly.
+    Keeps correct page numbers from the PDF.
     """
     # Get embeddings for the chunks
     embeddings = embed_text(chunks)
 
-    # Prepare points for Qdrant
     points = []
     for chunk, emb in zip(chunks, embeddings):
-        # You could parse the '--- Page X ---' marker here to get page number
         page_number = None
+
+        # Look for the last seen "--- Page X ---" marker inside the chunk
         if "--- Page " in chunk:
             try:
-                # Simple parsing, can be made more robust
-                page_number = int(chunk.split('---')[1].split('Page')[1].strip())
+                marker = chunk.split("--- Page ")[-1].split("---")[0].strip()
+                page_number = int(marker)
             except (ValueError, IndexError):
                 page_number = None
-        
+
         points.append(
             models.PointStruct(
                 id=str(uuid.uuid4()),
                 vector=emb,
-                payload={"text": chunk, "doc_id": doc_id, "page": page_number}
+                payload={
+                    "text": chunk,
+                    "doc_id": doc_id,
+                    "page": page_number,
+                },
             )
         )
 
     if not points:
-        return # Nothing to upsert
+        return
 
-    # Upsert points to Qdrant
     qdrant.upsert(
         collection_name=COLLECTION_NAME,
         points=points,
-        wait=True # Ensures the operation is completed before returning
+        wait=True,
     )
+
+
+def save_text_to_file(text: str, filename: str):
+    """
+    Save text to a file in the TEXT_DIR.
+    """
+    path = os.path.join(TEXT_DIR, filename)
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(text)
+    return path
