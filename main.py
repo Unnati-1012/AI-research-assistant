@@ -1,17 +1,60 @@
 import os
+import logging
+from logging.config import dictConfig
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 from app.routes import router as api_router
 
 # -------------------------------
-# FastAPI app Setup
+# Logging Configuration (File Only)
+# -------------------------------
+LOG_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "main.log")
+
+LOGGING_CONFIG = {
+    "version": 1,
+    "disable_existing_loggers": False,
+    "formatters": {
+        "default": {
+            "format": "%(asctime)s | %(levelname)s | %(name)s | %(message)s",
+        },
+    },
+    "handlers": {
+        "file": {
+            "class": "logging.FileHandler",
+            "formatter": "default",
+            "level": "DEBUG",
+            "filename": LOG_FILE,
+            "encoding": "utf-8",
+        },
+    },
+    "root": {
+        "level": "DEBUG",
+        "handlers": ["file"],
+    },
+    "loggers": {
+        "uvicorn": {"handlers": ["file"], "level": "INFO", "propagate": False},
+        "uvicorn.error": {"handlers": ["file"], "level": "INFO", "propagate": False},
+        "uvicorn.access": {"handlers": ["file"], "level": "INFO", "propagate": False},
+        "fastapi": {"handlers": ["file"], "level": "DEBUG", "propagate": False},
+    },
+}
+
+dictConfig(LOGGING_CONFIG)
+logger = logging.getLogger(__name__)
+
+# -------------------------------
+# FastAPI App Setup
 # -------------------------------
 app = FastAPI(
     title="PDF Research Assistant",
     description="Upload PDFs and ask questions based on PDF content",
     version="1.0.0"
 )
+
+@app.on_event("startup")
+async def startup_event():
+    logger.info("🚀 FastAPI app started successfully")
 
 # Allow CORS
 app.add_middleware(
@@ -39,9 +82,4 @@ app.mount(
 # -------------------------------
 # Include API Routes
 # -------------------------------
-# All of the application's routes (/upload, /ask, etc.) are now handled
-# by the router defined in app/routes.py.
 app.include_router(api_router)
-
-# Note: No more route definitions (@app.get, @app.post) in this file.
-# Note: No more in-memory storage (uploaded_docs, chat_history) in this file.
