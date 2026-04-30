@@ -1,0 +1,2037 @@
+1||7
+
+The Role of Biodegradable
+
+Engineered Scaffold in Tissue Engineering
+
+Ghassem Amoabediny1,2, Nasim Salehi-Nik1,2 and Bentolhoda Heli1,2
+
+1Department of Biomedical Engineering, Research Centre for New Technologies in Life
+
+Science Engineering, University of Tehran,
+
+2Department of Chemical Engineering, Faculty of Engineering, University of Tehran,
+
+Iran
+
+1. Introduction
+
+Tissue engineering is fundamentally described as the generation of three- dimensional (3D)
+
+artificial tissues. Its consequential task is to regenerate human tissue or to develop cell-based
+
+substitutes in order to restore, reconstruct or improve tissue functions (Pörtner et al., 2005;
+
+Ellis, 2005). Proper processing of biological and mechanical functionality is monumental for
+
+tissue engineered structures, the ones which are not mainly sufficient enough yet. Acquiring
+
+the solution for this problem demands intensive researches and studies in every aspects and
+1||tissue engineered structures, the ones which are not mainly sufficient enough yet. Acquiring
+
+the solution for this problem demands intensive researches and studies in every aspects and
+
+steps of TE (Sengers et al., 2007). As a matter of fact, creating a functional tissue requires
+
+efficient growth of various types of cells on a 3D scaffolds and the bulk production of one
+
+cell seems not to be adequate (Ellis et al., 2005).
+
+The principal function of a scaffold is to direct cell behavior such as migration, proliferation,
+
+differentiation, maintenance of phenotype, and apoptosis by facilitating sensing and
+
+responding to the environment via cell–matrix and cell–cell communications (Tabesh et al.,
+
+2009). Therefore, having such abilities provides scaffolds seeded with a special type of cell as
+
+an important part of tissue engineering and regenerative medicine. The scaffold design and
+
+fabrication are major areas of biomaterial research, since biomaterial scaffold can create
+1||an important part of tissue engineering and regenerative medicine. The scaffold design and
+
+fabrication are major areas of biomaterial research, since biomaterial scaffold can create
+
+substrate within which cells are instructed to form a tissue or an organ in a highly controlled
+
+way. In this chapter, it is tried to provide an inclusive survey of biopolymers to be used as
+
+scaffolds for tissue engineering, fabrication methods and engineering challenges such as
+
+mass transfer and mechanical strength. In the proceeding, these factors are reviewed in
+
+vascular and nerve systems.
+
+2. Scaffold considerations
+
+2.1 Requirements of appropriate scaffold materials for tissue engineering
+
+Scaffold design and fabrication are major areas of biomaterial research and they are also
+
+important areas for tissue engineering and regenerative medicine research. Scaffold
+
+provides the necessary support for cells to proliferate and maintain their differentiated
+1||important areas for tissue engineering and regenerative medicine research. Scaffold
+
+provides the necessary support for cells to proliferate and maintain their differentiated
+
+functions, and its architecture defines the ultimate shape of a new organ.
+
+An ideal scaffold should possess the following characteristics to bring about the desired
+
+biological response (1) the scaffold should possess inter-connecting pores of appropriate
+
+154 Biomaterials Science and Engineering
+
+scale to favor tissue integration and vascularization, (2) be made from material with
+
+controlled biodegradability or bio-resorbability, (3) appropriate surface chemistry to favor
+
+cellular attachment, differentiation and proliferation, (4) possess adequate mechanical
+
+properties to match the intended site of implantation and handling, (5) should not induce
+
+any adverse response and, (6) be easily fabricated into a variety of shapes and sizes (Liu et
+
+al., 2007; Sachlos et al., 2003).
+1||any adverse response and, (6) be easily fabricated into a variety of shapes and sizes (Liu et
+
+al., 2007; Sachlos et al., 2003).
+
+Due to control scaffold degradation and mechanical integrity, cell-scaffold interaction as
+
+well as cell functon, one must have access to a range of materials. Therefore, an appropriate
+
+fabrication method is required with which it is possible to have a structure with different
+
+independent parameters and materials (Yarlagadda et al., 2005).
+
+It is worth to mention that degradation of synthetic polymers, both in vitro and in vivo
+
+conditions, releases by-products. For example, for PLLA releasing Lactic acid during
+
+degradation, causes reducing the pH, which further accelerates the degradation rate due to
+
+autocatalysis which later affects cellular function. (Sachlos & Czernuszka, 2003, as cited
+
+Reed and Gilding, 1981)
+
+In addition to degradation rate and by-products, certain physical characteristics of the
+1||Reed and Gilding, 1981)
+
+In addition to degradation rate and by-products, certain physical characteristics of the
+
+scaffolds must be considered when designing a substrate to be used in tissue engineering
+
+applications. For instance, in order to allow proper cell attachment, the scaffold must have a
+
+large surface area which can be achieved by creating a highly porous polymeric foam. In
+
+these foams, the pore size should be large enough to allow cells to penetrate through the
+
+pores, to maximize nutrient and oxygen diffusion, interstitial fluid and blood flow into the
+
+interior of the scaffold, to manipulate tissue differentiation (Yarlagadda et al., 2005, as cited
+
+Le Huec et al. 1995; Tsuruga et al., 1997). These characteristics (porosity and pore size) often
+
+depend on the material and method of scaffold fabrication (Mikos&Temenoff, 2000, as cited
+
+Mooney et al., 1999; Nam et al. 2000)
+
+2.2 Decent materials for scaffolds fabrication
+1||depend on the material and method of scaffold fabrication (Mikos&Temenoff, 2000, as cited
+
+Mooney et al., 1999; Nam et al. 2000)
+
+2.2 Decent materials for scaffolds fabrication
+
+In order to have an effective function, an ideal scaffold must possess the optimum structural
+
+parameters, conductivity to the cellular activities leading to neo-tissue formation; these
+
+include cell penetration and migration into the scaffold, cell attachment onto the scaffold
+
+substrate, cell spreading and proliferation and cell orientation. Such scaffold design
+
+parameters are now described with reference to these cellular activities. One of the first
+
+considerations when designing a scaffold for tissue engineering is the choice of material.
+
+The three main material types which have been successfully investigated to be applied in
+
+developing scaffolds include (i) natural polymers, (ii) synthetic polymers, and (iii) ceramics
+
+(Willerth & Sakayama-Elbert, 2007; Radulescu et al., 2007).
+1||developing scaffolds include (i) natural polymers, (ii) synthetic polymers, and (iii) ceramics
+
+(Willerth & Sakayama-Elbert, 2007; Radulescu et al., 2007).
+
+2.2.1 Natural materials
+
+Natural polymers commonly derived from protein or carbohydrate polymers have been
+
+used as scaffolds for the growth of several tissue types. In the area of tissue engineering, for
+
+example, scientists and engineers look for scaffolds on which it may successfully grow cells
+
+to replace damaged tissue. Typically, it is desirable for these scaffolds to be: biodegradable,
+
+non-toxic/non-inflammatory, mechanically similar to the tissue to be replaced, highly
+
+porous, encouragement of cell attachment and growth, easy and cheap to manufacture, and
+
+capable of attaching with other molecules (Elmstedt, 2006; Cuy, 2004). Here some examples
+
+of natural polymers that have been previously studied for biomaterials application are
+
+reviewed.
+
+The Role of Biodegradable Engineered Scaffold in Tissue Engineering 155
+1||of natural polymers that have been previously studied for biomaterials application are
+
+reviewed.
+
+The Role of Biodegradable Engineered Scaffold in Tissue Engineering 155
+
+- Collagen
+
+Collagen is considered by many scientists as an ideal scaffold or matrix for tissue
+
+engineering as it is the major protein component of the extracellular matrix. It provides
+
+support to connective tissues such as skin, tendons, bones, cartilage, blood vessels, and
+
+ligaments in its native environment, and also interacts with cells in connective tissues and
+
+transduces essential signals for the regulation of cell anchorage, migration, proliferation,
+
+differentiation, and survival. Collagen is defined by high mechanical strength, good
+
+biocompatibility, low antigenicity and ability of being cross-linked, and tailored for its
+
+mechanical degradation and water uptake properties; Twenty-seven types of collagens have
+1||biocompatibility, low antigenicity and ability of being cross-linked, and tailored for its
+
+mechanical degradation and water uptake properties; Twenty-seven types of collagens have
+
+been identified so far, but collagen type I is the most abundant and the most investigated for
+
+biomedical applications (Chunlin et al., 2004).
+
+Collagen may also be processed into a variety of formats including porous sponges, gels,
+
+and sheets. It can be cross-linked with chemicals to make it stronger or to alter its
+
+degradation rate (Cuy, 2004). However, for medical applications, the implantation of foreign
+
+cells causes immunological problems. Collagen has potential uses as follows (Matin, 2004):
+
+- Collagen gel matrix maintains its shape following cell seeding and culture,
+
+- Highly permeable bio-scaffold design,
+
+- Production of tissue implants for reconstructive/cosmetic surgery applications, and
+
+- Generation of spinal cord repair implants.
+
+- Chitosan
+1||- Highly permeable bio-scaffold design,
+
+- Production of tissue implants for reconstructive/cosmetic surgery applications, and
+
+- Generation of spinal cord repair implants.
+
+- Chitosan
+
+Chitosan is a cationic polymer obtained from chitin comprising copolymers of β (1→4)-
+
+glucosamine and N-acetyl- D-glucosamine. Chitin is a natural polysaccharide found
+
+particularly in the shell of crustacean, cuticles of insects and cell walls of fungi and is the
+
+second most abundant polymerized carbon found in nature (Khor & Lim, 2003).
+
+This polymer has many suitable properties. It can be used for wound dressing, drug
+
+delivery, and tissue engineering (cartilage, nerve and liver tissue) applications. These
+
+properties include: (Willerth et al., 2007):
+
+- Minimal foreign body reaction,
+
+- Mild processing conditions (synthetic polymers often need to be dissolved in harsh
+
+chemicals; chitosan will dissolve in water based on pH),
+1||- Minimal foreign body reaction,
+
+- Mild processing conditions (synthetic polymers often need to be dissolved in harsh
+
+chemicals; chitosan will dissolve in water based on pH),
+
+- Controllable mechanical/biodegradation properties (such as scaffold porosity or
+
+polymer length), and
+
+- Availability of chemical side groups for attachment to other molecules.
+
+Chitosan has already been investigated for adoption in the engineering of cartilage, nerve,
+
+and liver tissue. Current difficulties applying chitosan as a polymer scaffold in tissue
+
+engineering include low strength and inconsistent behavior with seeded cells (Madihally
+
+and Matthew, 1999). Fortunately, chitosan may be easily combined with other materials in
+
+order to increase its strength and cell-attachment potential. Mixtures with synthetic
+
+polymers such as poly (vinyl alcohol) and poly (ethylene glycol), or natural polymers such
+
+as collagen, have already been produced. These combinations promise improving the
+1||polymers such as poly (vinyl alcohol) and poly (ethylene glycol), or natural polymers such
+
+as collagen, have already been produced. These combinations promise improving the
+
+performance of the combined construct over the behavior of either component alone (Cuy,
+
+2004).
+
+- Agarose/alginate
+
+Agarose and alginate are linear polysaccharides obtained from seaweed and algae,
+
+respectively. Both polygosaccharides must undergo extensive purification to prevent
+
+immune responses after implantation (Willerth et al., 2007). Moreover, encapsulation of
+
+certain cell types into alginate beads may actually enhance cell survival and growth. In
+
+156 Biomaterials Science and Engineering
+
+addition, alginate has been explored to function in liver, nerve, heart, and cartilage tissue
+
+engineering.
+
+Unfortunately some drawbacks to alginate include mechanical weakness and poor cell
+
+adhesion. In order to overcome these limitations, the strength and cell behavior of alginate
+1||engineering.
+
+Unfortunately some drawbacks to alginate include mechanical weakness and poor cell
+
+adhesion. In order to overcome these limitations, the strength and cell behavior of alginate
+
+have been enhanced by mixtures with other materials, including the natural polymers
+
+agarose and Chitosan (Cuy, 2004). Mohan et al. described the preparation and
+
+characterization of alginate sponges to be used as scaffolds in tissue engineering. They
+
+fabricated highly porous 3D scaffolds from cheaply available sodium alginate, which
+
+exhibits good biocompatibility. The scaffold fabricated by a combination of freeze drying
+
+and particulate leaching, showed increased porosity and pore size. Better pore
+
+characteristics and swelling properties may permit more cell invasion and nutrient supply.
+
+Moreover alginate is thermally stable, non-cytotoxic and biodegradable (Mohan and Nair,
+
+2005).
+
+- Fibronectin
+1||Moreover alginate is thermally stable, non-cytotoxic and biodegradable (Mohan and Nair,
+
+2005).
+
+- Fibronectin
+
+Fibronectin (FN) is a glycoprotein which exists outside cells and on the cell surface. It also
+
+exists in blood, other body fluids and on the cell surfaces of connective tissue. This protein
+
+associates with the other proteins of the extra cellular matrix (ECM) like fibrinogen,
+
+collagen, glycosaminoglycans and with suitable receptors which are in the cell membrane
+
+(Ebner et al., 2006). Fibronectin is composed of tandem repeats of three distinct types (I, II
+
+and III) of individually folded modules.
+
+2.2.2 Synthetic materials
+
+Synthetic polymers have been widely used for over 20 years as surgical sutures, with long
+
+established clinical success and many are approved for human use by the Food and Drug
+
+Administration (FDA). The polymers which approved by FDA are as follows: PCL, PLLA,
+
+PLGA, PEG and PGA.
+1||established clinical success and many are approved for human use by the Food and Drug
+
+Administration (FDA). The polymers which approved by FDA are as follows: PCL, PLLA,
+
+PLGA, PEG and PGA.
+
+However current synthetic polymers do not possess a surface chemistry which is familiar to
+
+cells, that in vivo thrive on an extracellular matrix made mostly of collagen, elastin,
+
+glycoproteins, proteoglycans, laminin and fibronectin; these materials have many
+
+advantages to be used as scaffolds (Sachlos & Czernuszka, 2003, as cited Alberts et al., 1994).
+
+These polymers can be tailored to produce a wide range of mechanical properties and
+
+degradation rates. Synthetic polymers also represent a more reliable source of raw materials
+
+with the ability to provoke an immune response in body. Finally synthetic polymers can be
+
+react together to combine their unique properties (Willerth et al., 2007; Manzanedo, 2005).
+1||with the ability to provoke an immune response in body. Finally synthetic polymers can be
+
+react together to combine their unique properties (Willerth et al., 2007; Manzanedo, 2005).
+
+Here some of these synthetic polymers used in tissue engineering are described briefly.
+
+- Poly (D, L- lactic acid)
+
+Poly lactic acid (PLA) is a biodegradable polyester attainable by poly-condensation of lactic
+
+acid, and amonomeric precursor that can be obtained from renewable resources. Lactic acid
+
+is a chiral molecule available in the L and D stereoisomer forms. L-lactic acid occurs in the
+
+metabolism of all animals and microorganism, and thus is an absolutely non-toxic
+
+degradation product of polylactides. This is proved by the successful application of
+
+polylactides as a resorbable medical structure over a period of three decades (kricheldorf,
+
+2001; Onose, 2008).
+
+Since this polymer has biodegradability, biocompatibility, good mechanical properties, and
+1||2001; Onose, 2008).
+
+Since this polymer has biodegradability, biocompatibility, good mechanical properties, and
+
+ability to be dissolved in common solvents for processing, it has been successfully employed
+
+as matrixes for cell transplantation and tissue regenerations (Kim et al., 2003).
+
+The Role of Biodegradable Engineered Scaffold in Tissue Engineering 157
+
+- Poly (lactic-co- glycolic acid)
+
+Poly (glycolic acid) (PGA) and poly (lactic acid) (PLA) are biodegradable synthetic
+
+polymers, which can react to form the copolymer poly (lactic-co-glycolic acid) (PLGA). PGA
+
+is highly crystalline and has a high melting point and low solubility in organic solvents. An
+
+intensive investigation aimed at the improvement of PGA properties was undertaken by
+
+many researchers, focusing on the preparation of PGA copolymers with more hydrophilic
+
+PLA.
+
+After implantation, the ester bonds that make up the backbone of the polymer can be
+1||many researchers, focusing on the preparation of PGA copolymers with more hydrophilic
+
+PLA.
+
+After implantation, the ester bonds that make up the backbone of the polymer can be
+
+hydrolyzed, causing the scaffold to degrade into metabolite by-products. These by-products
+
+can be absorbed by the body and may cause pH changes around the implantation site. The
+
+degradation rate of the scaffolds can be altered by varying the ratio of PGA to PLA in the
+
+scaffold.
+
+The presence of an extra methyl group renders lactic acid more hydrophobic. The
+
+hydrophobicity of PLA limits the water uptake of films to 2%, and decreases the backbone
+
+hydrolysis rate in respect to the one of the PGA homopolymer. Moreover, PLA is more
+
+soluble in organic solvents than in PGA. It is important to note that no linear relationship
+
+exists between the ratio of glycolic acid to lactic acid and the physico-mechanical properties
+
+of their regarding copolymers. The high crystallinity of PGA is rapidly lost in PGA/PLA
+1||exists between the ratio of glycolic acid to lactic acid and the physico-mechanical properties
+
+of their regarding copolymers. The high crystallinity of PGA is rapidly lost in PGA/PLA
+
+copolymers. These morphological changes lead to an increase in the hydration and
+
+hydrolysis rate and copolymers tend to degrade more rapidly than the homopolymers of
+
+PGA or PLA do (Reed et al., 1981).
+
+- Poly-β-hydroxybutyrate
+
+Poly-β-hydroxybutyrate (PHB) is a linear head-to-tail homopolymer of (R)-β hydroxybutiric
+
+acid, which forms crystalline cytoplasmic granules in the wide variety of bacteria. This
+
+material is biodegradable and biocompatible microbially produced polyester, which after
+
+implantation degrades slowly at body temperature and forms a non-toxic metabolite that is
+
+secreted in urine (Mosahebi et al., 2001). PHB has been previously used as a wound
+
+scaffolding device, designed to support and protect a wound against further damage while
+1||secreted in urine (Mosahebi et al., 2001). PHB has been previously used as a wound
+
+scaffolding device, designed to support and protect a wound against further damage while
+
+promoting healing by encouraging cellular growth on and within the device from the
+
+wound surface (Ljungberg et al., 1999).
+
+- Poly-e-caprolactone
+
+Poly-e-caprolactone(PCL), an aliphatic polyester which is bioresorbable and biocompatible,
+
+is generally used in pharmaceutical products and wound dressings (Venugopal et al., 2005).
+
+This polymer has low melting point of around 60°C and a glass transition temperature of
+
+about −60°C. PCL is degraded by hydrolysis of its ester linkages in physiological conditions
+
+(e.g. in the human body) and therefore, has received a great deal of attention for use as an
+
+implantable biomaterial (Schnell et al., 2007).
+
+- Poly (ethylene glycol)
+
+Poly ethylene glycol (PEG), also known as poly ethylene oxide (PEO) or polyoxyethylene
+1||implantable biomaterial (Schnell et al., 2007).
+
+- Poly (ethylene glycol)
+
+Poly ethylene glycol (PEG), also known as poly ethylene oxide (PEO) or polyoxyethylene
+
+(POE) is the most commercially important polyethers, which refers to an oligomer or polymer
+
+of ethylene oxide resisting protein adsorption and cell adhesion. These characteristics help
+
+minimize the immune response after implantation. Additionally, this polymer can also help to
+
+seal cell membranes after injury, making it useful for limiting cell death. Hydrophilic PEG
+
+hydrogels can be made through a variety of cross- linking schemes to create scaffolds with
+
+varying degradation as well as release rates. Further chemistry can be used to modify these
+
+gels to add sites for cell adhesion or extracellular matrix (ECM) molecules to allow cells to
+
+infiltrate into these scaffolds, extending their potential applications (Willerth et al., 2007).
+
+158 Biomaterials Science and Engineering
+1||infiltrate into these scaffolds, extending their potential applications (Willerth et al., 2007).
+
+158 Biomaterials Science and Engineering
+
+PEG can be photo-polymerized under mild conditions in the presence of cells to create a
+
+hydrogel that is biocompatible and non-toxic. Bioactive molecules such as cell adhesion
+
+ligands, growth factors and proteolytic degradation sites have been previously incorporated
+
+into PEG hydrogels and shown to influence adhesion, proliferation, migration, and
+
+extracellular matrix production of vascular smooth muscle cells.
+
+- Poly (glycerol sebacic acid)
+
+Poly glycerol sebacic acid (PGS), also called bio-rubber, is a tough, biodegradable elastomer
+
+made from biocompatible monomers. Its main features are good mechanical properties,
+
+rubber like elasticity and surface erosion biodegradation. PGS was proved to have similar in
+
+vitro and in vivo biocompatibility to PLGA, a widely used biodegradable polymer.
+
+(Manzanedo, 2005; Sundback et al., 2005).
+1||vitro and in vivo biocompatibility to PLGA, a widely used biodegradable polymer.
+
+(Manzanedo, 2005; Sundback et al., 2005).
+
+- Poly (2-hydroxyethyl methacrylate)
+
+Hydroxyethyl methacrylate (HEMA) is a hydro-soluble monomer, which can be
+
+polymerized (under various circumstances) at low temperatures (from -20°C to +10°C). It
+
+can be used to prepare various hydrogels and to immobilize proteins or cells. It is widely
+
+used in medicine as an appropriate biomaterial. Poly (2-hydroxyethyl methacrylate)
+
+(pHEMA) is particularly attractive for biomedical engineering applications. Because of its
+
+physical properties and high biocompatibility, this polymer can be easily manipulated
+
+through formulated chemistry has been extensively used in medical applications, e.g.
+
+contact lenses, kerato prostheses and orbital implants. Furthermore, a pHEMA scaffold
+
+could be easily incorporated into the nerve guidance tubes (Flynn et al., 2003).
+
+2.3 Methods used for scaffolds design
+1||could be easily incorporated into the nerve guidance tubes (Flynn et al., 2003).
+
+2.3 Methods used for scaffolds design
+
+Several techniques have been developed to process synthetic and natural scaffold materials
+
+into porous structures. These conventional scaffold fabrication techniques are considered as
+
+processes that create scaffolds having a continuous, uninterrupted pore structure. An
+
+overview of such different techniques is as follows: Electrospinning, Solvent-casting,
+
+particulate-leaching, Gas foaming, Fiber meshes/fiber bonding, Phase separation, Melt
+
+molding, Emulsion freeze drying, Solution casting and Freeze drying (Mikos& Temenoff,
+
+2003; Sachlos & Czernuszka, 2003).
+
+2.3.1 Electrospinning
+
+Electrospinning is a technique for nano-fibrous scaffold fabrication. Various synthetic or
+
+natural polymers can be spun to nano fibers with diameters in nano - to micrometer range.
+
+They are characterized by a high surface to volume ratio and thus offer sample substrate for
+1||natural polymers can be spun to nano fibers with diameters in nano - to micrometer range.
+
+They are characterized by a high surface to volume ratio and thus offer sample substrate for
+
+cell attachment.
+
+In this technique, polymers are dissolved into a proper solvent or melted before being
+
+subjected to a very high voltage to overcome the surface tension and viscoelastic forces as
+
+well as forming different fibers (50 nm - 30 µm) diameters, which feature a morphologic
+
+similarity to the extracellular matrix of natural tissue and effective mechanical properties.
+
+These nanofibrous scaffolds can be utilized to provide a better environment for cell
+
+attachment, migration, proliferation and differentiation when compared with traditional
+
+scaffolds (Martins et al., 2007).
+
+In general, the process of electrospinning is mainly affected by (i) system parameters, such as
+
+polymer molecular weight, molecular weight distribution and solution properties (e.g.
+1||In general, the process of electrospinning is mainly affected by (i) system parameters, such as
+
+polymer molecular weight, molecular weight distribution and solution properties (e.g.
+
+viscosity, surface tension, conductivity); and (ii) process parameters, such as flow rate, electric
+
+potential, distance between capillary and collector, motion of collector, etc (Yang et al., 2005).
+
+The Role of Biodegradable Engineered Scaffold in Tissue Engineering 159
+
+A study on the fabrication of a scaffold by electrospinning biomaterials such as poly lactic
+
+acid (PLA), poly glycolic acid (PGA), poly (ethylene-co- vinyl acetate) (PEVA), and type-I
+
+collagen was reported (Bowlin et al., 2001). Moreover, nanostructured electrospun PLGA
+
+membranes for anti-adhesion applications were presented (Fang et al., 2001).
+
+Electrospinning can even be used to create biocompatible thin films with useful coating
+
+designs and surface structures that can be deposited on implantable devices in order to
+1||Electrospinning can even be used to create biocompatible thin films with useful coating
+
+designs and surface structures that can be deposited on implantable devices in order to
+
+facilitate the integration of these devices with the body (Buchko et al., 1999).
+
+The collagen nanofibers were characterized by a wide range of pore size distribution, high
+
+porosity, excellent mechanical strength and high surface area to volume ratios, which are
+
+favorable parameters for cell attachment, growth and proliferation. In cell activity
+
+assessment, electrospun collagen nanofibers coated with type I collagen or laminin were
+
+found to promote cell adhesion and spread of normal human keratinocytes. This may be a
+
+consequence of the high surface area available for cell attachment due to their three-
+
+dimensional features and restoration of biological and structural properties of natural ECM
+
+proteins (Rho et al., 2006).
+
+2.3.2 Freeze-drying
+1||dimensional features and restoration of biological and structural properties of natural ECM
+
+proteins (Rho et al., 2006).
+
+2.3.2 Freeze-drying
+
+Many of the fabrication technologies for polymers are based on particulate-leaching
+
+techniques, heat compression, and extrusion. However, the harsh operating conditions of
+
+these processes may limit the incorporation of bioactive proteins, cells and residual amounts
+
+of the chemical solvents required may cause toxicity in vivo. Freeze-drying is an alternative
+
+method to produce porous scaffolds, which do not require additional chemicals relying on
+
+the water.
+
+This method, used in hydrogels, forms ice crystals that can be sublimated from the polymer,
+
+creating a particular micro-architecture. Because the direction of growth and size of the ice
+
+crystals are a function of the temperature gradient, linear, radial, and/or random pore
+
+directions and diverse sizes can be produced with this methodology (Stokols et al., 2004).
+1||crystals are a function of the temperature gradient, linear, radial, and/or random pore
+
+directions and diverse sizes can be produced with this methodology (Stokols et al., 2004).
+
+On the other hand, the pore size can be controlled by the freezing rate and pH; a fast
+
+freezing rate produces smaller pores (Sachlos et al., 2003).
+
+2.3.3 Molding
+
+Graft implants manufacture is an extraordinary example of micro-architecture. One possible
+
+way of making the grafts is the particulate leaching technique (i.e. molding). A mold is
+
+made of a medium that may not contaminate the graft and that may melt off at a lower
+
+temperature melt point than that of the graft. Already widely used, this method limits
+
+design intricacy because heat stress during formation compromises the composition of the
+
+graft (Friedman et al., 2002). Another problem with this method is that it would be difficult
+
+to make a mold small enough for small animal research. As an example, Moore et al. used
+1||graft (Friedman et al., 2002). Another problem with this method is that it would be difficult
+
+to make a mold small enough for small animal research. As an example, Moore et al. used
+
+Poly (lactic-co-glycolic acid) (PLGA) with copolymer ratio 85:15 for their initial experiments.
+
+Injection molding with rapid solvent evaporation resulted in scaffolds with a plurality of
+
+distinct channels running parallel along the length of the scaffolds (Moore et al., 2006).
+
+2.3.4 Solid free form fabrication
+
+The most promising production method is called solid free-form fabrication (SFF). This
+
+approach uses a machine like an inkjet printer to make the graft one layer at time by
+
+“printing” one layer on top of the other (Friedman et al., 2002). However, the main problem
+
+160 Biomaterials Science and Engineering
+
+with this technology is the extremely high cost. The machines have to be permanently
+
+modified from their original function. Through these methods one can manage pore size,
+1||with this technology is the extremely high cost. The machines have to be permanently
+
+modified from their original function. Through these methods one can manage pore size,
+
+porosity and pore distribution to produce structures to increase the mass transport of
+
+oxygen and nutrients throughout the scaffold.
+
+Although there are several commercial variants of SFF technology, the general process
+
+involves producing a computer-generated model using computer-aided design (CAD)
+
+software. After expression of cross- sectional layers, data is implemented to the SFF machine
+
+to produce the physical model. Through building the layers from bottom to up, each newly
+
+formed layer adheres to the previous. Post-processing may be required to remove
+
+temporary support structures (Sachlos & Czernuszka, 2003). The methods that use the SSF
+
+technologies to fabricate tissue engineering scaffold are: (1) stereolithography (SLA), (2)
+1||temporary support structures (Sachlos & Czernuszka, 2003). The methods that use the SSF
+
+technologies to fabricate tissue engineering scaffold are: (1) stereolithography (SLA), (2)
+
+selective laser sintering (SLS), (3) fused deposition modelling (FDM) and (4) three-
+
+dimensional printing (3-DP).
+
+3. Challenges in engineering scaffolds
+
+The major hindrance through tissue engineering constructs is mass transfer. Since scaffolds
+
+provide large surface area to volume ratios, it is proved that mass transfer limitation is
+
+reduced. Pore interconnectivity directly influences the mass transfer (e.g. oxygen and
+
+nutrient supply and removal of toxic metabolites).
+
+During tissue regeneration, permeability of the matrix decreases due to the declined pore
+
+size. In addition, the size of most engineered tissues is limited as they do not have their own
+
+blood system, and the cells are only supplied by diffusion (Griffith & Naughton, 2002;
+1||size. In addition, the size of most engineered tissues is limited as they do not have their own
+
+blood system, and the cells are only supplied by diffusion (Griffith & Naughton, 2002;
+
+Kannan et al., 2005). Meanwhile, as only cell layers of 100–200 μm thickness can absorb O
+
+2
+
+by diffusion, oxygen supply is particularly a critical issue. However, since tissue
+
+constructions should have larger dimensions, mass transfer limitation can be considered as
+
+one of the greatest engineering challenges (Pörtner et al., 2005).
+
+The next challenge is mechanical effect on cells in dynamic systems. Under flow conditions,
+
+flow rate needs to be optimized based on (i) nutrient distribution, (ii) effect on assembly of
+
+matrix elements and (iii) cellular response to local shear stress (Lawrence et al., 2009). The
+
+scaffold architecture affects the local fluid flow velocities of the cell suspension which
+
+influences the number of cell-scaffold contacts per time unit and the local cell deposition
+1||scaffold architecture affects the local fluid flow velocities of the cell suspension which
+
+influences the number of cell-scaffold contacts per time unit and the local cell deposition
+
+rates. By changing the scaffolds design, different flow profiles and cell distributions in the
+
+scaffolds may be obtained (Melchels et al., 2011).
+
+Although flow of growth medium improves nutrient and waste transport, shear stresses
+
+induced by fluid flow could affect the scaffold architecture as well as cellular alignment
+
+within the structures (Lawrence et al., 2009 as cited Gray et al., 1988; Huang et al., 2005).The
+
+wall shear rate determines the hydrodynamic force, that adhering cells are exposed to,
+
+which can be expressed per unit of area as the wall shear stress (in Pa), and is the product of
+
+the wall shear rate and the kinematic viscosity of the fluid medium. The critical shear stress
+
+for cell detachment has been found to range almost between 1 to 3 Pa that depends on the
+1||the wall shear rate and the kinematic viscosity of the fluid medium. The critical shear stress
+
+for cell detachment has been found to range almost between 1 to 3 Pa that depends on the
+
+material on which the cells are cultured. Also the highest cell densities in the scaffolds could
+
+be observed in the regions with larger pores, higher fluid flow velocities and higher wall
+
+shear rates (Melchels et al., 2011 cited as Isenberg et al., 2006; Macario et al., 2008; Smith et
+
+al., 1995).
+
+It has been seen that the pore size is a variable strongly affecting the predicted shear stress
+
+level, whereas the porosity only influence the statistical distribution of the shear stress
+
+The Role of Biodegradable Engineered Scaffold in Tissue Engineering 161
+
+(Sadir, 2011). Furthermore, it has been showed that porosity and pore size affect pressure
+
+drop which is important to be determined during tissue regeneration (Lawrence et al., 2009,
+1||(Sadir, 2011). Furthermore, it has been showed that porosity and pore size affect pressure
+
+drop which is important to be determined during tissue regeneration (Lawrence et al., 2009,
+
+cited as Sodian et al., 2000). For the same pore size with decreasing porosities, pressure drop
+
+increases, and for the constant porosity with reducing pore size, which could limit the fluid
+
+flow and nutrient transport, pressure drop is increased (Sadir, 2011). Here these challenges
+
+are investigated by the revision of two case studies.
+
+3.1 Vascular system
+
+The primary functions of blood vessels are the delivery of nutrients and oxygen to the
+
+tissues and organs of the body and removal of their respective metabolites for clearance or
+
+re-oxygenation (Boland et al., 2004). Diseases of the heart and blood vessels are the most life
+
+threatening factor in developed countries (Ikada, 2006). Surgical replacement of vessel
+1||re-oxygenation (Boland et al., 2004). Diseases of the heart and blood vessels are the most life
+
+threatening factor in developed countries (Ikada, 2006). Surgical replacement of vessel
+
+segments or bypass surgery is the most common intervention for coronary and peripheral
+
+atherosclerotic disease with at least 550,000 bypass performed per year (Chung et al., 2010).
+
+Autologous vessels harvested from the patient for bypass surgery include the saphenous
+
+vein (SV) from the leg and the internal mammary artery (IMA) from the chest wall. The IMA
+
+with elasticity maintains the ability to vasoregulate and is less prone to atherosclerosis (Wise
+
+et al., 2011). Apart from the fact that implantation of native vessels is limited by the
+
+mismatch of dimensional and mechanical properties (Chung et al., 2010), the acceptable vein
+
+is not available in 30 %of patients (Boland et al., 2004).
+
+An artery is composed of three layers having different matrix-tissue compositions. The
+1||is not available in 30 %of patients (Boland et al., 2004).
+
+An artery is composed of three layers having different matrix-tissue compositions. The
+
+innermost lumen layer (intima) is composed of endothelial cells (ECs) on extracellular
+
+matrixes such as type IV collagen and elastin, providing the necessary antithrombogenic
+
+nature for contact with the bloodstream. The middle layer (media) is usually the thickest of
+
+the three layers and is composed of multiple layers of smooth muscle cells (SMCs) within a
+
+surrounding extracellular matrix (ECM) composed of collagen types I and III, elastin fibers
+
+and various proteoglycans. The outermost layer (adventitia) is made of fibroblastic cells on
+
+randomly arranged type I collagen. In short the collagens impart tensile strength to the
+
+vessel wall while elastin provides the elasticity (Boland et al., 2004) (Thomas et al., 2007).
+
+With respect to this construction, the combined structure is particularly attractive for
+1||vessel wall while elastin provides the elasticity (Boland et al., 2004) (Thomas et al., 2007).
+
+With respect to this construction, the combined structure is particularly attractive for
+
+vascular tissue engineering applications. By designing a multilayered tube, it is now
+
+possible to seed or co-culture different cell lines in layers with controlled orientation (Chung
+
+et al., 2010).
+
+Tissue engineering uses vascular cells and supporting scaffolds to build functional blood
+
+vessels (Tillman et al., 2009). In the domain of cells, both the EC and SMC are critical
+
+components of a tissue engineered vascular graft. ECs play an integral role in tissue
+
+homeostasis, fibrinolysis, and anti-coagulation while SMCs perform many functions,
+
+including vasoconstriction and dilatation, synthesis of various types of collagen, elastin and
+
+proteoglycans (Ju et al., 2010). Bare scaffolds without ECs showed abundant platelet
+1||including vasoconstriction and dilatation, synthesis of various types of collagen, elastin and
+
+proteoglycans (Ju et al., 2010). Bare scaffolds without ECs showed abundant platelet
+
+adherence, while scaffolds lined with ECs resisted adherence of blood elements. While it is
+
+evident that cells play a major role in achieving patent vessels, designing a vascular
+
+scaffolds that provide structural support, enabling cells to proliferate and growing into a
+
+three-dimensional (3-D) tissue is important (Chung et al., 2010; Tillman et al., 2009)
+
+Developing scaffolds that can withstand the pulsatile nature, high pressure, and high flow
+
+rate of the bloodstream (Boland et al., 2004) is especially necessary in cardiovascular
+
+applications. The ideal vascular prostheses must be a presentation of its functional
+
+characters such as flexibility with kink resistance and biocompatibility (non-thrombogenic)
+
+162 Biomaterials Science and Engineering
+1||characters such as flexibility with kink resistance and biocompatibility (non-thrombogenic)
+
+162 Biomaterials Science and Engineering
+
+(Boland et al., 2004). Ability of ECs adherence to form an anti-thrombogenic luminal surface,
+
+and SMCs migration, exhibit vasoactive properties, (Williamson et al., 2006 cited as Tiwari
+
+et al., 2001; Seifalian et al., 2002), capability of withstanding physiological hemodynamic
+
+forces while maintaining structural integrity until mature tissue forms in vivo (Ju et al.,
+
+2010), and also the compliance is matched with that of the native artery (Boland et al., 2004).
+
+Additionally, providing interconnected pores, generating high porosity so as to promote
+
+cell–cell and cell–matrix communication and having sufficient mechanical stability are key
+
+factors (Chung et al., 2010) for the engineering of blood vessels. Small pore size does not
+
+bring about a problem for ECs but would limit the ability of SMCs to colonize the outer
+1||factors (Chung et al., 2010) for the engineering of blood vessels. Small pore size does not
+
+bring about a problem for ECs but would limit the ability of SMCs to colonize the outer
+
+portion of neo- vessel. Several approaches have been proposed to generate large sized pores
+
+which include the use of the salt leaching technique (Ju et al., 2010, cited as Nam et al., 2007)
+
+and coelectrospinning with water-soluble polymers which serve as sacrificial fibers.
+
+Researchers indicated that a larger pore size can be achieved by increasing the fiber
+
+diameter and that this would facilitate cell infiltration. They showed that the mechanical
+
+strength of the scaffolds decreases as fiber diameter increases (Ju et al., 2010).
+
+Of the countless synthetic materials evaluated over the years, expanded poly tetrafluoro
+
+ethylene (e-PTFE) and woven or knitted polyethylene terephthalate (PET) fibers have
+
+proven to be satisfactory in terms of medium (6-10 mm internal diameter (ID)) and large
+1||ethylene (e-PTFE) and woven or knitted polyethylene terephthalate (PET) fibers have
+
+proven to be satisfactory in terms of medium (6-10 mm internal diameter (ID)) and large
+
+(>10 mm ID) vascular prosthetics, respectively (Boland et al., 2004). However, clinical
+
+success for small diameter (<6 mm) vessels has yet to be demonstrated due to complications
+
+such as occlusion, thrombosis and intimal hyperplasia (Chung, 2010).
+
+In addition, biodegradable synthetic polymer scaffolds from polyglycolic acid (PGA), poly-
+
+L-lactic acid, polyhydroxyalkanoates such as poly-4-hydroxybutyrate, polycaprolactone -
+
+copolylactic acid and polyethylene glycol have been explored. On the other hand, natural
+
+polymers such as collagen and fibrin have also been utilized to construct biological vascular
+
+grafts, populated and compacted by smooth muscle cells, and exhibiting high tensile
+
+strength and flexibility (Zhang et al., 2008).
+1||grafts, populated and compacted by smooth muscle cells, and exhibiting high tensile
+
+strength and flexibility (Zhang et al., 2008).
+
+However, future attempts are addressed as: (i) maufacture of scaffolds with ECM-like nano -
+
+fibrous structure; (ii) development of the electrospun structures to manage pore size which
+
+improves the ingrowth of large sized cells; (iii) test the structural integrity of these scaffolds
+
+during degradation and under dynamic culture conditions (Vaz et al, 2005).
+
+In some cases these materials have been coated with cell-adhesive proteins such as
+
+fibronectin, vitronectin and laminin to facilitate EC attachment, which effectively renders
+
+the surface to become antithrombogenic However, such modifications can also provide
+
+good substrates for platelet adhesion and thrombus formation. EC must be able to resist
+
+detachment by the high shear forces exerted by blood flow and turbulence, thereby
+1||good substrates for platelet adhesion and thrombus formation. EC must be able to resist
+
+detachment by the high shear forces exerted by blood flow and turbulence, thereby
+
+providing an anti-thrombotic surface. They should also retain vasoactive function but not
+
+induce immune reactions to the implant (Williamson et al., 2006, cited as Tiwari et al., 2001).
+
+Based on these results, Ku and Park. suggested that Poly dopamine (PDA) coating generally
+
+facilitates the cell adhesion process of culturing human umbilical vein endothelial cells
+
+(HUVECs) on electrospun PCL nanofibers. The increase of cell adhesion on this coated
+
+nanofibers are attributed to the adsorption/immobilization of serum proteins on PDA ad-
+
+layer (Ku & Park, 2010).
+
+As it was mentioned about vascular tissue construction, designing a multilayered tube is
+
+attractive to seed or co- culture different cell lines in layers with controlled orientation. Vaz
+1||As it was mentioned about vascular tissue construction, designing a multilayered tube is
+
+attractive to seed or co- culture different cell lines in layers with controlled orientation. Vaz
+
+et al. fabricated a bi- layered tubular scaffold of PLA (outer layer) and PCL (inner layer) by
+
+multi-layering electrospinning (ME) using a rotating mandrel-type collector. The tensile
+
+The Role of Biodegradable Engineered Scaffold in Tissue Engineering 163
+
+measurements showed that PLA/PCL scaffolds presented a much lower elongation and a
+
+four-fold increase of maximum stress compared to electrospun PCL ones. The PLA/PCL bi-
+
+layered scaffold supported the attachment, spread and growth of mouse fibroblasts (Vaz et
+
+al, 2005).
+
+Morever, Venugopal et al. proved that PCL nanofibrous matrixes coated with collagen
+
+support cell growth or make the three-dimensional structured multilayer of PCL nanofibers
+
+and collagen nanofibers suitable for blood vessel engineering. Their report defines the initial
+1||support cell growth or make the three-dimensional structured multilayer of PCL nanofibers
+
+and collagen nanofibers suitable for blood vessel engineering. Their report defines the initial
+
+adhesion mechanism of SMCs to the sebiocompatible poly (caprolactone) nanofibrous
+
+matrixes coated with collagen. These results may be relevant to other cell types (Venugopal
+
+et al., 2005c).
+
+Wise et al. reported the production of synthetic human elastin and poly caprolactone
+
+multilayered vascular graft which mimics the mechanical properties of the human IMA.
+
+They showed that conduits constructed from synthetic elastin (SE) alone had insufficient
+
+strength for vascular applications. This graft was systematically modified by addition of
+
+PCL, which was selected on the basis of its appropriate mechanical properties and a slow
+
+degradation time. On the other hand, they found that PCL interacts with platelets, which
+1||PCL, which was selected on the basis of its appropriate mechanical properties and a slow
+
+degradation time. On the other hand, they found that PCL interacts with platelets, which
+
+can contribute to thrombogenicity. For this reason, the graft lumen was made of pure SE i.e.
+
+devoid of PCL to significantly reduce platelet adhesion, in contrast to PCL/collagen hybrids
+
+which showed abundant platelet adherence. It should also be mentioned that the outer layer
+
+of the graft, a hybrid of SE/PCL modulated the graft mechanic (Wise et al., 2011).
+
+On the other hand, the nanolayer can mimic the ECM, whereas the micro layer provides
+
+larger pores which facilitate superior cell infiltration; a micro - and nano-combined
+
+structures can be advantageous.
+
+Chung et al. combined electrospinning and melt spinning of poly (L-lactide-co-e-
+
+caprolactone) (50:50 PLCL) to fabricate a multilayered tubular construct using a rotating
+1||Chung et al. combined electrospinning and melt spinning of poly (L-lactide-co-e-
+
+caprolactone) (50:50 PLCL) to fabricate a multilayered tubular construct using a rotating
+
+mandrel for both techniques, which makes the nano layer able to adhere completely to the
+
+micro layer. They showed that copolymers of PLCL exhibit a range of mechanical properties
+
+from rigid solids to elastomers, depending on their composition. Furthermore, it has a slow
+
+rate of degradation compared to other bioresorbable polymers such as PGA and PLA
+
+(Chung et al., 2010).
+
+Additionally, Surface patterns such as microgrooves have been successfully used to induce
+
+both alignment of cell shape and directional cell migration. Uttayarat et al, incorporated
+
+both electrospun microfibers and surface microgrooves in the fabrication of 3D synthetic
+
+polyurethane (PU) grafts. They found that grooved patterns induced the uniform alignment
+1||both electrospun microfibers and surface microgrooves in the fabrication of 3D synthetic
+
+polyurethane (PU) grafts. They found that grooved patterns induced the uniform alignment
+
+of endothelial cell monolayers with morphology similar to naturally aligned endothelium
+
+under hemodynamic flow. They also extended these findings by demonstrating that a
+
+groove depth or a fiber diameter of about 1 µm can guide the alignment of endothelial cells
+
+inside tubular PU grafts (Uttayarat et al., 2010).
+
+3.2 Nerve and spinal cord system
+
+The nervous system is classified into the central nervous system (CNS) and the peripheral
+
+nervous system (PNS). The CNS comprises the brain, spinal cord, optic, olfactory and
+
+auditory systems. Considering these organs, the CNS comprises of a vast number of
+
+neurons, astroglia, microglia, and oligodendrocytes.
+
+The spinal cord which is approximately 1 cm thick and 42 cm long has four anatomical
+1||neurons, astroglia, microglia, and oligodendrocytes.
+
+The spinal cord which is approximately 1 cm thick and 42 cm long has four anatomical
+
+divisions; the cervical, thoracic, lumbar, and sacral regions. About 27 %of human spinal cord
+
+injuries are lacerations caused by penetrating objects that tear the spinal tissue (Open
+
+164 Biomaterials Science and Engineering
+
+injuries) resulting in a discontinuity of the cord. The majority of the clinical cases are the
+
+result of a temporary compression of the cord that leaves the cord surface intact (closed
+
+injuries 73%). Three types of compression injuries are described: massive compression,
+
+contusion, and solid cord injury (E.Schmidt et al., 2003; Erschbamer, 2007).
+
+CNS axons do not regenerate appreciably in their native environment. Several glycoproteins
+
+in the native extracellular environment (myelin) of the CNS are inhibitory for regeneration.
+
+Regeneration in the adult CNS requires a multi-step process. First, the injured neuron must
+1||in the native extracellular environment (myelin) of the CNS are inhibitory for regeneration.
+
+Regeneration in the adult CNS requires a multi-step process. First, the injured neuron must
+
+survive, and then the damaged axon must extend its cut processes to its original neuronal
+
+targets. According to Horner and Gage investigation, once contact is made, the axon needs
+
+to be re-myelinated and functional synapses need to form on the surface of the targeted
+
+neurons (Horner and Gage., 2000).
+
+In addition to the nerve graft and other natural tissues, such as autologous muscle and vein
+
+grafts, biopolymers can be a practical tool to provide neurotrophic and/or cellular support
+
+while simultaneously guiding axonal regeneration (Stokols et al., 2004; Rodriguez et al.,
+
+2000). Indeed, numerous natural and synthetic polymers have been used as scaffolds or
+
+within scaffolds for peripheral and central nerve regeneration.
+1||2000). Indeed, numerous natural and synthetic polymers have been used as scaffolds or
+
+within scaffolds for peripheral and central nerve regeneration.
+
+Filling of the interior channels with appropriate cell facilitates axon regeneration. The Schwann
+
+cell (SC) and its basal lamina are crucial components in the environment through which
+
+regenerating axons grow to reach their peripheral targets. They produce myelin, which has
+
+important effects on the speed of transmission of electrical signals and are shown to enhance
+
+the regeneration of axons in both the peripheral and central nervous systems (Erschbamer,
+
+2007; Alovskaya et al., 2007). Therefore, it seems that application of a nerve grafts (scaffolds)
+
+coated with SCs can be an appropriate method for spinal cord regeneration.
+
+Considering the requirements of scaffolds in general and in particular, i.e. in neural tissue
+
+engineering, materials appropriate for SC seeding should posse some additional features. In
+1||Considering the requirements of scaffolds in general and in particular, i.e. in neural tissue
+
+engineering, materials appropriate for SC seeding should posse some additional features. In
+
+order to successfully design a scaffold that can be used as treatment for SCI, many
+
+considerations must be taken into account. The scaffold should lessen glial scar formation,
+
+while containing sites for cell adhesion to allow regenerating neurons to extend axons into
+
+the injury site (Willerth et al., 2007; Radulescu et al., 2007).
+
+Among natural materials, Matin in 2004 found that implants coated with collagen are more
+
+successful than the bare ones. Stokolos et al. chose to fabricate scaffolds with agarose for
+
+several reasons. First, when implanted into lesion cavities in the spinal cord as an
+
+unstructured solid agarose hydrogel, it did not evoke an immune or inflammatory response
+
+and was stable for at least 1 month. Second, it was observed that neither axons nor cells
+1||unstructured solid agarose hydrogel, it did not evoke an immune or inflammatory response
+
+and was stable for at least 1 month. Second, it was observed that neither axons nor cells
+
+penetrated solid agarose hydrogels, which suggested that walls composed of agarose could
+
+effectively delineate pathways for regenerating axons. Third, freeze-drying could be used to
+
+fabricate agarose into soft and flexible scaffold. Finally, neurotrophic factors, proven to elicit
+
+robust axonal growth could be easily incorporated into these scaffolds.
+
+In other researches, Alvskaya et al. described that by using fibronectin as a substrate in an in
+
+vivo model of spinal cord repair, the growth of neuritis within the material is accompanied
+
+by migration of SCs into the graft and the presence of reactive astrocytes at its surface
+
+continued. Within the first 2 weeks of implantation, a number of cells and cellular elements
+1||by migration of SCs into the graft and the presence of reactive astrocytes at its surface
+
+continued. Within the first 2 weeks of implantation, a number of cells and cellular elements
+
+replaced the FN mat as it dissolved. The first cells to infiltrate FN mats were macrophages.
+
+The presence of integrin receptors on Schwann cells may be responsible for the extensive
+
+infiltration of Schwann cells. The close spatial correspondence between laminin tubules and
+
+Schwann cells suggests that they were deposited by the Schwann cells (Alovskaya et al.,
+
+2007; King et al., 2006).
+
+The Role of Biodegradable Engineered Scaffold in Tissue Engineering 165
+
+Along with natural materials, synthetic polymers have been widely used for tissue
+
+engineering. Recently, Patist et al. demonstrated that the implantation of a macro porous
+
+PLA tubular scaffold in the transected rat spinal cord elicited a modest axonal regeneration
+1||engineering. Recently, Patist et al. demonstrated that the implantation of a macro porous
+
+PLA tubular scaffold in the transected rat spinal cord elicited a modest axonal regeneration
+
+response. These particular scaffolds were prepared by a thermally induced polymer-solvent
+
+phase separation process and contained longitudinally oriented macropores connected to
+
+each other by a network of micropores (Patist et al., 2004).
+
+Moore et al. described multiple-channel, biodegradable scaffolds that serve as the basis for a
+
+model to investigate simultaneously the effects of scaffold architecture, transplanted cells,
+
+and locally delivered molecular agents on axon regeneration. PLGA with copolymer ratio
+
+85:15 was used for their experiments. Primary neonatal Schwann cells were distributed in
+
+the channels of the scaffold and remained viable in tissue culture for at least 48 h. Scaffolds
+
+containing SCs implanted into transected adult rat spinal cords contained regenerating
+1||the channels of the scaffold and remained viable in tissue culture for at least 48 h. Scaffolds
+
+containing SCs implanted into transected adult rat spinal cords contained regenerating
+
+axons at 1 month post-operation. Axon regeneration was demonstrated by three-
+
+dimensional reconstruction of serial histological sections (Moore et al., 2006).
+
+Also it is showed that PGS which have similar in vitro and in vivo biocompatibility to PLGA,
+
+had no harmful effect on Schwann cell metabolic activity, attachment, or proliferation, and
+
+did not induce apoptosis (Manzanedo, 2005; Sundback et al., 2005).
+
+PHB has been previously used as a wrap-around implant to guide axonal growth after
+
+peripheral nerve injury ( Ljungberg et al., 1999). Novikova et al. prepared a biodegradable
+
+conduit made of PHB fibers which compressed together and running in parallel directions
+
+in two perpendicular layers to form a sheet. Implantation of these PHB conduits coated with
+1||conduit made of PHB fibers which compressed together and running in parallel directions
+
+in two perpendicular layers to form a sheet. Implantation of these PHB conduits coated with
+
+alginate hydrogel and fibronectin and seeded with SCs has been found to reduce spinal cord
+
+cavitation as well as retrograde degeneration of injured spinal tract neurons (Novikov et al.,
+
+2002).
+
+PCL is interesting for the preparation of long term implantable devices, owing to its
+
+degradation, which is even slower than that of polylactide. Schnell et al. designed
+
+biodegradable, aligned poly-e-capro- lactone (PCL) and collagen/PCL (C/PCL) nanofibers
+
+as guidance structures were produced by electrospinning and tested in cell culture assays.
+
+They compared fibers of 100% PCL with fibers consisting of a 25:75% C/PCL blend. Both
+
+types of electrospun fibers supported oriented neurite outgrowth and glial migration from
+
+dorsal root ganglia (DRG) explants. SC migration, neurite orientation, and process
+1||types of electrospun fibers supported oriented neurite outgrowth and glial migration from
+
+dorsal root ganglia (DRG) explants. SC migration, neurite orientation, and process
+
+formation of SCs, fibroblasts and olfactory ensheathing cells were improved on C/PCL
+
+fibers, when compared to pure PCL fibers ( Schnell et al., 2007 ).
+
+About PEG, it was showed that focal continuous application of this polymer has minimal
+
+toxicity (Cole and Shi, 2005). Duerstock et al. used three- dimensional computer reconstructions
+
+of PEG treated and spinal cords to determine whether the pathological character of a 1- month-
+
+old injury is ameliorated by application of PEG. In PEG- treated animals, the lesion was more
+
+focal and less diffuse throughout the damaged segment of the spinal cord, so that control
+
+cords showed a significantly extended lesion surface area (Duerstock and Borgens, 2002).
+
+Furthermore, a pHEMA scaffold could be easily incorporated into the nerve guidance tubes.
+1||cords showed a significantly extended lesion surface area (Duerstock and Borgens, 2002).
+
+Furthermore, a pHEMA scaffold could be easily incorporated into the nerve guidance tubes.
+
+Flynn et al. developed a method to create longitude in ally oriented channels within
+
+(pHEMA) hydrogels for neural tissue engineering applications. They found that these
+
+scaffolds have the potential to enhance nerve regeneration after section injuries of the spinal
+
+cord by increasing the available surface area and providing guidance to extending axons
+
+and invading cells (Flynn et al., 2003).
+
+Several techniques have been developed to process synthetic and natural scaffold materials
+
+into porous structures as H. Tabesh et al. reviewed. Among these techniques, creating tissue
+
+166 Biomaterials Science and Engineering
+
+engineering scaffolds in nano-scale may bring unpredictable new properties to the material-
+
+such as mechanical (stronger), physical (lighter), more porous (tunable),optical (color
+1||engineering scaffolds in nano-scale may bring unpredictable new properties to the material-
+
+such as mechanical (stronger), physical (lighter), more porous (tunable),optical (color
+
+emission), chemical reactivity (more active and less corrosive), electronic properties (more
+
+electrically conductive),and magnetic properties (super paramagnetic which are very
+
+important in nerve regeneration). Such scaffolds may come up with new functionalities as
+
+well-which are unavailable at micro or macro scales (Tabesh et al., 2009).
+
+The process of electrospinning is used for nano-fibrous scaffold fabrication. Electrospinning
+
+can even be used to create biocompatible thin films with useful coating designs and surface
+
+structures that can be deposited on implantable devices inorder to facilitate the integration
+
+of these devices with the body. Silk-like polymers with fibronectin have been electrospun to
+
+make biocompatible films used on prosthetic devices aimed to be implanted in the central
+1||of these devices with the body. Silk-like polymers with fibronectin have been electrospun to
+
+make biocompatible films used on prosthetic devices aimed to be implanted in the central
+
+nervous system (Buchko et al., 1999).
+
+Moreover, an elegant way to produce nanofibrous scaffold using PLLA by a liquid–liquid
+
+phase separation method quite similar to natural extracellular matrix (ECM) was developed
+
+by a group of scientists. They showed its efficacy in supporting the neural stem cell (NSC)
+
+differentiation and neurite outgrowth (Yang et al., 2004).
+
+In addition, a new and facile method for the creation of longitudinally oriented channels in
+
+pHEMA gels using a fiber templating technique was described. Biodegradable
+
+polycaprolactone (PCL) fibers were extruded and embedded in transparent pHEMA gels,
+
+leading to the creation of a pHEMA–PCL composite.
+
+4. Conclusion
+
+In this chapter, efficacious biomaterials (natural and synthetic) for scaffolds in tissue
+1||leading to the creation of a pHEMA–PCL composite.
+
+4. Conclusion
+
+In this chapter, efficacious biomaterials (natural and synthetic) for scaffolds in tissue
+
+engineering and cell seeding were discussed and also techniques to their fabrication were
+
+reviewed. Considering results using such materials and the mentioned criteria for an
+
+appropriate scaffold, it is proved that the selection of materials and method of fabrication
+
+depend on the cells and their characteristics. The reasons are: scaffold candidates should
+
+mimic the structure and biological activity of the native ECM proteins which provide
+
+adequate mechanical support and regulate cellular activates. In addition, scaffolds must
+
+support and define the three-dimensional structure of the tissue engineered space and
+
+maintain the normal state of differentiation within the cellular compartment.
+
+Furthermore the structure of scaffold, pore size and porosity, may affect the mass transfer,
+1||maintain the normal state of differentiation within the cellular compartment.
+
+Furthermore the structure of scaffold, pore size and porosity, may affect the mass transfer,
+
+shear rate and pressure drop. Mass transfer is the major hindrance in tissue engineering.
+
+Although surface area to volume ratios of a scaffold can decrease mass transfer limitations,
+
+it is still one of the greatest challenge in tissue engineering. It has been observed that the
+
+pore size and shape influence the shear stress level and distribution, while the porosity
+
+affects only the distribution. Therefore the wall shear stress is an important parameter in cell
+
+adhesion processes.
+
+Two case studies, blood and nerve systems, with regard to their challenges have been
+
+investigated. First, for blood system, a scaffold must have the function of native blood and
+
+must provide appropriate mechanical, endothelialization and antithrombogenic properties.
+1||investigated. First, for blood system, a scaffold must have the function of native blood and
+
+must provide appropriate mechanical, endothelialization and antithrombogenic properties.
+
+Therefore choosing a proper biomaterial which provides these characters is prominent. With
+
+respect to multilayered construction of blood vessels, the combined structure is particularly
+
+attractive for vascular tissue engineering applications. For a better simulation, various types
+
+of materials and cells have been used to form different layers of this tissue.
+
+The Role of Biodegradable Engineered Scaffold in Tissue Engineering 167
+
+Secondly, for nerve regeneration, it is suggested that blending a synthetic and natural
+
+polymer (e.g. poly-e-caprolactone and collagen) is the best choice for Schwann cell seeding
+
+to regenerate the spinal cord injuries, considering all results using different materials and
+
+the mentioned criteria for an appropriate scaffold. The two suggested polymers have the
+1||to regenerate the spinal cord injuries, considering all results using different materials and
+
+the mentioned criteria for an appropriate scaffold. The two suggested polymers have the
+
+potential to play role of a scaffold in SCs seeding.
+
+Collagen is a protein of ECM and exists in the basal membrane of the cell. It is easily
+
+purified, which can be proposed as a proper substance; however, collagen has less strength
+
+to withstand long time, support force adhesion, and degrades enzymatically within short
+
+periods. Therefore, using another polymer such as PCL to enhance the stability and
+
+mechanical strength of collagen would be crucial. In this sence, an excellent scaffold for
+
+Schwann cell adhesion, migration, orientation, and proliferation can be provided.
+
+Also electrospinning is considered as the excellent method for the fabrication of such
+
+scaffolds. Additionally, electrospun nanofibers exhibit excellent supports for nerve growth
+1||Also electrospinning is considered as the excellent method for the fabrication of such
+
+scaffolds. Additionally, electrospun nanofibers exhibit excellent supports for nerve growth
+
+because they can provide large surface area to volume ratios, pore sizes tailored to Schwann
+
+cells dimensions, functionalized surfaces, and multiple sites for interaction and attachment,
+
+and low mass transfer limitation.
+
+5. References
+
+Alovskaya A.; Alekseeva T.; Phillips J.B.; King V. & Brown R. (2007). Fibronectin, Collagen,
+
+Fibrin - Components of Extracellular Matrix for Nerve regeneration. In: Topics in
+
+Tissue Engineerin, Vol. 3, Ashammakhi Eds.N.; Reis R.L. & Ciellini E. <
+
+http://www.oulu.fi/spareparts/ebook_topics_in_t_e_vol3/list_of_contr.html>
+
+Boland E.D.; Matthews J.A.; Pawlowski K.J.; Simpson D.G.; Wnek G.E. & Bowlin G.L. (2004).
+
+Electrospinning collagen and elastin: preliminary vascular tissue engineering,
+
+Frontiers in Bioscience, Vol. 9, 1422-1432.
+1||Electrospinning collagen and elastin: preliminary vascular tissue engineering,
+
+Frontiers in Bioscience, Vol. 9, 1422-1432.
+
+Bowlin G.L.; Matthews J.A.; Simpson D.G.; Kenawy E.R. & Wnek G.E. (2001).
+
+Electrospinning biomaterials. Journal of Textile Apparel, Technol Manage, Vol. 1,
+
+Special issue: The Fiber Society, Spring 2001 Conference, Raleigh NC.
+
+Buchko C.J.; Chen L.C.; Shen Y. & Martin D.C. (1999). Processing and microstructural
+
+characterization of porous biocompatible protein thin films. Polymer, Vol. 40, No.
+
+26, pp. 7397-7407.
+
+Chunlin Y.; Hillas P.J.; Buez J.A.; Nokelainen M.; Balan J.; Tang, J.; Spiro R. & Polarek J.W.
+
+(2004). The application of recombinant human collagen in tissue engineering,
+
+BioDrugs, Vol. 18, No. 2, pp. 103_119.
+
+Chung S.; Ingle N. P.; Montero G.A.; Kim S.H. & King M.W. (2010). Bioresorbable
+
+elastomeric vascular tissue engineering scaffolds via melt spinning and
+
+electrospinning, Acta Biomaterialia, Vol. 6, No. 6, pp. 1958–1967, ISSN 1742-7061
+1||elastomeric vascular tissue engineering scaffolds via melt spinning and
+
+electrospinning, Acta Biomaterialia, Vol. 6, No. 6, pp. 1958–1967, ISSN 1742-7061
+
+Cole A. & Shi R. (2005). Prolonged focal application of polyethylene glycol induces
+
+conduction block in guinea pig spinal cord white matter. Toxicology in Vitro, Vol. 19,
+
+No. 2, pp. 215-220.
+
+Cuy J. (2004). Biomaterials Tutorial: Natural Polymers. University of Washington
+
+Engineered Biomaterials. < http://www.uweb.engr.washington.edu/>
+
+168 Biomaterials Science and Engineering
+
+Duerstock B. & Borgens R. (2002). Three-dimensional morphometry of spinal cord injury
+
+following polyethylene glycol treatment. The Journal of Experimental Biology. Vol.
+
+205 (pt 1), pp. 13-24.
+
+Ebner R.; Lackner J.M.; Waldhauser W.; Major R.; Czarnowska E.; Kustosz R.; Lacki P. &
+
+Major B. (2006). Biocompatible TiN-based novel nanocrystalline films, Bulletin of the
+
+polish academy of science, Vol. 54, No. 2, pp. 167-173.
+1||Major B. (2006). Biocompatible TiN-based novel nanocrystalline films, Bulletin of the
+
+polish academy of science, Vol. 54, No. 2, pp. 167-173.
+
+Ellis M.; Jarman-Smith M. & Chaudhuri JB. (2005). Bioreactor Systems for Tissue
+
+Engineering: A Four-Dimensional Challenge, In: Bioreactors for Tissue Engineering:
+
+Principles, Design and Operation, Al-Rubeai M. & Chaudhuri JB., pp. 1–18, Springer,
+
+<http://www.springer.com/biomed/book/978-1-4020-3740-5>
+
+Elmstedt N. (2006). Development of biosynthetic conduit for spinal cord and peripheral
+
+nerve injury repair, in vitro study. Thesis. Stockholm, Sweden. <
+
+http://www.nada.kth.se/utbildning/grukth/exjobb/rapportlistor/2006/>
+
+Erschbamer M. (2007). Experimental spinal cord injury: Development of protection and
+
+repair strategies in rats. Thesis. Department of Neuroscience, Karolinska Institutet,
+
+Stockholm, Sweden. < http://publications.ki.se/jspui/handle/10616/39259 >
+1||repair strategies in rats. Thesis. Department of Neuroscience, Karolinska Institutet,
+
+Stockholm, Sweden. < http://publications.ki.se/jspui/handle/10616/39259 >
+
+E.Schmidt Ch. & Baier Leach J. (2003). Neural tissue engineering: strategies for repair and
+
+regeneration. Annual review of Biomedical Engineering. Vol. 5, pp. 293-347.
+
+Fang D.; Xong X.; Chen W.; Cruz S.; Hsiao B. & Chu B. (2001). Nanostructured electrospun
+
+poly-D,L-lactideco-glycolide membranes for anti-adhesion applications. Apparel
+
+Technol, Vol. 1, Special issue: The Fiber Society, Spring 2001 Conference, Raleigh
+
+NC.
+
+Flynn L.; Dalton P.D. & Shoichet M.S. (2003). Fiber templating of poly(2-hydroxyethyl
+
+methacrylate) for neural tissue engineering. Biomaterials, Vol. 24, No. 23, pp. 4265-
+
+4272.
+
+Friedman J.A.; Windebank A.J.; Moore M.J.; Spinner R.J.; Currier B.L.; Yaszemski M.I.;
+
+Bartolomei J.; Piepmeier J.M.; GHU G.; Fehlings M.G.; Hodge Ch.J. & Wagner F.C.
+1||4272.
+
+Friedman J.A.; Windebank A.J.; Moore M.J.; Spinner R.J.; Currier B.L.; Yaszemski M.I.;
+
+Bartolomei J.; Piepmeier J.M.; GHU G.; Fehlings M.G.; Hodge Ch.J. & Wagner F.C.
+
+(2002). Biodegradable polymer grafts for surgical repair of the injured spinal cord.
+
+Neurosurgery, Vol. 51, No. 3, pp. 742-52.
+
+Griffith L. G. & Naughton G. (2002). Tissue engineering–current challenges and expanding
+
+opportunities. Science, Vol. 295, No. 5557, pp. 1009-1014.
+
+Horner P. & Gage F. (2000). Regenerating the damaged central nervous system. Nature, Vol.
+
+407, pp. 963-970.
+
+Hurtado A.; Moon L.D.; Maquet V.; Blits B.; Jerome R. & Oudega M. (2006). Poly (D,L-lactic
+
+acid) macroporous guidance scaffolds seeded with Schwann cells genetically
+
+modified to secrete a bi-functional neurotrophin implanted in the completely
+
+transected adult rat thoracic spinal cord. Biomaterials, Vol. 27, No. 3, pp. 430-442.
+
+Ikada Y. (2006). Challenges in tissue engineering, Journal of Technology Society Interface, Vol.
+1||transected adult rat thoracic spinal cord. Biomaterials, Vol. 27, No. 3, pp. 430-442.
+
+Ikada Y. (2006). Challenges in tissue engineering, Journal of Technology Society Interface, Vol.
+
+3, pp. 589–601
+
+Ju Y.M.; Choi J.S.; Atala A.; Yoo J.J. & Lee S. J. (2010). Bilayered scaffold for engineering
+
+cellularized blood vessels, Biomaterials, Vol. 31, No. 15, pp. 4313–4321, ISSN: 0142-
+
+9612
+
+The Role of Biodegradable Engineered Scaffold in Tissue Engineering 169
+
+Ljungberg C.; Johansson-Ruden G.; Bostrom K.J.; Novikov L. & Wiberg, M. (1999). Neuronal
+
+Survival Using a Resorbable Synthetic conduit as an Alternative to Primary Nerve
+
+Repair, Microsurgery, Vol. 19, No. 6, pp. 259_264.
+
+Kannan RY.; Salacinski HJ.; Sales K.; Butler P. & Seifalian A.M. (2005). The roles of tissue
+
+engineering and vascularisation in the development of micro-vascular networks: a
+
+review. Biomaterials, Vol. 26, No. 14, pp. 1857-1875.
+1||engineering and vascularisation in the development of micro-vascular networks: a
+
+review. Biomaterials, Vol. 26, No. 14, pp. 1857-1875.
+
+King V.R.; Henseler M.; Hunt-Grubbe H.; Brown R. & Priestly J.V. (2006). Cellular and
+
+extracellular infiltrates into fibronectin mats implanted into the damaged adult rat
+
+spinal cord. Biomaterials, Vol. 27, No. 3, pp. 485-496.
+
+Khor E. & Lim L.Y. (2003). Implantable applications of chitin and chitosan, Biomaterials, Vol.
+
+24, No. 13, pp. 2339_2349.
+
+Kricheldorf H. R. (2001). syntheses and application of polylactides. Chemosphere, Vol. 43, No.
+
+1, pp. 49-54.
+
+Ku S. H. & Park Ch.B. (2010). Human endothelial cell growth on mussel-inspired nanofiber
+
+scaffold for vascular tissue engineering, Biomaterials, vol. 31, No. 36, pp. 9431-9437,
+
+ISSN: 0142-9612
+
+Lawrence B. J., Devarapalli M. & Madihally S.V. (2009). Flow Dynamics in Bioreactors
+
+Containing Tissue Engineering Scaffolds, Biotechnology and Bioengineering, Vol. 102,
+
+No. 3, pp. 935-947.
+1||Lawrence B. J., Devarapalli M. & Madihally S.V. (2009). Flow Dynamics in Bioreactors
+
+Containing Tissue Engineering Scaffolds, Biotechnology and Bioengineering, Vol. 102,
+
+No. 3, pp. 935-947.
+
+Liu W. & Cao Y. (2007). Application of scaffold materials in tissue reconstruction in
+
+immunocompetent mammals: our experience and future requirements, Biomaterials,
+
+Vol. 28, No. 34, pp. 5078–5086.
+
+Madihally S.V. & Matthew H.W.T. (1999). Porous chitosan scaffolds for tissue engineering,
+
+Biomaterials, Vol. 20, No. 12, pp. 1133_1142.
+
+Manzanedo D. (2005). Biorubber (PGS): evaluation of a novel biodegradable elastomers.
+
+Thesis. Massachusetts Institute of Technology, Department of Materials Science and
+
+Engineering. < http://hdl.handle.net/1721.1/37687>
+
+Martins A.; Araújo J.V.; Reis R.L. & Neves N.M. (2007). Electrospun nanostructured
+
+scaffolds for tissue engineering applications. Nanomedicine, Vol. 2, No. 6, pp. 929-42.
+1||Martins A.; Araújo J.V.; Reis R.L. & Neves N.M. (2007). Electrospun nanostructured
+
+scaffolds for tissue engineering applications. Nanomedicine, Vol. 2, No. 6, pp. 929-42.
+
+Matin S. (2004). Spinal cord regeneration via collagen entubulation. Thesis. Department of
+
+Aeronautics and Astronautics, John Hopkins University, Massachuset Institute of
+
+Technology. < http://dspace.mit.edu/handle/1721.1/28889>
+
+Melchels F. P.W.; Tonnarelli B.; Olivares A.L.; Martin I.; Lacroix D.; Feijen J.; Wendt D. J. &
+
+Grijpma D. W. (2011) . The influence of the scaffold design on the distribution of
+
+adhering cells after perfusion cell seeding, Biomaterials, Vol. 32, No. 11, pp. 2878-
+
+2884, ISSN: 0142-9612
+
+Mikos A. & Temenoff J. (2003). Formation of highly porous biodegradable scaffolds for
+
+tissue engineering. EJB Electronic Journal of Biotechnology, Vol.3 No.2, ( August 15,
+
+2000), ISSN: 0717-3458
+
+Mohd nasir N.F.; mohd zain N.; Graha M. & kardi N.A. (2005). characterization of chitosan –
+1||2000), ISSN: 0717-3458
+
+Mohd nasir N.F.; mohd zain N.; Graha M. & kardi N.A. (2005). characterization of chitosan –
+
+(poly ethylene oxide) blend as haemodiyalysis membrane, American journal of
+
+applied science, Vol. 2, No. 12, pp. 1578-1583.
+
+170 Biomaterials Science and Engineering
+
+Mosahebi. Mohammadi., 2001. Genetic Labelling and Transplantation of Schwann cells to
+
+Enhance Pheripheral Nerve Regeneration, Royal Free & University College Medical
+
+School, University of London.
+
+Moore M.; Friedmanb J.; Lewellync E.; Mantilaa S.; Krychd A.; Ameenuddinc S.; Knightc Lu
+
+L.; Currierd B.; Spinnerd R.; Marshd R.; Windebank A. & Yaszemskia M. (2006).
+
+Multiple-channel scaffolds to promote spinal cord axon regeneration. Biomaterials,
+
+Vol. 27, No. 3, pp. 419-429.
+
+Onose G.; Ciureaa A.V.; Rizeaa R.E.; Chendreanu C.; Anghelescu A.; Haras M. & Brehar F.
+
+(2008). Recent advancements in biomaterials for spinal cord injury complex
+1||Vol. 27, No. 3, pp. 419-429.
+
+Onose G.; Ciureaa A.V.; Rizeaa R.E.; Chendreanu C.; Anghelescu A.; Haras M. & Brehar F.
+
+(2008). Recent advancements in biomaterials for spinal cord injury complex
+
+therapeutics. Digest Journal of Nanomaterials and Biostructures, Vol. 2, No. 4, pp. 307-
+
+314.
+
+Patist C.M.; Mulder M.B.; Gautier S.E.; Maquet V.; Jerome R. & Oudeg M. (2004). Freeze-
+
+dried poly (D,L-lactic acid) macroporous guidance scaffolds impregnated with
+
+brain-derived neurotrophic factor in the transected adult rat thoracic spinal cord.
+
+Biomaterials, Vol. 25, No. 9, pp. 1569-82.
+
+Pörtner R.; Nagel-Heyer S.; Goepfert Ch.; Adamietz P. & Meenen M. N. (2005). Bioreactor
+
+Design for Tissue Engineering. Journal of Bioscience and Bioengineering, Vol. 100, No.
+
+3, pp. 235-245, ISSN: 1389-1723.
+
+Radulescu D.; Dhar S.; Young Ch.; Taylor D.; Trost H.; Hayes D. & Evans G. (2007). Tissue
+
+engineering scaffolds for nerve regeneration manufactured by ink-jet technology,
+1||Radulescu D.; Dhar S.; Young Ch.; Taylor D.; Trost H.; Hayes D. & Evans G. (2007). Tissue
+
+engineering scaffolds for nerve regeneration manufactured by ink-jet technology,
+
+Materials Science and Engineering: C, Vol. 27, No. 3, pp. 534–539.
+
+Reed A.M. & Gilding D. k.; (1981). Biodegradable Polymers For Use in Surgery Poly (lactic
+
+acid)/Ploy(glycolic)Homo and Copolymers:2.In vitro Degradation, Polymer, Vol.
+
+22, pp. 494_498.
+
+Rho K.; Jeong L.; Lee G.; Seo B.; Park Y.; Hong S.; Roh S.; Cho J.; Park W. & Min B. (2006).
+
+Electrospinning of collagen nanofibers: Effects on the behavior of normal human
+
+keratinocytes and early-stage wound healing. Biomaterials, Vol. 27, No. 8, pp. 1452-
+
+1461
+
+Rodriguez F.; Verdu E.; Ceballos D. & Navarro X. (2000). Nerve Guides seeded with
+
+autologous Schwann cells Improve Nerve Regeneration, Experimental Neurology,
+
+Vol. 161, No. 2, pp. 571-584.
+
+Sachlos E. & Czernuszka J.T. (2003). Making tissue engineering scaffolds work Review on
+1||autologous Schwann cells Improve Nerve Regeneration, Experimental Neurology,
+
+Vol. 161, No. 2, pp. 571-584.
+
+Sachlos E. & Czernuszka J.T. (2003). Making tissue engineering scaffolds work Review on
+
+the application of solid freeform fabrication technology to the production of tissue
+
+engineering scaffolds. European Cells and Materials, Vol. 5, pp. 29-40, ISSN: 1473-
+
+2262.
+
+Sadir S.; Kadir M.R.A.; Öchsner A. & Harun M.N. (2011). Modeling of Bio Scaffolds:
+
+Structural and Fluid
+
+Transport Characterization, World Academy of Science, Engineering and Technology, Vol. 74,
+
+pp. 621-627.
+
+Schnell E.; Klinkhammer K.; Balzer S.; Brook G.; Klee D. & Dalton P. (2007). Guidance of
+
+glial cell migration and axonal growth on electrospun nanofibers of poly-e-
+
+caprolactone and a collagen/poly-e-caprolactone blend, Biomaterials, Vol. 28, No.
+
+19, pp. 3012-3025.
+
+The Role of Biodegradable Engineered Scaffold in Tissue Engineering 171
+1||caprolactone and a collagen/poly-e-caprolactone blend, Biomaterials, Vol. 28, No.
+
+19, pp. 3012-3025.
+
+The Role of Biodegradable Engineered Scaffold in Tissue Engineering 171
+
+Sengers B.G.; Taylor M.P.; Please COC. & Oreffo R. (2007). Computational modelling of cell
+
+spreading and tissue regeneration in porous scaffolds. Biomaterials, Vol. 28, No. 10,
+
+pp. 1926–1940.
+
+Stokols Sh. & Tuszynski M. (2004). The fabrication and characterization of linearly oriented
+
+nerve guidance scaffolds for spinal cord injury. Biomaterials, Vol. 25, No. 27, pp.
+
+5839-5846.
+
+Sundback C.A.; Shyn J.Y.; Wang Y.; Faquin W.C.; Langer R.S.; Vacanti, J.P. & Hadlock T.S.
+
+(2005). Biocompability analysis of a poly(glycerol sebacate) as a nerve guide
+
+material. Biomaterials, Vol. 26, No. 27, pp. 5454-5464.
+
+Tabesh H.; Amoabediny Gh.; Salehi-Nik N.; Heydari M.; Yosefifard M.; Ranaei Siadat S.O. &
+
+Mottaghy K. (2009). The role of biodegradable engineered scaffolds seeded with
+1||Tabesh H.; Amoabediny Gh.; Salehi-Nik N.; Heydari M.; Yosefifard M.; Ranaei Siadat S.O. &
+
+Mottaghy K. (2009). The role of biodegradable engineered scaffolds seeded with
+
+Schwann cells for spinal cord regeneration. Neurochemistry international, Vol. 53, No.
+
+2, pp. 73–83, ISSN: 0197-0186
+
+Tillman B.W.; Yazdani S.K.; Lee S.J.; Geary R.L.; Atala A. & Yoo J.J. (2009). The in vivo
+
+stability of electrospun polycaprolactone-collagen scaffolds in vascular
+
+reconstruction, Biomaterials, Vol. 30, No. 4, pp. 583–588, ISSN: 0142-9612.
+
+Thomas V.; Zhang X.; Catledge Sh.A & Vohra Y.K. (2007). Functionally graded electrospun
+
+scaffolds with tunable mechanical properties for vascular tissue regeneration,
+
+Biomedical Materials, Vol. 2, No. 4, pp. 224–232, ISSN: 1748-6041.
+
+Uttayarat P.; Perets A.; Li M.; Pimton P.; Stachelek S.J.; Alferiev I.; Composto R.J.; Levy R.J.
+
+& Lelkes P.I. (2010). Micropatterning of three-dimensional electrospun
+1||Uttayarat P.; Perets A.; Li M.; Pimton P.; Stachelek S.J.; Alferiev I.; Composto R.J.; Levy R.J.
+
+& Lelkes P.I. (2010). Micropatterning of three-dimensional electrospun
+
+polyurethane vascular grafts, Acta Biomaterialia, Vol. 6, No. 11, pp. 4229–4237, ISSN
+
+1742-7061
+
+Vaz C.M.; Tuijl S. V.; Bouten C.V.C. & Baaijens F.P.T. (2005). Design of scaffolds for blood
+
+vessel tissue engineering using a multi-layering electrospinning technique, Acta
+
+Biomaterialia, Vol. 1, No. 5, pp. 575–582, ISSN 1742-7061
+
+Venugopal, J.; Zhang Y.Z. & Ramakrishna S. (2005a). Fabrication of modified and
+
+functionalized polycaprolactone nanofibre scaffolds for vascular tissue engineering.
+
+Nanotechnology, Vol. 16, No. 10, pp. 2138-2142.
+
+Venugopal J.; Zhang Y. & Ramakrishna S. (2005b). Electrospun nanofibres: biomedical
+
+applications. IMechE, Vol. 218, No. 1, pp. 35-45.
+
+Venugopal J.; Zhang Y. & Ramakrishna S. (2005c). In vitro study of smooth muscle cells on
+1||applications. IMechE, Vol. 218, No. 1, pp. 35-45.
+
+Venugopal J.; Zhang Y. & Ramakrishna S. (2005c). In vitro study of smooth muscle cells on
+
+polycaprolactone and collagen nanofibrous matrices. Cell Biology International, Vol.
+
+25, No. 10, pp. 861-867.
+
+Willerth S. & Sakayama-Elbert Sh. (2007). Approaches to neural tissue engineering using
+
+scaffolds for drug delivery, Advanced Drug Delivery Reviews, Vol. 59, No. 4-5, pp.
+
+325–338.
+
+Wise S.G.; Byrom M.J.; Waterhouse A.; Bannon P.G.; Ng M.K.C. & Weiss A.S. (2011) A
+
+multilayered synthetic human elastin/polycaprolactone hybrid vascular graft with
+
+tailored mechanical properties, Acta Biomaterialia, Vol. 7, No. 1, pp. 295–303, ISSN
+
+1742-7061
+
+Williamson M. R.; Black R. & Kielty C. (2006). PCL–PU composite vascular scaffold
+
+production for vascular tissue engineering: Attachment, proliferation and
+
+172 Biomaterials Science and Engineering
+
+bioactivity of human vascular endothelial cells, Biomaterials, Vol. 27, No. 19, pp.
+1||172 Biomaterials Science and Engineering
+
+bioactivity of human vascular endothelial cells, Biomaterials, Vol. 27, No. 19, pp.
+
+3608–3616, ISSN: 0142-9612
+
+Yang L.; Fitie´ C.; van der Werf K.; Bennink M.; Dijkstra P. & Feijen J. (2008). Mechanical
+
+properties of single electrospun collagen type I fibers. Biomaterials, Vol. 29, No. 8,
+
+pp. 955-962.
+
+Yarlagadda PK..; Chandrasekharan M. & Shyan JY. (2005). Recent advances and current
+
+developments in tissue scaffolding, Bio-Medical Materials and Engineering, Vol. 15,
+
+No. 3, pp. 159–177.
+
+Zhang X.; Baughman C.B. & Kaplan D.L. (2008). In vitro evaluation of electrospun silk
+
+fibroin scaffolds for vascular cell growth, Biomaterials, Vol. 29, No. 14, pp. 2217-
+
+2227, ISSN: 0142-9612

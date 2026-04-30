@@ -5,3 +5,10 @@ python-dotenv
 requests
 streamlit
 fpdf2
+jinja2
+python-multipart
+pdfplumber
+langchain
+fastembed
+qdrant-client
+google-generativeai

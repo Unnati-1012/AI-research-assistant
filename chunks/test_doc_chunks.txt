@@ -1,0 +1,701 @@
+2.3.4
+In Vivo Assessment of Tissue
+Compatibility
+JAMES M. ANDERSON1, FREDERICK J. SCHOEN2, NICHOLAS P. ZIATS1
+1Department of Pathology, Case Western Reserve University, Cleveland, OH, United States
+2Pathology and Health Sciences and Technology (HST), Harvard Medical School, Department of
+Pathology, Brigham and Women’s Hospital, Boston, MA, United States
+Introduction Extensive efforts have been made by government regula-
+tory agencies, e.g., the US Food and Drug Administration
+The goal of in vivo assessment of tissue compatibility of a (FDA), and standards organizations, e.g., ASTM Interna-
+biomaterial, prosthesis, or medical device is to determine the tional (ASTM International, 2018 Annual Book of ASTM
+biocompatibility (as a key component of safety) of the bio- Standards, Volume 13.01), the International Organization
+material, prosthesis, or medical device in a biological envi- for Standardization (ISO), and US Pharmacopeia (USP),
+material, prosthesis, or medical device in a biological envi- for Standardization (ISO), and US Pharmacopeia (USP),
+ronment. Indeed, biocompatibility is a critical element in to provide procedures, protocols, guidelines, and standards
+the performance of an implanted medical device, and many that may be used in the in vivo assessment of the tissue com-
+complications of clinical devices derive from inadequate bio- patibility of medical devices. This chapter draws heavily on
+compatibility. Moreover, the concept of biocompatibility has the ISO 10993 standard, Biological Evaluation of Medical
+evolved in recent years as biomaterials technology has become Devices, in presenting a systematic approach to the in vivo
+more sophisticated, particularly in permitting the biomate- assessment of tissue compatibility of medical devices.
+rial to effect complex, and potentially beneficial, interactions The nature and extent of risk due to inadequate biocompat-
+rial to effect complex, and potentially beneficial, interactions The nature and extent of risk due to inadequate biocompat-
+with the surrounding tissues (Hench and Pollak, 2002; Wil- ibility may be conceptualized as shown in Fig. 2.3.4.1. The first
+liams, 2008, 2019; see Chapter 2.3.2). Thus, the contempo- consideration in the selection of biomaterials to be used in device
+rary definition of biocompatibility focuses on the ability of a design should be the chemical, toxicological, physical, electrical,
+medical device to perform with an appropriate host response morphological, and mechanical properties of the biomaterial(s)
+in a specific application, and biocompatibility assessment to fulfill the intended use. Relevant to the overall in vivo assess-
+serves as a measurement of the magnitude and duration of ment of tissue compatibility of a biomaterial or device is knowl-
+the pathophysiologic mechanisms that determine the host edge of the chemical composition of the materials, and the
+the pathophysiologic mechanisms that determine the host edge of the chemical composition of the materials, and the
+response. From a practical perspective, the in vivo assessment nature, degree, frequency, and duration of exposure of the device
+of tissue compatibility of medical devices is carried out to and its constituents to the tissues in which it will be utilized.
+determine that the device performs as intended, and presents Table 2.3.4.1 presents a list of biomaterial components and
+no significant harm to the patient or user simulating clinical characteristics that may affect the overall biological responses of
+use. In this chapter, the term “medical device” will be used to the medical device. The range of potential biological hazards is
+describe biomaterials, prostheses, artificial organs, and other broad, and may include short-term effects, long-term effects, or
+describe biomaterials, prostheses, artificial organs, and other broad, and may include short-term effects, long-term effects, or
+medical devices, and the terms “tissue compatibility assess- specific toxic effects, which should be considered for every mate-
+ment,” “biocompatibility assessment,” and “safety assess- rial and medical device. However, this does not imply that test-
+ment” will be considered to be synonymous. ing for all potential hazards will be necessary or practical.
+The in vivo assessment of tissue compatibility is necessary to
+Selection of in Vivo Tests According to
+establish the biocompatibility, safety, and function (efficacy)
+of a medical device and its components under conditions Intended Use
+of intended use. Intended use conditions are also utilized
+to select in vitro tests and animal models that will provide
+As it is recognized that biomaterial–tissue interaction may
+essential information to determine biocompatibility.
+to select in vitro tests and animal models that will provide
+As it is recognized that biomaterial–tissue interaction may
+essential information to determine biocompatibility.
+vary with the anatomic site and duration of exposure, and
+869
+870 SECTION 2.3 Characterization of Biomaterials
+• Figure 2.3.4.1 The risks associated with inadequate biocompatibility are a composite function of the
+exposure (i.e., nature and duration), the hazard (i.e., effects on the recipient), and the probability and con-
+sequences of complications.
+TABLE Biomaterials and Components Relevant to In TABLE Medical Device Categorization by Tissue
+2.3.4.1 Vivo Assessment of Tissue Compatibility 2.3.4.2 Contact and Contact Duration
+The material(s) of manufacture Tissue Contact
+Intended additives, process contaminants, and residues Surface devices Skin
+Mucosal membranes
+Leachable substances
+Breached or compromised surfaces
+Degradation products
+External Blood path, indirect
+Intended additives, process contaminants, and residues Surface devices Skin
+Mucosal membranes
+Leachable substances
+Breached or compromised surfaces
+Degradation products
+External Blood path, indirect
+Other components and their interactions in the final communicating Tissue/bone/dentin communicating
+product devices Circulating blood
+The properties and characteristics of the final product Implant devices Tissue/bone
+Blood
+Contact Duration
+application-specific conditions, in vivo tests for assess-
+Limited: ≤24 h
+Prolonged: >24 h and <30 days
+ment of tissue compatibility are chosen to simulate end-use
+Permanent: >30 days
+applications. To facilitate the selection of appropriate tests,
+medical devices with their component biomaterials can be
+categorized by the nature of tissue contact of the medical
+device, and by its duration of contact. Table 2.3.4.2 presents The first perspective involves the utilization of in vivo tests to
+categorized by the nature of tissue contact of the medical
+device, and by its duration of contact. Table 2.3.4.2 presents The first perspective involves the utilization of in vivo tests to
+medical device categorization by nature of tissue contact and determine the general biocompatibility of newly developed
+contact duration. The tissue contact categories and subcat- biomaterials for which some knowledge of the tissue compat-
+egories, as well as the contact duration categories, have been ibility is necessary for further research and development. In
+derived from standards, protocols, and guidelines utilized this type of situation, manufacturing and other processes nec-
+in the past for safety evaluation of medical devices. Certain essary to the development of a final product, i.e., the medical
+devices may fall into more than one category, in which case device, have not been carried out. However, the in vivo assess-
+devices may fall into more than one category, in which case device, have not been carried out. However, the in vivo assess-
+testing appropriate to each category should be considered. ment of tissue compatibility at this early stage of development
+can provide additional information relating to the proposed
+design criteria in the production of a medical device. While it
+Biomaterial and Device Perspectives in In
+is generally recommended that the identification and quan-
+Vivo Testing tification of extractable chemical entities of a medical device
+should precede biological evaluation, it is quite common to
+Two perspectives may be considered in the in vivo assessment carry out preliminary in vivo assessments to determine if there
+of tissue compatibility of biomaterials and medical devices. may be unknown or as-yet unidentified chemical entities that
+CHAPTER 2.3.4 In Vivo Assessment of Tissue Compatibility 871
+chapter. ISO 10993 standards advise that the biological
+TABLE
+CHAPTER 2.3.4 In Vivo Assessment of Tissue Compatibility 871
+chapter. ISO 10993 standards advise that the biological
+TABLE
+In Vivo Tests for Tissue Compatibility
+2.3.4.3 evaluation of all medical device materials include testing for
+cytotoxicity, sensitization, and irritation. (Cytotoxicity tests
+Sensitization
+are considered in vitro tests.) Beyond these fundamentals,
+Irritation the selection of further tests for in vivo biocompatibility
+assessment is based on the characteristics and end-use appli-
+Intracutaneous reactivity
+cation of the device or biomaterial under consideration.
+Systemic toxicity (acute toxicity)
+Subchronic toxicity (subacute toxicity) Sensitization, Irritation, and Intracutaneous
+Genotoxicity (Intradermal) Reactivity
+Implantation
+Exposure to, or contact with, even minute amounts of
+Hemocompatibility potential leachables from medical devices or biomaterials
+can result in allergic or sensitization reactions. Sensitization
+Chronic toxicity
+Hemocompatibility potential leachables from medical devices or biomaterials
+can result in allergic or sensitization reactions. Sensitization
+Chronic toxicity
+tests estimate the potential for contact sensitization to medi-
+Carcinogenicity
+cal devices, materials, and/or their extracts. Symptoms of
+Reproductive and developmental toxicity sensitization are often seen in skin, and tests are often car-
+ried out topically in guinea pigs. Test design should reflect
+Biodegradation
+the intended route (skin, eye, mucosa) and nature, degree,
+Immune responses
+frequency, duration, and conditions of exposure of the bio-
+material in its intended clinical use. While sensitization reac-
+tions are immune system responses to contact with chemical
+produce adverse biological reactions. Utilized in this fashion, substances, ISO guidelines suggest irritation to be a local tis-
+early in vivo assessment of the tissue compatibility of a bio- sue inflammation response to chemicals, without a systemic
+early in vivo assessment of the tissue compatibility of a bio- sue inflammation response to chemicals, without a systemic
+material may provide insight into the biocompatibility, and immunological component. The most severely irritating
+thereby may permit further development of this biomaterial chemical leachables may be discovered prior to in vivo studies
+into a medical device. Obviously, problems observed at this by careful material characterization and in vitro cytotoxicity
+stage of development would require further efforts to improve tests. Irritant tests emphasize utilization of extracts of the bio-
+the biocompatibility of the biomaterial, and to identify the materials to determine the irritant effects of potential leach-
+agents and mechanisms responsible for the adverse reactions. ables. Intracutaneous (intradermal) reactivity tests determine
+As the in vivo assessment of tissue compatibility of a biomate- the localized reaction of tissue to intracutaneous injection of
+As the in vivo assessment of tissue compatibility of a biomate- the localized reaction of tissue to intracutaneous injection of
+rial or medical device is focused on the end-use application, it extracts of medical devices, biomaterials, or prostheses in the
+must be appreciated that a biomaterial considered compatible final product form. Intracutaneous tests may be applicable
+for one application may not be compatible for another. where determination of irritation by dermal or mucosal tests
+The second perspective regarding the in vivo assessment of is not appropriate. Albino rabbits are most commonly used,
+tissue compatibility of medical devices focuses on the biocom- however newer ISO guidelines refer to determination of skin
+patibility of the final product, that is, the fabricated medical irritation using reconstructed human epidermis as an alter-
+device in the condition in which it is to be implanted. Thus, native to animal testing (ISO 10933-23).
+device in the condition in which it is to be implanted. Thus, native to animal testing (ISO 10933-23).
+issues related to desired fabrications, interactions between bio- Since these tests focus on determining the biological
+materials, and to mechanical conductors, etc., may come into response of leachable constituents of biomaterials, their
+play. Although medical devices in their final form and condition extracts in various solvents are utilized to prepare the injec-
+are commonly implanted in carefully selected animal models to tion solutions. Critical to the conduct of these tests is that
+determine function, as well as biocompatibility, it may be inap- the preparation of the test material and/or extract solution
+propriate to carry out all of the recommended tests necessary should be chosen to include testing for both water-soluble
+for regulatory approval on the final device. In these situations, and fat-soluble leachables.
+some tests may initially be carried out on biomaterial compo-
+for regulatory approval on the final device. In these situations, and fat-soluble leachables.
+some tests may initially be carried out on biomaterial compo-
+nents of devices that have been prepared under manufacturing Systemic Toxicity: Acute, Subacute, and
+and sterilization conditions, and other processes utilized in the Subchronic Toxicity
+final product (see Table 2.3.4.3).
+Systemic toxicity tests estimate the potential harmful effects
+in vivo on target tissues and organs away from the point of
+Specific Biological Properties Assessed by
+contact (i.e., site of implantation) with either single or multiple
+In Vivo Tests exposures to medical devices, biomaterials, and/or their extracts.
+These tests evaluate the systemic toxicity potential of medical
+In this section, brief perspectives on the general types of devices that release constituents into the body. These tests also
+These tests evaluate the systemic toxicity potential of medical
+In this section, brief perspectives on the general types of devices that release constituents into the body. These tests also
+in vivo tests are presented. Details regarding these tests are include pyrogenicity testing, which assesses the induction of a
+found in the lists of standards provided at the end of this systemic inflammatory response, often measured as fever.
+872 SECTION 2.3 Characterization of Biomaterials
+In tests using extracts, the form and area of the mate- TABLE Biological Response Parameters as
+rial, the thickness, and the surface area to extraction vehicle 2.3.4.4 Determined by Histological Assessment of
+volume are critical considerations in the testing protocol. Implants
+Appropriate extraction vehicles, i.e., solvents, should be cho-
+Number and distribution of inflammatory cells as a function
+sen to yield a maximum extraction of leachable materials for
+of distance from the material/tissue interface
+Number and distribution of inflammatory cells as a function
+sen to yield a maximum extraction of leachable materials for
+of distance from the material/tissue interface
+use in the testing. Mice, rats, or rabbits are the usual animals
+of choice for the conduct of these tests, and oral, dermal, Thickness and vascularity of fibrous capsule
+inhalation, intravenous, intraperitoneal, or subcutaneous Quality and quantity of tissue ingrowth (for porous
+application of the test substance may be used, depending on materials)
+the intended application of the biomaterial. Acute toxicity is
+Degeneration as determined by changes in tissue
+considered to be the adverse effects that occur after admin- morphology
+istration of a single dose or multiple doses of a test sample
+Presence of necrosis
+given within 24 h. Subacute toxicity (repeat dose toxicity)
+focuses on adverse effects occurring after administration of Other parameters such as material debris, fatty infiltration,
+given within 24 h. Subacute toxicity (repeat dose toxicity)
+focuses on adverse effects occurring after administration of Other parameters such as material debris, fatty infiltration,
+granuloma, dystrophic calcification, apoptosis,
+a single dose or multiple doses of a test sample per day dur-
+proliferation rate, biodegradation, thrombus formation,
+ing a period of from 14 to 28 days. Subchronic toxicity is
+endothelialization, migration of biomaterials or
+considered to be the adverse effects occurring after adminis- degradation products
+tration of a single dose or multiple doses of a test sample per
+day given during a part of the lifespan, usually 90 days but
+not exceeding 10% of the lifespan of the animal.
+Pyrogenicity tests are also included in the system toxic- sample of a material or final product at the site where it
+ity category to detect material-mediated fever-causing reac- is surgically implanted or placed into an implant site or
+ity category to detect material-mediated fever-causing reac- is surgically implanted or placed into an implant site or
+tions to extracts of medical devices or material. Although tissue appropriate to the intended application of the bio-
+the rabbit pyrogen test has been the standard, the Limulus material or medical device. In some cases, the anatomic
+amebocyte lysate (LAL) reagent test has been used increas- site of implantation used for biocompatibility evaluation is
+ingly in recent years and is considered an appropriate testing not the same as the site of ultimate use, but has representa-
+method. It is noteworthy that no single test can differentiate tive mechanisms and consequences of tissue–biomaterial
+pyrogenic reactions that are material mediated per se from interaction (e.g., subcutaneous implantation in rodents
+those due to endotoxin contamination. of bioprosthetic heart valve materials to study calcifica-
+tion that occurs as a major clinical limitation in humans;
+those due to endotoxin contamination. of bioprosthetic heart valve materials to study calcifica-
+tion that occurs as a major clinical limitation in humans;
+see Chapter 2.4.5). The most basic evaluation of the local
+Genotoxicity
+pathological effects is carried out at both the gross level
+In vivo genotoxicity tests are carried out if indicated by the and the microscopic level. Histological (microscopic) eval-
+chemistry and/or composition of the biomaterial (see Table uation is used to characterize various biological response
+2.3.4.1) or if in vitro test results indicate potential genotox- parameters (Table 2.3.4.4). To address specific questions,
+icity [changes in deoxyribonucleic acid (DNA) that could more sophisticated studies may need to be done. Exam-
+lead to changes in cellular proliferation, differentiation, and/ ples include immunohistochemical staining of histologi-
+lead to changes in cellular proliferation, differentiation, and/ ples include immunohistochemical staining of histologi-
+or function]. Initially, at least three in vitro assays should cal sections to determine the types of cells present, and
+be used, and two of these assays should utilize mammalian studies of collagen formation and destruction. For short-
+cells. The initial in vitro assays should cover the three levels term implantation evaluation out to 12 weeks, mice, rats,
+of genotoxic effects: DNA destruction; gene mutations; and guinea pigs, or rabbits are the most common animals uti-
+chromosomal aberrations (as assessed by cytogenetic analy- lized in these studies. For longer-term testing in subcuta-
+sis). In vivo genotoxicity tests include the micronucleus neous tissue, muscle, or bone, animals such as rats, guinea
+test and the in vivo mammalian bone marrow cytogenetic pigs, rabbits, dogs, sheep, goats, pigs, and other animals
+test and the in vivo mammalian bone marrow cytogenetic pigs, rabbits, dogs, sheep, goats, pigs, and other animals
+tests—chromosomal analysis, the rodent dominant lethal with relatively long life expectancies are suitable. If a com-
+tests, the mammalian germ cell cytogenetic assay, the mouse plete medical device is to be evaluated, larger species may
+spot test, and the mouse heritable translocation assay. Not be utilized so that human-sized devices may be used in
+all of the in vivo genotoxicity tests need be performed; the the site of intended application. For example, substitute
+most common test is the rodent micronucleus test. Geno- heart valves are usually tested as heart valve replacements
+toxicity tests are performed with appropriate extracts or dis- in sheep, whereas calves are usually the animal of choice
+solved materials using appropriate media, as suggested by for ventricular assist devices and total artificial hearts.
+solved materials using appropriate media, as suggested by for ventricular assist devices and total artificial hearts.
+the known composition of the biomaterial. In all aspects of biocompatibility testing, it is impor-
+tant to recognize that the effects of the material on the sur-
+rounding tissues are generally superimposed on the events
+Implantation
+occurring during physiological wound repair induced by the
+Implantation tests assess the local pathological effects on surgery of implantation. This is particularly important in
+the structure and function of living tissue induced by a shorter term experiments.
+CHAPTER 2.3.4 In Vivo Assessment of Tissue Compatibility 873
+Hemocompatibility single or multiple exposures or contacts over a period of the
+major portion of the lifespan of the test animal. Both carcino-
+Hemocompatibility tests evaluate effects on blood and/or
+genicity (tumorigenicity) and chronic toxicity may be studied
+blood components by blood-contacting medical devices
+Hemocompatibility tests evaluate effects on blood and/or
+genicity (tumorigenicity) and chronic toxicity may be studied
+blood components by blood-contacting medical devices
+in a single experimental study. With biomaterials, these studies
+or materials. In vivo hemocompatibility tests are usually
+focus on the potential for solid-state carcinogenicity, i.e., the
+designed to simulate the geometry, contact conditions, and
+Oppenheimer effect (see Chapter 2.2.7). Thus, in carcinoge-
+flow dynamics of the device or material in its clinical applica-
+nicity testing, controls of a comparable form and shape should
+tion. From the ISO standards perspective, five test categories
+be included; polyethylene implants are a commonly used con-
+are indicated for hemocompatibility evaluation: thrombosis;
+trol material. The use of appropriate controls is imperative as
+coagulation; platelets; hematology; and immunology (com-
+animals may spontaneously develop tumors, and statistical
+trol material. The use of appropriate controls is imperative as
+coagulation; platelets; hematology; and immunology (com-
+animals may spontaneously develop tumors, and statistical
+plement and leukocytes). Two levels of evaluation are indi-
+comparison between the test biomaterial/device and the con-
+cated: Level 1 (required); and Level 2 (optional). Regardless
+trols is necessary. To facilitate and reduce the time period for
+of blood contact duration, hemocompatibility testing is
+carcinogenicity testing of biomaterials, the FDA is exploring
+indicated for three categories of medical devices: (1) external
+the use of transgenic mice carrying the human prototype c-Ha-
+communicating devices—blood path indirect; (2) external
+ras gene as a bioassay model for rapid carcinogenicity testing.
+communicating devices—circulating blood; and (3) blood-
+Since tumors associated with clinical medical devices
+contacting implant devices. Chapter 2.3.5 gives further
+communicating devices—circulating blood; and (3) blood-
+Since tumors associated with clinical medical devices
+contacting implant devices. Chapter 2.3.5 gives further
+have been rare (see Chapter 2.2.7) carcinogenicity tests
+details on the testing of blood–material interactions.
+should be conducted only if data from other sources suggest
+Several issues are important in the selection of tests for
+a tendency for tumor induction. However, considerations
+hemocompatibility of medical devices or biomaterials. In
+of carcinogenicity may become important in some future
+particular, the hemocompatibility depends not only on the
+applications in which pluripotential stem cells produced by
+material’s characteristics, but also on the fluid mechanics of
+any methodology are used.
+the device (i.e., stasis promotes thrombus formation), and
+the coagulability of the blood. Thus, in vivo testing in ani-
+Reproductive and Developmental Toxicity
+mals may be convenient, but anatomic differences among
+the coagulability of the blood. Thus, in vivo testing in ani-
+Reproductive and Developmental Toxicity
+mals may be convenient, but anatomic differences among
+species and species-related differences in blood reactivity
+These tests evaluate the potential effects of medical devices,
+must be considered, and these may limit the predictability of
+materials, and/or their extracts on reproductive function,
+any given test in the human clinical situation. While blood
+embryonic development (teratogenicity), and prenatal
+values and reactivity between humans and nonhuman pri-
+and early postnatal development. The application site of
+mates are very similar, European Community law prohibits
+the device must be considered, and tests and/or bioassays
+the use of nonhuman primates for blood compatibility and
+should only be conducted when the device has a potential
+medical device testing. Hemocompatibility evaluation in
+impact on the reproductive potential of the subject.
+should only be conducted when the device has a potential
+medical device testing. Hemocompatibility evaluation in
+impact on the reproductive potential of the subject.
+animals is complicated by the lack of appropriate and ade-
+quate test materials, for example, appropriate antibodies for
+Biodegradation
+immunoassays. Use of human blood in hemocompatibility
+evaluation implies in vitro testing, which usually requires the
+Biodegradation tests determine the effects of a biodegradable
+use of anticoagulants that are not generally present with the
+material and its biodegradation products on the tissue response.
+device in the clinical situation, except for perhaps the earli-
+They focus on the amount of degradation during a given period
+est implantation period. Although species differences may
+of time (the kinetics of biodegradation), the nature of the deg-
+complicate hemocompatibility evaluation, the utilization of
+radation products, the origin of the degradation products (e.g.,
+of time (the kinetics of biodegradation), the nature of the deg-
+complicate hemocompatibility evaluation, the utilization of
+radation products, the origin of the degradation products (e.g.,
+animals in short- and long-term testing is considered to be
+impurities, additives, corrosion products, bulk polymer), and
+appropriate for evaluating thrombosis and tissue interaction.
+the qualitative and quantitative assessment of degradation prod-
+ucts and leachables in adjacent tissues and in distant organs.
+Chronic Toxicity The biodegradation of biomaterials may occur through a wide
+variety of mechanisms, which in part are biomaterial depen-
+Chronic toxicity tests determine the effects of either single dent, and all pertinent mechanisms related to the device and
+or multiple exposures to medical devices, materials, and/or the end-use application of the device must be considered. Test
+or multiple exposures to medical devices, materials, and/or the end-use application of the device must be considered. Test
+their extracts during a period of at least 10% of the lifes- materials comparable to degradation products may be prepared
+pan of the test animal, e.g., over 90 days in rats. Chronic and studied to determine the biological response of degradation
+toxicity tests may be considered an extension of subchronic products anticipated in long-term implants. An example of this
+(subacute) toxicity testing, and both may be evaluated in an approach is the study of metallic and polymeric wear particles
+appropriate experimental protocol or study. that may be present with long-term orthopedic joint prosthe-
+ses. Moreover, for intentionally biodegradable scaffolds used in
+Carcinogenicity tissue engineering (see Chapter 2.6.3), biodegradation and the
+attendant tissue response are important to follow histologically.
+Carcinogenicity tissue engineering (see Chapter 2.6.3), biodegradation and the
+attendant tissue response are important to follow histologically.
+Carcinogenicity tests determine the tumorigenic potential of Further insights on biodegradation are available in Chapters
+medical devices, materials, and/or their extracts from either 1.3.2F, 1.3.3D and Section 2.4.
+874 SECTION 2.3 Characterization of Biomaterials
+Immune Responses tests for immunotoxicity in the future. Direct measures of
+immune system activity by functional assays are the most
+Immune response evaluation is not a component of the
+important types of tests for immunotoxicity. Functional
+standards currently available for in vivo tissue compatibil-
+assays are generally more important than tests for soluble
+ity assessment. However, ASTM, ISO, and the FDA cur-
+mediators, which are more important than phenotyping.
+rently have working groups developing guidance documents
+Signs of illness may be important in in vivo experiments,
+mediators, which are more important than phenotyping.
+rently have working groups developing guidance documents
+Signs of illness may be important in in vivo experiments,
+for immune response evaluation where pertinent. Synthetic
+materials are not generally immunotoxic (see Chapter 2.2.3).
+However, immune response evaluation is necessary with TABLE Potential Immunological Effects and
+modified natural tissue implants such as collagen, which has 2.3.4.5 Responses
+been utilized in a number of different types of implants and
+Effects
+may elicit immunological responses. The Center for Devices
+and Radiological Health of the FDA released a draft immu- Hypersensitivity
+notoxicity testing guidance document in 1998 (Langone, Type I—anaphylactic
+1998), whose purpose is to provide a systematic approach
+Type II—cytotoxic
+for evaluating potential adverse immunological effects of
+medical devices and constituent materials. However, there Type III—immune complex
+Type II—cytotoxic
+for evaluating potential adverse immunological effects of
+medical devices and constituent materials. However, there Type III—immune complex
+have only been updated documents on pharmaceuticals and Type IV—cell-mediated (delayed)
+not medical devices (S8 Immunotoxicity Studies for Human
+Chronic inflammation
+Pharmaceuticals, 2005). Immunotoxicity is any adverse
+effect on the function or structure of the immune system or Immunosuppression
+other systems as a result of an immune system dysfunction. Immunostimulation
+Adverse or immunotoxic effects occur when humoral or cel-
+Autoimmunity
+lular immunity needed by the host to defend itself against
+infections or neoplastic disease (immunosuppression) or Responses
+unnecessary tissue damage (chronic inflammation, hypersen- Histopathological changes
+sitivity, or autoimmunity) is compromised. Potential immu-
+Humoral responses
+nological effects and responses that may be associated with
+sitivity, or autoimmunity) is compromised. Potential immu-
+Humoral responses
+nological effects and responses that may be associated with
+one or more of these effects are presented in Table 2.3.4.5. Host resistance
+Representative tests for the evaluation of immune
+Clinical symptoms
+responses are given in Table 2.3.4.6. Table 2.3.4.6 is not
+Cellular responses
+all-inclusive, and other tests that specifically consider pos-
+sible immunotoxic effects potentially generated by a given T cells
+device or its components may be applicable. Examples pre-
+Natural killer cells
+sented in Table 2.3.4.6 are only representative of the large
+Macrophages
+number of tests that are currently available. However, direct
+and indirect markers of immune responses may be validated Granulocytes
+and their predictive value documented, thus providing new
+TABLE
+Representative Tests for the Evaluation of Immune Responses
+2.3.4.6
+Functional Assays Phenotyping Soluble Mediators Signs of Illness
+and their predictive value documented, thus providing new
+TABLE
+Representative Tests for the Evaluation of Immune Responses
+2.3.4.6
+Functional Assays Phenotyping Soluble Mediators Signs of Illness
+Skin testing Cell surface markers Antibodies Allergy
+Immunoassays (e.g., ELISA) MHC markers Complement Skin rash
+Lymphocyte proliferation Chemokines Immune complexes Urticaria
+Plaque-forming cells Basoactive amines Cytokine patterns(T-cell subsets) Edema
+Local lymph node assay – Cytokines (IL-1, IL-1ra, TNFα, IL-6, Lymphadenopathy
+TGF-β, IL-4, IL-13)
+Mixed lymphocyte reaction – – –
+Tumor cytotoxicity – – –
+Antigen presentation – – –
+Phagocytosis – – –
+CHAPTER 2.3.4 In Vivo Assessment of Tissue Compatibility 875
+but symptoms may also have a significant role in studies of A single test animal may not assess all pertinent clinically
+immune function in clinical trials and postmarket studies. important complications. For example, as described earlier,
+immune function in clinical trials and postmarket studies. important complications. For example, as described earlier,
+Combination devices where drugs (or cells) are uti- sheep are commonly used for the evaluation of heart valves
+lized within medical devices should also be considered (see Chapter 2.5.2A). This is based on size considerations,
+for immune response evaluation. Hypersensitivity reac- and also the propensity to calcify tissue components of bio-
+tions have been reported with drug-eluting coronary stents prosthetic heart valves and thereby be a sensitive model for
+(DES). With DES, concomitantly prescribed medications this complication. Thus, the choice of this animal model
+such as clopidogrel (platelet inhibitor) have been considered for bioprosthetic heart valve evaluation is made on the basis
+the causative agent for hypersensitivity, as well as the DES of accelerated calcification, the major clinical problem,
+the causative agent for hypersensitivity, as well as the DES of accelerated calcification, the major clinical problem,
+itself (Nebeker et al., 2006). assessed in rapidly growing animals which has its clinical
+correlation in young and adolescent humans. Nevertheless,
+Selection of Animal Models for In Vivo Tests normal sheep may not provide a sensitive assessment of the
+propensity of a valve to thrombosis, which may be poten-
+Animal models are used to predict the clinical behavior, tiated by the reduced flow seen in abnormal subjects, but
+safety, and biocompatibility of medical devices in humans diminished by the specific coagulation profile of sheep.
+(Table 2.3.4.7). The selection of animal models for the The in vivo assessment of tissue responses to vascular graft
+in vivo assessment of tissue compatibility must consider materials is an example in which animal models present a
+in vivo assessment of tissue compatibility must consider materials is an example in which animal models present a
+the advantages and disadvantages of the animal model for particularly misleading picture of what generally occurs in
+human clinical application. Several examples follow, which humans. Virtually all animal models, including nonhuman
+exemplify the advantages and disadvantages of animal mod- primates, heal rapidly and completely with an endothelial
+els in predicting clinical behavior in humans. blood-contacting surface. Humans, on the other hand,
+do not show extensive endothelialization of vascular graft
+Preclinical testing in animal models is an important part of materials, and the resultant pseudointima from the healing
+the regulatory process, used to determine the safety and
+response in humans has potential thrombogenicity. Conse-
+efficacy of devices prior to human clinical trials. The choice of
+quently, despite favorable results in animals, small-diameter
+response in humans has potential thrombogenicity. Conse-
+efficacy of devices prior to human clinical trials. The choice of
+quently, despite favorable results in animals, small-diameter
+the animal model and the selection of in vitro tests should be
+made according to the intended use of the respective medical vascular grafts (less than 4 mm in internal diameter) usually
+device, prosthesis, or biomaterial. yield early thrombosis in humans, the major mechanism of
+failure which is secondary to the lack of endothelialization
+in the luminal surface-healing response.
+Originally, the porcine coronary artery model was con-
+TABLE Animal Models for the In Vivo Assessment of
+sidered the model of choice for the evaluation of arterial
+2.3.4.7 Medical Devices
+stents. More recently, the rabbit iliac artery model for the
+Device Classification Animal evaluation of drug-eluting stents has been considered to be
+Cardiovascular more realistic, as endothelialization is slower in the rabbit
+Device Classification Animal evaluation of drug-eluting stents has been considered to be
+Cardiovascular more realistic, as endothelialization is slower in the rabbit
+model than in the porcine model, and inflammation is not
+Heart valves Sheep
+Vascular grafts Dog, pig as extensive in the rabbit (Nakazawa et al., 2008). Thus,
+Stents Pig, rabbit, dog endothelialization, healing, and inflammation in the rab-
+Ventricular assist devices Calf bit iliac artery model may be closer to these responses in
+Artificial hearts Calf
+humans than the porcine coronary artery model.
+Ex vivo shunts Baboon, dog
+The use of appropriate animal models is an important
+Orthopedic/Bone consideration in the safety evaluation of medical devices
+Bone regeneration/ Rabbit, dog, pig, mouse, rat that may contain potential immunoreactive materials. The
+Substitutes Dog, goat, nonhuman primate in vivo evaluation of recombinant human growth hormone
+Total joints—hips, knees Sheep, goat, baboon
+Substitutes Dog, goat, nonhuman primate in vivo evaluation of recombinant human growth hormone
+Total joints—hips, knees Sheep, goat, baboon
+in poly(lactic-co-glycolic acid) (PLGA) microspheres dem-
+Vertebral implants Rabbit, pig, dog, nonhuman
+onstrates the appropriate use of various animal models to
+primate
+Craniofacial implants Rabbit, dog evaluate biological responses and the potential for immu-
+Cartilage Dog, sheep notoxicity. Utilizing biodegradable PLGA microspheres
+Tendon and ligament Goat containing recombinant human growth hormone (rhGH,
+substitutes
+Cleland et al., 1997) used Rhesus monkeys, transgenic mice
+Neurological expressing hGH, and normal control (Balb/C) mice in their
+Peripheral nerve Rat, cat, nonhuman primate in vivo evaluation studies. Rhesus monkeys were utilized
+regeneration for serum assays in the pharmacokinetic studies of rhGH
+Electrical stimulation Rat, cat, nonhuman primate
+release, as well as tissue responses to the injected microcap-
+regeneration for serum assays in the pharmacokinetic studies of rhGH
+Electrical stimulation Rat, cat, nonhuman primate
+release, as well as tissue responses to the injected microcap-
+Ophthalmological sule formulation. Placebo injection sites were also utilized,
+Contact lens Rabbit and a comparison of the injection sites from rhGH PLGA
+Intraocular lens Rabbit, monkey microspheres and placebo PLGA microspheres demon-
+strated a normal inflammatory and wound-healing response
+876 SECTION 2.3 Characterization of Biomaterials
+with a normal focal foreign-body reaction. To further in combinations with synthetic, i.e., passive, materials to
+examine the tissue response, transgenic mice were utilized produce devices that control or modulate a desired tissue
+to assess the immunogenicity of the rhGH PLGA formu- response. Obviously, in vivo assessment of the targeted bio-
+lation. Transgenic mice expressing a heterologous protein logical response of a tissue-engineered device will play a sig-
+lation. Transgenic mice expressing a heterologous protein logical response of a tissue-engineered device will play a sig-
+have been previously used for assessing the immunogenicity nificant role in the research and development of that device,
+of structural mutant proteins. With the transgenic animals, as well as in its safety assessment. It is clear that scientists
+no detectable antibody response to rhGH was found. In working on the development of tissue-engineered devices
+contrast, the Balb/C control mice had a rapid onset of high- will contribute significantly to the development of in vivo
+titer antibody response to the rhGH PLGA formulation. tests for biocompatibility assessment, as these tests will also
+This study points out the appropriate utilization of animal be utilized to study the targeted biological responses in the
+models to not only evaluate biological responses, but also research phase of the device development.
+models to not only evaluate biological responses, but also research phase of the device development.
+one type of immunotoxicity (immunogenicity). Regarding tissue-engineered devices, it must be appreci-
+ated that biological components may induce varied effects
+on tissue in the in vivo setting. For example, a simplistic
+Future Perspectives on In Vivo Medical
+view of the potentially complex problems that might result
+Device Testing from a device releasing a growth factor to enhance cell
+proliferation is presented. The presence of a growth factor
+As presented earlier in this chapter, the in vivo assessment may result in markedly different cell proliferation, differ-
+of tissue compatibility of biomaterials and medical devices entiation, protein synthesis, attachment, migration, shape
+is dependent on the end-use application of the biomaterial change, etc., which would be cell-type dependent. Thus,
+is dependent on the end-use application of the biomaterial change, etc., which would be cell-type dependent. Thus,
+or medical device. In this sense, the development and uti- different cell-type dependent responses in an implant site,
+lization of new biomaterials and medical devices will dic- reacting to the presence of a single exogenous growth factor,
+tate the development of new test protocols and procedures may result in inappropriate, inadequate, or adverse tissue
+for evaluating these new products. Furthermore, it must be responses. These perspectives must be integrated into the
+understood that the in vivo assessment of tissue compatibil- planned program for in vivo assessment of tissue compat-
+ity of biomaterials and medical devices is open ended, and ibility of tissue-engineered devices. Moreover, a major chal-
+new end-use applications will require new tests. lenge to the in vivo assessment of tissue compatibility of
+tissue-engineered devices is the use of animal tissue com-
+new end-use applications will require new tests. lenge to the in vivo assessment of tissue compatibility of
+tissue-engineered devices is the use of animal tissue com-
+The future development of medical devices is anticipated ponents in the early phase of device development, whereas
+to provide more complexity to the composition and
+the ultimate goal is the utilization of human tissue compo-
+construction of these devices and, thus, to the array of
+nents in the final device for end-use application. Novel and
+potential biomaterial–tissue interactions. Future assessments
+will require a more sophisticated approach to test protocols innovative approaches to the in vivo tissue compatibility
+and methodologies that must clearly identify biocompatibility of tissue-engineered devices must be developed to address
+and function. In this regard, new tests, methods, and animal these significant issues. Finally, the development of clini-
+models may have to be developed to adequately and
+and function. In this regard, new tests, methods, and animal these significant issues. Finally, the development of clini-
+models may have to be developed to adequately and
+cally useful tissue-engineered devices will require enhanced
+appropriately characterize the biocompatibility and function of
+understanding of the influence of the patient and biome-
+these new devices. Therefore, the development of guidelines
+and standards is dynamic and constantly evolving, driven by chanical factors on the structure and function of healed and
+the complexity of new devices developed for application in remodeled tissues. It will also require new methodology for
+tissue engineering, regenerative medicine, and nanomedicine. assessment of biocompatibility, and the dynamic progres-
+sion of remodeling in vivo (Mendelson and Schoen, 2006).
+Over the past half-century, medical devices and bioma- Careful studies of retrieved implants to establish bio-
+sion of remodeling in vivo (Mendelson and Schoen, 2006).
+Over the past half-century, medical devices and bioma- Careful studies of retrieved implants to establish bio-
+terials have generally been “passive” in their tissue interac- markers and mechanisms of structural evolution will be
+tions. That is, a mechanistic approach to biomaterial–tissue critical (see Chapter 2.1.5).
+interactions has rarely been used in the development of
+biomaterials or medical devices. Heparinized biomaterials References
+are an exception to this, but considering the five subcatego-
+ries of hemocompatibility, these approaches have a minimal An, Y.H., Friedman, R.J., 1999. Animal Models in Orthopaedic
+impact on the development of blood-compatible materials. Research. CRC Press, Boca Raton, FL.
+In the past decade, increased emphasis has been placed Association for the Advancement of Medical Instrumentation, 1998.
+In the past decade, increased emphasis has been placed Association for the Advancement of Medical Instrumentation, 1998.
+on bioactivity and tissue engineering in the development AAMI standards and recommended practices, vol. 4. Biol. Eval.
+Med. Dev. 4S (Suppl.) 1997.
+of biomaterials and medical devices for potential clini-
+Chapekar, M.S., 1996. Regulatory concerns in the development of
+cal application. Rather than a “passive” approach to tissue
+biologic–biomaterial combinations. J. Biomed. Mater. Res. Appl.
+interactions, bioactive and tissue-engineered devices have
+Biomat. 33, 199–203.
+focused on an “active” approach in which biological or
+Cleland, J.L., Duenas, E., Daugherty, A., Marian, M., Yang, J., et al.,
+tissue components, i.e., growth factors, cytokines, drugs,
+1997. Recombinant human growth hormone poly(lactic-co-gly-
+enzymes, proteins, extracellular matrix components, and colic acid) (PLGA) microspheres provide a long lasting effect. J.
+1997. Recombinant human growth hormone poly(lactic-co-gly-
+enzymes, proteins, extracellular matrix components, and colic acid) (PLGA) microspheres provide a long lasting effect. J.
+cells that may or may not be genetically modified, are used Control. Release 49, 193–205.
+CHAPTER 2.3.4 In Vivo Assessment of Tissue Compatibility 877
+FDA (US Food and Drug Administration), 1995. Blue Book Memo- ISO-10993-23, Determination of Skin Irritation of Medical Device
+randum G95–1: FDA-Modified Version of ISO 10993-Part 1, Extracts Using Reconstructed Human Epidermis (RhE).
+Biological Evaluation of Medical Devices – Part 1. Evaluation and ISO 14971, Medical Devices – Application of Risk Management to
+Testing. Medical Devices.
+Hench, L.L., Pollak, J.M., 2002. Third-generation biomedical materi-
+als. Biomaterials 295, 1014–1017.
+Langone, J.J., 1998. Immunotoxicity Testing Guidance. Draft Docu-
+ASTM International, 2018 Annual Book of
+ment, Office of Science and Technology. Center for Devices and
+Langone, J.J., 1998. Immunotoxicity Testing Guidance. Draft Docu-
+ASTM International, 2018 Annual Book of
+ment, Office of Science and Technology. Center for Devices and
+Radiological Health, Food and Drug Administration. ASTM Standards, Volume 13.01
+Mendelson, K., Schoen, F.J., 2006. Heart valve tissue engineering:
+concepts, approaches, progress, and challenges. Ann. Biomed. F 895, Agar Diffusion Cell Culture Screening for Cytotoxicity.
+Eng. 34, 1799–1819. F 2382, Assessment of Intravascular Medical Device Materials on
+Nakazawa, G., Finn, A.V., Ladich, E., Ribichini, F., Coleman, L., Partial Thromboplastin Time (PTT).
+et al., 2008. Drug-eluting stent safety: findings from preclinical E 1397, In Vitro Rat Hepatocyte DNA Repair Assay.
+studies. Expert Rev. Cardiovasc. Ther. 6 (10), 1379–1391. E 1398 In Vivo Rat Hepatocyte DNA Repair Assay.
+Nebeker, J.R., Virmani, R., Bennett, C.L., Hoffman, J.M., F 1983, Assessment of Compatibility of Absorbable/Resorbable
+Nebeker, J.R., Virmani, R., Bennett, C.L., Hoffman, J.M., F 1983, Assessment of Compatibility of Absorbable/Resorbable
+Samore, M.H., et al., 2006. Hypersensitivity cases associated Biomaterials for Implant Applications.
+with drug-eluting coronary stents. J. Am. Coll. Cardiol. 47, F 981, Assessment of Compatibility of Biomaterials for Surgical
+175–181. Implants with Respect to Effect of Materials on Muscle and Bone.
+Williams, D.F., 2008. On the mechanisms of biocompatibility. Bio- F 756, Assessment of Hemolytic Properties of Materials.
+materials 29, 2941–2953. F 1027, Assessment of Tissue and Cell Compatibility of Orofacial
+Williams, D.F., 2019. The language of biomaterials-based technolo- Prosthetic Materials and Devices.
+gies. Regen. Eng. Transl. Med. 5, 53–60. F 1877, Characterization of Particles.
+Yamamoto, S., Urano, K., Koizumi, H., Wakana, S., Hioki, K., et al., F 813, Direct Contact Cell Culture Evaluation of Materials for
+Yamamoto, S., Urano, K., Koizumi, H., Wakana, S., Hioki, K., et al., F 813, Direct Contact Cell Culture Evaluation of Materials for
+1998. Validation of transgenic mice carrying the human prototype Medical Devices.
+c-Ha-ras gene as a bioassay model for rapid carcinogenicity testing. F 749, Evaluating Material Extracts by Intracutaneous Injection in
+Environ. Health Perspect. 106 (Suppl. 1), 57–69. the Rabbit.
+F 750, Evaluating Material Extracts by Systemic Injection in the Rabbit.
+F 2148, Evaluation of Delayed Contact Hypersensitivity Using the
+ISO Standards
+Murine Local Lymph Node Assay (LLNA).
+F 1906, Evaluation of Immune Responses in Biocompatibility
+ISO 10993, Biological Evaluation of Medical Devices. International Testing Using ELISA Tests, Lymphocyte Proliferation, and Cell
+Standards Organization, Geneva, Switzerland. Migration.
+ISO 10993-1 Evaluation and Testing within a Risk Management F 619, Extraction of Medical Plastics.
+Standards Organization, Geneva, Switzerland. Migration.
+ISO 10993-1 Evaluation and Testing within a Risk Management F 619, Extraction of Medical Plastics.
+System. (2018). F 2147, Guinea Pig: Split Adjuvant and Closed Patch Testing for
+ISO 10993-2, Animal Welfare Requirements. Contact Allergens.
+ISO 10993-3, Tests for Genotoxicity, Carcinogenicity, and F 748, Selecting Generic Biological Test Methods for Materials and
+Reproductive Toxicity. Devices.
+ISO 10993-4, Selection of Tests for Interactions with Blood. F 1905, Selecting Tests for Determining the Propensity of Materials
+ISO 10993-5, Tests for in Vitro Cytotoxicity. to Cause Immunotoxicity.
+ISO 10993-6, Tests for Local Effects after Implantation. F 763, Short-Term Screening of Implant Materials.
+ISO 10993-7, Ethylene Oxide Sterilization Residuals. F 1408, Subcutaneous Screening Test for Implant Materials.
+ISO 10993-7, Ethylene Oxide Sterilization Residuals. F 1408, Subcutaneous Screening Test for Implant Materials.
+ISO 10993-9, Framework for the Identification and Quantification of F 719, Testing Biomaterials in Rabbits for Primary Skin Irritation.
+Potential Degradation Products. F 1903, Testing for Biological Responses to Particles In Vitro.
+ISO 10993-10, Tests for Irritation and Delayed-type Hypersensitivity. F 720, Testing Guinea Pigs for Contact Allergens: Guinea Pig
+ISO 10993-11, Tests for Systemic Toxicity. Maximization Test.
+ISO 10993-12, Sample Preparation and Reference Materials. F 2065, Testing for Alternative Pathway Complement Activation in
+ISO 10993-13, Identification and Quantification of Degradation Serum by Solid Materials.
+Products from Polymeric Medical Devices. F 2567, Testing for Classical Pathway Complement Activation in
+ISO 10993-14, Identification and Quantification of Degradation Serum by Solid Materials.
+Products from Polymeric Medical Devices. F 2567, Testing for Classical Pathway Complement Activation in
+ISO 10993-14, Identification and Quantification of Degradation Serum by Solid Materials.
+Products from Ceramics. F 1984, Testing for Whole Complement Activation in Serum by Solid
+ISO 10993-15, Identification and Quantification of Degradation Materials.
+Products from Metals and Alloys. F 1904, Testing the Biological Responses to Particles In Vivo.
+ISO 10993-16, Toxicokinetic Study Design for Degradation Products E 1263, Conduct of Micronucleus Assays in Mammalian Bone
+and Leachables. Marrow Erythrocytes.
+ISO 10993-17, Method for the Establishment of Allowable Limits for E 1202, Development of Micronucleus Assay Standards.
+Leachable Substances. E 1262, Performance of Chinese Hamster Ovary Cell/Hypoxanthine
+ISO 10993-18, Chemical Characterization of Materials. Guanine Phosphoribosyl Transferase Gene Mutation Assay.
+Leachable Substances. E 1262, Performance of Chinese Hamster Ovary Cell/Hypoxanthine
+ISO 10993-18, Chemical Characterization of Materials. Guanine Phosphoribosyl Transferase Gene Mutation Assay.
+ISO 10993-19, Physico-Chemical Morphological and Topographical F 1439, Performance of Lifetime Bioassay for the Tumorigenic
+Characterization of Materials. Potential of Implant Materials.
+ISO-10993-20, Principles and Methods for Immunotoxicology E 1280, Performing the Mouse Lymphoma Assay for Mammalian
+Testing of Medical Devices. Cell Mutagenicity.
